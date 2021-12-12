@@ -2,10 +2,10 @@
 
 ## My Blog
 
-<!-- BLOG-POST-LIST:START -->1 &quot;What I know for sure is that what you give comes back to you.&quot; 
- -by Oprah Winfrey2 &quot;Of one thing I am certain, the body is not the measure of healing - peace is the measure.&quot; 
- -by George Melton3 &quot;My father used to say, &#39;Let them see you and not the suit. That should be secondary.&#39;&quot; 
- -by Cary Grant<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->1 &quot;I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself.&quot; 
+ -by Kathryn L. Nelson2 &quot;And so faith is closing your eyes and following the breath of your soul down to the bottom of life, where existence and nonexistence have merged into irrelevance. All that matters is the little part you play in the vast drama.&quot; 
+ -by Gordon Atkinson3 &quot;The body says what words cannot.&quot; 
+ -by Martha Graham<!-- BLOG-POST-LIST:END -->
 
 <!--
 
