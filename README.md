@@ -6,9 +6,6 @@
 - [Patrick Young](http://www.quotationspage.com/quotes/Patrick_Young)
 - [Henry Ward Beecher](http://www.quotationspage.com/quotes/Henry_Ward_Beecher)
 - [Albert Einstein](http://www.quotationspage.com/quotes/Albert_Einstein)
-- [Steven Wright](http://www.quotationspage.com/quotes/Steven_Wright)
-- [Arthur C. Clarke](http://www.quotationspage.com/quotes/Arthur_C._Clarke)
-- [Kin Hubbard](http://www.quotationspage.com/quotes/Kin_Hubbard)
 <!-- BLOGPOSTS:END -->
 
 <!--
