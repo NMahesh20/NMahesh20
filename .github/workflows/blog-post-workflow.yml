@@ -16,4 +16,5 @@ jobs:
         with:
           feed_list: "http://www.quotationspage.com/data/mqotd.rss"
           max_post_count: 3
+          disable_html_encoding: true
           template: $counter.  $description $newline       -by $title $newline
