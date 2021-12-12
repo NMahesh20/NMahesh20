@@ -1,5 +1,5 @@
 # **_ Hi, you have reached at Mahesh's GitHub profile _**
-### 🐱‍👤 About me ?
+### 🐱‍👓 About me ?
 I am INFJ-A, most of the time. Having a discussion about human psychology, count me in, apart from that I am interested in Science, The Universe, and all other super cool stuff including UFO/UAPs 🤫
 - 🌱 I’m currently learning the things that I don't know.
 - 😄 Pronouns: He would be fine
