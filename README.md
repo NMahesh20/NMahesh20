@@ -1,5 +1,10 @@
 ### Hi, you have reached at Mahesh's GitHub profile
 
+## My Blog
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 <!--
 
 
