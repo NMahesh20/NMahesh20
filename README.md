@@ -4,8 +4,10 @@
 
 ## While you are here have a look at some random quotes that update everyday
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->1 &quot;I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself.&quot; 
+ -by Kathryn L. Nelson2 &quot;And so faith is closing your eyes and following the breath of your soul down to the bottom of life, where existence and nonexistence have merged into irrelevance. All that matters is the little part you play in the vast drama.&quot; 
+ -by Gordon Atkinson3 &quot;The body says what words cannot.&quot; 
+ -by Martha Graham<!-- BLOG-POST-LIST:END -->
 
 <!--
 
