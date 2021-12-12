@@ -3,7 +3,7 @@ name: Blog post workflow
 on:
   schedule:
     # Runs every day at 3pm UTC (11pm SG)
-    - cron: "* * * * *"
+    - cron: "*/6 * * * *"
 
 jobs:
   pull_blog_rss:
@@ -15,7 +15,7 @@ jobs:
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: http://www.quotationspage.com/data/qotd.rss
-          count: 6 # default 5
+          count: 3 # default 5
       - name: Commit file changes
         run: |
           git config --global user.name 'YOUR_USERNAME'
