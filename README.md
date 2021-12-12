@@ -1,6 +1,8 @@
-### Hi, you have reached at Mahesh's GitHub profile
+**_ # Hi, you have reached at Mahesh's GitHub profile _**
 
-## My Blog
+---
+
+## While you are here have a look at some random quotes that update everyday
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
