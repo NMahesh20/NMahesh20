@@ -17,7 +17,7 @@ You can ping me at any of the socials that you find at this page. I am not super
 
 
 
-### While you are still here have a look at some random quotes
+### 🔰 While you are still here have a look at some random quotes
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
