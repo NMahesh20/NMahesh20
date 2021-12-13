@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself." 
-       *-by Kathryn L. Nelson* 
+ 1.  "I think there's a god and I know it's not me." 
+       *-by Michael J. Fox* 
 
- 2.  "And so faith is closing your eyes and following the breath of your soul down to the bottom of life, where existence and nonexistence have merged into irrelevance. All that matters is the little part you play in the vast drama." 
-       *-by Gordon Atkinson* 
+ 2.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." 
+       *-by Dale Carnegie* 
 
- 3.  "The body says what words cannot." 
-       *-by Martha Graham* 
+ 3.  "Let us, then be up and doing,/ With a heart for any fate;/ Still achieving, still pursuing,/ Learn to labour and to wait." 
+       *-by Henry Wadsworth Longfellow* 
 
- 4.  "Look to your health; and if you have it, praise God and value it next to conscience; for health is the second blessing that we mortals are capable of, a blessing money can't buy." 
-       *-by Izaak Walton* 
+ 4.  "Politeness and consideration for others is like investing pennies and getting dollars back." 
+       *-by Thomas Sowell* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
