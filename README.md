@@ -23,13 +23,16 @@ You can ping me at any of the socials that you find at this page. I am not super
 
 <!-- BLOG-POST-LIST:START -->
  1.  "I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself." 
-       -by Kathryn L. Nelson 
+       *-by Kathryn L. Nelson* 
 
  2.  "And so faith is closing your eyes and following the breath of your soul down to the bottom of life, where existence and nonexistence have merged into irrelevance. All that matters is the little part you play in the vast drama." 
-       -by Gordon Atkinson 
+       *-by Gordon Atkinson* 
 
  3.  "The body says what words cannot." 
-       -by Martha Graham 
+       *-by Martha Graham* 
+
+ 4.  "Look to your health; and if you have it, praise God and value it next to conscience; for health is the second blessing that we mortals are capable of, a blessing money can't buy." 
+       *-by Izaak Walton* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
