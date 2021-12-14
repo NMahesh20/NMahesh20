@@ -1,6 +1,6 @@
 # **_ Hi, you have reached at Mahesh's GitHub profile _**
 ### 🌸 About me ?
-I am INFJ-A, most of the time. Having a discussion about human psychology, count me in, apart from that I am interested in Science, The Universe, and all other super cool stuff including UFO/UAPs 🤫. Just like the rest I am also a CS engineer, I try to learn new stuff and on it's way I implement it in my own style. 
+I am INFJ-A, most of the time. Having a discussion about human psychology, count me in, apart from that I am interested in Science, The Universe, and all other super cool stuff including Aliens 🤫. Just like the rest I am also a CS engineer, I try to learn new stuff and on it's way I implement it in my own style. 
 - ☮ My side activities: 🎨♟🎧🌐
 - 🌱 I’m currently learning the things that I don't know.
 - 😄 Pronouns: He would be fine
