@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think there's a god and I know it's not me." 
-       *-by Michael J. Fox* 
+ 1.  "The cure for anything is salt water... tears, sweat or the sea." 
+       *-by Isak Dinesen* 
 
- 2.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." 
-       *-by Dale Carnegie* 
+ 2.  "Let's assume that each person has an equal opportunity, not to become equal, but to become different. To realize whatever unique potential of body, mind and spirit he or she possesses." 
+       *-by John Fischer* 
 
- 3.  "Let us, then be up and doing,/ With a heart for any fate;/ Still achieving, still pursuing,/ Learn to labour and to wait." 
-       *-by Henry Wadsworth Longfellow* 
+ 3.  "Nothing is particularly hard if you divide it into small jobs." 
+       *-by Henry Ford* 
 
- 4.  "Politeness and consideration for others is like investing pennies and getting dollars back." 
-       *-by Thomas Sowell* 
+ 4.  "In the modern world of business, it is useless to be a creative original thinker unless you can also sell what you create. Management cannot be expected to recognize a good idea unless it is presented to them by a good salesman." 
+       *-by David M. Ogilvy* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
