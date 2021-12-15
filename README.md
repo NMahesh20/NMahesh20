@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The cure for anything is salt water... tears, sweat or the sea." 
-       *-by Isak Dinesen* 
+ 1.  "Think enthusiastically about everything; but especially about your job. If you do, you'll put a touch of glory in your life. If you love your job with enthusiasm, you'll shake it to pieces. You'll love it into greatness." 
+       *-by Norman Vincent Peale* 
 
- 2.  "Let's assume that each person has an equal opportunity, not to become equal, but to become different. To realize whatever unique potential of body, mind and spirit he or she possesses." 
-       *-by John Fischer* 
+ 2.  "Authenticity matters little, though--our willingness to accept legends depends far more upon their expression of concepts we want to believe than upon their plausibility." 
+       *-by David P. Mikkelson* 
 
- 3.  "Nothing is particularly hard if you divide it into small jobs." 
-       *-by Henry Ford* 
+ 3.  "Work while you have the light. You are responsible for the talent that has been entrusted to you." 
+       *-by Henri-Fr�d�ric Amiel* 
 
- 4.  "In the modern world of business, it is useless to be a creative original thinker unless you can also sell what you create. Management cannot be expected to recognize a good idea unless it is presented to them by a good salesman." 
-       *-by David M. Ogilvy* 
+ 4.  "Reading maketh a full man, conference a ready man, and writing an exact man." 
+       *-by Sir Francis Bacon* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
