@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Opportunity is rare, and a wise man will never let it go by him." 
-       *-by Bayard Taylor* 
+ 1.  "If I've learned one thing in the 14 years I've been a full-time cartoonist, it's that you can not let anyone else define your professionalism. It has to be a personal ethos to which you adhere despite third party influence or acceptance. The old measuring sticks for professionalism are going away and now more than ever it's time for independent creatives to set the bar. Set it high." 
+       *-by Scott R. Kurtz* 
 
- 2.  "To imagine the unimaginable is the highest use of the imagination." 
-       *-by Cynthia Ozick* 
+ 2.  "The true mystery of the world is the visible, not the invisible." 
+       *-by Oscar Wilde* 
 
- 3.  "Hope doesn't come from calculating whether the good news is winning out over the bad. It's simply a choice to take action." 
-       *-by Anna Lappe* 
+ 3.  "What we have to do is to be forever curiously testing new opinions and courting new impressions." 
+       *-by Walter Pater* 
 
- 4.  "Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living." 
-       *-by Miriam Beard* 
+ 4.  "It is pretty hard to tell what does bring happiness; poverty and wealth have both failed." 
+       *-by Kin Hubbard* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
