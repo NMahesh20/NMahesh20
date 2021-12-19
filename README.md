@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If I've learned one thing in the 14 years I've been a full-time cartoonist, it's that you can not let anyone else define your professionalism. It has to be a personal ethos to which you adhere despite third party influence or acceptance. The old measuring sticks for professionalism are going away and now more than ever it's time for independent creatives to set the bar. Set it high." 
-       *-by Scott R. Kurtz* 
+ 1.  "I believe our longing for an innate harmony runs deeper than our longing for righteousness." 
+       *-by Evelyn Rodriguez* 
 
- 2.  "The true mystery of the world is the visible, not the invisible." 
-       *-by Oscar Wilde* 
+ 2.  "The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. What you'll discover will be wonderful. What you'll discover will be yourself." 
+       *-by Alan Alda* 
 
- 3.  "What we have to do is to be forever curiously testing new opinions and courting new impressions." 
-       *-by Walter Pater* 
+ 3.  "If indeed you must be candid, be candid beautifully." 
+       *-by Kahlil Gibran* 
 
- 4.  "It is pretty hard to tell what does bring happiness; poverty and wealth have both failed." 
-       *-by Kin Hubbard* 
+ 4.  "The only true happiness comes from squandering ourselves for a purpose." 
+       *-by William Cowper* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
