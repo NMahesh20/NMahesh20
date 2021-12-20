@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I believe our longing for an innate harmony runs deeper than our longing for righteousness." 
-       *-by Evelyn Rodriguez* 
+ 1.  "To try to be better is to be better." 
+       *-by Charlotte Cushman* 
 
- 2.  "The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. What you'll discover will be wonderful. What you'll discover will be yourself." 
-       *-by Alan Alda* 
+ 2.  "I'm not judging people, I'm judging their actions. It's the same type of distinction that I try to apply to myself, to judge, but not be judgmental." 
+       *-by Jeff Melvoin* 
 
- 3.  "If indeed you must be candid, be candid beautifully." 
-       *-by Kahlil Gibran* 
+ 3.  "Revolution is not a onetime event." 
+       *-by Audre Lorde* 
 
- 4.  "The only true happiness comes from squandering ourselves for a purpose." 
-       *-by William Cowper* 
+ 4.  "Do not protect yourself by a fence, but rather by your friends." 
+       *-by Czech Proverb* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
