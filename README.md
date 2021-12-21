@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To try to be better is to be better." 
-       *-by Charlotte Cushman* 
+ 1.  "If you want creative workers, give them enough time to play." 
+       *-by John Cleese* 
 
- 2.  "I'm not judging people, I'm judging their actions. It's the same type of distinction that I try to apply to myself, to judge, but not be judgmental." 
-       *-by Jeff Melvoin* 
+ 2.  "Hold a book in your hand and you're a pilgrim at the gates of a new city." 
+       *-by Anne Michaels* 
 
- 3.  "Revolution is not a onetime event." 
-       *-by Audre Lorde* 
+ 3.  "I have found power in the mysteries of thought." 
+       *-by Euripides* 
 
- 4.  "Do not protect yourself by a fence, but rather by your friends." 
-       *-by Czech Proverb* 
+ 4.  "It is a mistake to regard age as a downhill grade toward dissolution. The reverse is true. As one grows older, one climbs with surprising strides." 
+       *-by George Sand* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
