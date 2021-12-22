@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you want creative workers, give them enough time to play." 
-       *-by John Cleese* 
+ 1.  "" 
+       *-by John Green* 
 
- 2.  "Hold a book in your hand and you're a pilgrim at the gates of a new city." 
-       *-by Anne Michaels* 
+ 2.  "What you do, the way you think, makes you beautiful." 
+       *-by Scott Westerfeld* 
 
- 3.  "I have found power in the mysteries of thought." 
-       *-by Euripides* 
+ 3.  "No matter how slow the film, Spirit always stands still long enough for the photographer It has chosen." 
+       *-by Minor White* 
 
- 4.  "It is a mistake to regard age as a downhill grade toward dissolution. The reverse is true. As one grows older, one climbs with surprising strides." 
-       *-by George Sand* 
+ 4.  "Nobody is ever met at the airport when beginning a new adventure. It's just not done." 
+       *-by Elizabeth Warnock Fernea* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
