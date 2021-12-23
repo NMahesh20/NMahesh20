@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" 
-       *-by John Green* 
+ 1.  "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will." 
+       *-by L. M. Montgomery* 
 
- 2.  "What you do, the way you think, makes you beautiful." 
-       *-by Scott Westerfeld* 
+ 2.  "Go confidently in the direction of your dreams! Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler." 
+       *-by Henry David Thoreau* 
 
- 3.  "No matter how slow the film, Spirit always stands still long enough for the photographer It has chosen." 
-       *-by Minor White* 
+ 3.  "Be master of your petty annoyances and conserve your energies for the big, worthwhile things. It isn't the mountain ahead that wears you out - it's the grain of sand in your shoe." 
+       *-by Robert Service* 
 
- 4.  "Nobody is ever met at the airport when beginning a new adventure. It's just not done." 
-       *-by Elizabeth Warnock Fernea* 
+ 4.  "Self-respect is the cornerstone of all virtue." 
+       *-by John Herschel* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
