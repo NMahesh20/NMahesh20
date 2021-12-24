@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will." 
-       *-by L. M. Montgomery* 
+ 1.  "You can take from every experience what it has to offer you. And you cannot be defeated if you just keep taking one breath followed by another." 
+       *-by Oprah Winfrey* 
 
- 2.  "Go confidently in the direction of your dreams! Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler." 
-       *-by Henry David Thoreau* 
+ 2.  "You may be deceived if you trust too much, but you will live in torment if you do not trust enough." 
+       *-by Frank Crane* 
 
- 3.  "Be master of your petty annoyances and conserve your energies for the big, worthwhile things. It isn't the mountain ahead that wears you out - it's the grain of sand in your shoe." 
-       *-by Robert Service* 
+ 3.  "Good communication is as stimulating as black coffee and just as hard to sleep after." 
+       *-by Anne Morrow Lindbergh* 
 
- 4.  "Self-respect is the cornerstone of all virtue." 
-       *-by John Herschel* 
+ 4.  "I used to dread getting older because I thought I would not be able to do all the things I wanted to do, but now that I am older I find that I don't want to do them." 
+       *-by Nancy Astor* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
