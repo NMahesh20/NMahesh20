@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can take from every experience what it has to offer you. And you cannot be defeated if you just keep taking one breath followed by another." 
-       *-by Oprah Winfrey* 
+ 1.  "Sometimes the cure for restlessness is rest." 
+       *-by Colleen Wainwright* 
 
- 2.  "You may be deceived if you trust too much, but you will live in torment if you do not trust enough." 
-       *-by Frank Crane* 
+ 2.  "Be generous, be delicate, and always pursue the prize." 
+       *-by Henry James* 
 
- 3.  "Good communication is as stimulating as black coffee and just as hard to sleep after." 
-       *-by Anne Morrow Lindbergh* 
+ 3.  "Think about a woman. Doesn't know you're thinking about her. Doesn't care you're thinking about her. Makes you think about her even more." 
+       *-by Martin Sage and Sybil Adelman* 
 
- 4.  "I used to dread getting older because I thought I would not be able to do all the things I wanted to do, but now that I am older I find that I don't want to do them." 
-       *-by Nancy Astor* 
+ 4.  "To achieve great things we must live as though we were never going to die." 
+       *-by Marquis de Vauvenargues* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
