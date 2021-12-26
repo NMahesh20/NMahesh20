@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes the cure for restlessness is rest." 
-       *-by Colleen Wainwright* 
+ 1.  "The thing women have yet to learn is nobody gives you power. You just take it." 
+       *-by Roseanne Barr* 
 
- 2.  "Be generous, be delicate, and always pursue the prize." 
-       *-by Henry James* 
+ 2.  "That consciousness is everything and that all things begin with a thought. That we are responsible for our own fate, we reap what we sow, we get what we give, we pull in what we put out. I know these things for sure." 
+       *-by Madonna* 
 
- 3.  "Think about a woman. Doesn't know you're thinking about her. Doesn't care you're thinking about her. Makes you think about her even more." 
-       *-by Martin Sage and Sybil Adelman* 
+ 3.  "I cannot and will not cut my conscience to fit this year's fashions." 
+       *-by Lillian Hellman* 
 
- 4.  "To achieve great things we must live as though we were never going to die." 
-       *-by Marquis de Vauvenargues* 
+ 4.  "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you." 
+       *-by Carl Sandburg* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
