@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The thing women have yet to learn is nobody gives you power. You just take it." 
-       *-by Roseanne Barr* 
+ 1.  "The here and now is all we have, and if we play it right it's all we'll need." 
+       *-by Ann Richards* 
 
- 2.  "That consciousness is everything and that all things begin with a thought. That we are responsible for our own fate, we reap what we sow, we get what we give, we pull in what we put out. I know these things for sure." 
-       *-by Madonna* 
+ 2.  "Remove every barrier you can to fandom. A fan will be an evangelist for your work." 
+       *-by Dave Kellett* 
 
- 3.  "I cannot and will not cut my conscience to fit this year's fashions." 
-       *-by Lillian Hellman* 
+ 3.  "I've grown certain that the root of all fear is that we've been forced to deny who we are." 
+       *-by Frances Moore Lappe* 
 
- 4.  "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you." 
-       *-by Carl Sandburg* 
+ 4.  "Forget injuries, never forget kindnesses." 
+       *-by Confucius* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
