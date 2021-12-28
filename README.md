@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The here and now is all we have, and if we play it right it's all we'll need." 
-       *-by Ann Richards* 
+ 1.  "I will love the light for it shows me the way, yet I will endure the darkness for it shows me the stars." 
+       *-by Og Mandino* 
 
- 2.  "Remove every barrier you can to fandom. A fan will be an evangelist for your work." 
-       *-by Dave Kellett* 
+ 2.  "Adapt or perish, now as ever, is nature's inexorable imperative." 
+       *-by H. G. Wells* 
 
- 3.  "I've grown certain that the root of all fear is that we've been forced to deny who we are." 
-       *-by Frances Moore Lappe* 
+ 3.  "Go not for every grief to the physician, nor for every quarrel to the lawyer, nor for every thirst to the pot." 
+       *-by George Herbert* 
 
- 4.  "Forget injuries, never forget kindnesses." 
-       *-by Confucius* 
+ 4.  "I have long since come to believe that people never mean half of what they say, and that it is best to disregard their talk and judge only their actions." 
+       *-by Dorothy Day* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
