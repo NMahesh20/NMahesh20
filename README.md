@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I will love the light for it shows me the way, yet I will endure the darkness for it shows me the stars." 
-       *-by Og Mandino* 
+ 1.  "To obtain a man's opinion of you, make him mad." 
+       *-by Oliver Wendell Holmes* 
 
- 2.  "Adapt or perish, now as ever, is nature's inexorable imperative." 
-       *-by H. G. Wells* 
+ 2.  "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." 
+       *-by Saint Jerome* 
 
- 3.  "Go not for every grief to the physician, nor for every quarrel to the lawyer, nor for every thirst to the pot." 
-       *-by George Herbert* 
+ 3.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." 
+       *-by Bette Davis* 
 
- 4.  "I have long since come to believe that people never mean half of what they say, and that it is best to disregard their talk and judge only their actions." 
-       *-by Dorothy Day* 
+ 4.  "Trouble is only opportunity in work clothes." 
+       *-by Henry J. Kaiser* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
