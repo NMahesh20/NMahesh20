@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To obtain a man's opinion of you, make him mad." 
-       *-by Oliver Wendell Holmes* 
+ 1.  "How helpless we are, like netted birds, when we are caught by desire!" 
+       *-by Belva Plain* 
 
- 2.  "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." 
-       *-by Saint Jerome* 
+ 2.  "The art of war is simple enough. Find out where your enemy is. Get at him as soon as you can. Strike him as hard as you can, and keep moving on." 
+       *-by Ulysses S. Grant* 
 
- 3.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." 
-       *-by Bette Davis* 
+ 3.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." 
+       *-by Bible* 
 
- 4.  "Trouble is only opportunity in work clothes." 
-       *-by Henry J. Kaiser* 
+ 4.  "To say the least, a town life makes one more tolerant and liberal in one's judgement of others." 
+       *-by Henry Wadsworth Longfellow* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
