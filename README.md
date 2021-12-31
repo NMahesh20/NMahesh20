@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How helpless we are, like netted birds, when we are caught by desire!" 
-       *-by Belva Plain* 
+ 1.  "Often the best way to overcome desire is to satisfy it." 
+       *-by W. Somerset Maugham* 
 
- 2.  "The art of war is simple enough. Find out where your enemy is. Get at him as soon as you can. Strike him as hard as you can, and keep moving on." 
-       *-by Ulysses S. Grant* 
+ 2.  "Knowledge is the only instrument of production that is not subject to diminishing returns." 
+       *-by John Clarke* 
 
- 3.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." 
-       *-by Bible* 
+ 3.  "Nothing is permanent in this wicked world - not even our troubles." 
+       *-by Charlie Chaplin* 
 
- 4.  "To say the least, a town life makes one more tolerant and liberal in one's judgement of others." 
-       *-by Henry Wadsworth Longfellow* 
+ 4.  "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." 
+       *-by Oliver Wendell Holmes Jr.* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
