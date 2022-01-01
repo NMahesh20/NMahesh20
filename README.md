@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Often the best way to overcome desire is to satisfy it." 
-       *-by W. Somerset Maugham* 
+ 1.  "When you own or take responsibility for your feelings, you place yourself in a position of power and control." 
+       *-by Julie A., M.A. Ross and Judy Corcoran* 
 
- 2.  "Knowledge is the only instrument of production that is not subject to diminishing returns." 
-       *-by John Clarke* 
+ 2.  "You gotta dream? You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it, period." 
+       *-by Steven Conrad* 
 
- 3.  "Nothing is permanent in this wicked world - not even our troubles." 
-       *-by Charlie Chaplin* 
+ 3.  "When a thing is done, it's done. Don't look back. Look forward to your next objective." 
+       *-by George C. Marshall* 
 
- 4.  "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." 
-       *-by Oliver Wendell Holmes Jr.* 
+ 4.  "You cannot run away from a weakness; you must sometimes fight it out or perish. And if that be so, why not now, and where you stand?" 
+       *-by Robert Louis Stevenson* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
