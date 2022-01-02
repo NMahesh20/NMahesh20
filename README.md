@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you own or take responsibility for your feelings, you place yourself in a position of power and control." 
-       *-by Julie A., M.A. Ross and Judy Corcoran* 
+ 1.  "Innovation distinguishes between a leader and a follower." 
+       *-by Steve Jobs* 
 
- 2.  "You gotta dream? You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it, period." 
-       *-by Steven Conrad* 
+ 2.  "Feeling gratitude and not expressing it is like wrapping a present and not giving it." 
+       *-by William Arthur Ward* 
 
- 3.  "When a thing is done, it's done. Don't look back. Look forward to your next objective." 
-       *-by George C. Marshall* 
+ 3.  "Inspiration may be a form of superconsciousness, or perhaps of subconsciousness - I wouldn't know. But I am sure it is the antithesis of self- consciousness." 
+       *-by Aaron Copland* 
 
- 4.  "You cannot run away from a weakness; you must sometimes fight it out or perish. And if that be so, why not now, and where you stand?" 
-       *-by Robert Louis Stevenson* 
+ 4.  "Discretion in speech is more than eloquence." 
+       *-by Sir Francis Bacon* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
