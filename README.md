@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Innovation distinguishes between a leader and a follower." 
-       *-by Steve Jobs* 
+ 1.  "" 
+       *-by Jennifer Hudson* 
 
- 2.  "Feeling gratitude and not expressing it is like wrapping a present and not giving it." 
-       *-by William Arthur Ward* 
+ 2.  "Since you are like no other being ever created since the beginning of time, you are incomparable." 
+       *-by Brenda Ueland* 
 
- 3.  "Inspiration may be a form of superconsciousness, or perhaps of subconsciousness - I wouldn't know. But I am sure it is the antithesis of self- consciousness." 
-       *-by Aaron Copland* 
+ 3.  "Don't be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better." 
+       *-by Ralph Waldo Emerson* 
 
- 4.  "Discretion in speech is more than eloquence." 
-       *-by Sir Francis Bacon* 
+ 4.  "It is not fair to ask of others what you are unwilling to do yourself." 
+       *-by Eleanor Roosevelt* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
