@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" 
-       *-by Jennifer Hudson* 
+ 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." 
+       *-by Ellen DeGeneres* 
 
- 2.  "Since you are like no other being ever created since the beginning of time, you are incomparable." 
-       *-by Brenda Ueland* 
+ 2.  "To find yourself jilted is a blow to your pride. Do your best to forget it and if you don't succeed, at least pretend to." 
+       *-by Moliere* 
 
- 3.  "Don't be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better." 
-       *-by Ralph Waldo Emerson* 
+ 3.  "We did not change as we grew older; we just became more clearly ourselves." 
+       *-by Lynn Hall* 
 
- 4.  "It is not fair to ask of others what you are unwilling to do yourself." 
-       *-by Eleanor Roosevelt* 
+ 4.  "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will." 
+       *-by George Bernard Shaw* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
