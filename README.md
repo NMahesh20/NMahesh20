@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." 
-       *-by Ellen DeGeneres* 
+ 1.  "When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other's ultimate comfort." 
+       *-by Jane Austen* 
 
- 2.  "To find yourself jilted is a blow to your pride. Do your best to forget it and if you don't succeed, at least pretend to." 
-       *-by Moliere* 
+ 2.  "Virtue and taste are nearly the same, for virtue is little more than active taste, and the most delicate affections of each combine in real love." 
+       *-by Ann Radcliffe* 
 
- 3.  "We did not change as we grew older; we just became more clearly ourselves." 
-       *-by Lynn Hall* 
+ 3.  "The first rule of business, is never sell something you love. Otherwise, you may as well be selling your children." 
+       *-by Hugh Macleod* 
 
- 4.  "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will." 
-       *-by George Bernard Shaw* 
+ 4.  "Seize opportunity by the beard, for it is bald behind." 
+       *-by Bulgarian Proverb* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
