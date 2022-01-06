@@ -22,17 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other's ultimate comfort." 
-       *-by Jane Austen* 
+ 1.  "" 
+       *-by Laura Moncur* 
 
- 2.  "Virtue and taste are nearly the same, for virtue is little more than active taste, and the most delicate affections of each combine in real love." 
-       *-by Ann Radcliffe* 
+ 2.  "" 
+       *-by Miriam Makeba* 
 
- 3.  "The first rule of business, is never sell something you love. Otherwise, you may as well be selling your children." 
-       *-by Hugh Macleod* 
+ 3.  "It's only after we've lost everything that we're free to do anything." 
+       *-by Chuck Palahniuk* 
 
- 4.  "Seize opportunity by the beard, for it is bald behind." 
-       *-by Bulgarian Proverb* 
+ 4.  "If your head is wax, don't walk in the sun." 
+       *-by Benjamin Franklin* 
 <!-- BLOG-POST-LIST:END -->
 
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
