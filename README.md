@@ -23,16 +23,16 @@ You can ping me at any of the socials that you find at this page. I am not super
 <pre>
 <!-- BLOG-POST-LIST:START -->
  1.  "" 
-       *-by Laura Moncur* 
+       <i>-by Laura Moncur</i> 
 
  2.  "" 
        <i>-by Miriam Makeba</i> 
 
  3.  "It's only after we've lost everything that we're free to do anything." 
-       *-by Chuck Palahniuk* 
+       <i>-by Chuck Palahniuk</i> 
 
  4.  "If your head is wax, don't walk in the sun." 
-       *-by Benjamin Franklin* 
+       <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 </pre>
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
