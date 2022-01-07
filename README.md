@@ -20,7 +20,7 @@ You can ping me at any of the socials that you find at this page. I am not super
 
 ### 🔰 While you are still here have a look at some random quotes
 *It changes every day*
-<pre>
+<pre> <h3>
 <!-- BLOG-POST-LIST:START -->
  1.  "" 
        <i>-by Laura Moncur</i> 
@@ -34,5 +34,5 @@ You can ping me at any of the socials that you find at this page. I am not super
  4.  "If your head is wax, don't walk in the sun." 
        <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
-</pre>
+</h3></pre>
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
