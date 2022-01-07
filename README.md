@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "Most people are good. They may not be saints, but they are good." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Wales</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
+ 2.  "To believe in God or in a guiding force because someone tells you to is the height of stupidity. We are given senses to receive our information within. With our own eyes we see, and with our own skin we feel. With our intelligence, it is intended that we understand. But each person must puzzle it out for himself or herself." <br> &emsp;&emsp;&emsp; <i>-by Sophy Burnham</i> 
 
- 3.  "It's only after we've lost everything that we're free to do anything." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 3.  "Sow good services; sweet remembrances will grow them." <br> &emsp;&emsp;&emsp; <i>-by Madame de Stael</i> 
 
- 4.  "If your head is wax, don't walk in the sun." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Use, do not abuse; neither abstinence nor excess ever renders man happy." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
