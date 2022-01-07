@@ -20,13 +20,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 
 ### 🔰 While you are still here have a look at some random quotes
 *It changes every day*
-
+<pre>
 <!-- BLOG-POST-LIST:START -->
  1.  "" 
        *-by Laura Moncur* 
 
  2.  "" 
-       *-by Miriam Makeba* 
+       <i>-by Miriam Makeba</i> 
 
  3.  "It's only after we've lost everything that we're free to do anything." 
        *-by Chuck Palahniuk* 
@@ -34,5 +34,5 @@ You can ping me at any of the socials that you find at this page. I am not super
  4.  "If your head is wax, don't walk in the sun." 
        *-by Benjamin Franklin* 
 <!-- BLOG-POST-LIST:END -->
-
+</pre>
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
