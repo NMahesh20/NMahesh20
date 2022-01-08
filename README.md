@@ -9,7 +9,7 @@ I am INFJ-A, most of the time. Having a discussion about human psychology, count
 ### 📫 Wanna reach me
 You can ping me at any of the socials that you find at this page. I am not super active, but I will reply when I see it.
 <p align="center">
-<a href="http://discord.com/users/obl1v_on#4867"><img src="./Assets/Papirus-Team-Papirus-Apps-Discord.svg" height="50px" width="50px" ></a>&nbsp; &nbsp;  
+<a href="https://discordapp.com/users/733328856957714472"><img src="./Assets/Papirus-Team-Papirus-Apps-Discord.svg" height="50px" width="50px" ></a>&nbsp; &nbsp;  
 <a href ="https://instagram.com/obl1v_on"><img src="./Assets/Papirus-Team-Papirus-Apps-Instagram.svg" height="50px" width="50px" ></a>&nbsp;  &nbsp; 
 <a href ="https://twitter.com/MaheshN2000"><img src="./Assets/Papirus-Team-Papirus-Apps-Twitter.svg" height ="50px" width="50px" ></a>&nbsp;
 <a href ="https://www.linkedin.com/in/mahesh-nakkireddy-85aa7b176/"><img src="./Assets/in.png" height ="50px" width="50px" ></a>
