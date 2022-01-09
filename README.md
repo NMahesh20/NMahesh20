@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you have been touched by the success fairy, people think you know why. People think success breeds enlightenment and you are duty-bound to spread around like manure. Fertilize those young minds!" <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "I would rather spend an hour among the notorious than two minutes with the dull." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 2.  "Genuine beginnings begin within us, even when they are brought to our attention by external opportunities." <br> &emsp;&emsp;&emsp; <i>-by William Bridges</i> 
+ 2.  "What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 3.  "Forgiveness is almost a selfish act because of its immense benefits to the one who forgives." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "Before you begin a thing, remind yourself that difficulties and delays quite impossible to foresee are ahead. If you could see them clearly, naturally you could do a great deal to get rid of them but you can't. You can only see one thing clearly and that is your goal. Form a mental vision of that and cling to it through thick and thin." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
 
- 4.  "Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "Plans are only good intentions unless they immediately degenerate into hard work." <br> &emsp;&emsp;&emsp; <i>-by Peter Drucker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
