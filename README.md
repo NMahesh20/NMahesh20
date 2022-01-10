@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I would rather spend an hour among the notorious than two minutes with the dull." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 1.  "Naming one thing after another cannot, logically, increase the chances of the new thing turning out like the old thing." <br> &emsp;&emsp;&emsp; <i>-by Ned Beauman</i> 
 
- 2.  "What counts is not necessarily the size of the dog in the fight - it's the size of the fight in the dog." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 2.  "Associate yourself with men of good quality if you esteem your own reputation, for 'tis better to be alone than in bad company." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 3.  "Before you begin a thing, remind yourself that difficulties and delays quite impossible to foresee are ahead. If you could see them clearly, naturally you could do a great deal to get rid of them but you can't. You can only see one thing clearly and that is your goal. Form a mental vision of that and cling to it through thick and thin." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
+ 3.  "To know the pains of power, we must go to those who have it; to know its pleasures, we must go to those who are seeking it." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 
- 4.  "Plans are only good intentions unless they immediately degenerate into hard work." <br> &emsp;&emsp;&emsp; <i>-by Peter Drucker</i> 
+ 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
