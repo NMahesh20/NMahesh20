@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We cannot fail to win unless we fail to try." <br> &emsp;&emsp;&emsp; <i>-by Tom Clancy</i> 
+ 1.  "But all endings are also beginnings. We just don't know it at the time." <br> &emsp;&emsp;&emsp; <i>-by Mitch Albom</i> 
 
- 2.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "It's very hard to take yourself too seriously when you look at the world from outer space." <br> &emsp;&emsp;&emsp; <i>-by Thomas K. Mattingly II</i> 
 
- 3.  "At a dinner party one should eat wisely but not too well, and talk well but not too wisely." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 3.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
 
- 4.  "Complain to one who can help you." <br> &emsp;&emsp;&emsp; <i>-by Yugoslav Proverb</i> 
+ 4.  "Millions of words are written annually purporting to tell how to beat the races, whereas the best possible advice on the subject is found in the three monosyllables: 'Do not try.'" <br> &emsp;&emsp;&emsp; <i>-by Dan Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
