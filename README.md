@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But all endings are also beginnings. We just don't know it at the time." <br> &emsp;&emsp;&emsp; <i>-by Mitch Albom</i> 
+ 1.  "Those who seek consolation in existing churches often pay for their peace of mind with a tacit agreement to ignore a great deal of what is known about the way the world works." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "It's very hard to take yourself too seriously when you look at the world from outer space." <br> &emsp;&emsp;&emsp; <i>-by Thomas K. Mattingly II</i> 
+ 2.  "Bear in mind that you should conduct yourself in life as at a feast." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 3.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
+ 3.  "If I have lost confidence in myself, I have the universe against me." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Millions of words are written annually purporting to tell how to beat the races, whereas the best possible advice on the subject is found in the three monosyllables: 'Do not try.'" <br> &emsp;&emsp;&emsp; <i>-by Dan Parker</i> 
+ 4.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
