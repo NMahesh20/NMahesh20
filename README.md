@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Those who seek consolation in existing churches often pay for their peace of mind with a tacit agreement to ignore a great deal of what is known about the way the world works." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "Happiness is when what you think, what you say, and what you do are in harmony." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 2.  "Bear in mind that you should conduct yourself in life as at a feast." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 3.  "If I have lost confidence in myself, I have the universe against me." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Gratitude is the most exquisite form of courtesy." <br> &emsp;&emsp;&emsp; <i>-by Jacques Maritain</i> 
 
- 4.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
+ 4.  "If you reveal your secrets to the wind you should not blame the wind for revealing them to the trees." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
