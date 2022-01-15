@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness is when what you think, what you say, and what you do are in harmony." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 1.  "Good company requires only birth, education, and manners, and with regard to education is not very nice. Birth and good manners are essential; but a little learning is by no means a dangerous thing in good company; on the contrary, it will do very well." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 2.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 3.  "Gratitude is the most exquisite form of courtesy." <br> &emsp;&emsp;&emsp; <i>-by Jacques Maritain</i> 
+ 3.  "It's not enough that we do our best; sometimes we have to do what's required." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "If you reveal your secrets to the wind you should not blame the wind for revealing them to the trees." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "The only limit to our realization of tomorrow will be our doubts of today." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
