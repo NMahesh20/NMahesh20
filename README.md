@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good company requires only birth, education, and manners, and with regard to education is not very nice. Birth and good manners are essential; but a little learning is by no means a dangerous thing in good company; on the contrary, it will do very well." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "It's so much easier to write a resume than to craft a spirit." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 2.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 2.  "God must become an activity in our consciousness." <br> &emsp;&emsp;&emsp; <i>-by Joel S. Goldsmith</i> 
 
- 3.  "It's not enough that we do our best; sometimes we have to do what's required." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "Remember when life's path is steep to keep your mind even." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 4.  "The only limit to our realization of tomorrow will be our doubts of today." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 4.  "You can have anything you want if you want it desperately enough. You must want it with an inner exuberance that erupts through the skin and joins the energy that created the world." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
