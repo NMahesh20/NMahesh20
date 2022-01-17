@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's so much easier to write a resume than to craft a spirit." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 1.  "If the universe is bigger and stranger than I can imagine, it's best to meet it with an empty bladder." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
 
- 2.  "God must become an activity in our consciousness." <br> &emsp;&emsp;&emsp; <i>-by Joel S. Goldsmith</i> 
+ 2.  "When people think the world of you, be careful with them." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "Remember when life's path is steep to keep your mind even." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 3.  "Never advise anyone to go to war or to marry." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "You can have anything you want if you want it desperately enough. You must want it with an inner exuberance that erupts through the skin and joins the energy that created the world." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
+ 4.  "The highest reward for man's toil is not what he gets for it, but what he becomes by it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
