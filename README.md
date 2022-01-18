@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If the universe is bigger and stranger than I can imagine, it's best to meet it with an empty bladder." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
+ 1.  "That's the worst of growing up, and I'm beginning to realize it. The things you wanted so much when you were a child don't seem half so wonderful to you when you get them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "When people think the world of you, be careful with them." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Failure will never overtake me if my determination to succeed is strong enough." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Never advise anyone to go to war or to marry." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "It is difficult to make a man miserable while he feels worthy of himself and claims kindred to the great God who made him." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "The highest reward for man's toil is not what he gets for it, but what he becomes by it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "We must accept that this creative pulse within us is God's creative pulse itself." <br> &emsp;&emsp;&emsp; <i>-by Joseph Chilton Pearce</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
