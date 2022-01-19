@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's the worst of growing up, and I'm beginning to realize it. The things you wanted so much when you were a child don't seem half so wonderful to you when you get them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Every time you suppress some part of yourself or allow others to play you small, you are in essence ignoring the owner's manual your creator gave you and destroying your design." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Failure will never overtake me if my determination to succeed is strong enough." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 3.  "It is difficult to make a man miserable while he feels worthy of himself and claims kindred to the great God who made him." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "People always call it luck when you've acted more sensibly than they have." <br> &emsp;&emsp;&emsp; <i>-by Anne Tyler</i> 
 
- 4.  "We must accept that this creative pulse within us is God's creative pulse itself." <br> &emsp;&emsp;&emsp; <i>-by Joseph Chilton Pearce</i> 
+ 4.  "This became a credo of mine...attempt the impossible in order to improve your work." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
