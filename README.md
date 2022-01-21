@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fasting and natural diet, though essentially unknown [in today's U.S.] as a therapy, should be the first treatment when someone discovers that she or he has a medical problem. It should not be applied only to the most advanced cases, as is present practice. Whether the patient has a cardiac condition, hypertension, autoimmune disease, fibroids, or asthma, he or she must be informed that fasting and natural, plant-based diets are a viable alternative to conventional therapy, and an effective one. The time may come when not offering this substantially more effective nutritional approach will be considered malpractice." <br> &emsp;&emsp;&emsp; <i>-by Joel Fuhrman, M.D.</i> 
+ 1.  "There was no escaping by means of any journey, however adventurous, one took one's problems and sorrows with one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Every time you don't follow your inner guidance, you feel a loss of energy, loss of power, a sense of spiritual deadness." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
+ 2.  "Education is when you read the fine print. Experience is what you get if you don't." <br> &emsp;&emsp;&emsp; <i>-by Pete Seeger</i> 
 
- 3.  "Keep true to the dreams of thy youth." <br> &emsp;&emsp;&emsp; <i>-by Friedrich von Schiller</i> 
+ 3.  "It is when power is wedded to chronic fear that it becomes formidable." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 4.  "Despise not any man, and do not spurn anything; for there is no man who has not his hour, nor is there anything that has not its place." <br> &emsp;&emsp;&emsp; <i>-by Ben Azai</i> 
+ 4.  "We only do well the things we like doing." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
