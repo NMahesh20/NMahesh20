@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There was no escaping by means of any journey, however adventurous, one took one's problems and sorrows with one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Education is when you read the fine print. Experience is what you get if you don't." <br> &emsp;&emsp;&emsp; <i>-by Pete Seeger</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Tom Hanks</i> 
 
- 3.  "It is when power is wedded to chronic fear that it becomes formidable." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 3.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
 
- 4.  "We only do well the things we like doing." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
