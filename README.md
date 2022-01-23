@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Suzanne Young</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Tom Hanks</i> 
+ 2.  "You just have to start putting one foot in front of the other, making an effort to get healthy every day." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 3.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
+ 3.  "I have never been hurt by anything I didn't say." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
 
- 4.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 4.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
