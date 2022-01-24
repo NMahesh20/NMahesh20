@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Suzanne Young</i> 
+ 1.  "The fact is, the old clich%uFFFDs work for us in abstract terms, but they never work out in real life quite the same way. Life is messy; clich%uFFFDs are clean and tidy." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "You just have to start putting one foot in front of the other, making an effort to get healthy every day." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 2.  "There can be as much value in the blink of an eye as in months of rational analysis." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 3.  "I have never been hurt by anything I didn't say." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
+ 3.  "Let the fear of danger be a spur to prevent it; he that fears not, gives advantage to the danger." <br> &emsp;&emsp;&emsp; <i>-by Francis Quarles</i> 
 
- 4.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
+ 4.  "That's the way things come clear. All of a sudden. And then you realize how obvious they've been all along." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
