@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The fact is, the old clich%uFFFDs work for us in abstract terms, but they never work out in real life quite the same way. Life is messy; clich%uFFFDs are clean and tidy." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "I'd rather work with someone who's good at their job but doesn't like me, than someone who likes me but is a ninny." <br> &emsp;&emsp;&emsp; <i>-by Sam Donaldson</i> 
 
- 2.  "There can be as much value in the blink of an eye as in months of rational analysis." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 2.  "There is one piece of advice, in a life of study, which I think no one will object to; and that is, every now and then to be completely idle - to do nothing at all." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 3.  "Let the fear of danger be a spur to prevent it; he that fears not, gives advantage to the danger." <br> &emsp;&emsp;&emsp; <i>-by Francis Quarles</i> 
+ 3.  "This above all: to thine own self be true; And it must follow, as the night the day; Thou canst not then be false to any man." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "That's the way things come clear. All of a sudden. And then you realize how obvious they've been all along." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
+ 4.  "We distinguish the excellent man from the common man by saying that the former is the one who makes great demands upon himself, and the latter who makes no demands on himself." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
