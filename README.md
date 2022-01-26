@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'd rather work with someone who's good at their job but doesn't like me, than someone who likes me but is a ninny." <br> &emsp;&emsp;&emsp; <i>-by Sam Donaldson</i> 
+ 1.  "That's the thing about needs. Sometimes, when you get them met, you don't need them anymore." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "There is one piece of advice, in a life of study, which I think no one will object to; and that is, every now and then to be completely idle - to do nothing at all." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 2.  "Sometimes it's good to contrast what you like with something else. It makes you appreciate it even more." <br> &emsp;&emsp;&emsp; <i>-by Darby Conley</i> 
 
- 3.  "This above all: to thine own self be true; And it must follow, as the night the day; Thou canst not then be false to any man." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "There's only one corner of the universe you can be certain of improving, and that's your own self." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 
- 4.  "We distinguish the excellent man from the common man by saying that the former is the one who makes great demands upon himself, and the latter who makes no demands on himself." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
+ 4.  "Be sincere; be brief; be seated." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
