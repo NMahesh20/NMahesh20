@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's the thing about needs. Sometimes, when you get them met, you don't need them anymore." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 1.  "Eccentricity is not, as dull people would have us believe, a form of madness. It is often a kind of innocent pride, and the man of genius and the aristocrat are frequently regarded as eccentrics because genius and aristocrat are entirely unafraid of and uninfluenced by the opinions and vagaries of the crowd." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
 
- 2.  "Sometimes it's good to contrast what you like with something else. It makes you appreciate it even more." <br> &emsp;&emsp;&emsp; <i>-by Darby Conley</i> 
+ 2.  "A single day is enough to make us a little larger." <br> &emsp;&emsp;&emsp; <i>-by Paul Klee</i> 
 
- 3.  "There's only one corner of the universe you can be certain of improving, and that's your own self." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
+ 3.  "The trick is to make sure you don't die waiting for prosperity to come." <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
 
- 4.  "Be sincere; be brief; be seated." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 4.  "Life is just a mirror, and what you see out there, you must first see inside of you." <br> &emsp;&emsp;&emsp; <i>-by Wally 'Famous' Amos</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
