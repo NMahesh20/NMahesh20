@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Eccentricity is not, as dull people would have us believe, a form of madness. It is often a kind of innocent pride, and the man of genius and the aristocrat are frequently regarded as eccentrics because genius and aristocrat are entirely unafraid of and uninfluenced by the opinions and vagaries of the crowd." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
+ 1.  "It's going to come true like you knew it, but it's not going to feel like you think." <br> &emsp;&emsp;&emsp; <i>-by Rosie O'Donnell</i> 
 
- 2.  "A single day is enough to make us a little larger." <br> &emsp;&emsp;&emsp; <i>-by Paul Klee</i> 
+ 2.  "Pleasure is an important component of the quality of life, but by itself it does not bring happiness. Pleasure helps to maintain order, but by itself cannot create a new order in consciousness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "The trick is to make sure you don't die waiting for prosperity to come." <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
+ 3.  "Isn't everyone a part of everyone else?" <br> &emsp;&emsp;&emsp; <i>-by Budd Schulberg</i> 
 
- 4.  "Life is just a mirror, and what you see out there, you must first see inside of you." <br> &emsp;&emsp;&emsp; <i>-by Wally 'Famous' Amos</i> 
+ 4.  "The only gift is a portion of thyself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
