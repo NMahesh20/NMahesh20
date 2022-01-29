@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's going to come true like you knew it, but it's not going to feel like you think." <br> &emsp;&emsp;&emsp; <i>-by Rosie O'Donnell</i> 
+ 1.  "Achievable goals are the first step to self improvement." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "Pleasure is an important component of the quality of life, but by itself it does not bring happiness. Pleasure helps to maintain order, but by itself cannot create a new order in consciousness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: You don't give up." <br> &emsp;&emsp;&emsp; <i>-by Anne Lamott</i> 
 
- 3.  "Isn't everyone a part of everyone else?" <br> &emsp;&emsp;&emsp; <i>-by Budd Schulberg</i> 
+ 3.  "A gift in season is a double favor to the needy." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "The only gift is a portion of thyself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "We shall find peace. We shall hear the angels, we shall see the sky sparkling with diamonds." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
