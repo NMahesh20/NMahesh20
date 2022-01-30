@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Achievable goals are the first step to self improvement." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "Hope begins in the dark, the stubborn hope that if you just show up and try to do the right thing, the dawn will come. You wait and watch and work: You don't give up." <br> &emsp;&emsp;&emsp; <i>-by Anne Lamott</i> 
+ 2.  "Work is not always required. There is such a thing as sacred idleness." <br> &emsp;&emsp;&emsp; <i>-by George MacDonald</i> 
 
- 3.  "A gift in season is a double favor to the needy." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "If you can't do what you want, do what you can." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "We shall find peace. We shall hear the angels, we shall see the sky sparkling with diamonds." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
+ 4.  "Don't go around saying the world owes you a living. The world owes you nothing. It was here first. " <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
