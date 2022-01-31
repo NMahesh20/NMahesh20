@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "Better to look weak and be strong than to look strong and be weak." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "Work is not always required. There is such a thing as sacred idleness." <br> &emsp;&emsp;&emsp; <i>-by George MacDonald</i> 
+ 2.  "This is pretty much what journals are all about, at least to me. I knew as I wrote them that even though they provided an excellent place for brain (and heart, and psyche) dump, they were mainly a map of me." <br> &emsp;&emsp;&emsp; <i>-by Colleen Wainwright</i> 
 
- 3.  "If you can't do what you want, do what you can." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Dreams are postcards from our subconscious, inner self to outer self, right brain trying to cross that moat to the left. Too often they come back unread: "return to sender, addressee unknown." That's a shame because it's a whole other world out there--or in here depending on your point of view." <br> &emsp;&emsp;&emsp; <i>-by Dennis Koenig and Jordan Budde</i> 
 
- 4.  "Don't go around saying the world owes you a living. The world owes you nothing. It was here first. " <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
