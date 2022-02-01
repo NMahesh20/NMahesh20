@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Better to look weak and be strong than to look strong and be weak." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "Lasting change is a series of compromises. And compromise is all right, as long your values don't change." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "This is pretty much what journals are all about, at least to me. I knew as I wrote them that even though they provided an excellent place for brain (and heart, and psyche) dump, they were mainly a map of me." <br> &emsp;&emsp;&emsp; <i>-by Colleen Wainwright</i> 
+ 2.  "When she stopped conforming to the conventional picture of femininity she finally began to enjoy being a woman." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 3.  "Dreams are postcards from our subconscious, inner self to outer self, right brain trying to cross that moat to the left. Too often they come back unread: "return to sender, addressee unknown." That's a shame because it's a whole other world out there--or in here depending on your point of view." <br> &emsp;&emsp;&emsp; <i>-by Dennis Koenig and Jordan Budde</i> 
+ 3.  "Truth is the only safe ground to stand upon." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 
- 4.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 4.  "Never let your inferiors do you a favor - it will be extremely costly." <br> &emsp;&emsp;&emsp; <i>-by H. L. Mencken</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
