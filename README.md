@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Lasting change is a series of compromises. And compromise is all right, as long your values don't change." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "Let us develop the resources of our land, call forth our powers, build up its institutions, promote all its great interests, and see whether we also, in our day and generation, may not perform something worthy to be remembered." <br> &emsp;&emsp;&emsp; <i>-by Daniel Webster</i> 
 
- 2.  "When she stopped conforming to the conventional picture of femininity she finally began to enjoy being a woman." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 2.  "We don't beat the Grim Reaper by living longer, we beat the Reaper by living well and living fully, for the Reaper will come for all of us. The question is what do we do between the time we are born and the time he shows up. It's too late to do all the things that you're gonna kinda get around to." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 3.  "Truth is the only safe ground to stand upon." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 3.  "I love you the more that I believe you have liked me for my own sake and for nothing else." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
 
- 4.  "Never let your inferiors do you a favor - it will be extremely costly." <br> &emsp;&emsp;&emsp; <i>-by H. L. Mencken</i> 
+ 4.  "Rest satisfied with doing well, and leave others to talk of you as they please." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
