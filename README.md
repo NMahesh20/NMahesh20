@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Let us develop the resources of our land, call forth our powers, build up its institutions, promote all its great interests, and see whether we also, in our day and generation, may not perform something worthy to be remembered." <br> &emsp;&emsp;&emsp; <i>-by Daniel Webster</i> 
+ 1.  "Toughness doesn't have to come in a pinstriped suit." <br> &emsp;&emsp;&emsp; <i>-by Senator Dianne Feinstein</i> 
 
- 2.  "We don't beat the Grim Reaper by living longer, we beat the Reaper by living well and living fully, for the Reaper will come for all of us. The question is what do we do between the time we are born and the time he shows up. It's too late to do all the things that you're gonna kinda get around to." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 2.  "Cleanliness and order are not matters of instinct; they are matters of education, and like most great things, you must cultivate a taste for them." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 3.  "I love you the more that I believe you have liked me for my own sake and for nothing else." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
+ 3.  "If a writer wrote merely for his time, I would have to break my pen and throw it away." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "Rest satisfied with doing well, and leave others to talk of you as they please." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 4.  "Men seek but one thing in life - their pleasure." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
