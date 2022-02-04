@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Toughness doesn't have to come in a pinstriped suit." <br> &emsp;&emsp;&emsp; <i>-by Senator Dianne Feinstein</i> 
+ 1.  "Perfectionism is simply putting a limit on your future. When you have an idea of perfect in your mind, you open the door to constantly comparing what you have now with what you want. That type of self criticism is significantly deterring." <br> &emsp;&emsp;&emsp; <i>-by John Eliot, Ph.D.</i> 
 
- 2.  "Cleanliness and order are not matters of instinct; they are matters of education, and like most great things, you must cultivate a taste for them." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 2.  "I have witnessed the softening of the hardest of hearts by a simple smile." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
 
- 3.  "If a writer wrote merely for his time, I would have to break my pen and throw it away." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "Many people think that if they were only in some other place, or had some other job, they would be happy. Well, that is doubtful. So get as much happiness out of what you are doing as you can and don't put off being happy until some future date." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 4.  "Men seek but one thing in life - their pleasure." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "To see what is right, and not to do it, is want of courage or of principle." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
