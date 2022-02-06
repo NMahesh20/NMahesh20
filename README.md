@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I guess we'd be living in a boring, perfect world if everybody wished everybody else well." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
+ 1.  "A wise man will make more opportunities than he finds." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 2.  "Sometimes it seems like God is difficult to find and impossibly far away. We get so caught up in our small daily duties and irritations that they become the only things that we can focus on. What we forget is that God's love and beauty are all around us, every day, if only we would take the time to look up and see them." <br> &emsp;&emsp;&emsp; <i>-by Matthias</i> 
+ 2.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "The power to bring me out of solitude - or to push me back into it - had never belonged to another person. It was mine and only mine." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 3.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
 
- 4.  "What a child doesn't receive he can seldom later give." <br> &emsp;&emsp;&emsp; <i>-by P. D. James</i> 
+ 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
