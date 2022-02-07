@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A wise man will make more opportunities than he finds." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 1.  "The universe may not always play fair, but at least it's got a hell of a sense of humor." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "External signs of wealth and success are often cheap storefronts that hide internal mediocrity or even incompetence." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
+ 3.  "You can't deny laughter; when it comes, it plops down in your favorite chair and stays as long as it wants." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 4.  "Competition is a painful thing, but it produces great results." <br> &emsp;&emsp;&emsp; <i>-by Jerry Flint</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
