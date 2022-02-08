@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The universe may not always play fair, but at least it's got a hell of a sense of humor." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 1.  "Actions have consequences...first rule of life. And the second rule is this - you are the only one responsible for your own actions." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 2.  "External signs of wealth and success are often cheap storefronts that hide internal mediocrity or even incompetence." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Dooley</i> 
 
- 3.  "You can't deny laughter; when it comes, it plops down in your favorite chair and stays as long as it wants." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 3.  "Regard your good name as the richest jewel you can possibly be possessed of - for credit is like fire; when once you have kindled it you may easily preserve it, but if you once extinguish it, you will find it an arduous task to rekindle it again. The way to gain a good reputation is to endeavor to be what you desire to appear." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "Competition is a painful thing, but it produces great results." <br> &emsp;&emsp;&emsp; <i>-by Jerry Flint</i> 
+ 4.  "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
