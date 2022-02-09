@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Actions have consequences...first rule of life. And the second rule is this - you are the only one responsible for your own actions." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 1.  "The guy who takes a chance, who walks the line between the known and unknown, who is unafraid of failure, will succeed." <br> &emsp;&emsp;&emsp; <i>-by Gordon Parks</i> 
 
- 2.  "Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Dooley</i> 
+ 2.  "I am careful not to confuse excellence with perfection. Excellence, I can reach for; perfection is God's business." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
 
- 3.  "Regard your good name as the richest jewel you can possibly be possessed of - for credit is like fire; when once you have kindled it you may easily preserve it, but if you once extinguish it, you will find it an arduous task to rekindle it again. The way to gain a good reputation is to endeavor to be what you desire to appear." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 3.  "Look in the mirror. The face that pins you with its double gaze reveals a chastening secret." <br> &emsp;&emsp;&emsp; <i>-by Diane Ackerman</i> 
 
- 4.  "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
+ 4.  "Tomatoes and oregano make it Italian; wine and tarragon make it French. Sour cream makes it Russian; lemon and cinnamon make it Greek. Soy sauce makes it Chinese; garlic makes it good." <br> &emsp;&emsp;&emsp; <i>-by Alice May Brock</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
