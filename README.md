@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The guy who takes a chance, who walks the line between the known and unknown, who is unafraid of failure, will succeed." <br> &emsp;&emsp;&emsp; <i>-by Gordon Parks</i> 
+ 1.  "Don't believe in imagining things different from what they really are. When the Lord puts us in certain circumstances He doesn't mean for us to imagine them away." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "I am careful not to confuse excellence with perfection. Excellence, I can reach for; perfection is God's business." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 2.  "The biggest thing [Frida] brought into my life was this peacefulness. I still get passionate about things, but my passion is not so scattered and it's not needy. It's a lot more powerful because it comes with this groundedness and peacefulness. That it's about the process, not about the results." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
 
- 3.  "Look in the mirror. The face that pins you with its double gaze reveals a chastening secret." <br> &emsp;&emsp;&emsp; <i>-by Diane Ackerman</i> 
+ 3.  "Most folks are about as happy as they make up their minds to be." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Tomatoes and oregano make it Italian; wine and tarragon make it French. Sour cream makes it Russian; lemon and cinnamon make it Greek. Soy sauce makes it Chinese; garlic makes it good." <br> &emsp;&emsp;&emsp; <i>-by Alice May Brock</i> 
+ 4.  "The last temptation is the greatest treason: to do the right deed for the wrong reason." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
