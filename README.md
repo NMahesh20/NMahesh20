@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't believe in imagining things different from what they really are. When the Lord puts us in certain circumstances He doesn't mean for us to imagine them away." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "That was the worst part about having cancer, sometimes: The physical evidence of disease separates you from other people." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "The biggest thing [Frida] brought into my life was this peacefulness. I still get passionate about things, but my passion is not so scattered and it's not needy. It's a lot more powerful because it comes with this groundedness and peacefulness. That it's about the process, not about the results." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
+ 2.  "Famous I don't know about. It's hard to be famous and alive. I just want to play music every day and hear someone say, 'Thanks, that was great, here's some money, same time tomorrow, okay?'" <br> &emsp;&emsp;&emsp; <i>-by Terry Pratchett</i> 
 
- 3.  "Most folks are about as happy as they make up their minds to be." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "Every day brings a chance for you to draw in a breath, kick off your shoes, and dance." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "The last temptation is the greatest treason: to do the right deed for the wrong reason." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 4.  "Getting there isn't half the fun - it's all the fun." <br> &emsp;&emsp;&emsp; <i>-by Robert Townsend</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
