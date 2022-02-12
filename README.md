@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That was the worst part about having cancer, sometimes: The physical evidence of disease separates you from other people." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 2.  "Famous I don't know about. It's hard to be famous and alive. I just want to play music every day and hear someone say, 'Thanks, that was great, here's some money, same time tomorrow, okay?'" <br> &emsp;&emsp;&emsp; <i>-by Terry Pratchett</i> 
+ 2.  "Pain is inevitable; suffering is optional." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 3.  "Every day brings a chance for you to draw in a breath, kick off your shoes, and dance." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Friendship make prosperity more shining and lessens adversity by dividing and sharing it." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 
- 4.  "Getting there isn't half the fun - it's all the fun." <br> &emsp;&emsp;&emsp; <i>-by Robert Townsend</i> 
+ 4.  "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge." <br> &emsp;&emsp;&emsp; <i>-by Daniel J. Boorstin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
