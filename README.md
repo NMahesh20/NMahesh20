@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 1.  "The need for change bulldozed a road down the center of my mind." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
 
- 2.  "Pain is inevitable; suffering is optional." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 2.  "Assert your right to make a few mistakes. If people can't accept your imperfections, that's their fault." <br> &emsp;&emsp;&emsp; <i>-by Dr. David M. Burns</i> 
 
- 3.  "Friendship make prosperity more shining and lessens adversity by dividing and sharing it." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 3.  "I always remember an epitaph which is in the cemetery at Tombstone, Arizona. It says: 'Here lies Jack Williams. He done his damnedest.' I think that is the greatest epitaph a man can have - When he gives everything that is in him to do the job he has before him. That is all you can ask of him and that is what I have tried to do." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 4.  "The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge." <br> &emsp;&emsp;&emsp; <i>-by Daniel J. Boorstin</i> 
+ 4.  "Promote yourself, but do not demote another." <br> &emsp;&emsp;&emsp; <i>-by Israel Salanter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
