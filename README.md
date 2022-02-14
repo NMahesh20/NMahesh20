@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The need for change bulldozed a road down the center of my mind." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
+ 1.  "You Europeans know nothing about America. Because we amass large fortunes you think we care for nothing but money. We are nothing for it; the moment we have it we spend it, sometimes well, sometimes ill, but we spend it. Money is nothing to us; it's merely the symbol of success. We are the greatest idealists in the world; I happen to think that we've set our ideal on the wrong objects; I happen to think that the greatest ideal man can set before himself is self-perfection." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Assert your right to make a few mistakes. If people can't accept your imperfections, that's their fault." <br> &emsp;&emsp;&emsp; <i>-by Dr. David M. Burns</i> 
+ 2.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "I always remember an epitaph which is in the cemetery at Tombstone, Arizona. It says: 'Here lies Jack Williams. He done his damnedest.' I think that is the greatest epitaph a man can have - When he gives everything that is in him to do the job he has before him. That is all you can ask of him and that is what I have tried to do." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 3.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
 
- 4.  "Promote yourself, but do not demote another." <br> &emsp;&emsp;&emsp; <i>-by Israel Salanter</i> 
+ 4.  "Our remedies oft in ourselves do lie." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
