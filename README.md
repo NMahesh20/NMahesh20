@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You Europeans know nothing about America. Because we amass large fortunes you think we care for nothing but money. We are nothing for it; the moment we have it we spend it, sometimes well, sometimes ill, but we spend it. Money is nothing to us; it's merely the symbol of success. We are the greatest idealists in the world; I happen to think that we've set our ideal on the wrong objects; I happen to think that the greatest ideal man can set before himself is self-perfection." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "The end result of kindness is that it draws people to you." <br> &emsp;&emsp;&emsp; <i>-by Anita Roddick</i> 
 
- 2.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Everywhere I go I find a poet has been there before me." <br> &emsp;&emsp;&emsp; <i>-by Sigmund Freud</i> 
 
- 3.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
+ 3.  "It is useless to attempt to reason a man out of a thing he was never reasoned into." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 
- 4.  "Our remedies oft in ourselves do lie." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
