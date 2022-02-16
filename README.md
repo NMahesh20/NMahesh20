@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The end result of kindness is that it draws people to you." <br> &emsp;&emsp;&emsp; <i>-by Anita Roddick</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "Everywhere I go I find a poet has been there before me." <br> &emsp;&emsp;&emsp; <i>-by Sigmund Freud</i> 
+ 2.  "Even with the best of maps and instruments, we can never fully chart our journeys." <br> &emsp;&emsp;&emsp; <i>-by Gail Pool</i> 
 
- 3.  "It is useless to attempt to reason a man out of a thing he was never reasoned into." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 3.  "Learning to live in the present moment is part of the path of joy." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
 
- 4.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
