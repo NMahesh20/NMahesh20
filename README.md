@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "One man practicing sportsmanship is better than a hundred teaching it." <br> &emsp;&emsp;&emsp; <i>-by Knute Rockne</i> 
 
- 2.  "Even with the best of maps and instruments, we can never fully chart our journeys." <br> &emsp;&emsp;&emsp; <i>-by Gail Pool</i> 
+ 2.  "If we discover a desire within us that nothing in this world can satisfy, also we should begin to wonder if perhaps we were created for another world." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
 
- 3.  "Learning to live in the present moment is part of the path of joy." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
+ 3.  "Life is an adventure in forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
 
- 4.  "When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 4.  "Resolve to edge in a little reading every day, if it is but a single sentence. If you gain fifteen minutes a day, it will make itself felt at the end of the year." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
