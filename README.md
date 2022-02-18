@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One man practicing sportsmanship is better than a hundred teaching it." <br> &emsp;&emsp;&emsp; <i>-by Knute Rockne</i> 
+ 1.  "It's the soul's duty to be loyal to its own desires. It must abandon itself to its master passion." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
 
- 2.  "If we discover a desire within us that nothing in this world can satisfy, also we should begin to wonder if perhaps we were created for another world." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
+ 2.  "You need only claim the event of your life to make yourself yours. When you truly possess all you have been and done, which may take some time, you are fierce with reality." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
 
- 3.  "Life is an adventure in forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
+ 3.  "The inner fire is the most important thing mankind possesses." <br> &emsp;&emsp;&emsp; <i>-by Edith Sodergran</i> 
 
- 4.  "Resolve to edge in a little reading every day, if it is but a single sentence. If you gain fifteen minutes a day, it will make itself felt at the end of the year." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
+ 4.  "Regimen is superior to medicine." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
