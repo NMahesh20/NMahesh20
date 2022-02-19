@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's the soul's duty to be loyal to its own desires. It must abandon itself to its master passion." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
+ 1.  "I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 2.  "You need only claim the event of your life to make yourself yours. When you truly possess all you have been and done, which may take some time, you are fierce with reality." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
+ 2.  "Even the wisest counsel is useless when it is unheeded." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 3.  "The inner fire is the most important thing mankind possesses." <br> &emsp;&emsp;&emsp; <i>-by Edith Sodergran</i> 
+ 3.  "He who wrestles with us strengthens our nerves and sharpens our skill. Our antagonist is our helper." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 
- 4.  "Regimen is superior to medicine." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 4.  "We cannot destroy kindred: Our chains stretch a little sometimes, but they never break." <br> &emsp;&emsp;&emsp; <i>-by Marie de Rabutin-Chantal</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
