@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 1.  "Your parents, they give you your life, but then they try to give you their life." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "Even the wisest counsel is useless when it is unheeded." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 2.  "Anybody can observe the Sabbath, but making it holy surely takes the rest of the week." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 3.  "He who wrestles with us strengthens our nerves and sharpens our skill. Our antagonist is our helper." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 3.  "You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet." <br> &emsp;&emsp;&emsp; <i>-by Franz Kafka</i> 
 
- 4.  "We cannot destroy kindred: Our chains stretch a little sometimes, but they never break." <br> &emsp;&emsp;&emsp; <i>-by Marie de Rabutin-Chantal</i> 
+ 4.  "Don't fall before you're pushed." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
