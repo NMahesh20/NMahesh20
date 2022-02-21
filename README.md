@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your parents, they give you your life, but then they try to give you their life." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "Maybe coming clean is the ultimate selfish act. A way to absolve yourself by hurting someone who doesn't deserve to be hurt." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
 
- 2.  "Anybody can observe the Sabbath, but making it holy surely takes the rest of the week." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 2.  "If you observe a really happy man, you will find... that he is happy in the course of living life twenty-four crowded hours each day." <br> &emsp;&emsp;&emsp; <i>-by W. Beran Wolfe</i> 
 
- 3.  "You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet." <br> &emsp;&emsp;&emsp; <i>-by Franz Kafka</i> 
+ 3.  "A great preservative against angry and mutinous thoughts, and all impatience and quarreling, is to have some great business and interest in your mind, which, like a sponge shall suck up your attention and keep you from brooding over what displeases you." <br> &emsp;&emsp;&emsp; <i>-by Joseph Rickaby</i> 
 
- 4.  "Don't fall before you're pushed." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 4.  "Vigorous writing is concise." <br> &emsp;&emsp;&emsp; <i>-by William Strunk Jr.</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
