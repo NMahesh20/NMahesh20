@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Maybe coming clean is the ultimate selfish act. A way to absolve yourself by hurting someone who doesn't deserve to be hurt." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 1.  "We are able to laugh when we achieve detachment, if only for a moment." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
 
- 2.  "If you observe a really happy man, you will find... that he is happy in the course of living life twenty-four crowded hours each day." <br> &emsp;&emsp;&emsp; <i>-by W. Beran Wolfe</i> 
+ 2.  "To freely bloom - that is my definition of success." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
 
- 3.  "A great preservative against angry and mutinous thoughts, and all impatience and quarreling, is to have some great business and interest in your mind, which, like a sponge shall suck up your attention and keep you from brooding over what displeases you." <br> &emsp;&emsp;&emsp; <i>-by Joseph Rickaby</i> 
+ 3.  "The evil of the world is made possible by nothing but the sanction you give it." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 
- 4.  "Vigorous writing is concise." <br> &emsp;&emsp;&emsp; <i>-by William Strunk Jr.</i> 
+ 4.  "I have learnt silence from the talkative, toleration from the intolerant, and kindness from the unkind; yet strange, I am ungrateful to these teachers." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
