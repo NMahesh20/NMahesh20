@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are able to laugh when we achieve detachment, if only for a moment." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
+ 1.  "What's the earth With all its art, verse, music, worth - Compared with love, found, gained, and kept?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
 
- 2.  "To freely bloom - that is my definition of success." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
+ 2.  "Silence is golden when you can't think of a good answer." <br> &emsp;&emsp;&emsp; <i>-by Muhammad Ali</i> 
 
- 3.  "The evil of the world is made possible by nothing but the sanction you give it." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 3.  "Young people are in a condition like permanent intoxication, because youth is sweet and they are growing." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 4.  "I have learnt silence from the talkative, toleration from the intolerant, and kindness from the unkind; yet strange, I am ungrateful to these teachers." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
