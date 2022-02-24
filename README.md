@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What's the earth With all its art, verse, music, worth - Compared with love, found, gained, and kept?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Silence is golden when you can't think of a good answer." <br> &emsp;&emsp;&emsp; <i>-by Muhammad Ali</i> 
+ 2.  "Sometimes the lies you tell are less frightening than the loneliness you might feel if you stopped telling them." <br> &emsp;&emsp;&emsp; <i>-by Brock Clarke</i> 
 
- 3.  "Young people are in a condition like permanent intoxication, because youth is sweet and they are growing." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 3.  "Life is an escalator: You can move forward or backward; you can not remain still." <br> &emsp;&emsp;&emsp; <i>-by Patricia Russell-McCloud</i> 
 
- 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
+ 4.  "The ornament of a house is the friends who frequent it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
