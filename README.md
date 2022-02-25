@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "Sometimes the lies you tell are less frightening than the loneliness you might feel if you stopped telling them." <br> &emsp;&emsp;&emsp; <i>-by Brock Clarke</i> 
+ 2.  "Success is relative. It is what we can make of the mess we have made of things." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 
- 3.  "Life is an escalator: You can move forward or backward; you can not remain still." <br> &emsp;&emsp;&emsp; <i>-by Patricia Russell-McCloud</i> 
+ 3.  "There is no revenge so complete as forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 4.  "The ornament of a house is the friends who frequent it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
