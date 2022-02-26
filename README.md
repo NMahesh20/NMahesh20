@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "Man is born a predestined idealist, for he is born to act. To act is to affirm the worth of an end, and to persist in affirming the worth of an end is to make an ideal." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 2.  "Success is relative. It is what we can make of the mess we have made of things." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 2.  "Any ordinary favor we do for someone or any compassionate reaching out may seem to be going nowhere at first, but may be planting a seed we can't see right now. Sometimes we need to just do the best we can and then trust in an unfolding we can't design or ordain." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 3.  "There is no revenge so complete as forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 3.  "Gravity. It keeps you rooted to the ground. In space, there's not any gravity. You just kind of leave your feet and go floating around. Is that what being in love is like?" <br> &emsp;&emsp;&emsp; <i>-by Josh Brand and John Falsey</i> 
 
- 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
+ 4.  "Reputation is what other people know about you. Honor is what you know about yourself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
