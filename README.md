@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Man is born a predestined idealist, for he is born to act. To act is to affirm the worth of an end, and to persist in affirming the worth of an end is to make an ideal." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 1.  "You can't connect the dots looking forward you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well worn path." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Any ordinary favor we do for someone or any compassionate reaching out may seem to be going nowhere at first, but may be planting a seed we can't see right now. Sometimes we need to just do the best we can and then trust in an unfolding we can't design or ordain." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 2.  "Repression is not the way to virtue. When people restrain themselves out of fear, their lives are by necessity diminished. Only through freely chosen discipline can life be enjoyed and still kept within the bounds of reason." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "Gravity. It keeps you rooted to the ground. In space, there's not any gravity. You just kind of leave your feet and go floating around. Is that what being in love is like?" <br> &emsp;&emsp;&emsp; <i>-by Josh Brand and John Falsey</i> 
+ 3.  "For myself I am an optimist - it does not seem to be much use being anything else." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "Reputation is what other people know about you. Honor is what you know about yourself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "Doubt whom you will, but never yourself." <br> &emsp;&emsp;&emsp; <i>-by Christine Bovee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
