@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't connect the dots looking forward you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well worn path." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "We would worry less about what others think of us if we realized how seldom they do." <br> &emsp;&emsp;&emsp; <i>-by Ethel Barrett</i> 
 
- 2.  "Repression is not the way to virtue. When people restrain themselves out of fear, their lives are by necessity diminished. Only through freely chosen discipline can life be enjoyed and still kept within the bounds of reason." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "I have never been especially impressed by the heroics of people who are convinced they are about to change the world. I am more awed by those who struggle to make one small difference after another." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 3.  "For myself I am an optimist - it does not seem to be much use being anything else." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 
- 4.  "Doubt whom you will, but never yourself." <br> &emsp;&emsp;&emsp; <i>-by Christine Bovee</i> 
+ 4.  "You must keep sending work out; you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you're working on another one. If you have talent, you will receive some measure of success - but only if you persist." <br> &emsp;&emsp;&emsp; <i>-by Isaac Asimov</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
