@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We would worry less about what others think of us if we realized how seldom they do." <br> &emsp;&emsp;&emsp; <i>-by Ethel Barrett</i> 
+ 1.  "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 2.  "I have never been especially impressed by the heroics of people who are convinced they are about to change the world. I am more awed by those who struggle to make one small difference after another." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 2.  "It is confidence in our bodies, minds and spirits that allows us to keep looking for new adventures, new directions to grow in, and new lessons to learn - which is what life is all about." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 3.  "The only way most people recognize their limits is by trespassing on them." <br> &emsp;&emsp;&emsp; <i>-by Tom Morris</i> 
 
- 4.  "You must keep sending work out; you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you're working on another one. If you have talent, you will receive some measure of success - but only if you persist." <br> &emsp;&emsp;&emsp; <i>-by Isaac Asimov</i> 
+ 4.  "Never give a child a sword." <br> &emsp;&emsp;&emsp; <i>-by Latin Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
