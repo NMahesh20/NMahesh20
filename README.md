@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 1.  "I go to movies expecting to have a whole experience. If I want a movie that doesn't end, I'll go to a French movie. A movie has to be complete within itself; it can't just build off the first one or play variations." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "It is confidence in our bodies, minds and spirits that allows us to keep looking for new adventures, new directions to grow in, and new lessons to learn - which is what life is all about." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
 
- 3.  "The only way most people recognize their limits is by trespassing on them." <br> &emsp;&emsp;&emsp; <i>-by Tom Morris</i> 
+ 3.  "Ambition often puts men upon doing the meanest offices; so climbing is performed in the same posture with creeping." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 
- 4.  "Never give a child a sword." <br> &emsp;&emsp;&emsp; <i>-by Latin Proverb</i> 
+ 4.  "Nothing ever goes away." <br> &emsp;&emsp;&emsp; <i>-by Barry Commoner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
