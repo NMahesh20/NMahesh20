@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I go to movies expecting to have a whole experience. If I want a movie that doesn't end, I'll go to a French movie. A movie has to be complete within itself; it can't just build off the first one or play variations." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "Before we get too depressed about the state of our politics, let's remember our history. The great debates of the past, all stirred great passions. They all made somebody angry, and at least once led to a terrible war. What is amazing, is that despite all the conflict, our experiment in democracy has worked better than any form of government on earth." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
+ 2.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "Ambition often puts men upon doing the meanest offices; so climbing is performed in the same posture with creeping." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 3.  "Affirmations are like prescriptions for certain aspects of yourself you want to change." <br> &emsp;&emsp;&emsp; <i>-by Jerry Frankhauser</i> 
 
- 4.  "Nothing ever goes away." <br> &emsp;&emsp;&emsp; <i>-by Barry Commoner</i> 
+ 4.  "Hail to you gods, on that day of the great reckoning. Behold me, I have come to you, without sin, without guilt, without evil, without a witness against me, without one whom I have wronged. I am one pure of mouth, pure of hands." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Dead</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
