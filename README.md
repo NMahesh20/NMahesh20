@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Before we get too depressed about the state of our politics, let's remember our history. The great debates of the past, all stirred great passions. They all made somebody angry, and at least once led to a terrible war. What is amazing, is that despite all the conflict, our experiment in democracy has worked better than any form of government on earth." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "I thought being an adult meant knowing what you believe, but that has not been my experience." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "Anyone who goes through life trusting people without making sure they are worthy of trust is a fool. Yet there are people who may be trusted, men as well as women. There are are as many difference in their natures as there are flowers in these meadows." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Affirmations are like prescriptions for certain aspects of yourself you want to change." <br> &emsp;&emsp;&emsp; <i>-by Jerry Frankhauser</i> 
+ 3.  "The easiest thing in the world to be is you. The most difficult thing to be is what other people want you to be. Don't let them put you in that position." <br> &emsp;&emsp;&emsp; <i>-by Leo Buscaglia</i> 
 
- 4.  "Hail to you gods, on that day of the great reckoning. Behold me, I have come to you, without sin, without guilt, without evil, without a witness against me, without one whom I have wronged. I am one pure of mouth, pure of hands." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Dead</i> 
+ 4.  "One reason I don't drink is that I want to know when I am having a good time." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
