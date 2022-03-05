@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I thought being an adult meant knowing what you believe, but that has not been my experience." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "I think the promise of fame and what it holds to you as a child and dreaming of it is not what it is. What it is, I'm not complaining about, but it's just different than the reality you dreamed." <br> &emsp;&emsp;&emsp; <i>-by Rosie O'Donnell</i> 
 
- 2.  "Anyone who goes through life trusting people without making sure they are worthy of trust is a fool. Yet there are people who may be trusted, men as well as women. There are are as many difference in their natures as there are flowers in these meadows." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "He makes people pleased with him by making them first pleased with themselves." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 3.  "The easiest thing in the world to be is you. The most difficult thing to be is what other people want you to be. Don't let them put you in that position." <br> &emsp;&emsp;&emsp; <i>-by Leo Buscaglia</i> 
+ 3.  "Courage is fear that has said its prayers." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Bernard</i> 
 
- 4.  "One reason I don't drink is that I want to know when I am having a good time." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
+ 4.  "What is food to one, is to others bitter poison." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
