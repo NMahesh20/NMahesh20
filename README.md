@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think the promise of fame and what it holds to you as a child and dreaming of it is not what it is. What it is, I'm not complaining about, but it's just different than the reality you dreamed." <br> &emsp;&emsp;&emsp; <i>-by Rosie O'Donnell</i> 
+ 1.  "We buy our way out of jail but we can't buy freedom,/ We buy a lot of clothes when we don't really need them,/ Things we buy to cover up what's inside." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
 
- 2.  "He makes people pleased with him by making them first pleased with themselves." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 2.  "Let us take things as we find them: let us not attempt to distort them into what they are not. We cannot make facts. All our wishing cannot change them. We must use them." <br> &emsp;&emsp;&emsp; <i>-by John Henry Cardinal Newman</i> 
 
- 3.  "Courage is fear that has said its prayers." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Bernard</i> 
+ 3.  "Be not afraid of greatness: some men are born great, some achieve greatness and some have greatness thrust upon them." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "What is food to one, is to others bitter poison." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
+ 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
