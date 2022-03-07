@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We buy our way out of jail but we can't buy freedom,/ We buy a lot of clothes when we don't really need them,/ Things we buy to cover up what's inside." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 1.  "Public opinion is a weak tyrant compared with our own private opinion. What a man thinks of himself, that is which determines, or rather indicates, his fate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "Let us take things as we find them: let us not attempt to distort them into what they are not. We cannot make facts. All our wishing cannot change them. We must use them." <br> &emsp;&emsp;&emsp; <i>-by John Henry Cardinal Newman</i> 
+ 2.  "I'm going to a special place when I die, but I want to make sure my life is special while I'm here." <br> &emsp;&emsp;&emsp; <i>-by Payne Stewart</i> 
 
- 3.  "Be not afraid of greatness: some men are born great, some achieve greatness and some have greatness thrust upon them." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "Be a craftsman in speech that thou mayest be strong, for the strength of one is the tongue, and speech is mightier than all fighting." <br> &emsp;&emsp;&emsp; <i>-by Maxims of Ptahhotep</i> 
 
- 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "Never be a cynic, even a gentle one. Never help out a sneer, even at the devil." <br> &emsp;&emsp;&emsp; <i>-by Vachel Lindsay</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
