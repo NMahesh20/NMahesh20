@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Public opinion is a weak tyrant compared with our own private opinion. What a man thinks of himself, that is which determines, or rather indicates, his fate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "Justice does not come from the outside. It comes from inner peace." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 2.  "I'm going to a special place when I die, but I want to make sure my life is special while I'm here." <br> &emsp;&emsp;&emsp; <i>-by Payne Stewart</i> 
+ 2.  "A good man would prefer to be defeated than to defeat injustice by evil means." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
 
- 3.  "Be a craftsman in speech that thou mayest be strong, for the strength of one is the tongue, and speech is mightier than all fighting." <br> &emsp;&emsp;&emsp; <i>-by Maxims of Ptahhotep</i> 
+ 3.  "Don't think there are no crocodiles because the water is calm." <br> &emsp;&emsp;&emsp; <i>-by Malayan Proverb</i> 
 
- 4.  "Never be a cynic, even a gentle one. Never help out a sneer, even at the devil." <br> &emsp;&emsp;&emsp; <i>-by Vachel Lindsay</i> 
+ 4.  "Happiness: a good bank account, a good cook and a good digestion." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
