@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Justice does not come from the outside. It comes from inner peace." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 1.  "Never compare your inside with somebody else's outside." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "A good man would prefer to be defeated than to defeat injustice by evil means." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
+ 2.  "You've got to be original, because if you're like someone else, what do they need you for?" <br> &emsp;&emsp;&emsp; <i>-by Bernadette Peters</i> 
 
- 3.  "Don't think there are no crocodiles because the water is calm." <br> &emsp;&emsp;&emsp; <i>-by Malayan Proverb</i> 
+ 3.  "Laughter gives us distance. It allows us to step back from an event, deal with it and then move on." <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
 
- 4.  "Happiness: a good bank account, a good cook and a good digestion." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
+ 4.  "We are never deceived; we deceive ourselves." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
