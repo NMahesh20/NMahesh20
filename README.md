@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Never compare your inside with somebody else's outside." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "Family connexions were always worth preserving, good company always worth seeking." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "You've got to be original, because if you're like someone else, what do they need you for?" <br> &emsp;&emsp;&emsp; <i>-by Bernadette Peters</i> 
+ 2.  "Don't gamble; take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 
- 3.  "Laughter gives us distance. It allows us to step back from an event, deal with it and then move on." <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
+ 3.  "Do not spoil what you have by desiring what you have not; but remember that what you now have was once among the things you only hoped for." <br> &emsp;&emsp;&emsp; <i>-by Epicurus</i> 
 
- 4.  "We are never deceived; we deceive ourselves." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "I do not confer praise or blame: I accept. I am the measure of all things. I am the centre of the world." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
