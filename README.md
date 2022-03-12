@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "While we have the gift of life, it seems to me that only tragedy is to allow part of us to die - whether it is our spirit, our creativity, or our glorious uniqueness." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Own only what you can carry with you; know language, know countries, know people. Let your memory be your travel bag." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
+ 2.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "Never take the advice of someone who has not had your kind of trouble." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
+ 3.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
 
- 4.  "Genius is one percent inspiration, ninety-nine percent perspiration." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 4.  "Properly, we should read for power. Man reading should be man intensely alive. The book should be a ball of light in one's hand." <br> &emsp;&emsp;&emsp; <i>-by Ezra Pound</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
