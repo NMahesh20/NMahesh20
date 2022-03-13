@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "It's amazing how quickly nature consumes human places after we turn our backs on them. Life is a hungry thing." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 2.  "When all is said and done, the weather and love are the two elements about which one can never be sure." <br> &emsp;&emsp;&emsp; <i>-by Alice Hoffman</i> 
 
- 3.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
+ 3.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
 
- 4.  "Properly, we should read for power. Man reading should be man intensely alive. The book should be a ball of light in one's hand." <br> &emsp;&emsp;&emsp; <i>-by Ezra Pound</i> 
+ 4.  "The Chinese use two brush strokes to write the word 'crisis.' One brush stroke stands for danger; the other for opportunity. In a crisis, be aware of the danger - but recognize the opportunity." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
