@@ -12,7 +12,7 @@ You can ping me at any of the socials that you find at this page. I am not super
 <a href="https://discordapp.com/users/733328856957714472"><img src="./Assets/Papirus-Team-Papirus-Apps-Discord.svg" height="50px" width="50px" ></a>&nbsp; &nbsp;  
 <a href ="https://instagram.com/obl1v_on"><img src="./Assets/Papirus-Team-Papirus-Apps-Instagram.svg" height="50px" width="50px" ></a>&nbsp;  &nbsp; 
 <a href ="https://twitter.com/MaheshN2000"><img src="./Assets/Papirus-Team-Papirus-Apps-Twitter.svg" height ="50px" width="50px" ></a>&nbsp;
-<a href ="www.linkedin.com/in/mahesh2000"><img src="./Assets/in.png" height ="50px" width="50px" ></a>
+<a href ="https://linkedin.com/in/mahesh2000"><img src="./Assets/in.png" height ="50px" width="50px" ></a>
 
 </p>
 
