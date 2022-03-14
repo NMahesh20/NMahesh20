@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's amazing how quickly nature consumes human places after we turn our backs on them. Life is a hungry thing." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "A runners creed: I will win; if I cannot win, I shall be second; if I cannot be second, I shall be third; if I cannot place at all, I shall still do my best." <br> &emsp;&emsp;&emsp; <i>-by Ken Doherty</i> 
 
- 2.  "When all is said and done, the weather and love are the two elements about which one can never be sure." <br> &emsp;&emsp;&emsp; <i>-by Alice Hoffman</i> 
+ 2.  "Achievement is largely the product of steadily raising one's levels of aspiration and expectation." <br> &emsp;&emsp;&emsp; <i>-by Jack Nicklaus</i> 
 
- 3.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
+ 3.  "Exercise alone provides psychological and physical benefits. However, if you also adopt a strategy that engages your mind while you exercise, you can get a whole host of psychological benefits fairly quickly." <br> &emsp;&emsp;&emsp; <i>-by James Rippe</i> 
 
- 4.  "The Chinese use two brush strokes to write the word 'crisis.' One brush stroke stands for danger; the other for opportunity. In a crisis, be aware of the danger - but recognize the opportunity." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 4.  "A ruffled mind makes a restless pillow." <br> &emsp;&emsp;&emsp; <i>-by Charlotte Bronte</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
