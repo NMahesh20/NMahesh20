@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A runners creed: I will win; if I cannot win, I shall be second; if I cannot be second, I shall be third; if I cannot place at all, I shall still do my best." <br> &emsp;&emsp;&emsp; <i>-by Ken Doherty</i> 
+ 1.  "Concentration is my motto. First honesty, then industry, then concentration." <br> &emsp;&emsp;&emsp; <i>-by Andrew Carnegie</i> 
 
- 2.  "Achievement is largely the product of steadily raising one's levels of aspiration and expectation." <br> &emsp;&emsp;&emsp; <i>-by Jack Nicklaus</i> 
+ 2.  "The human brain is unique in that it is the only container of which it can be said that the more you put into it, the more it will hold." <br> &emsp;&emsp;&emsp; <i>-by Glenn Doman</i> 
 
- 3.  "Exercise alone provides psychological and physical benefits. However, if you also adopt a strategy that engages your mind while you exercise, you can get a whole host of psychological benefits fairly quickly." <br> &emsp;&emsp;&emsp; <i>-by James Rippe</i> 
+ 3.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
 
- 4.  "A ruffled mind makes a restless pillow." <br> &emsp;&emsp;&emsp; <i>-by Charlotte Bronte</i> 
+ 4.  "What we're all striving for is authenticity, a spirit-to-spirit connection." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
