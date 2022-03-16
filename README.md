@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Concentration is my motto. First honesty, then industry, then concentration." <br> &emsp;&emsp;&emsp; <i>-by Andrew Carnegie</i> 
+ 1.  "You've got to find what you love and that is as true for work as it is for lovers. Your work is going to fill a large part of your life and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you've found it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "The human brain is unique in that it is the only container of which it can be said that the more you put into it, the more it will hold." <br> &emsp;&emsp;&emsp; <i>-by Glenn Doman</i> 
+ 2.  "You don't pay back your parents. You can't. The debt you owe them gets collected by your children, who hand it down in turn. It's a sort of entailment. Or if you don't have children of the body, it's left as a debt to your common humanity. Or to your God, if you possess or are possessed by one." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
+ 3.  "The greatest pleasure in life is doing what people say you cannot do." <br> &emsp;&emsp;&emsp; <i>-by Walter Bagehot</i> 
 
- 4.  "What we're all striving for is authenticity, a spirit-to-spirit connection." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "Don't take life too seriously. You'll never get out of it alive." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
