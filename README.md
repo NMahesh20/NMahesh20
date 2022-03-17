@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You've got to find what you love and that is as true for work as it is for lovers. Your work is going to fill a large part of your life and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you've found it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "You ought to expect better of people. It encourages you to be a better person yourself." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 2.  "You don't pay back your parents. You can't. The debt you owe them gets collected by your children, who hand it down in turn. It's a sort of entailment. Or if you don't have children of the body, it's left as a debt to your common humanity. Or to your God, if you possess or are possessed by one." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "If someone offers you a gift, and you decline to accept it, the other person still owns that gift. The same is true of insults and verbal attacks." <br> &emsp;&emsp;&emsp; <i>-by Steve Pavlina</i> 
 
- 3.  "The greatest pleasure in life is doing what people say you cannot do." <br> &emsp;&emsp;&emsp; <i>-by Walter Bagehot</i> 
+ 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
 
- 4.  "Don't take life too seriously. You'll never get out of it alive." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 4.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
