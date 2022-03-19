@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I wish you sunshine on your path and storms to season your journey. I wish you peace in the world in which you live... More I cannot wish you except perhaps love to make all the rest worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Robert A. Ward</i> 
+ 1.  "Be kind, for everyone you meet is fighting a hard battle." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 
- 2.  "Good habits, which bring our lower passions and appetites under automatic control, leave our natures free to explore the larger experiences of life." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
+ 2.  "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "We may lay in a stock of pleasures, as we would lay in a stock of wine; but if we defer tasting them too long, we shall find that both are soured by age." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 3.  "Do not, for one repulse, forego the purpose that you resolved to effect." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication." <br> &emsp;&emsp;&emsp; <i>-by Cecil B. DeMille</i> 
+ 4.  "For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
