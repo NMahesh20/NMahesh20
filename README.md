@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Be kind, for everyone you meet is fighting a hard battle." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "If you have something to say, then say it. If not, enjoy the silence while it lasts. The noise will return soon enough. In the meantime, you%uFFFDre better off going out into the big, wide world, having some adventures and refilling your well. Trying to create when you don%uFFFDt feel like it is like making conversation for the sake of making conversation." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Do not, for one repulse, forego the purpose that you resolved to effect." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "I appreciate people who are civil, whether they mean it or not. I think: Be civil. Do not cherish your opinion over my feelings. There's a vanity to candor that isn't really worth it. Be kind." <br> &emsp;&emsp;&emsp; <i>-by Richard Greenberg</i> 
 
- 4.  "For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
+ 4.  "Chase after truth like hell and you'll free yourself, even though you never touch its coat-tails." <br> &emsp;&emsp;&emsp; <i>-by Clarence Darrow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
