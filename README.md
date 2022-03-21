@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "In this new, hyper competitive age, none of us, none of us can afford to be complacent." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "If you have something to say, then say it. If not, enjoy the silence while it lasts. The noise will return soon enough. In the meantime, you%uFFFDre better off going out into the big, wide world, having some adventures and refilling your well. Trying to create when you don%uFFFDt feel like it is like making conversation for the sake of making conversation." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "Security is a kind of death." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
 
- 3.  "I appreciate people who are civil, whether they mean it or not. I think: Be civil. Do not cherish your opinion over my feelings. There's a vanity to candor that isn't really worth it. Be kind." <br> &emsp;&emsp;&emsp; <i>-by Richard Greenberg</i> 
+ 3.  "I never feel age...If you have creative work, you don't have age or time." <br> &emsp;&emsp;&emsp; <i>-by Louise Nevelson</i> 
 
- 4.  "Chase after truth like hell and you'll free yourself, even though you never touch its coat-tails." <br> &emsp;&emsp;&emsp; <i>-by Clarence Darrow</i> 
+ 4.  "Curious things, habits. People themselves never knew they had them." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
