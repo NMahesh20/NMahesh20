@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How does a project get to be a year behind schedule? One day at a time." <br> &emsp;&emsp;&emsp; <i>-by Fred Brooks</i> 
+ 1.  "The modern rule is that every woman should be her own chaperon." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
 
- 2.  "It is characteristic of all deep human problems that they are not to be approached without some humor and some bewilderment." <br> &emsp;&emsp;&emsp; <i>-by Freeman Dyson</i> 
+ 2.  "If you want to make peace, you don't talk to your friends. You talk to your enemies." <br> &emsp;&emsp;&emsp; <i>-by Moshe Dayan</i> 
 
- 3.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
+ 3.  "Let us so live that when we come to die even the undertaker will be sorry." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "I ran the wrong kind of business, but I did it with integrity." <br> &emsp;&emsp;&emsp; <i>-by Sydney Biddle Barrows</i> 
+ 4.  "The man who has nothing to boast of but his illustrious ancestry is like the potato - the best part under ground." <br> &emsp;&emsp;&emsp; <i>-by Thomas Overbury</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
