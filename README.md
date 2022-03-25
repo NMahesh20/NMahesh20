@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep playing games. Make time to play games with your friends and family, because it's surprisingly heartbreaking to wipe a thin layer of dust off a game you love, before you put it back on the shelf because the real world is calling you." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "Oh for a book and a shady nook..." <br> &emsp;&emsp;&emsp; <i>-by John Wilson</i> 
 
- 2.  "Hysteria is only possible with an audience." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "Use your imagination not to scare yourself to death but to inspire yourself to life." <br> &emsp;&emsp;&emsp; <i>-by Adele Brookman</i> 
 
- 3.  "Experience teaches slowly and at the cost of mistakes." <br> &emsp;&emsp;&emsp; <i>-by James A. Froude</i> 
+ 3.  "In taking revenge, a man is but even with his enemy; but in passing it over, he is superior." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked." <br> &emsp;&emsp;&emsp; <i>-by Erich Segal</i> 
+ 4.  "The secret of a good memory is attention, and attention to a subject depends upon our interest in it. We rarely forget that which has made a deep impression on our minds." <br> &emsp;&emsp;&emsp; <i>-by Tryon Edwards</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
