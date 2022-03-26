@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Oh for a book and a shady nook..." <br> &emsp;&emsp;&emsp; <i>-by John Wilson</i> 
+ 1.  "In order to truly give to others, you have to give to yourself first." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Use your imagination not to scare yourself to death but to inspire yourself to life." <br> &emsp;&emsp;&emsp; <i>-by Adele Brookman</i> 
+ 2.  "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you." <br> &emsp;&emsp;&emsp; <i>-by Diana Spencer</i> 
 
- 3.  "In taking revenge, a man is but even with his enemy; but in passing it over, he is superior." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "I came to realize that life lived to help others is the only one that matters and that it is my duty...This is my highest and best use as a human." <br> &emsp;&emsp;&emsp; <i>-by Ben Stein</i> 
 
- 4.  "The secret of a good memory is attention, and attention to a subject depends upon our interest in it. We rarely forget that which has made a deep impression on our minds." <br> &emsp;&emsp;&emsp; <i>-by Tryon Edwards</i> 
+ 4.  "Remember that what you believe will depend very much on what you are." <br> &emsp;&emsp;&emsp; <i>-by Noah Porter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
