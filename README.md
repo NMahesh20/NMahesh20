@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In order to truly give to others, you have to give to yourself first." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "May I forget what ought to be forgotten; and recall, unfailing, all that ought to be recalled, each kindly thing, forgetting what might sting." <br> &emsp;&emsp;&emsp; <i>-by Mary Caroline Davies</i> 
 
- 2.  "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you." <br> &emsp;&emsp;&emsp; <i>-by Diana Spencer</i> 
+ 2.  "I write because I'm afraid to say some things out loud." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "I came to realize that life lived to help others is the only one that matters and that it is my duty...This is my highest and best use as a human." <br> &emsp;&emsp;&emsp; <i>-by Ben Stein</i> 
+ 3.  "Make visible what, without you, might perhaps never have been seen." <br> &emsp;&emsp;&emsp; <i>-by Robert Bresson</i> 
 
- 4.  "Remember that what you believe will depend very much on what you are." <br> &emsp;&emsp;&emsp; <i>-by Noah Porter</i> 
+ 4.  "Assumptions are the termites of relationships." <br> &emsp;&emsp;&emsp; <i>-by Henry Winkler</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
