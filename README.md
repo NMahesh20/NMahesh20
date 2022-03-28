@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "May I forget what ought to be forgotten; and recall, unfailing, all that ought to be recalled, each kindly thing, forgetting what might sting." <br> &emsp;&emsp;&emsp; <i>-by Mary Caroline Davies</i> 
+ 1.  "How beautiful maleness is, if it finds its right expression." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
 
- 2.  "I write because I'm afraid to say some things out loud." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "If power was an illusion, wasn't weakness necessarily one also?" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Make visible what, without you, might perhaps never have been seen." <br> &emsp;&emsp;&emsp; <i>-by Robert Bresson</i> 
+ 3.  "Every time we say, "Let there be!" in any form, something happens." <br> &emsp;&emsp;&emsp; <i>-by Stella Terrill Mann</i> 
 
- 4.  "Assumptions are the termites of relationships." <br> &emsp;&emsp;&emsp; <i>-by Henry Winkler</i> 
+ 4.  "Wish not so much to live long as to live well." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
