@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How beautiful maleness is, if it finds its right expression." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
+ 1.  "While I am overwhelmingly proud of work that I, believe me, did not do on my own, I can assure you that awards have very little bearing on my own personal happiness, my own sense of well-being and purpose in the world." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "If power was an illusion, wasn't weakness necessarily one also?" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Enough organization, enough lists and we think we can control the uncontrollable." <br> &emsp;&emsp;&emsp; <i>-by John Mankiewicz</i> 
 
- 3.  "Every time we say, "Let there be!" in any form, something happens." <br> &emsp;&emsp;&emsp; <i>-by Stella Terrill Mann</i> 
+ 3.  "September tries its best to have us forget summer." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 4.  "Wish not so much to live long as to live well." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Do not remove a fly from your friend's forehead with a hatchet." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
