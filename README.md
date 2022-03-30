@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "While I am overwhelmingly proud of work that I, believe me, did not do on my own, I can assure you that awards have very little bearing on my own personal happiness, my own sense of well-being and purpose in the world." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "Beauty and seduction is nature's tool for survival, because we will protect what we love." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
 
- 2.  "Enough organization, enough lists and we think we can control the uncontrollable." <br> &emsp;&emsp;&emsp; <i>-by John Mankiewicz</i> 
+ 2.  "He has achieved success who has lived well, laughed often, and loved much." <br> &emsp;&emsp;&emsp; <i>-by Bessie A. Stanley</i> 
 
- 3.  "September tries its best to have us forget summer." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 3.  "One single grateful thought raised to heaven is the most perfect prayer." <br> &emsp;&emsp;&emsp; <i>-by G. E. Lessing</i> 
 
- 4.  "Do not remove a fly from your friend's forehead with a hatchet." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "If you are a terror to many, then beware of many." <br> &emsp;&emsp;&emsp; <i>-by Ausonius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
