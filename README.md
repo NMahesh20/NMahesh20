@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My parents taught me how to listen to everybody before I made up my own mind. When you listen, you learn. You absorb like a sponge-and your life becomes so much better than when you are just trying to be listened to all the time." <br> &emsp;&emsp;&emsp; <i>-by Steven Spielberg</i> 
+ 1.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "Indifference and neglect often do much more damage than outright dislike." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 3.  "I cannot live without books." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 3.  "Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were." <br> &emsp;&emsp;&emsp; <i>-by David Rockefeller</i> 
 
- 4.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
+ 4.  "A duty dodged is like a debt unpaid; it is only deferred, and we must come back and settle the account at last." <br> &emsp;&emsp;&emsp; <i>-by Joseph F. Newton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
