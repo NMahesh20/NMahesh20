@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "Don't waste too much time trying' to be a better man, ' cause you ain't never gonna be one without a good woman." <br> &emsp;&emsp;&emsp; <i>-by Mark Roberts</i> 
 
- 2.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 2.  "We lie the loudest when we lie to ourselves." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 3.  "Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were." <br> &emsp;&emsp;&emsp; <i>-by David Rockefeller</i> 
+ 3.  "Insist on yourself; never imitate... Every great man is unique." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "A duty dodged is like a debt unpaid; it is only deferred, and we must come back and settle the account at last." <br> &emsp;&emsp;&emsp; <i>-by Joseph F. Newton</i> 
+ 4.  "When you cannot get a compliment any other way pay yourself one." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
