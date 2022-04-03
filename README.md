@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't waste too much time trying' to be a better man, ' cause you ain't never gonna be one without a good woman." <br> &emsp;&emsp;&emsp; <i>-by Mark Roberts</i> 
+ 1.  "I like the night. Without the dark, we'd never see the stars." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
 
- 2.  "We lie the loudest when we lie to ourselves." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 2.  "When you reach for the stars you may not quite get one, but you won't come up with a handful of mud either." <br> &emsp;&emsp;&emsp; <i>-by Leo Burnett</i> 
 
- 3.  "Insist on yourself; never imitate... Every great man is unique." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
 
- 4.  "When you cannot get a compliment any other way pay yourself one." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Vegetarianism is harmless enough, though it is apt to fill a man with wind and self-righteousness." <br> &emsp;&emsp;&emsp; <i>-by Sir Robert Hutchinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
