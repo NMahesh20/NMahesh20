@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I like the night. Without the dark, we'd never see the stars." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
+ 1.  "When a thought is too weak to be expressed simply, it should be rejected." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
 
- 2.  "When you reach for the stars you may not quite get one, but you won't come up with a handful of mud either." <br> &emsp;&emsp;&emsp; <i>-by Leo Burnett</i> 
+ 2.  "Grasp the subject, the words will follow." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
 
- 3.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
+ 3.  "It's always helpful to learn from your mistakes because then your mistakes seem worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Garry Marshall</i> 
 
- 4.  "Vegetarianism is harmless enough, though it is apt to fill a man with wind and self-righteousness." <br> &emsp;&emsp;&emsp; <i>-by Sir Robert Hutchinson</i> 
+ 4.  "A hobby a day keeps the doldrums away." <br> &emsp;&emsp;&emsp; <i>-by Phyllis Mcginley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
