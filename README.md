@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When a thought is too weak to be expressed simply, it should be rejected." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
+ 1.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
 
- 2.  "Grasp the subject, the words will follow." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
+ 2.  "Just because you are blind, and unable to see my beauty doesn't mean it does not exist." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "It's always helpful to learn from your mistakes because then your mistakes seem worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Garry Marshall</i> 
+ 3.  "There's this big pie in show business, and you physically can't eat the whole pie. If you give everybody a slice of pie, you will still have more than enough. The real trick is not to try to get the whole pie, but to keep the biggest slice." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
 
- 4.  "A hobby a day keeps the doldrums away." <br> &emsp;&emsp;&emsp; <i>-by Phyllis Mcginley</i> 
+ 4.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
