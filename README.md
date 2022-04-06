@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
+ 1.  "The moral virtues, then, are produced in us neither by nature nor against nature. Nature, indeed, prepares in us the ground for their reception, but their complete formation is the product of habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 2.  "Just because you are blind, and unable to see my beauty doesn't mean it does not exist." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "We have all a better guide in ourselves, if we would attend to it, than any other person can be." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "There's this big pie in show business, and you physically can't eat the whole pie. If you give everybody a slice of pie, you will still have more than enough. The real trick is not to try to get the whole pie, but to keep the biggest slice." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
+ 3.  "First keep the peace within yourself, then you can also bring peace to others." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 4.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
