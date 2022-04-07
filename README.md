@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The moral virtues, then, are produced in us neither by nature nor against nature. Nature, indeed, prepares in us the ground for their reception, but their complete formation is the product of habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 1.  "If you're afraid to let someone else see your weakness, take heart: Nobody's perfect. Besides, your attempts to hide your flaws don't work as well as you think they do." <br> &emsp;&emsp;&emsp; <i>-by Julie Morgenstern</i> 
 
- 2.  "We have all a better guide in ourselves, if we would attend to it, than any other person can be." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Death is the enemy. I spent 10 years of my life singlemindedly studying, practicing, fighting hand to hand in close quarters to defeat the enemy, to send him back bloodied and humble and I am not going to roll over and surrender." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "First keep the peace within yourself, then you can also bring peace to others." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 3.  "Perhaps better we not obscure the idea that happiness and misery, kindness and greed, and good works and bad deeds are within the capacities of us all, not merely a select few." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
+ 4.  "Make no little plans; they have no magic to stir men's blood...Make big plans, aim high in hope and work." <br> &emsp;&emsp;&emsp; <i>-by Daniel H. Burnham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
