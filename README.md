@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's some things that people don't admit because they don't like the way it sounds." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 1.  "Moments of kindness and reconciliation are worth having, even if the parting has to come sooner or later." <br> &emsp;&emsp;&emsp; <i>-by Alice Munro</i> 
 
- 2.  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 2.  "Acceptance is not a state of passivity or inaction. I am not saying you can't change the world, right wrongs, or replace evil with good. Acceptance is, in fact, the first step to successful action. If you don't fully accept a situation precisely the way it is, you will have difficulty changing it. Moreover, if you don't fully accept the situation, you will never really know if the situation should be changed." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Never stand begging for that which you have the power to earn." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 3.  "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 4.  "Among those whom I like or admire, I can find no common denominator, but among those whom I love, I can: all of them make me laugh." <br> &emsp;&emsp;&emsp; <i>-by W. H. Auden</i> 
+ 4.  "The love of learning, the sequestered nooks,/ And all the sweet serenity of books." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
