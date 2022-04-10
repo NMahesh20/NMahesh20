@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Moments of kindness and reconciliation are worth having, even if the parting has to come sooner or later." <br> &emsp;&emsp;&emsp; <i>-by Alice Munro</i> 
+ 1.  "When yu' can't have why you choose, yu' just choose what you have." <br> &emsp;&emsp;&emsp; <i>-by Owen Wister</i> 
 
- 2.  "Acceptance is not a state of passivity or inaction. I am not saying you can't change the world, right wrongs, or replace evil with good. Acceptance is, in fact, the first step to successful action. If you don't fully accept a situation precisely the way it is, you will have difficulty changing it. Moreover, if you don't fully accept the situation, you will never really know if the situation should be changed." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "Man must evolve for all human conflict a method which rejects revenge, aggression and retaliation. The foundation of such a method is love." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 3.  "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
 
- 4.  "The love of learning, the sequestered nooks,/ And all the sweet serenity of books." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "If you don't learn to laugh at trouble, you won't have anything to laugh at when you're old." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
