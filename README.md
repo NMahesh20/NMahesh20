@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When yu' can't have why you choose, yu' just choose what you have." <br> &emsp;&emsp;&emsp; <i>-by Owen Wister</i> 
+ 1.  "I love that sometimes we need to go to the opposite side of the world to realize assumptions that we didn't even know we had and realize that the opposite may also be true." <br> &emsp;&emsp;&emsp; <i>-by Derek Sivers</i> 
 
- 2.  "Man must evolve for all human conflict a method which rejects revenge, aggression and retaliation. The foundation of such a method is love." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
+ 3.  "Why comes temptation, but for man to meet and master and crouch beneath his foot, and so be pedestaled in triumph?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
 
- 4.  "If you don't learn to laugh at trouble, you won't have anything to laugh at when you're old." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
+ 4.  "Work saves us from three great evils: boredom, vice and need." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
