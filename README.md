@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I love that sometimes we need to go to the opposite side of the world to realize assumptions that we didn't even know we had and realize that the opposite may also be true." <br> &emsp;&emsp;&emsp; <i>-by Derek Sivers</i> 
+ 1.  "When we are angry or depressed in our creativity, we have misplaced our power. We have allowed someone else to determine our worth, and then we are angry at being undervalued." <br> &emsp;&emsp;&emsp; <i>-by Julia Cameron</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "Be discreet in all things, and so render it unnecessary to be mysterious about any." <br> &emsp;&emsp;&emsp; <i>-by Arthur Wellesley</i> 
 
- 3.  "Why comes temptation, but for man to meet and master and crouch beneath his foot, and so be pedestaled in triumph?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 3.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
 
- 4.  "Work saves us from three great evils: boredom, vice and need." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 4.  "The happiness of a man in this life does not consist in the absence but in the mastery of his passions." <br> &emsp;&emsp;&emsp; <i>-by Alfred Lord Tennyson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
