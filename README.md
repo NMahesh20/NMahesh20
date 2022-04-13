@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we are angry or depressed in our creativity, we have misplaced our power. We have allowed someone else to determine our worth, and then we are angry at being undervalued." <br> &emsp;&emsp;&emsp; <i>-by Julia Cameron</i> 
+ 1.  "Never regret something that once made you smile." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
 
- 2.  "Be discreet in all things, and so render it unnecessary to be mysterious about any." <br> &emsp;&emsp;&emsp; <i>-by Arthur Wellesley</i> 
+ 2.  "The older I get, the greater power I seem to have to help the world; I am like a snowball - the further I am rolled, the more I gain." <br> &emsp;&emsp;&emsp; <i>-by Susan B. Anthony</i> 
 
- 3.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
+ 3.  "Age is foolish and forgetful when it underestimates youth." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "The happiness of a man in this life does not consist in the absence but in the mastery of his passions." <br> &emsp;&emsp;&emsp; <i>-by Alfred Lord Tennyson</i> 
+ 4.  "Give me the splendid silent sun with all his beams full-dazzling." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
