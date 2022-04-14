@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Never regret something that once made you smile." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "The older I get, the greater power I seem to have to help the world; I am like a snowball - the further I am rolled, the more I gain." <br> &emsp;&emsp;&emsp; <i>-by Susan B. Anthony</i> 
+ 2.  "In health the flesh is graced, the holy enters the world." <br> &emsp;&emsp;&emsp; <i>-by Wendell Berry</i> 
 
- 3.  "Age is foolish and forgetful when it underestimates youth." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "The roots of true achievement lie in the will to become the best that you can become." <br> &emsp;&emsp;&emsp; <i>-by Harold Taylor</i> 
 
- 4.  "Give me the splendid silent sun with all his beams full-dazzling." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "A man is too apt to forget that in this world he cannot have everything. A choice is all that is left him." <br> &emsp;&emsp;&emsp; <i>-by H. Mathews</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
