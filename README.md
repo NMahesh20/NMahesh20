@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Twilight, again. Another ending. No matter how perfect the day is, it always has to end." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
 
- 2.  "In health the flesh is graced, the holy enters the world." <br> &emsp;&emsp;&emsp; <i>-by Wendell Berry</i> 
+ 2.  "The only alternative to coexistence is codestruction." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 3.  "The roots of true achievement lie in the will to become the best that you can become." <br> &emsp;&emsp;&emsp; <i>-by Harold Taylor</i> 
+ 3.  "Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 4.  "A man is too apt to forget that in this world he cannot have everything. A choice is all that is left him." <br> &emsp;&emsp;&emsp; <i>-by H. Mathews</i> 
+ 4.  "The knowledge of the world is only to be acquired in the world, and not in a closet." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
