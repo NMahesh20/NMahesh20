@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Twilight, again. Another ending. No matter how perfect the day is, it always has to end." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
+ 1.  "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "The only alternative to coexistence is codestruction." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
 
- 3.  "Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 3.  "Take calculated risks. That is quite different from being rash." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
 
- 4.  "The knowledge of the world is only to be acquired in the world, and not in a closet." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 4.  "When people talk, listen completely. Most people never listen." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
