@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "The best way to learn to be an honest, responsible adult is to live with adults who act honestly and responsibly." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
 
- 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
+ 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
 
- 3.  "Take calculated risks. That is quite different from being rash." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
+ 3.  "Think like a man of action, act like a man of thought." <br> &emsp;&emsp;&emsp; <i>-by Henri Bergson</i> 
 
- 4.  "When people talk, listen completely. Most people never listen." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
+ 4.  "Appetite, with an opinion of attaining, is called hope; the same, without such opinion, despair." <br> &emsp;&emsp;&emsp; <i>-by Thomas Hobbes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
