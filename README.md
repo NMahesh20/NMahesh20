@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best way to learn to be an honest, responsible adult is to live with adults who act honestly and responsibly." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
+ 1.  "Art does not exist only to entertain, but also to challenge one to think, to provoke, even to disturb, in a constant search for truth." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
 
- 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
+ 2.  "The vitality of thought is in adventure. Ideas won't keep. Something must be done about them." <br> &emsp;&emsp;&emsp; <i>-by Alfred North Whitehead</i> 
 
- 3.  "Think like a man of action, act like a man of thought." <br> &emsp;&emsp;&emsp; <i>-by Henri Bergson</i> 
+ 3.  "Men for the sake of getting a living forget to live." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
 
- 4.  "Appetite, with an opinion of attaining, is called hope; the same, without such opinion, despair." <br> &emsp;&emsp;&emsp; <i>-by Thomas Hobbes</i> 
+ 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
