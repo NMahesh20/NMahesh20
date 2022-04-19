@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Art does not exist only to entertain, but also to challenge one to think, to provoke, even to disturb, in a constant search for truth." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
+ 1.  "Success is meaningless if you can't sleep at night because of harsh things said, petty secrets sharpened against hard and stony regret, just waiting to be plunged into the soft underbelly of a 'friendship.'" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "The vitality of thought is in adventure. Ideas won't keep. Something must be done about them." <br> &emsp;&emsp;&emsp; <i>-by Alfred North Whitehead</i> 
+ 2.  "There is... nothing greater than touching the shore after crossing some great body of water knowing that I've done it with my own two arms and legs." <br> &emsp;&emsp;&emsp; <i>-by Diana Nyad</i> 
 
- 3.  "Men for the sake of getting a living forget to live." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
+ 3.  "An invasion of armies can be resisted, but not an idea whose time has come." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
+ 4.  "Guilt is a rope that wears thin." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
