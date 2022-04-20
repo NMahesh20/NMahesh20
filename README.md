@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success is meaningless if you can't sleep at night because of harsh things said, petty secrets sharpened against hard and stony regret, just waiting to be plunged into the soft underbelly of a 'friendship.'" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "Many people weigh the guilt they will feel against the pleasure of the forbidden action they want to take." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 2.  "There is... nothing greater than touching the shore after crossing some great body of water knowing that I've done it with my own two arms and legs." <br> &emsp;&emsp;&emsp; <i>-by Diana Nyad</i> 
+ 2.  "Take hold lightly; let go lightly. This is one of the great secrets of felicity in love." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 3.  "An invasion of armies can be resisted, but not an idea whose time has come." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "Eat breakfast like a king, lunch like a prince, and dinner like a pauper." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 
- 4.  "Guilt is a rope that wears thin." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 4.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
