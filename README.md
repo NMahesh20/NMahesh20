@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Many people weigh the guilt they will feel against the pleasure of the forbidden action they want to take." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 1.  "I think the best evenings are when we have messages, things that make us think, but we can also laugh and enjoy each other's company." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "Take hold lightly; let go lightly. This is one of the great secrets of felicity in love." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 2.  "Question how much freedom your path affords you. Be utterly ruthless about it./ It's your freedom that will get you to where you want to go." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Eat breakfast like a king, lunch like a prince, and dinner like a pauper." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 3.  "Take a music bath once or twice a week for a few seasons, and you will find that it is to the soul what the water bath is to the body." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 4.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 4.  "In attempts to improve your character, know what is in your power and what is beyond it." <br> &emsp;&emsp;&emsp; <i>-by Francis Thompson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
