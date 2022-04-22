@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think the best evenings are when we have messages, things that make us think, but we can also laugh and enjoy each other's company." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Question how much freedom your path affords you. Be utterly ruthless about it./ It's your freedom that will get you to where you want to go." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "Sometimes the questions are complicated and the answers are simple." <br> &emsp;&emsp;&emsp; <i>-by Dr. Seuss</i> 
 
- 3.  "Take a music bath once or twice a week for a few seasons, and you will find that it is to the soul what the water bath is to the body." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 3.  "Every human is an artist. The dream of your life is to make beautiful art." <br> &emsp;&emsp;&emsp; <i>-by don Miguel Ruiz</i> 
 
- 4.  "In attempts to improve your character, know what is in your power and what is beyond it." <br> &emsp;&emsp;&emsp; <i>-by Francis Thompson</i> 
+ 4.  "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding. Hold this picture tenaciously. Never permit it to fade. Your mind will seek to develop the picture...Do not build up obstacles in your imagination." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
