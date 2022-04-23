@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Like anyone else, there are days I feel beautiful and days I don't, and when I don't, I do something about it." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Tiegs</i> 
 
- 2.  "Sometimes the questions are complicated and the answers are simple." <br> &emsp;&emsp;&emsp; <i>-by Dr. Seuss</i> 
+ 2.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 3.  "Every human is an artist. The dream of your life is to make beautiful art." <br> &emsp;&emsp;&emsp; <i>-by don Miguel Ruiz</i> 
+ 3.  "It is better to sleep on things beforehand than lie awake about them afterward." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 
- 4.  "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding. Hold this picture tenaciously. Never permit it to fade. Your mind will seek to develop the picture...Do not build up obstacles in your imagination." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
+ 4.  "Better be ill spoken of by one before all than by all before one." <br> &emsp;&emsp;&emsp; <i>-by Scottish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
