@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Like anyone else, there are days I feel beautiful and days I don't, and when I don't, I do something about it." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Tiegs</i> 
+ 1.  "Think of life as a giant, fat cat you're in charge of. Sometimes you can control it, but other times, it's going to do what it wants and you have to roll with it. And sometimes you can do everything - everything you're s'posed to do- and it'll still shred all the things you hold dear... The only thing you can really do with life is rub its belly and prepare for the worst." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 2.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
 
- 3.  "It is better to sleep on things beforehand than lie awake about them afterward." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 3.  "Whosoever is delighted in solitude is either a wild beast or a god." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "Better be ill spoken of by one before all than by all before one." <br> &emsp;&emsp;&emsp; <i>-by Scottish Proverb</i> 
+ 4.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
