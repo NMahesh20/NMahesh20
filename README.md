@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Think of life as a giant, fat cat you're in charge of. Sometimes you can control it, but other times, it's going to do what it wants and you have to roll with it. And sometimes you can do everything - everything you're s'posed to do- and it'll still shred all the things you hold dear... The only thing you can really do with life is rub its belly and prepare for the worst." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "Loving yourself means caring enough to make the hard decisions in your life." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
+ 2.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "Whosoever is delighted in solitude is either a wild beast or a god." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "My wish is to ride the tempest, tame the waves, kill the sharks. I will not resign myself..." <br> &emsp;&emsp;&emsp; <i>-by Trieu Thi Trinh</i> 
 
- 4.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 4.  "Let me advise thee not to talk of thyself as being old. There is something in Mind Cure, after all, and if thee continually talks of thyself as being old, thee may perhaps bring on some of the infirmities of age. At least I would not risk it if I were thee." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
