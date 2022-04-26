@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Loving yourself means caring enough to make the hard decisions in your life." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "The happiest excitement in life is to be convinced that one is fighting for all one is worth on behalf of some clearly seen and deeply felt good." <br> &emsp;&emsp;&emsp; <i>-by Ruth Benedict</i> 
 
- 3.  "My wish is to ride the tempest, tame the waves, kill the sharks. I will not resign myself..." <br> &emsp;&emsp;&emsp; <i>-by Trieu Thi Trinh</i> 
+ 3.  "As we look deeply within, we understand our perfect balance. There is no fear of the cycle of birth, life and death. For when you stand in the present moment, you are timeless." <br> &emsp;&emsp;&emsp; <i>-by Rodney Yee</i> 
 
- 4.  "Let me advise thee not to talk of thyself as being old. There is something in Mind Cure, after all, and if thee continually talks of thyself as being old, thee may perhaps bring on some of the infirmities of age. At least I would not risk it if I were thee." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
+ 4.  "Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crackpot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost." <br> &emsp;&emsp;&emsp; <i>-by Thomas J. Watson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
