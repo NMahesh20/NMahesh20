@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "When you're eighteen your emotions are violent, but they're not durable." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "The happiest excitement in life is to be convinced that one is fighting for all one is worth on behalf of some clearly seen and deeply felt good." <br> &emsp;&emsp;&emsp; <i>-by Ruth Benedict</i> 
+ 2.  "As long as we respond predictably to what feels good and what feels bad, it is easy for others to exploit our preferences for their own ends." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "As we look deeply within, we understand our perfect balance. There is no fear of the cycle of birth, life and death. For when you stand in the present moment, you are timeless." <br> &emsp;&emsp;&emsp; <i>-by Rodney Yee</i> 
+ 3.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 4.  "Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crackpot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost." <br> &emsp;&emsp;&emsp; <i>-by Thomas J. Watson</i> 
+ 4.  "Perfect as the wing of a bird may be, it will never enable the bird to fly if unsupported by the air. Facts are the air of science. Without them a man of science can never rise." <br> &emsp;&emsp;&emsp; <i>-by Ivan Pavlov</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
