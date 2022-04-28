@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you're eighteen your emotions are violent, but they're not durable." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "When you understand that what you're telling is just a story. It isn't happening anymore. When you realize the story you're telling is just words, when you can just crumble it up and throw your past in the trashcan, then we'll figure out who you're going to be." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "As long as we respond predictably to what feels good and what feels bad, it is easy for others to exploit our preferences for their own ends." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 3.  "Only the hand that erases can write the true thing." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
 
- 4.  "Perfect as the wing of a bird may be, it will never enable the bird to fly if unsupported by the air. Facts are the air of science. Without them a man of science can never rise." <br> &emsp;&emsp;&emsp; <i>-by Ivan Pavlov</i> 
+ 4.  "She wanted something to happen - something, anything: she did not know what." <br> &emsp;&emsp;&emsp; <i>-by Kate Chopin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
