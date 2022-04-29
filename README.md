@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you understand that what you're telling is just a story. It isn't happening anymore. When you realize the story you're telling is just words, when you can just crumble it up and throw your past in the trashcan, then we'll figure out who you're going to be." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "You threaten to punch someone in the face, what do they do? They duck. You try to punch 'em in the wallet and they always open up." <br> &emsp;&emsp;&emsp; <i>-by Howard Gordon and Evan Katz</i> 
 
- 2.  "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "Winter is on my head, but eternal spring is in my heart." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 3.  "Only the hand that erases can write the true thing." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
+ 3.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 4.  "She wanted something to happen - something, anything: she did not know what." <br> &emsp;&emsp;&emsp; <i>-by Kate Chopin</i> 
+ 4.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
