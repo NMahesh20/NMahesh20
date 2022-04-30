@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You threaten to punch someone in the face, what do they do? They duck. You try to punch 'em in the wallet and they always open up." <br> &emsp;&emsp;&emsp; <i>-by Howard Gordon and Evan Katz</i> 
+ 1.  "I can safely say, that the happiest part of my life has been spent on board a ship." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Winter is on my head, but eternal spring is in my heart." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 2.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
 
- 3.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 3.  "What I know for sure is that what you give comes back to you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
+ 4.  "One never notices what has been done; one can only see what remains to be done." <br> &emsp;&emsp;&emsp; <i>-by Marie Curie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
