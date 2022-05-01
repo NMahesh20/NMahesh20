@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I can safely say, that the happiest part of my life has been spent on board a ship." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 
- 2.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
+ 2.  "If you would not step into the harlot's house, do not go by the harlot's door." <br> &emsp;&emsp;&emsp; <i>-by Thomas Secker</i> 
 
- 3.  "What I know for sure is that what you give comes back to you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 
- 4.  "One never notices what has been done; one can only see what remains to be done." <br> &emsp;&emsp;&emsp; <i>-by Marie Curie</i> 
+ 4.  "The reward of a thing well done is to have done it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
