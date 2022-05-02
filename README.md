@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 1.  "Aging is not 'lost youth' but a new stage of opportunity and strength." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 2.  "If you would not step into the harlot's house, do not go by the harlot's door." <br> &emsp;&emsp;&emsp; <i>-by Thomas Secker</i> 
+ 2.  "It is amazing how much crisper the general experience of life becomes when your body is given a chance to develop a little strength." <br> &emsp;&emsp;&emsp; <i>-by Frank Duff</i> 
 
- 3.  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 3.  "When you want to believe in something, you also have to believe in everything that's necessary for believing in it." <br> &emsp;&emsp;&emsp; <i>-by Ugo Betti</i> 
 
- 4.  "The reward of a thing well done is to have done it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "To follow, without halt, one aim: There's the secret of success." <br> &emsp;&emsp;&emsp; <i>-by Anna Pavlova</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
