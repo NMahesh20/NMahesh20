@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Aging is not 'lost youth' but a new stage of opportunity and strength." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 1.  "Abraham Lincoln and Millard Fillmore had the same title. They were both presidents of the United States, but their tenure in office and their legacy could not be more different." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "It is amazing how much crisper the general experience of life becomes when your body is given a chance to develop a little strength." <br> &emsp;&emsp;&emsp; <i>-by Frank Duff</i> 
+ 2.  "Attempt easy tasks as if they were difficult, and difficult as if they were easy; in the one case that confidence may not fall asleep, in the other that it may not be dismayed." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 
- 3.  "When you want to believe in something, you also have to believe in everything that's necessary for believing in it." <br> &emsp;&emsp;&emsp; <i>-by Ugo Betti</i> 
+ 3.  "Fear not those who argue but those who dodge." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
 
- 4.  "To follow, without halt, one aim: There's the secret of success." <br> &emsp;&emsp;&emsp; <i>-by Anna Pavlova</i> 
+ 4.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
