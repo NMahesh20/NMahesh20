@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Abraham Lincoln and Millard Fillmore had the same title. They were both presidents of the United States, but their tenure in office and their legacy could not be more different." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Get on stage. A lot. Try stuff. Make your best stab and keep stabbing. If it's there in your heart, it will eventually find its way out. Or you will give up and have a prudent, contented life doing something else." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 2.  "Attempt easy tasks as if they were difficult, and difficult as if they were easy; in the one case that confidence may not fall asleep, in the other that it may not be dismayed." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 2.  "Watch your thoughts, they become words./ Watch your words, they become actions./ Watch your actions, they become habits./ Watch your habits, they become your character./ Watch your character, it becomes your destiny." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 3.  "Fear not those who argue but those who dodge." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
+ 3.  "And this our life, exempt from public haunt,/ Finds tongues in trees, books in running brooks,/ Sermons in stones, and good in everything." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Be modest! It is the kind of pride least likely to offend." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
