@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Get on stage. A lot. Try stuff. Make your best stab and keep stabbing. If it's there in your heart, it will eventually find its way out. Or you will give up and have a prudent, contented life doing something else." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 1.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
 
- 2.  "Watch your thoughts, they become words./ Watch your words, they become actions./ Watch your actions, they become habits./ Watch your habits, they become your character./ Watch your character, it becomes your destiny." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 2.  "The strongest man in the world is the man who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 3.  "And this our life, exempt from public haunt,/ Finds tongues in trees, books in running brooks,/ Sermons in stones, and good in everything." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "Do something every day that you don't want to do; this is the golden rule for acquiring the habit of doing your duty without pain." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "Be modest! It is the kind of pride least likely to offend." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 4.  "So if it seems that some of what I'll have to say in the pages to come doesn't reflect the mellowing of age, that's only because I've never found that life and memories respond to time the way that tobacco does." <br> &emsp;&emsp;&emsp; <i>-by Caleb Carr</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
