@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
+ 1.  "I know that our bodies were made to thrive only in pure air, and the scenes in which pure air is found. There is not a "fragment" in all nature, for every relative fragment of one thing is a full harmonious unit in itself." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "The strongest man in the world is the man who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 2.  "My whole career can be summed up with 'Ignorance is bliss.' When you do not know better, you do not really worry about failing." <br> &emsp;&emsp;&emsp; <i>-by Jeff Foxworthy</i> 
 
- 3.  "Do something every day that you don't want to do; this is the golden rule for acquiring the habit of doing your duty without pain." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "Some things you do because you want to. Some things you do because of the needs of others in your family." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "So if it seems that some of what I'll have to say in the pages to come doesn't reflect the mellowing of age, that's only because I've never found that life and memories respond to time the way that tobacco does." <br> &emsp;&emsp;&emsp; <i>-by Caleb Carr</i> 
+ 4.  "Mama exhorted her children at every opportunity to 'jump at de sun.' We might not land on the sun, but at least we would get off the ground." <br> &emsp;&emsp;&emsp; <i>-by Zora Neale Hurston</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
