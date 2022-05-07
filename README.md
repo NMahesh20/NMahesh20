@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know that our bodies were made to thrive only in pure air, and the scenes in which pure air is found. There is not a "fragment" in all nature, for every relative fragment of one thing is a full harmonious unit in itself." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "I am not an adventurer by choice but by fate." <br> &emsp;&emsp;&emsp; <i>-by Vincent van Gogh</i> 
 
- 2.  "My whole career can be summed up with 'Ignorance is bliss.' When you do not know better, you do not really worry about failing." <br> &emsp;&emsp;&emsp; <i>-by Jeff Foxworthy</i> 
+ 2.  "Be charitable before wealth makes thee covetous." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 3.  "Some things you do because you want to. Some things you do because of the needs of others in your family." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "Preach not to others what they should eat, but eat as becomes you, and be silent." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 4.  "Mama exhorted her children at every opportunity to 'jump at de sun.' We might not land on the sun, but at least we would get off the ground." <br> &emsp;&emsp;&emsp; <i>-by Zora Neale Hurston</i> 
+ 4.  "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
