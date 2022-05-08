@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I am not an adventurer by choice but by fate." <br> &emsp;&emsp;&emsp; <i>-by Vincent van Gogh</i> 
+ 1.  "Put up with it and you will get more of it." <br> &emsp;&emsp;&emsp; <i>-by Lynne Deal</i> 
 
- 2.  "Be charitable before wealth makes thee covetous." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 2.  "Patience serves as a protection against wrongs as clothes do against cold. For if you put on more clothes as the cold increases, it will have no power to hurt you. So in like manner you must grow in patience when you meet with great wrongs, and they will then be powerless to vex your mind." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
 
- 3.  "Preach not to others what they should eat, but eat as becomes you, and be silent." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 3.  "Difficulties strengthen the mind, as labor does the body." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 4.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
