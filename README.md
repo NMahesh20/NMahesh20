@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Put up with it and you will get more of it." <br> &emsp;&emsp;&emsp; <i>-by Lynne Deal</i> 
+ 1.  "The time to pray is not when we are in a tight spot but just as soon as we get out of it." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 2.  "Patience serves as a protection against wrongs as clothes do against cold. For if you put on more clothes as the cold increases, it will have no power to hurt you. So in like manner you must grow in patience when you meet with great wrongs, and they will then be powerless to vex your mind." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
+ 2.  "Be faithful to that which exists nowhere but in yourself - and thus make yourself indispensable." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 3.  "Difficulties strengthen the mind, as labor does the body." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 4.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 4.  "Art is merely the refuge which the ingenious have invented, when they were supplied with food and women, to escape the tediousness of life." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
