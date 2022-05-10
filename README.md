@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The time to pray is not when we are in a tight spot but just as soon as we get out of it." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 2.  "Be faithful to that which exists nowhere but in yourself - and thus make yourself indispensable." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 2.  "You can't think yourself out of a writing block, you have to write yourself out of a thinking block." <br> &emsp;&emsp;&emsp; <i>-by John Rogers</i> 
 
- 3.  "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "The hatred you're carrying is a live coal in your heart - far more damaging to yourself than to them." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "Art is merely the refuge which the ingenious have invented, when they were supplied with food and women, to escape the tediousness of life." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
