@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 1.  "A person can learn a lot from a dog, even a loopy one like ours. Marley taught me about living each day with unbridled exuberance and joy, about seizing the moment and following your heart. He taught me to appreciate the simple things - a walk in the woods, a fresh snowfall, a nap in a shaft of winter sunlight. And as he grew old and achy, he taught me about optimism in the face of adversity. Mostly, he taught me about friendship and selflessness and, above all else, unwavering loyalty." <br> &emsp;&emsp;&emsp; <i>-by John Grogan</i> 
 
- 2.  "You can't think yourself out of a writing block, you have to write yourself out of a thinking block." <br> &emsp;&emsp;&emsp; <i>-by John Rogers</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Francis Ford Coppola</i> 
 
- 3.  "The hatred you're carrying is a live coal in your heart - far more damaging to yourself than to them." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "Use what talents you possess: the woods would be very silent if no birds sang there except those that sang best." <br> &emsp;&emsp;&emsp; <i>-by Henry Van Dyke</i> 
 
- 4.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
+ 4.  "Self-esteem is the reputation we acquire with ourselves." <br> &emsp;&emsp;&emsp; <i>-by Nathaniel Branden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
