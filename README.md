@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A person can learn a lot from a dog, even a loopy one like ours. Marley taught me about living each day with unbridled exuberance and joy, about seizing the moment and following your heart. He taught me to appreciate the simple things - a walk in the woods, a fresh snowfall, a nap in a shaft of winter sunlight. And as he grew old and achy, he taught me about optimism in the face of adversity. Mostly, he taught me about friendship and selflessness and, above all else, unwavering loyalty." <br> &emsp;&emsp;&emsp; <i>-by John Grogan</i> 
+ 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Francis Ford Coppola</i> 
+ 2.  "Any activity becomes creative when the doer cares about doing it right, or better." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
 
- 3.  "Use what talents you possess: the woods would be very silent if no birds sang there except those that sang best." <br> &emsp;&emsp;&emsp; <i>-by Henry Van Dyke</i> 
+ 3.  "The thing always happens that you really believe in; and the belief in a thing makes it happen." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "Self-esteem is the reputation we acquire with ourselves." <br> &emsp;&emsp;&emsp; <i>-by Nathaniel Branden</i> 
+ 4.  "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what." <br> &emsp;&emsp;&emsp; <i>-by Harper Lee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
