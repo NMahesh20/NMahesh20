@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "You can't rest on your laurels. Your own body of work is yet to come." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Any activity becomes creative when the doer cares about doing it right, or better." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 2.  "No one can be right all of the time, but it helps to be right most of the time." <br> &emsp;&emsp;&emsp; <i>-by Robert Half</i> 
 
- 3.  "The thing always happens that you really believe in; and the belief in a thing makes it happen." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 3.  "Only the curious will learn and only the resolute overcome the obstacles to learning. The quest quotient has always excited me more than the intelligence quotient." <br> &emsp;&emsp;&emsp; <i>-by Eugene S. Wilson</i> 
 
- 4.  "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what." <br> &emsp;&emsp;&emsp; <i>-by Harper Lee</i> 
+ 4.  "The man who backbites an absent friend, nay, who does not stand up for him when another blames him, the man who angles for bursts of laughter and for the repute of a wit, who can invent what he never saw, who cannot keep a secret - that man is black at heart: mark and avoid him." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
