@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I say luck is when an opportunity comes along, and you're prepared for it." <br> &emsp;&emsp;&emsp; <i>-by Denzel Washington</i> 
+ 1.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 2.  "Nerds don't just happen to dress informally. They do it too consistently. Consciously or not, they dress informally as a prophylactic measure against stupidity." <br> &emsp;&emsp;&emsp; <i>-by Paul Graham</i> 
+ 2.  "There are some things you can't share without ending up liking each other." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "Success is a journey, not a destination. The doing is often more important than the outcome." <br> &emsp;&emsp;&emsp; <i>-by Arthur Ashe</i> 
+ 3.  "Get happiness out of your work or you may never know what happiness is." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 
- 4.  "When love and skill work together, expect a masterpiece." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "Good manners will open doors that the best education cannot." <br> &emsp;&emsp;&emsp; <i>-by Clarence Thomas</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
