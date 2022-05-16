@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 1.  "Age is opportunity no less/ Than youth itself, though in another dress,/ And as the evening twilight fades away/ The sky is filled with stars, invisible by day." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 
- 2.  "There are some things you can't share without ending up liking each other." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "There is no duty we so much underrate as the duty of being happy." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 3.  "Get happiness out of your work or you may never know what happiness is." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 3.  "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." <br> &emsp;&emsp;&emsp; <i>-by Arthur Schopenhauer</i> 
 
- 4.  "Good manners will open doors that the best education cannot." <br> &emsp;&emsp;&emsp; <i>-by Clarence Thomas</i> 
+ 4.  "If you would persuade, you must appeal to interest rather than intellect." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
