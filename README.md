@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Age is opportunity no less/ Than youth itself, though in another dress,/ And as the evening twilight fades away/ The sky is filled with stars, invisible by day." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 1.  "Loss of virtue in a female is irretrievable; that one false step involves her in endless ruin; that her reputation is no less brittle than it is beautiful; and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "There is no duty we so much underrate as the duty of being happy." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 2.  "I am more and more convinced that our happiness or unhappiness depends more on the way we meet the events of life than on the nature of those events themselves." <br> &emsp;&emsp;&emsp; <i>-by Alexander Humboldt</i> 
 
- 3.  "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." <br> &emsp;&emsp;&emsp; <i>-by Arthur Schopenhauer</i> 
+ 3.  "Any piece of clothing can be sexy with a quietly passionate woman inside it." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "If you would persuade, you must appeal to interest rather than intellect." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "I was always looking outside myself for strength and confidence, but it comes from within. It is there all the time." <br> &emsp;&emsp;&emsp; <i>-by Anna Freud</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
