@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Loss of virtue in a female is irretrievable; that one false step involves her in endless ruin; that her reputation is no less brittle than it is beautiful; and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "If I've learned one thing in the 14 years I've been a full-time cartoonist, it's that you can not let anyone else define your professionalism. It has to be a personal ethos to which you adhere despite third party influence or acceptance. The old measuring sticks for professionalism are going away and now more than ever it's time for independent creatives to set the bar. Set it high." <br> &emsp;&emsp;&emsp; <i>-by Scott R. Kurtz</i> 
 
- 2.  "I am more and more convinced that our happiness or unhappiness depends more on the way we meet the events of life than on the nature of those events themselves." <br> &emsp;&emsp;&emsp; <i>-by Alexander Humboldt</i> 
+ 2.  "Say little, and love much; give all; judge no man; aspire to all that is pure and good." <br> &emsp;&emsp;&emsp; <i>-by White Eagle</i> 
 
- 3.  "Any piece of clothing can be sexy with a quietly passionate woman inside it." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 
- 4.  "I was always looking outside myself for strength and confidence, but it comes from within. It is there all the time." <br> &emsp;&emsp;&emsp; <i>-by Anna Freud</i> 
+ 4.  "Don't make use of another's mouth unless it has been lent to you." <br> &emsp;&emsp;&emsp; <i>-by Belgian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
