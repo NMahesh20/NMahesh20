@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If I've learned one thing in the 14 years I've been a full-time cartoonist, it's that you can not let anyone else define your professionalism. It has to be a personal ethos to which you adhere despite third party influence or acceptance. The old measuring sticks for professionalism are going away and now more than ever it's time for independent creatives to set the bar. Set it high." <br> &emsp;&emsp;&emsp; <i>-by Scott R. Kurtz</i> 
+ 1.  "If you have been touched by the success fairy, people think you know why. People think success breeds enlightenment and you are duty-bound to spread around like manure. Fertilize those young minds!" <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "Say little, and love much; give all; judge no man; aspire to all that is pure and good." <br> &emsp;&emsp;&emsp; <i>-by White Eagle</i> 
+ 2.  "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 3.  "The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 3.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
 
- 4.  "Don't make use of another's mouth unless it has been lent to you." <br> &emsp;&emsp;&emsp; <i>-by Belgian Proverb</i> 
+ 4.  "The reward for conformity was that everyone liked you except yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
