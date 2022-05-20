@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you have been touched by the success fairy, people think you know why. People think success breeds enlightenment and you are duty-bound to spread around like manure. Fertilize those young minds!" <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 2.  "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 2.  "There are an awful lot of scientists today who believe that before very long we shall have unraveled all the secrets of the universe. There will be no puzzles anymore. To me it'd be really, really tragic because I think one of the most exciting things is this feeling of mystery, feeling of awe, the feeling of looking at a little live thing and being amazed by it and how its emerged through these hundreds of years of evolution and there it is and it is perfect and why." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 3.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
+ 3.  "Throw out an alarming alarm clock. If the ring is loud and strident, you're waking up to instant stress. You shouldn't be bullied out of bed, just reminded that it's time to start your day." <br> &emsp;&emsp;&emsp; <i>-by Sharon Gold</i> 
 
- 4.  "The reward for conformity was that everyone liked you except yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
+ 4.  "The best way to convince a fool that he is wrong is to let him have his own way." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
