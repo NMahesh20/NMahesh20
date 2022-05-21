@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
+ 1.  "Isn't it fascinating how long a few minutes seem when you are completely alone with not a familiar face in sight?" <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
 
- 2.  "There are an awful lot of scientists today who believe that before very long we shall have unraveled all the secrets of the universe. There will be no puzzles anymore. To me it'd be really, really tragic because I think one of the most exciting things is this feeling of mystery, feeling of awe, the feeling of looking at a little live thing and being amazed by it and how its emerged through these hundreds of years of evolution and there it is and it is perfect and why." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 2.  "The perfection of art is to conceal art." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
 
- 3.  "Throw out an alarming alarm clock. If the ring is loud and strident, you're waking up to instant stress. You shouldn't be bullied out of bed, just reminded that it's time to start your day." <br> &emsp;&emsp;&emsp; <i>-by Sharon Gold</i> 
+ 3.  "The secret of concentration is the secret of self-discovery. You reach inside yourself to discover your personal resources, and what it takes to match them to the challenge." <br> &emsp;&emsp;&emsp; <i>-by Arnold Palmer</i> 
 
- 4.  "The best way to convince a fool that he is wrong is to let him have his own way." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 4.  "Be honorable yourself if you wish to associate with honorable people." <br> &emsp;&emsp;&emsp; <i>-by Welsh Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
