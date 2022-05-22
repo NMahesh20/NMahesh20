@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Isn't it fascinating how long a few minutes seem when you are completely alone with not a familiar face in sight?" <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "The perfection of art is to conceal art." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
+ 2.  "The best way to escape from a problem is to solve it." <br> &emsp;&emsp;&emsp; <i>-by Alan Saporta</i> 
 
- 3.  "The secret of concentration is the secret of self-discovery. You reach inside yourself to discover your personal resources, and what it takes to match them to the challenge." <br> &emsp;&emsp;&emsp; <i>-by Arnold Palmer</i> 
+ 3.  "Whatever you are, be a good one." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Be honorable yourself if you wish to associate with honorable people." <br> &emsp;&emsp;&emsp; <i>-by Welsh Proverb</i> 
+ 4.  "A sailor without a destination cannot hope for a favorable wind." <br> &emsp;&emsp;&emsp; <i>-by Leon Tec</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
