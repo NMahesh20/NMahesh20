@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But the worst of imagining things is that the time comes when you have to stop and that hurts." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "To think about your life is to create it. You have to take ownership of where you are right now and know where you want to go before you can get there. Keep collecting evidence for your success. You can believe it, and you can be it." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 2.  "In many cases, the more you try to compete, the less competitive you actually are." <br> &emsp;&emsp;&emsp; <i>-by Kathy Sierra</i> 
 
- 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
+ 3.  "And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." <br> &emsp;&emsp;&emsp; <i>-by Ana�s Nin</i> 
 
- 4.  "Be not ashamed of mistakes and thus make them crimes." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 4.  "It is well to give when asked but it is better to give unasked, through understanding." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
