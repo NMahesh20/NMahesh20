@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "No synonym for God is so perfect as Beauty. Whether as seen carving the lines of the mountains with glaciers, or gathering matter into stars, or planning the movements of water, or gardening - still all is Beauty!" <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "In many cases, the more you try to compete, the less competitive you actually are." <br> &emsp;&emsp;&emsp; <i>-by Kathy Sierra</i> 
+ 2.  "That consciousness is everything and that all things begin with a thought. That we are responsible for our own fate, we reap what we sow, we get what we give, we pull in what we put out. I know these things for sure." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
 
- 3.  "And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom." <br> &emsp;&emsp;&emsp; <i>-by Ana�s Nin</i> 
+ 3.  "Some think it's holding on that makes one strong; sometimes it's letting go." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Robinson</i> 
 
- 4.  "It is well to give when asked but it is better to give unasked, through understanding." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "A good home must be made, not bought." <br> &emsp;&emsp;&emsp; <i>-by Joyce Maynard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
