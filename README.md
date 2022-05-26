@@ -3,8 +3,8 @@
 I am INFJ-A, most of the time. Having a discussion about human psychology, count me in, apart from that I am interested in Science, The Universe, and all other super cool stuff including Aliens 🤫. Just like the rest I am also a CS engineer, I try to learn new stuff and on it's way I implement it in my own style. 
 - ☮ My side activities: 🎨♟🎧🌐
 - 🌱 I’m currently learning the things that I don't know.
-- 😄 Pronouns: He would be fine
-- ⚡ Fun fact: Did you know that the center of the Donut is 100% fat free
+- 😄 Pronouns: He would be fine.
+- ⚡ Fun fact: The QWERTY keyboard layout was designed to slow you down.
 
 ### 📫 Wanna reach me
 You can ping me at any of the socials that you find at this page. I am not super active, but I will reply when I see it.
