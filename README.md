@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No synonym for God is so perfect as Beauty. Whether as seen carving the lines of the mountains with glaciers, or gathering matter into stars, or planning the movements of water, or gardening - still all is Beauty!" <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "Forgiveness is one of the many horrible side effects of loving someone." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "That consciousness is everything and that all things begin with a thought. That we are responsible for our own fate, we reap what we sow, we get what we give, we pull in what we put out. I know these things for sure." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
+ 2.  "I believe that freedom is the deepest need of every human soul." <br> &emsp;&emsp;&emsp; <i>-by George W. Bush</i> 
 
- 3.  "Some think it's holding on that makes one strong; sometimes it's letting go." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Robinson</i> 
+ 3.  "Seize opportunity by the beard, for it is bald behind." <br> &emsp;&emsp;&emsp; <i>-by Bulgarian Proverb</i> 
 
- 4.  "A good home must be made, not bought." <br> &emsp;&emsp;&emsp; <i>-by Joyce Maynard</i> 
+ 4.  "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
