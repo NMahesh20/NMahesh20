@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Forgiveness is one of the many horrible side effects of loving someone." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "The only joy in the world is to begin." <br> &emsp;&emsp;&emsp; <i>-by Cesare Pavese</i> 
 
- 2.  "I believe that freedom is the deepest need of every human soul." <br> &emsp;&emsp;&emsp; <i>-by George W. Bush</i> 
+ 2.  "The time to repair the roof is when the sun is shining." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 3.  "Seize opportunity by the beard, for it is bald behind." <br> &emsp;&emsp;&emsp; <i>-by Bulgarian Proverb</i> 
+ 3.  "If your success is not on your own terms, if it looks good to the world but does not feel good in your heart, it is not success at all." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 4.  "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
