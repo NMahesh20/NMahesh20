@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only joy in the world is to begin." <br> &emsp;&emsp;&emsp; <i>-by Cesare Pavese</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "The time to repair the roof is when the sun is shining." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 2.  "Good food ends with good talk." <br> &emsp;&emsp;&emsp; <i>-by Geoffrey Neighor</i> 
 
- 3.  "If your success is not on your own terms, if it looks good to the world but does not feel good in your heart, it is not success at all." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 3.  "I am not afraid of the pen, or the scaffold, or the sword. I will tell the truth wherever I please." <br> &emsp;&emsp;&emsp; <i>-by Mother Jones</i> 
 
- 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 4.  "Be more prompt to go to a friend in adversity than in prosperity." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
