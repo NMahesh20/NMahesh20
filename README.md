@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Good food ends with good talk." <br> &emsp;&emsp;&emsp; <i>-by Geoffrey Neighor</i> 
+ 2.  "Often the best way to overcome desire is to satisfy it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 3.  "I am not afraid of the pen, or the scaffold, or the sword. I will tell the truth wherever I please." <br> &emsp;&emsp;&emsp; <i>-by Mother Jones</i> 
+ 3.  "The truth is that there is nothing noble in being superior to somebody else. The only real nobility is in being superior to your former self." <br> &emsp;&emsp;&emsp; <i>-by Whitney Young</i> 
 
- 4.  "Be more prompt to go to a friend in adversity than in prosperity." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
+ 4.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
