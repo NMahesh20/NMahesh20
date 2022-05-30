@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "The most difficult part of writing a book is not devising a plot which will captivate the reader. It's not developing characters the reader will have strong feelings for or against. It is not finding a setting which will take the reader to a place he or she as never been. It is not the research, whether in fiction or non-fiction. The most difficult task facing a writer is to find the voice in which to tell the story." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "Often the best way to overcome desire is to satisfy it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 2.  "Besides the noble art of getting things done, there is a nobler art of leaving things undone. The wisdom of life consists in the elimination of nonessentials." <br> &emsp;&emsp;&emsp; <i>-by Lin Yutang</i> 
 
- 3.  "The truth is that there is nothing noble in being superior to somebody else. The only real nobility is in being superior to your former self." <br> &emsp;&emsp;&emsp; <i>-by Whitney Young</i> 
+ 3.  "Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
 
- 4.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
+ 4.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
