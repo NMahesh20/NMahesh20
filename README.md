@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The most difficult part of writing a book is not devising a plot which will captivate the reader. It's not developing characters the reader will have strong feelings for or against. It is not finding a setting which will take the reader to a place he or she as never been. It is not the research, whether in fiction or non-fiction. The most difficult task facing a writer is to find the voice in which to tell the story." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "My idea of good company is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Besides the noble art of getting things done, there is a nobler art of leaving things undone. The wisdom of life consists in the elimination of nonessentials." <br> &emsp;&emsp;&emsp; <i>-by Lin Yutang</i> 
+ 2.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
 
- 3.  "Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
+ 3.  "Reprove thy friend privately; commend him publicly." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
 
- 4.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "Be aware that a halo has to fall only a few inches to be a noose." <br> &emsp;&emsp;&emsp; <i>-by Dan McKinnon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
