@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My idea of good company is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "There was no escaping by means of any journey, however adventurous, one took one's problems and sorrows with one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
+ 2.  "Inspiration does exist, but it must find you working." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
 
- 3.  "Reprove thy friend privately; commend him publicly." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
+ 3.  "Whenever it is in any way possible, every boy and girl should choose as his life work some occupation which he should like to do anyhow, even if he did not need the money." <br> &emsp;&emsp;&emsp; <i>-by William Lyon Phelps</i> 
 
- 4.  "Be aware that a halo has to fall only a few inches to be a noose." <br> &emsp;&emsp;&emsp; <i>-by Dan McKinnon</i> 
+ 4.  "I am doomed to an eternity of compulsive work. No set goal achieved satisfies. Success only breeds a new goal. The golden apple devoured has seeds. It is endless." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
