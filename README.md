@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There was no escaping by means of any journey, however adventurous, one took one's problems and sorrows with one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "In everyone's heart stirs a great homesickness." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Seymour Siegel</i> 
 
- 2.  "Inspiration does exist, but it must find you working." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
+ 2.  "Don't let yourself forget what it's like to be sixteen." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 3.  "Whenever it is in any way possible, every boy and girl should choose as his life work some occupation which he should like to do anyhow, even if he did not need the money." <br> &emsp;&emsp;&emsp; <i>-by William Lyon Phelps</i> 
+ 3.  "Real glory springs from the silent conquest of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Joseph P. Thompson</i> 
 
- 4.  "I am doomed to an eternity of compulsive work. No set goal achieved satisfies. Success only breeds a new goal. The golden apple devoured has seeds. It is endless." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Age does not protect you from love. But love, to some extent, protects you from age." <br> &emsp;&emsp;&emsp; <i>-by Jeanne Moreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
