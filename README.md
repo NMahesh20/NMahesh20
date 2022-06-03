@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In everyone's heart stirs a great homesickness." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Seymour Siegel</i> 
+ 1.  "Your primary goal should be to have a great life. You can still have a good day, enjoy your child, and ultimately find happiness, whether your ex is acting like a jerk or a responsible person. Your happiness is not dependent upon someone else." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Don't let yourself forget what it's like to be sixteen." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 2.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Real glory springs from the silent conquest of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Joseph P. Thompson</i> 
+ 3.  "Make up your mind to act decidedly and take the consequences. No good is ever done in this world by hesitation." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 4.  "Age does not protect you from love. But love, to some extent, protects you from age." <br> &emsp;&emsp;&emsp; <i>-by Jeanne Moreau</i> 
+ 4.  "Each handicap is like a hurdle in a steeplechase, and when you ride up to it, if you throw your heart over, the horse will go along, too." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Bixby</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
