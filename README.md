@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your primary goal should be to have a great life. You can still have a good day, enjoy your child, and ultimately find happiness, whether your ex is acting like a jerk or a responsible person. Your happiness is not dependent upon someone else." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Angels dancing on the head of a pin dissolve into nothingness at the bedside of a dying child." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "There is no shortage of good days. It is good lives that are hard to come by." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
 
- 3.  "Make up your mind to act decidedly and take the consequences. No good is ever done in this world by hesitation." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 3.  "Whoever does not love his work cannot hope that it will please others." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 4.  "Each handicap is like a hurdle in a steeplechase, and when you ride up to it, if you throw your heart over, the horse will go along, too." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Bixby</i> 
+ 4.  "Well-timed silence hath more eloquence than speech." <br> &emsp;&emsp;&emsp; <i>-by Martin Fraquhar Tupper</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
