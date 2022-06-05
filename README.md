@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Angels dancing on the head of a pin dissolve into nothingness at the bedside of a dying child." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 2.  "There is no shortage of good days. It is good lives that are hard to come by." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
+ 2.  "True luck consists not in holding the best of the cards at the table; luckiest is he who knows just when to rise and go home." <br> &emsp;&emsp;&emsp; <i>-by John Hay</i> 
 
- 3.  "Whoever does not love his work cannot hope that it will please others." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 3.  "The number of guests at dinner should not be less than the number of the Graces nor exceed that of the Muses, i.e., it should begin with three and stop at nine." <br> &emsp;&emsp;&emsp; <i>-by Marcus Terentius Varro</i> 
 
- 4.  "Well-timed silence hath more eloquence than speech." <br> &emsp;&emsp;&emsp; <i>-by Martin Fraquhar Tupper</i> 
+ 4.  "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
