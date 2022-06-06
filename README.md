@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 1.  "Expect trouble as an inevitable part of life, and when it comes, hold your head high, look it squarely in the eye and say, 'I will be bigger than you. You cannot defeat me.'" <br> &emsp;&emsp;&emsp; <i>-by Ann Landers</i> 
 
- 2.  "True luck consists not in holding the best of the cards at the table; luckiest is he who knows just when to rise and go home." <br> &emsp;&emsp;&emsp; <i>-by John Hay</i> 
+ 2.  "How helpless we are, like netted birds, when we are caught by desire!" <br> &emsp;&emsp;&emsp; <i>-by Belva Plain</i> 
 
- 3.  "The number of guests at dinner should not be less than the number of the Graces nor exceed that of the Muses, i.e., it should begin with three and stop at nine." <br> &emsp;&emsp;&emsp; <i>-by Marcus Terentius Varro</i> 
+ 3.  "We lift ourselves by our thought, we climb upon our vision of ourselves. If you want to enlarge your life, you must first enlarge your thought of it and of yourself. Hold the ideal of yourself as you long to be, always, everywhere - your ideal of what you long to attain - the ideal of health, efficiency, success." <br> &emsp;&emsp;&emsp; <i>-by Orison Swett Marden</i> 
 
- 4.  "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 4.  "Men are equal; it is not birth but virtue that makes the difference." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
