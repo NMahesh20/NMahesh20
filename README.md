@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Expect trouble as an inevitable part of life, and when it comes, hold your head high, look it squarely in the eye and say, 'I will be bigger than you. You cannot defeat me.'" <br> &emsp;&emsp;&emsp; <i>-by Ann Landers</i> 
+ 1.  "Not everything made you stronger. It was possible to survive, yet still be crippled for your trouble. Sometimes it was okay to run away, to skip the test, to chicken out. Or at least to get some help." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "How helpless we are, like netted birds, when we are caught by desire!" <br> &emsp;&emsp;&emsp; <i>-by Belva Plain</i> 
+ 2.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 3.  "We lift ourselves by our thought, we climb upon our vision of ourselves. If you want to enlarge your life, you must first enlarge your thought of it and of yourself. Hold the ideal of yourself as you long to be, always, everywhere - your ideal of what you long to attain - the ideal of health, efficiency, success." <br> &emsp;&emsp;&emsp; <i>-by Orison Swett Marden</i> 
+ 3.  "The most potent muse of all is our own inner child." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
 
- 4.  "Men are equal; it is not birth but virtue that makes the difference." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 4.  "Everything that is really great and inspiring is created by the individual who can labor in freedom." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
