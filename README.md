@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Not everything made you stronger. It was possible to survive, yet still be crippled for your trouble. Sometimes it was okay to run away, to skip the test, to chicken out. Or at least to get some help." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "It gets a lot easier to deal with life's curveballs when you're not hiding under layers of fat." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 2.  "An idea isn't worth that much. It's the execution of the idea that has value. If you can't convince one other person that this is something to devote your life to, then it's not worth it." <br> &emsp;&emsp;&emsp; <i>-by Joel Spolsky</i> 
 
- 3.  "The most potent muse of all is our own inner child." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
+ 3.  "What's the use of worrying? It never was worthwhile." <br> &emsp;&emsp;&emsp; <i>-by George Asaf</i> 
 
- 4.  "Everything that is really great and inspiring is created by the individual who can labor in freedom." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 4.  "Smell is a potent wizard that transports you across thousand of miles and all the years you have lived." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
