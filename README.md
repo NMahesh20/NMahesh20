@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It gets a lot easier to deal with life's curveballs when you're not hiding under layers of fat." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "There is a lot more to life than just struggling to make money." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 2.  "An idea isn't worth that much. It's the execution of the idea that has value. If you can't convince one other person that this is something to devote your life to, then it's not worth it." <br> &emsp;&emsp;&emsp; <i>-by Joel Spolsky</i> 
+ 2.  "Every time you state what you want or believe, you're the first to hear it. It's a message to both you and others about what you think is possible. Don't put a ceiling on yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "What's the use of worrying? It never was worthwhile." <br> &emsp;&emsp;&emsp; <i>-by George Asaf</i> 
+ 3.  "The most important work you and I will ever do will be within the walls of our own homes." <br> &emsp;&emsp;&emsp; <i>-by Harold B. Lee</i> 
 
- 4.  "Smell is a potent wizard that transports you across thousand of miles and all the years you have lived." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "Never get angry. Never make a threat. Reason with people." <br> &emsp;&emsp;&emsp; <i>-by Mario Puzo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
