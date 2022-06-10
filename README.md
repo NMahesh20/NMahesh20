@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is a lot more to life than just struggling to make money." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "Enthusiasm is the great hill-climber." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 
- 2.  "Every time you state what you want or believe, you're the first to hear it. It's a message to both you and others about what you think is possible. Don't put a ceiling on yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Put more trust in nobility of character than in an oath." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
 
- 3.  "The most important work you and I will ever do will be within the walls of our own homes." <br> &emsp;&emsp;&emsp; <i>-by Harold B. Lee</i> 
+ 3.  "Discretion in speech is more than eloquence." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "Never get angry. Never make a threat. Reason with people." <br> &emsp;&emsp;&emsp; <i>-by Mario Puzo</i> 
+ 4.  "That best portion of a good man's life, / His little, nameless, unremembered acts of kindness and of love." <br> &emsp;&emsp;&emsp; <i>-by William Wordsworth</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
