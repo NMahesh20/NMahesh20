@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Enthusiasm is the great hill-climber." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 1.  "In this life we get only those things for which we hunt, for which we strive, and for which we are willing to sacrifice." <br> &emsp;&emsp;&emsp; <i>-by George Matthew Adams</i> 
 
- 2.  "Put more trust in nobility of character than in an oath." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
+ 2.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
 
- 3.  "Discretion in speech is more than eloquence." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 
- 4.  "That best portion of a good man's life, / His little, nameless, unremembered acts of kindness and of love." <br> &emsp;&emsp;&emsp; <i>-by William Wordsworth</i> 
+ 4.  "To fulfill a dream, to be allowed to sweat over lonely labor, to be given the chance to create, is the meat and potatoes of life. The money is the gravy. As everyone else, I love to dunk my crust in it. But alone, it is not a diet designed to keep body and soul together." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
