@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In this life we get only those things for which we hunt, for which we strive, and for which we are willing to sacrifice." <br> &emsp;&emsp;&emsp; <i>-by George Matthew Adams</i> 
+ 1.  "Do what thy manhood bids thee do, from none but self expect applause; He noblest lives and noblest dies who makes and keeps his self-made laws." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Francis Burton</i> 
 
- 2.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
+ 2.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
 
- 3.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 3.  "I don't believe in intuition. When you get sudden flashes of perception, it is just the brain working faster than usual. But you've been getting ready to know it for a long time, and when it comes, you feel you've known it always." <br> &emsp;&emsp;&emsp; <i>-by Katherine Anne Porter</i> 
 
- 4.  "To fulfill a dream, to be allowed to sweat over lonely labor, to be given the chance to create, is the meat and potatoes of life. The money is the gravy. As everyone else, I love to dunk my crust in it. But alone, it is not a diet designed to keep body and soul together." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "We distinguish the excellent man from the common man by saying that the former is the one who makes great demands upon himself, and the latter who makes no demands on himself." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
