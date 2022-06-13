@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Do what thy manhood bids thee do, from none but self expect applause; He noblest lives and noblest dies who makes and keeps his self-made laws." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Francis Burton</i> 
+ 1.  "It's about what YOU are going to do with the short time you have left on this earth." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
+ 2.  "I care not so much what I am to others as what I am to myself." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 3.  "I don't believe in intuition. When you get sudden flashes of perception, it is just the brain working faster than usual. But you've been getting ready to know it for a long time, and when it comes, you feel you've known it always." <br> &emsp;&emsp;&emsp; <i>-by Katherine Anne Porter</i> 
+ 3.  "Never pretend to a love which you do not actually feel, for love is not ours to command." <br> &emsp;&emsp;&emsp; <i>-by Alan Watts</i> 
 
- 4.  "We distinguish the excellent man from the common man by saying that the former is the one who makes great demands upon himself, and the latter who makes no demands on himself." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
+ 4.  "We begin to see that the completion of an important project has every right to be dignified by a natural grieving process. Something that required the best of you has ended. You will miss it." <br> &emsp;&emsp;&emsp; <i>-by Anne Wilson Schaef</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
