@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's about what YOU are going to do with the short time you have left on this earth." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "The urge to make art or contemplate philosophy does not go away when you are sick. Those urges just become transfigured by illness." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "I care not so much what I am to others as what I am to myself." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 2.  "Holding onto anger is like grasping onto a hot coal with the intent of throwing it at someone else. You are the one who gets burned." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 3.  "Never pretend to a love which you do not actually feel, for love is not ours to command." <br> &emsp;&emsp;&emsp; <i>-by Alan Watts</i> 
+ 3.  "Comedy is nothing more than tragedy deferred." <br> &emsp;&emsp;&emsp; <i>-by Pico Iyer</i> 
 
- 4.  "We begin to see that the completion of an important project has every right to be dignified by a natural grieving process. Something that required the best of you has ended. You will miss it." <br> &emsp;&emsp;&emsp; <i>-by Anne Wilson Schaef</i> 
+ 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
