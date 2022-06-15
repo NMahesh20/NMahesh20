@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The urge to make art or contemplate philosophy does not go away when you are sick. Those urges just become transfigured by illness." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Holding onto anger is like grasping onto a hot coal with the intent of throwing it at someone else. You are the one who gets burned." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
+ 2.  "To the soul, there is hardly anything more healing than friendship." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 3.  "Comedy is nothing more than tragedy deferred." <br> &emsp;&emsp;&emsp; <i>-by Pico Iyer</i> 
+ 3.  "If we can connect in some tiny way with a human that doesn't agree with us, then maybe we won't blow up the planet." <br> &emsp;&emsp;&emsp; <i>-by Nancy White</i> 
 
- 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
+ 4.  "It's funny how dogs and cats know the inside of folks better than other folks do, isn't it?" <br> &emsp;&emsp;&emsp; <i>-by Eleanor H. Porter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
