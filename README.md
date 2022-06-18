@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's a toss-up when you decide to leave the beaten track. Many are called, but few are chosen." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "We resent the thought that anything can please us when someone we love is no longer here to share the pleasure with us, and we almost feel as if we were unfaithful to our sorrow when we find our interest in life returning to us." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "All men profess honesty as long as they can. To believe all men honest would be folly. To believe none so is something worse." <br> &emsp;&emsp;&emsp; <i>-by John Quincy Adams</i> 
+ 2.  "You pile up enough tomorrows and you'll be left with nothing but a bunch of empty yesterdays. I don't know about you, but I'd like to make today worth remembering." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
 
- 3.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 3.  "It is better to be hated for what you are than to be loved for what you are not." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "If one speaks or acts with a cruel mind, misery follows, as the cart follows the horse... If one speaks or acts with a pure mind, happiness follows, as a shadow follows its source." <br> &emsp;&emsp;&emsp; <i>-by the Dhammapada</i> 
+ 4.  "Everything has got a moral if you can only find it." <br> &emsp;&emsp;&emsp; <i>-by Lewis Carroll</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
