@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We resent the thought that anything can please us when someone we love is no longer here to share the pleasure with us, and we almost feel as if we were unfaithful to our sorrow when we find our interest in life returning to us." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "I have found that if you love life, life will love you back." <br> &emsp;&emsp;&emsp; <i>-by Arthur Rubinstein</i> 
 
- 2.  "You pile up enough tomorrows and you'll be left with nothing but a bunch of empty yesterdays. I don't know about you, but I'd like to make today worth remembering." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by John M. Capozzi</i> 
 
- 3.  "It is better to be hated for what you are than to be loved for what you are not." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
 
- 4.  "Everything has got a moral if you can only find it." <br> &emsp;&emsp;&emsp; <i>-by Lewis Carroll</i> 
+ 4.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
