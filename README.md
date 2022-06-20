@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have found that if you love life, life will love you back." <br> &emsp;&emsp;&emsp; <i>-by Arthur Rubinstein</i> 
+ 1.  "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by John M. Capozzi</i> 
+ 2.  "We are rich only through what we give, and poor only through what we refuse." <br> &emsp;&emsp;&emsp; <i>-by Anne-Sophie Swetchine</i> 
 
- 3.  "Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 3.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 
- 4.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
+ 4.  "You see what power is - holding someone else's fear in your hand and showing it to them!" <br> &emsp;&emsp;&emsp; <i>-by Amy Tan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
