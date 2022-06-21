@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 
- 2.  "We are rich only through what we give, and poor only through what we refuse." <br> &emsp;&emsp;&emsp; <i>-by Anne-Sophie Swetchine</i> 
+ 2.  "Do what you love, love what you do, leave the world a better place and don't pick your nose." <br> &emsp;&emsp;&emsp; <i>-by Jeff Mallett</i> 
 
- 3.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 3.  "In Kyudo philosophy, you don't aim--you become one with the target. Then, in fact, there's nothing to aim at. I find it works well with women, too. Give it a try." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
 
- 4.  "You see what power is - holding someone else's fear in your hand and showing it to them!" <br> &emsp;&emsp;&emsp; <i>-by Amy Tan</i> 
+ 4.  "Force is all-conquering, but its victories are short-lived." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
