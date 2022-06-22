@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 1.  "You've got your phenomenon on one hand. Concrete and knowable. On the other hand you've got the incomprehensible. You call it God, but to me, God or no, it remains just that, the unknowable." <br> &emsp;&emsp;&emsp; <i>-by Robin Green and Mitchell Burgess</i> 
 
- 2.  "Do what you love, love what you do, leave the world a better place and don't pick your nose." <br> &emsp;&emsp;&emsp; <i>-by Jeff Mallett</i> 
+ 2.  "This world is given as the prize for the men in earnest; and that which is true of this world, is truer still of the world to come." <br> &emsp;&emsp;&emsp; <i>-by Frederick William Robertson</i> 
 
- 3.  "In Kyudo philosophy, you don't aim--you become one with the target. Then, in fact, there's nothing to aim at. I find it works well with women, too. Give it a try." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
+ 3.  "Readers are plentiful; thinkers are rare." <br> &emsp;&emsp;&emsp; <i>-by Harriet Martineau</i> 
 
- 4.  "Force is all-conquering, but its victories are short-lived." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "The longer I live the more beautiful life becomes." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
