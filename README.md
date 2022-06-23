@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You've got your phenomenon on one hand. Concrete and knowable. On the other hand you've got the incomprehensible. You call it God, but to me, God or no, it remains just that, the unknowable." <br> &emsp;&emsp;&emsp; <i>-by Robin Green and Mitchell Burgess</i> 
+ 1.  "Forget about the fast lane. If you really want to fly, harness your power to your passion. Honor your calling. Everybody has one. Trust your heart, and success will come to you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "This world is given as the prize for the men in earnest; and that which is true of this world, is truer still of the world to come." <br> &emsp;&emsp;&emsp; <i>-by Frederick William Robertson</i> 
+ 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 3.  "Readers are plentiful; thinkers are rare." <br> &emsp;&emsp;&emsp; <i>-by Harriet Martineau</i> 
+ 3.  "Make yourself necessary to somebody. Do not make life hard to any." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "The longer I live the more beautiful life becomes." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 4.  "A people that values its privileges above its principles soon loses both." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
