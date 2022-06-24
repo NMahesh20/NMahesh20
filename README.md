@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Forget about the fast lane. If you really want to fly, harness your power to your passion. Honor your calling. Everybody has one. Trust your heart, and success will come to you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Wanting to be someone you're not is a waste of the person you are." <br> &emsp;&emsp;&emsp; <i>-by Kurt Cobain</i> 
 
- 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 2.  "Never tell evil of a man, if you do not know it for certainty, and if you know it for a certainty, then ask yourself, 'Why should I tell it?'" <br> &emsp;&emsp;&emsp; <i>-by Johann K. Lavater</i> 
 
- 3.  "Make yourself necessary to somebody. Do not make life hard to any." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
 
- 4.  "A people that values its privileges above its principles soon loses both." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 4.  "The farther behind I leave the past, the closer I am to forging my own character." <br> &emsp;&emsp;&emsp; <i>-by Isabelle Eberhardt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
