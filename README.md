@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Wanting to be someone you're not is a waste of the person you are." <br> &emsp;&emsp;&emsp; <i>-by Kurt Cobain</i> 
+ 1.  "A gift, with a kind countenance, is a double present." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 2.  "Never tell evil of a man, if you do not know it for certainty, and if you know it for a certainty, then ask yourself, 'Why should I tell it?'" <br> &emsp;&emsp;&emsp; <i>-by Johann K. Lavater</i> 
+ 2.  "Look well into thyself; there is a source of strength which will always spring up if thou wilt always look there." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 3.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
+ 3.  "He that falls in love with himself will have no rivals." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "The farther behind I leave the past, the closer I am to forging my own character." <br> &emsp;&emsp;&emsp; <i>-by Isabelle Eberhardt</i> 
+ 4.  "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." <br> &emsp;&emsp;&emsp; <i>-by Saint Jerome</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
