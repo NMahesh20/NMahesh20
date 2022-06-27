@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "Part of what makes us human is what we mean to other people, and what people mean to us." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
 
- 2.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 2.  "Neither enemy faces, nor the mothers that love them, come to mind when one is thinking of nothing but endeavouring to survive. Philosophising about war is useless under fire." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
 
- 3.  "And when it rains on your parade, look up rather than down. Without the rain, there would be no rainbow." <br> &emsp;&emsp;&emsp; <i>-by Jerry Chin</i> 
+ 3.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 4.  "The happiest is the person who suffers the least pain; the most miserable who enjoys the least pleasure." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
+ 4.  "You can't choose the ways in which you'll be tested." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
