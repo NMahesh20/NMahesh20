@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Part of what makes us human is what we mean to other people, and what people mean to us." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
+ 1.  "We have been told we cannot do this by a chorus of cynics. They will only grow louder and more dissonant in the weeks to come. We've been asked to pause for a reality check; we've been warned against offering the people of this nation false hope. But in the unlikely story that is America, there has never been anything false about hope." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Neither enemy faces, nor the mothers that love them, come to mind when one is thinking of nothing but endeavouring to survive. Philosophising about war is useless under fire." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
+ 2.  "It is fortunate to be of high birth, but it is no less so to be of such character that people do not care to know whether you are or are not." <br> &emsp;&emsp;&emsp; <i>-by Jean de la Bruyere</i> 
 
- 3.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 3.  "I think people want their illusions and writers are mostly illusion. When you read their words, you read a flattened, incomplete version of the writer." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "You can't choose the ways in which you'll be tested." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 4.  "You try to give away what you want yourself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
