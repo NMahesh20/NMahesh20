@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have been told we cannot do this by a chorus of cynics. They will only grow louder and more dissonant in the weeks to come. We've been asked to pause for a reality check; we've been warned against offering the people of this nation false hope. But in the unlikely story that is America, there has never been anything false about hope." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "It is fortunate to be of high birth, but it is no less so to be of such character that people do not care to know whether you are or are not." <br> &emsp;&emsp;&emsp; <i>-by Jean de la Bruyere</i> 
+ 2.  "The whole point in bein' a hero is to do somethin' greater than yerself. It'd be easy to do it for the glory or the girls. We're bigger men than that." <br> &emsp;&emsp;&emsp; <i>-by Alexander Woo</i> 
 
- 3.  "I think people want their illusions and writers are mostly illusion. When you read their words, you read a flattened, incomplete version of the writer." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "You try to give away what you want yourself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
