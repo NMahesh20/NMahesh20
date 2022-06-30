@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Here's a tip to avoid death by celebrity: First off, get a life. They can't touch you if you're out doing something interesting." <br> &emsp;&emsp;&emsp; <i>-by Kent Nichols and Douglas Sarine</i> 
 
- 2.  "The whole point in bein' a hero is to do somethin' greater than yerself. It'd be easy to do it for the glory or the girls. We're bigger men than that." <br> &emsp;&emsp;&emsp; <i>-by Alexander Woo</i> 
+ 2.  "A smile is the shortest distance between two people." <br> &emsp;&emsp;&emsp; <i>-by Victor Borge</i> 
 
- 3.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "There is only one you... Don't you dare change just because you're outnumbered!" <br> &emsp;&emsp;&emsp; <i>-by Charles Swindoll</i> 
 
- 4.  "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
+ 4.  "The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
