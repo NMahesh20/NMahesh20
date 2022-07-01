@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Here's a tip to avoid death by celebrity: First off, get a life. They can't touch you if you're out doing something interesting." <br> &emsp;&emsp;&emsp; <i>-by Kent Nichols and Douglas Sarine</i> 
+ 1.  "A technical objection is the first refuge of a scoundrel." <br> &emsp;&emsp;&emsp; <i>-by Heywood Broun</i> 
 
- 2.  "A smile is the shortest distance between two people." <br> &emsp;&emsp;&emsp; <i>-by Victor Borge</i> 
+ 2.  "Write down the advice of him who loves you, though you like it not at present." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 3.  "There is only one you... Don't you dare change just because you're outnumbered!" <br> &emsp;&emsp;&emsp; <i>-by Charles Swindoll</i> 
+ 3.  "Eighty percent of success is showing up." <br> &emsp;&emsp;&emsp; <i>-by Woody Allen</i> 
 
- 4.  "The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 4.  "Our feelings are our most genuine paths to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Audre Lorde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
