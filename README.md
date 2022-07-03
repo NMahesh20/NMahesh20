@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Vanity and pride are different things, though the words are often used synonymously.... Pride relates more to our opinion of ourselves, vanity to what we would have others think of us." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "The greatest conflicts are not between two people but between one person and himself." <br> &emsp;&emsp;&emsp; <i>-by Garth Brooks</i> 
 
- 2.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 2.  "The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in this business. You've got to keep on working that talent. Someday I'll reach for it and it won't be there." <br> &emsp;&emsp;&emsp; <i>-by Irving Berlin</i> 
 
- 3.  "The true meaning of religion is thus not simply morality, but morality touched by emotion." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 3.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
 
- 4.  "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you." <br> &emsp;&emsp;&emsp; <i>-by Carl Sandburg</i> 
+ 4.  "Complain to one who can help you." <br> &emsp;&emsp;&emsp; <i>-by Yugoslav Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
