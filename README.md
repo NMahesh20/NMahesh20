@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The greatest conflicts are not between two people but between one person and himself." <br> &emsp;&emsp;&emsp; <i>-by Garth Brooks</i> 
+ 1.  "The human heart is a strange vessel. Love and hatred can exist side by side." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in this business. You've got to keep on working that talent. Someday I'll reach for it and it won't be there." <br> &emsp;&emsp;&emsp; <i>-by Irving Berlin</i> 
+ 2.  "It's the soul's duty to be loyal to its own desires. It must abandon itself to its master passion." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
 
- 3.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
+ 3.  "We must get beyond textbooks, go out into the bypaths... and tell the world the glories of our journey." <br> &emsp;&emsp;&emsp; <i>-by John Hope Franklin</i> 
 
- 4.  "Complain to one who can help you." <br> &emsp;&emsp;&emsp; <i>-by Yugoslav Proverb</i> 
+ 4.  "Never rely on the glory of the morning nor the smiles of your mother-in-law." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
