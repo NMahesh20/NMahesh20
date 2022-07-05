@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The human heart is a strange vessel. Love and hatred can exist side by side." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "Advice is very easy to give, and even easier not to follow, so I don't fool with it." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "It's the soul's duty to be loyal to its own desires. It must abandon itself to its master passion." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
+ 2.  "Fasting and natural diet, though essentially unknown [in today's U.S.] as a therapy, should be the first treatment when someone discovers that she or he has a medical problem. It should not be applied only to the most advanced cases, as is present practice. Whether the patient has a cardiac condition, hypertension, autoimmune disease, fibroids, or asthma, he or she must be informed that fasting and natural, plant-based diets are a viable alternative to conventional therapy, and an effective one. The time may come when not offering this substantially more effective nutritional approach will be considered malpractice." <br> &emsp;&emsp;&emsp; <i>-by Joel Fuhrman, M.D.</i> 
 
- 3.  "We must get beyond textbooks, go out into the bypaths... and tell the world the glories of our journey." <br> &emsp;&emsp;&emsp; <i>-by John Hope Franklin</i> 
+ 3.  "I'm of the mind that even people who have limitations, if they have a curiosity, they will find a way to explore it." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 4.  "Never rely on the glory of the morning nor the smiles of your mother-in-law." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
+ 4.  "Follow the grain in your own wood." <br> &emsp;&emsp;&emsp; <i>-by Howard Thurman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
