@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The lessons this life has planted in my heart pertain more to caring than crops, more to Golden Rule than gold, more to the proper choice than to the popular choice." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "Gardens and flowers have a way of bringing people together, drawing them from their homes." <br> &emsp;&emsp;&emsp; <i>-by Clare Ansberry</i> 
+ 2.  "Those who face that which is actually before them, unburdened by the past, undistracted by the future, these are they who live, who make the best use of their lives; these are those who have found the secret of contentment." <br> &emsp;&emsp;&emsp; <i>-by Alban Goodier</i> 
 
- 3.  "Providence has hidden a charm in difficult undertakings which is appreciated only by those who dare to grapple with them." <br> &emsp;&emsp;&emsp; <i>-by Anne-Sophie Swetchine</i> 
+ 3.  "I merely took the energy it takes to pout and wrote some blues." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
 
- 4.  "When you are not physically starving, you have the luxury to realize psychic and emotional starvation." <br> &emsp;&emsp;&emsp; <i>-by Cherrie Moraga</i> 
+ 4.  "My passions were all gathered together like fingers that made a fist. Drive is considered aggression today; I knew it then as purpose." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
