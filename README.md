@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Those who face that which is actually before them, unburdened by the past, undistracted by the future, these are they who live, who make the best use of their lives; these are those who have found the secret of contentment." <br> &emsp;&emsp;&emsp; <i>-by Alban Goodier</i> 
+ 2.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
 
- 3.  "I merely took the energy it takes to pout and wrote some blues." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
+ 3.  "The secret of greatness is simple: do better work than any other man in your field - and keep on doing it." <br> &emsp;&emsp;&emsp; <i>-by Wilfred A. Peterson</i> 
 
- 4.  "My passions were all gathered together like fingers that made a fist. Drive is considered aggression today; I knew it then as purpose." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "First say to yourself what you would be; and then do what you have to do." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
