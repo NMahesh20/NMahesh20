@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can either hold yourself up to the unrealistic standards of others, or ignore them and concentrate on being happy with yourself as you are." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 1.  "Some tourists think Amsterdam is a city of sin, but in truth it is a city of freedom. And in freedom, most people find sin." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "I wanted change and excitement and to shoot off in all directions myself, like the colored arrows from a Fourth of July rocket." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Plath</i> 
+ 2.  "A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "Endeavor to be always patient of the faults and imperfections of others for thou has many faults and imperfections of thine own that require forbearance. If thou are not able to make thyself that which thou wishest, how canst thou expect to mold another in conformity to thy will?" <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 3.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
 
- 4.  "Never think that you're not good enough yourself. A man should never think that. People will take you very much at your own reckoning." <br> &emsp;&emsp;&emsp; <i>-by Anthony Trollope</i> 
+ 4.  "Facing it, always facing it, that's the way to get through. Face it." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
