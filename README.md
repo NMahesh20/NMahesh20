@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Some tourists think Amsterdam is a city of sin, but in truth it is a city of freedom. And in freedom, most people find sin." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Remember that it is nothing to do your duty, that is demanded of you and is no more meritorious than to wash your hands when they are dirty; the only thing that counts is the love of duty; when love and duty are one, then grace is in you and you will enjoy a happiness which passes all understanding." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 3.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
+ 3.  "When you drink the water, remember the spring." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Facing it, always facing it, that's the way to get through. Face it." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
+ 4.  "You ask me why I do not write something....I think one's feelings waste themselves in words, they ought all to be distilled into actions and into actions which bring results." <br> &emsp;&emsp;&emsp; <i>-by Florence Nightingale</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
