@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Remember that it is nothing to do your duty, that is demanded of you and is no more meritorious than to wash your hands when they are dirty; the only thing that counts is the love of duty; when love and duty are one, then grace is in you and you will enjoy a happiness which passes all understanding." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 2.  "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 3.  "When you drink the water, remember the spring." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "Nobody has things just as he would like them. The thing to do is to make a success with what material I have. It is a sheer waste of time and soulpower to imagine what I would do if things were different. They are not different." <br> &emsp;&emsp;&emsp; <i>-by Dr. Frank Crane</i> 
 
- 4.  "You ask me why I do not write something....I think one's feelings waste themselves in words, they ought all to be distilled into actions and into actions which bring results." <br> &emsp;&emsp;&emsp; <i>-by Florence Nightingale</i> 
+ 4.  "I believe love is primarily a choice and only sometimes a feeling. If you want to feel love, choose to love and be patient." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
