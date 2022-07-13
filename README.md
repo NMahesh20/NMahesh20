@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "Talent and intelligence never yet inoculated anyone against the caprice of the fates." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 2.  "Experience suggests it doesn't matter so much how you got here, as what you do after you arrive." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Nobody has things just as he would like them. The thing to do is to make a success with what material I have. It is a sheer waste of time and soulpower to imagine what I would do if things were different. They are not different." <br> &emsp;&emsp;&emsp; <i>-by Dr. Frank Crane</i> 
+ 3.  "Know the true value of time; snatch, seize, and enjoy every moment of it. No idleness; no laziness; no procrastination; never put off till tomorrow what you can do today." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 4.  "I believe love is primarily a choice and only sometimes a feeling. If you want to feel love, choose to love and be patient." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 4.  "Let grace and goodness be the principal loadstone of thy affections. For love which hath ends, will have an end; whereas that which is founded on true virtue, will always continue." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
