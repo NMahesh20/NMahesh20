@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Talent and intelligence never yet inoculated anyone against the caprice of the fates." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "In a networked world, trust is the most important currency." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "Experience suggests it doesn't matter so much how you got here, as what you do after you arrive." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
 
- 3.  "Know the true value of time; snatch, seize, and enjoy every moment of it. No idleness; no laziness; no procrastination; never put off till tomorrow what you can do today." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 3.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
 
- 4.  "Let grace and goodness be the principal loadstone of thy affections. For love which hath ends, will have an end; whereas that which is founded on true virtue, will always continue." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
+ 4.  "Cherish all your happy moments: they make a fine cushion for old age." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
