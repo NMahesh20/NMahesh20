@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In a networked world, trust is the most important currency." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "There is probably no more terrible instant of enlightenment than the one in which you discover your father is a man--with human flesh." <br> &emsp;&emsp;&emsp; <i>-by Frank Herbert</i> 
 
- 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
+ 2.  "They say dreams are the windows of the soul--take a peek and you can see the inner workings, the nuts and bolts." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 3.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
+ 3.  "With the gift of listening comes the gift of healing." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck</i> 
 
- 4.  "Cherish all your happy moments: they make a fine cushion for old age." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 4.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
