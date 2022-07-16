@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is probably no more terrible instant of enlightenment than the one in which you discover your father is a man--with human flesh." <br> &emsp;&emsp;&emsp; <i>-by Frank Herbert</i> 
+ 1.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "They say dreams are the windows of the soul--take a peek and you can see the inner workings, the nuts and bolts." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 2.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "With the gift of listening comes the gift of healing." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck</i> 
+ 3.  "The man who is swimming against the stream knows the strength of it." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 4.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
+ 4.  "Toil to make yourself remarkable by some talent or other." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
