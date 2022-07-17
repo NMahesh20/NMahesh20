@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "The man who is swimming against the stream knows the strength of it." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 3.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 4.  "Toil to make yourself remarkable by some talent or other." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
