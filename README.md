@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only the mediocre are always at their best." <br> &emsp;&emsp;&emsp; <i>-by Jean Giraudoux</i> 
+ 1.  "Good company requires only birth, education, and manners, and with regard to education is not very nice. Birth and good manners are essential; but a little learning is by no means a dangerous thing in good company; on the contrary, it will do very well." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "If we cannot live so as to be happy, let us least live so as to deserve it." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Hermann Fichte</i> 
+ 2.  "Feel the fear and do it anyway." <br> &emsp;&emsp;&emsp; <i>-by Susan Jeffers</i> 
 
- 3.  "When we hear news we should always wait for the sacrament of confirmation." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 3.  "I looked always outside of myself to see what I could make the world give me instead of looking within myself to see what was there." <br> &emsp;&emsp;&emsp; <i>-by Belle Livingstone</i> 
 
- 4.  "Everything I did in my life that was worthwhile I caught hell for." <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
+ 4.  "It is the part of a good shepherd to shear his flock, not to skin it." <br> &emsp;&emsp;&emsp; <i>-by Latin Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
