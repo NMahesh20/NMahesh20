@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good company requires only birth, education, and manners, and with regard to education is not very nice. Birth and good manners are essential; but a little learning is by no means a dangerous thing in good company; on the contrary, it will do very well." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Better to look weak and be strong than to look strong and be weak." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "Feel the fear and do it anyway." <br> &emsp;&emsp;&emsp; <i>-by Susan Jeffers</i> 
+ 2.  "You can talk about anything if you go about it the right way, which is never malicious." <br> &emsp;&emsp;&emsp; <i>-by Rodney Carrington</i> 
 
- 3.  "I looked always outside of myself to see what I could make the world give me instead of looking within myself to see what was there." <br> &emsp;&emsp;&emsp; <i>-by Belle Livingstone</i> 
+ 3.  "I am in earnest; I will not equivocate; I will not excuse; I will not retreat a single inch; and I will be heard." <br> &emsp;&emsp;&emsp; <i>-by William Lloyd Garrison</i> 
 
- 4.  "It is the part of a good shepherd to shear his flock, not to skin it." <br> &emsp;&emsp;&emsp; <i>-by Latin Proverb</i> 
+ 4.  "In the attitude of silence the soul finds the path in a clearer light, and what is elusive and deceptive resolves itself into crystal clearness. Our life is a long and arduous quest after Truth." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
