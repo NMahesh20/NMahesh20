@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think people that have a brother or sister don't realize how lucky they are. Sure, they fight a lot, but to know that there's always somebody there, somebody that's family." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 1.  "Truth is tough. It will not break, like a bubble, at a touch; nay, you may kick it about all day like a football, and it will be round and full at evening." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 2.  "Without discipline, there's no life at all." <br> &emsp;&emsp;&emsp; <i>-by Katharine Hepburn</i> 
+ 2.  "Everyone in the world was programmed by the place they were born, hemmed in by their beliefs, but you had to at least try to grow your own brain" <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "When the eagles are silent, the parrots begin to jabber." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "Love God and trust your feelings. Be loyal to them. Don't betray them." <br> &emsp;&emsp;&emsp; <i>-by Robert C. Pollock</i> 
 
- 4.  "Nature is just enough; but men and women must comprehend and accept her suggestions." <br> &emsp;&emsp;&emsp; <i>-by Antoinette Brown Blackwell</i> 
+ 4.  "Enquire not what boils in another's pot." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
