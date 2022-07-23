@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Truth is tough. It will not break, like a bubble, at a touch; nay, you may kick it about all day like a football, and it will be round and full at evening." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 1.  "Life was mostly made up of things you couldn't control, full of surprises, and they weren't always good. Life wasn't what you made it. You were what life made you." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
 
- 2.  "Everyone in the world was programmed by the place they were born, hemmed in by their beliefs, but you had to at least try to grow your own brain" <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 2.  "If you have the creative urge, it isn't going to go away. But sometimes it takes a while before you accept the fact." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Love God and trust your feelings. Be loyal to them. Don't betray them." <br> &emsp;&emsp;&emsp; <i>-by Robert C. Pollock</i> 
+ 3.  "If you don't make mistakes, you're not working on hard enough problems. And that's a big mistake." <br> &emsp;&emsp;&emsp; <i>-by Frank Wilczek</i> 
 
- 4.  "Enquire not what boils in another's pot." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 4.  "The lesson which life repeats and constantly enforces is 'look under foot.' You are always nearer the divine and the true sources of your power than you think." <br> &emsp;&emsp;&emsp; <i>-by John Burroughs</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
