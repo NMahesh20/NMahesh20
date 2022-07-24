@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life was mostly made up of things you couldn't control, full of surprises, and they weren't always good. Life wasn't what you made it. You were what life made you." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
+ 1.  "I look forward to an america in which commands respect throughout the world, not only for its strength, but for its civilization as well. And I look forward to a world in which we will be safe not only for democracy and diversity but also for personal distinction." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 2.  "If you have the creative urge, it isn't going to go away. But sometimes it takes a while before you accept the fact." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "The dead look so terribly dead when they're dead." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 3.  "If you don't make mistakes, you're not working on hard enough problems. And that's a big mistake." <br> &emsp;&emsp;&emsp; <i>-by Frank Wilczek</i> 
+ 3.  "The first precept was never to accept a thing as true until I knew it as such without a single doubt." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 4.  "The lesson which life repeats and constantly enforces is 'look under foot.' You are always nearer the divine and the true sources of your power than you think." <br> &emsp;&emsp;&emsp; <i>-by John Burroughs</i> 
+ 4.  "Strong lives are motivated by dynamic purposes." <br> &emsp;&emsp;&emsp; <i>-by Kenneth Hildebrand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
