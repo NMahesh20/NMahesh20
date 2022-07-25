@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I look forward to an america in which commands respect throughout the world, not only for its strength, but for its civilization as well. And I look forward to a world in which we will be safe not only for democracy and diversity but also for personal distinction." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 1.  "I decided not to let my past rule my future so I decided to change my present in order to open up my future." <br> &emsp;&emsp;&emsp; <i>-by Dr. Ana M Guzman</i> 
 
- 2.  "The dead look so terribly dead when they're dead." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 2.  "The ability to see beauty is the beginning of our moral sensibility. What we believe is beautiful we will not wantonly destroy." <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
 
- 3.  "The first precept was never to accept a thing as true until I knew it as such without a single doubt." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "Be careful that victories do not carry the seed of future defeats." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
 
- 4.  "Strong lives are motivated by dynamic purposes." <br> &emsp;&emsp;&emsp; <i>-by Kenneth Hildebrand</i> 
+ 4.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
