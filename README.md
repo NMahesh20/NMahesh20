@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I decided not to let my past rule my future so I decided to change my present in order to open up my future." <br> &emsp;&emsp;&emsp; <i>-by Dr. Ana M Guzman</i> 
+ 1.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 2.  "The ability to see beauty is the beginning of our moral sensibility. What we believe is beautiful we will not wantonly destroy." <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
+ 2.  "Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 3.  "Be careful that victories do not carry the seed of future defeats." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
+ 3.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
+ 4.  "Choose the life that is most useful, and habit will make it the most agreeable." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
