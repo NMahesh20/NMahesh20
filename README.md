@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 1.  "Nothing else exists when art does." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 2.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "Those whom we support hold us up in life." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
 
- 4.  "Choose the life that is most useful, and habit will make it the most agreeable." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
