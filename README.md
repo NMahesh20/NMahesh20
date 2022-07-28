@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing else exists when art does." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 1.  "Live always in the best company when you read." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 2.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "Blessed are those who can give without remembering, and take without forgetting." <br> &emsp;&emsp;&emsp; <i>-by Princess Elizabeth Asquith Bibesco</i> 
 
- 3.  "Those whom we support hold us up in life." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
+ 3.  "It's a shallow life that doesn't give a person a few scars." <br> &emsp;&emsp;&emsp; <i>-by Garrison Keillor</i> 
 
- 4.  "That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "Arranging a bowl of flowers in the morning can give a sense of quiet in a crowded day - like writing a poem, or saying a prayer." <br> &emsp;&emsp;&emsp; <i>-by Anne Morrow Lindbergh</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
