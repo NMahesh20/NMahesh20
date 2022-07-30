@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you win, say nothing. When you lose, say less." <br> &emsp;&emsp;&emsp; <i>-by Paul Brown</i> 
+ 1.  "Self-importance is our greatest enemy. Think about it - what weakens us is feeling offended by the deeds and misdeeds of our fellowmen. Our self-importance requires that we spend most of our lives offended by someone." <br> &emsp;&emsp;&emsp; <i>-by Carlos Castaneda</i> 
 
- 2.  "Wear the old coat and buy the new book." <br> &emsp;&emsp;&emsp; <i>-by Austin Phelps</i> 
+ 2.  "Even on the most exalted throne in the world we are only sitting on our own bottom." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 3.  "If I have ever made any valuable discoveries, it has been owing more to patient attention, than to any other talent." <br> &emsp;&emsp;&emsp; <i>-by Isaac Newton</i> 
+ 3.  "On a lazy Saturday morning when you're lying in bed, drifting in and out of sleep, there is a space where fantasy and reality become one. Are you awake, or are you dreaming? You see people and things; some are familiar; some are strange. You talk, you feel, but you move without walking; you fly without wings. Your mind and your body exist, but on separate planes. Time stands still. For me, this is the feeling I have when ideas come." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 4.  "Every moment is a golden one for him who has the vision to recognize it as such." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 4.  "Forgiveness is the healing of wounds caused by another. You choose to let go of a past wrong and no longer be hurt by it. Forgiveness is a strong move to make, like turning your shoulders sideways to walk quickly on a crowded sidewalk. It's your move." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
