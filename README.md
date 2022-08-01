@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Affirmations are like prescriptions for certain aspects of yourself you want to change." <br> &emsp;&emsp;&emsp; <i>-by Jerry Frankhauser</i> 
+ 1.  "It had only been my repeated experience that when you said to life calmly and firmly... 'I trust you; do what you must,' life had an uncanny way of responding to your need." <br> &emsp;&emsp;&emsp; <i>-by Olga Ilyin</i> 
 
- 2.  "It is not always the same thing to be a good man and a good citizen." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 2.  "Character - the willingness to accept responsibility for one's own life - is the source from which self respect springs." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
 
- 3.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 3.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
 
- 4.  "It's the possibility that when you're dead you might still go on hurting that bothers me." <br> &emsp;&emsp;&emsp; <i>-by Keri Hulme</i> 
+ 4.  "Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
