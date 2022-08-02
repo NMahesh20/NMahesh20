@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It had only been my repeated experience that when you said to life calmly and firmly... 'I trust you; do what you must,' life had an uncanny way of responding to your need." <br> &emsp;&emsp;&emsp; <i>-by Olga Ilyin</i> 
+ 1.  "Ignorant men don't know what good they hold in their hands until they've flung it away." <br> &emsp;&emsp;&emsp; <i>-by Sophocles</i> 
 
- 2.  "Character - the willingness to accept responsibility for one's own life - is the source from which self respect springs." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 2.  "Live well. It is the greatest revenge." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
 
- 3.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
+ 3.  "You have to recognize when the right place and the right time fuse and take advantage of that opportunity. There are plenty of opportunities out there. You can't sit back and wait." <br> &emsp;&emsp;&emsp; <i>-by Ellen Metcalf</i> 
 
- 4.  "Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
+ 4.  "Money is the opposite of the weather. Nobody talks about it, but everybody does something about it." <br> &emsp;&emsp;&emsp; <i>-by Rebecca Johnson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
