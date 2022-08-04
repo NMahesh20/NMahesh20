@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Passion is seldom the end of any story, for it cannot long endure if it is not soon supplemented with true affection and mutual respect." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 1.  "When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "We must always change, renew, rejuvenate ourselves; otherwise we harden." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 2.  "Doing what you love means dealing with things you don't." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 3.  "Anger at lies lasts forever. Anger at truth can't last." <br> &emsp;&emsp;&emsp; <i>-by Greg Evans</i> 
+ 3.  "Discovery consists of seeing what everybody has seen and thinking what nobody has thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
 
- 4.  "Everyone is a prisoner of his own experiences. No one can eliminate prejudices - just recognize them." <br> &emsp;&emsp;&emsp; <i>-by Edward R. Murrow</i> 
+ 4.  "Although the world is full of suffering, it is full also of the overcoming of it." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
