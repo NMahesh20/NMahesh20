@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The biggest thing [Frida] brought into my life was this peacefulness. I still get passionate about things, but my passion is not so scattered and it's not needy. It's a lot more powerful because it comes with this groundedness and peacefulness. That it's about the process, not about the results." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
+ 1.  "Delay always breeds danger; and to protract a great design is often to ruin it." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
 
- 2.  "But the life that no longer trust another human being and no longer forms ties to the political community is not a human life any longer." <br> &emsp;&emsp;&emsp; <i>-by Martha Nussbaum</i> 
+ 2.  "Is life worth living?/ Aye, with the best of us,/ Heights of us, depths of us - / Life is the test of us!" <br> &emsp;&emsp;&emsp; <i>-by Corinne Roosevelt Robinson</i> 
 
- 3.  "The problem of power is how to achieve its responsible use rather than its irresponsible and indulgent use - of how to get men of power to live for the public rather than off the public." <br> &emsp;&emsp;&emsp; <i>-by Robert F. Kennedy</i> 
+ 3.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
 
- 4.  "Those that think it permissible to tell white lies soon grow color blind." <br> &emsp;&emsp;&emsp; <i>-by Austin O'Malley</i> 
+ 4.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
