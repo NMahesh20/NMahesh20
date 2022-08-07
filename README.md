@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Delay always breeds danger; and to protract a great design is often to ruin it." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 1.  "I still need more healthy rest in order to work at my best. My health is the main capital I have and I want to administer it intelligently." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
 
- 2.  "Is life worth living?/ Aye, with the best of us,/ Heights of us, depths of us - / Life is the test of us!" <br> &emsp;&emsp;&emsp; <i>-by Corinne Roosevelt Robinson</i> 
+ 2.  "Marvelous Truth, confront us at every turn, in every guise." <br> &emsp;&emsp;&emsp; <i>-by Denise Levertov</i> 
 
- 3.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 3.  "Nothing astonishes men so much as common sense and plain dealing." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 4.  "A misery is not to be measured from the nature of the evil, but from the temper of the sufferer." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
