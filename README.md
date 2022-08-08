@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I still need more healthy rest in order to work at my best. My health is the main capital I have and I want to administer it intelligently." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
+ 1.  "If men saw that a term was set to their troubles, they would find strength in some way to withstand the hocus-pocus and intimidations of the prophets." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
 
- 2.  "Marvelous Truth, confront us at every turn, in every guise." <br> &emsp;&emsp;&emsp; <i>-by Denise Levertov</i> 
+ 2.  "It is only by following your deepest instinct that you can lead a rich life, and if you let your fear of consequence prevent you from following your deepest instinct, then your life will be safe, expedient and thin." <br> &emsp;&emsp;&emsp; <i>-by Katharine Butler Hathaway</i> 
 
- 3.  "Nothing astonishes men so much as common sense and plain dealing." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "It's important that someone celebrate our existence... People are the only mirror we have to see ourselves in. The domain of all meaning. All virtue, all evil, are contained only in people. There is none in the universe at large. Solitary confinement is a punishment in every human culture." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "A misery is not to be measured from the nature of the evil, but from the temper of the sufferer." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 4.  "A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog." <br> &emsp;&emsp;&emsp; <i>-by Jack London</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
