@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If men saw that a term was set to their troubles, they would find strength in some way to withstand the hocus-pocus and intimidations of the prophets." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
+ 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
 
- 2.  "It is only by following your deepest instinct that you can lead a rich life, and if you let your fear of consequence prevent you from following your deepest instinct, then your life will be safe, expedient and thin." <br> &emsp;&emsp;&emsp; <i>-by Katharine Butler Hathaway</i> 
+ 2.  "What people say you cannot do, you try and find that you can." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "It's important that someone celebrate our existence... People are the only mirror we have to see ourselves in. The domain of all meaning. All virtue, all evil, are contained only in people. There is none in the universe at large. Solitary confinement is a punishment in every human culture." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "The foolish man seeks happiness in the distance, the wise grows it under his feet." <br> &emsp;&emsp;&emsp; <i>-by James Oppenheim</i> 
 
- 4.  "A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog." <br> &emsp;&emsp;&emsp; <i>-by Jack London</i> 
+ 4.  "You can have it all. You just can't have it all at once." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
