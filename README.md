@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
+ 1.  "The older I get, the more I feel / almost beautiful..." <br> &emsp;&emsp;&emsp; <i>-by Sharon Olds</i> 
 
- 2.  "What people say you cannot do, you try and find that you can." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
 
- 3.  "The foolish man seeks happiness in the distance, the wise grows it under his feet." <br> &emsp;&emsp;&emsp; <i>-by James Oppenheim</i> 
+ 3.  "Do not accustom yourself to use big words for little matters." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 4.  "You can have it all. You just can't have it all at once." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "In the modern world of business, it is useless to be a creative original thinker unless you can also sell what you create. Management cannot be expected to recognize a good idea unless it is presented to them by a good salesman." <br> &emsp;&emsp;&emsp; <i>-by David M. Ogilvy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
