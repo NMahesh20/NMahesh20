@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Go through your phone book, call people and ask them to drive you to the airport. The ones who will drive you are your true friends. The rest aren't bad people; they're just acquaintances." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
+ 1.  "Work while you have the light. You are responsible for the talent that has been entrusted to you." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
 
- 2.  "After you've been in a place for a while, everything starts to look... I won't say better, there's no need to go to extremes...but your everyday life does start to become...familiar." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
+ 2.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
 
- 3.  "The really potent part of love is that it allows you to carry around beliefs about yourself that make you feel special, desirable, precious, innately good. Your lover couldn't have seen [these qualities] in you, even temporarily, if they weren't part of your essential being." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 3.  "All that is necessary for the triumph of evil is that good men do nothing." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 
- 4.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
+ 4.  "Men are born with two eyes, but only one tongue, in order that they should see twice as much as they say." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
