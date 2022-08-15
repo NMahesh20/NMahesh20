@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all carry around so much pain in our hearts. Love and pain and beauty. They all seem to go together like one little tidy confusing package. It's a messy business, life. It's hard to figure--full of surprises. Some good. Some bad." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 1.  "Blaze with the fire that is never extinguished." <br> &emsp;&emsp;&emsp; <i>-by Luisa Sigea</i> 
 
- 2.  "Birds sing after a storm; why shouldn't people feel as free to delight in whatever sunlight remains to them?" <br> &emsp;&emsp;&emsp; <i>-by Rose Kennedy</i> 
+ 2.  "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "It is the loving, not the loved, woman who feels loveable." <br> &emsp;&emsp;&emsp; <i>-by Jessamyn West</i> 
+ 3.  "If there was strife and contention in the home, very little else in life could compensate for it." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "If people only knew how hard I work to gain my mastery, it wouldn't seem so wonderful at all." <br> &emsp;&emsp;&emsp; <i>-by Michelangelo Buonarroti</i> 
+ 4.  "As scarce as truth is, the supply has always been in excess of the demand." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
