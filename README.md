@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Blaze with the fire that is never extinguished." <br> &emsp;&emsp;&emsp; <i>-by Luisa Sigea</i> 
+ 1.  "Beware of undertaking too much at the start. Be content with quite a little. Allow for accidents. Allow for human nature, especially your own." <br> &emsp;&emsp;&emsp; <i>-by Arnold Bennett</i> 
 
- 2.  "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Do something. If it doesn't work, do something else. No idea is too crazy." <br> &emsp;&emsp;&emsp; <i>-by Jim Hightower</i> 
 
- 3.  "If there was strife and contention in the home, very little else in life could compensate for it." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "As scarce as truth is, the supply has always been in excess of the demand." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 4.  "Learn as much by writing as by reading." <br> &emsp;&emsp;&emsp; <i>-by Lord Acton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
