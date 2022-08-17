@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beware of undertaking too much at the start. Be content with quite a little. Allow for accidents. Allow for human nature, especially your own." <br> &emsp;&emsp;&emsp; <i>-by Arnold Bennett</i> 
+ 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "Do something. If it doesn't work, do something else. No idea is too crazy." <br> &emsp;&emsp;&emsp; <i>-by Jim Hightower</i> 
+ 2.  "Realize that true happiness lies within you. Waste no time and effort searching for peace and contentment and joy in the world outside. Remember that there is no happiness in having or in getting, but only in giving. Reach out. Share. Smile. Hug. Happiness is a perfume you cannot pour on others without getting a few drops on yourself." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "The highest possible stage in moral culture is when we recognize that we ought to control our thoughts." <br> &emsp;&emsp;&emsp; <i>-by Charles Darwin</i> 
 
- 4.  "Learn as much by writing as by reading." <br> &emsp;&emsp;&emsp; <i>-by Lord Acton</i> 
+ 4.  "Words calculated to catch everyone may catch no one." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
