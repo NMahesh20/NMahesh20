@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "Pleasure is an important component of the quality of life, but by itself it does not bring happiness. Pleasure helps to maintain order, but by itself cannot create a new order in consciousness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "Realize that true happiness lies within you. Waste no time and effort searching for peace and contentment and joy in the world outside. Remember that there is no happiness in having or in getting, but only in giving. Reach out. Share. Smile. Hug. Happiness is a perfume you cannot pour on others without getting a few drops on yourself." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "Each decision we make, each action we take, is born out of an intention." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 3.  "The highest possible stage in moral culture is when we recognize that we ought to control our thoughts." <br> &emsp;&emsp;&emsp; <i>-by Charles Darwin</i> 
+ 3.  "Happiness is not a station you arrive at, but a manner of traveling." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
 
- 4.  "Words calculated to catch everyone may catch no one." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
+ 4.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
