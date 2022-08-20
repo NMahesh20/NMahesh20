@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "Maybe it's easier to like someone else's life, and live vicariously through it, than take some responsiblity to change our lives into lives we might like." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 2.  "Life is a great big canvas; throw all the paint on it you can." <br> &emsp;&emsp;&emsp; <i>-by Danny Kaye</i> 
+ 2.  "For what I have received, may the Lord make me truly thankful. And more truly for what I have not received." <br> &emsp;&emsp;&emsp; <i>-by Storm Jameson</i> 
 
- 3.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "Many persons have a wrong idea of what constitutes true happiness. It is not attained through self-gratification but through fidelity to a worthy purpose." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 4.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "The only courage that matters is the kind that gets you from one moment to the next." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
