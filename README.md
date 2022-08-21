@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Maybe it's easier to like someone else's life, and live vicariously through it, than take some responsiblity to change our lives into lives we might like." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 1.  "Keeping score of old scores and scars, getting even and one-upping, always make you less than you are." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Forbes</i> 
 
- 2.  "For what I have received, may the Lord make me truly thankful. And more truly for what I have not received." <br> &emsp;&emsp;&emsp; <i>-by Storm Jameson</i> 
+ 2.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
 
- 3.  "Many persons have a wrong idea of what constitutes true happiness. It is not attained through self-gratification but through fidelity to a worthy purpose." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 3.  "It is not enough to have a good mind. The main thing is to use it well." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 4.  "The only courage that matters is the kind that gets you from one moment to the next." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 4.  "Wit makes its own welcome, and levels all distinctions. No dignity, no learning, no force of character, can make any stand against good wit." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
