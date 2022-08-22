@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keeping score of old scores and scars, getting even and one-upping, always make you less than you are." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Forbes</i> 
+ 1.  "A God that can be understood is no God. Who can explain the Infinite in words?" <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
+ 2.  "Eliminate something superfluous from your life. Break a habit. Do something that makes you feel insecure." <br> &emsp;&emsp;&emsp; <i>-by Piero Ferrucci</i> 
 
- 3.  "It is not enough to have a good mind. The main thing is to use it well." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "She knows what is the best purpose of education: not to be frightened by the best but to treat it as part of daily life." <br> &emsp;&emsp;&emsp; <i>-by John Mason Brown</i> 
 
- 4.  "Wit makes its own welcome, and levels all distinctions. No dignity, no learning, no force of character, can make any stand against good wit." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "It is pretty hard to tell what does bring happiness; poverty and wealth have both failed." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
