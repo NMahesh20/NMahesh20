@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keeping your clothes well pressed will keep you from looking hard pressed." <br> &emsp;&emsp;&emsp; <i>-by Coleman Cox</i> 
+ 1.  "If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don`t appreciate the moment until it's passed." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
 
- 2.  "Give me the luxuries of life and I will willingly do without the necessities." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 2.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
 
- 3.  "Sport is imposing order on what was chaos." <br> &emsp;&emsp;&emsp; <i>-by Anthony Starr</i> 
+ 3.  "The law is not so much carved in stone as it is written in water, flowing in and out with the tide." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 4.  "I cannot pretend to feel impartial about colours. I rejoice with the brilliant ones and am genuinely sorry for the poor browns." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 4.  "If all the year were playing holidays; To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
