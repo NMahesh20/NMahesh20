@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don`t appreciate the moment until it's passed." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 1.  "An old house with its windows gone always makes me think of something dead with its eyes picked out." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
+ 2.  "We made a solemn vow not to take any job outside of show business. We borrowed money from parents and friends, rather than take that lethal job waiting tables. This forced us to take any job offered to us. Anything. We once did a show in the middle of the Benjamin Franklin Parkway in Philadelphia as part of a fashion show on a hot July night while all around our stage, a race-riot was fully underway. That's how serious we were about our vow." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 3.  "The law is not so much carved in stone as it is written in water, flowing in and out with the tide." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
+ 3.  "Have you heard that it was good to gain the day? I also say it is good to fall, battles are lost in the same spirit in which they are won." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 4.  "If all the year were playing holidays; To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "I know just how frustrating it can be when you're tired and exhausted, but you still want to draw something." <br> &emsp;&emsp;&emsp; <i>-by Ward Jenkins</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
