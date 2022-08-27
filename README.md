@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you think taking care of yourself is selfish, change your mind. If you don't, you're simply ducking your responsibilities." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Regret for wasted time is more wasted time." <br> &emsp;&emsp;&emsp; <i>-by Mason Cooley</i> 
+ 2.  "Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. None of Nature's landscapes are ugly so long as they are wild." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 3.  "Honest differences are often a healthy sign of progress." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "You never lose a dream. It just incubates as a hobby." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
 
- 4.  "A minute's success pays the failure of years." <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 4.  "A person's abilities are tested best when defending rather than attacking." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
