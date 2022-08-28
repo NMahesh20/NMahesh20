@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "There is always so much talk about the sins of the fathers, but it is the sins of the mothers that are the most difficult to avoid repeating." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
 
- 2.  "Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. None of Nature's landscapes are ugly so long as they are wild." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 2.  "You have to find a way of working that makes it dead easy to take full advantage of your inspired moments. They never hit at a convenient time, nor do they last long." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "You never lose a dream. It just incubates as a hobby." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 3.  "The more you chase money, the harder it is to catch it." <br> &emsp;&emsp;&emsp; <i>-by Mike Tatum</i> 
 
- 4.  "A person's abilities are tested best when defending rather than attacking." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 4.  "Ah, music. A magic beyond all we do here!" <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
