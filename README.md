@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is always so much talk about the sins of the fathers, but it is the sins of the mothers that are the most difficult to avoid repeating." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 1.  "When you really trust someone, you have to be okay with not understanding some things." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "You have to find a way of working that makes it dead easy to take full advantage of your inspired moments. They never hit at a convenient time, nor do they last long." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 
- 3.  "The more you chase money, the harder it is to catch it." <br> &emsp;&emsp;&emsp; <i>-by Mike Tatum</i> 
+ 3.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 4.  "Ah, music. A magic beyond all we do here!" <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 4.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
