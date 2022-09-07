@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The first and great commandment is: Don't let them scare you." <br> &emsp;&emsp;&emsp; <i>-by Elmer Davis</i> 
+ 1.  "Often we can achieve an even better result when we stumble yet are willing to start over, when we don't give up after a mistake, when something doesn't come easily but we throw ourselves into trying, when we're not afraid to appear less than perfectly polished." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 2.  "One needs to be slow to form convictions, but once formed they must be defended against the heaviest odds." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 2.  "A problem is a chance for you to do your best." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
 
- 3.  "Be contented when you have got all you want." <br> &emsp;&emsp;&emsp; <i>-by Holbrook Jackson</i> 
+ 3.  "Better to rely on one powerful king than on many little princes." <br> &emsp;&emsp;&emsp; <i>-by Jean de La Fontaine</i> 
 
- 4.  "Silence is one of the great arts of conversation, as allowed by Cicero himself, who says, 'there is not only an art, but an eloquence in it.' A well bred woman may easily and effectually promote the most useful and elegant conversation without speaking a word. The modes of speech are scarcely more variable than the modes of silence." <br> &emsp;&emsp;&emsp; <i>-by Tom Blair</i> 
+ 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
