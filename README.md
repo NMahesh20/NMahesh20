@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you really trust someone, you have to be okay with not understanding some things." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "The first and great commandment is: Don't let them scare you." <br> &emsp;&emsp;&emsp; <i>-by Elmer Davis</i> 
 
- 2.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 2.  "One needs to be slow to form convictions, but once formed they must be defended against the heaviest odds." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 3.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 3.  "Be contented when you have got all you want." <br> &emsp;&emsp;&emsp; <i>-by Holbrook Jackson</i> 
 
- 4.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
+ 4.  "Silence is one of the great arts of conversation, as allowed by Cicero himself, who says, 'there is not only an art, but an eloquence in it.' A well bred woman may easily and effectually promote the most useful and elegant conversation without speaking a word. The modes of speech are scarcely more variable than the modes of silence." <br> &emsp;&emsp;&emsp; <i>-by Tom Blair</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
