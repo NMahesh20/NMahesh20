@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Often we can achieve an even better result when we stumble yet are willing to start over, when we don't give up after a mistake, when something doesn't come easily but we throw ourselves into trying, when we're not afraid to appear less than perfectly polished." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 1.  "Always be a little kinder than necessary." <br> &emsp;&emsp;&emsp; <i>-by James M. Barrie</i> 
 
- 2.  "A problem is a chance for you to do your best." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
+ 2.  "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 3.  "Better to rely on one powerful king than on many little princes." <br> &emsp;&emsp;&emsp; <i>-by Jean de La Fontaine</i> 
+ 3.  "Keep your fears to yourself, but share your courage with others." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
