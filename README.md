@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
+ 1.  "We require from buildings, as from men, two kinds of goodness: first, the doing their practical duty well: then that they be graceful and pleasing in doing it; which last is itself another form of duty." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 
- 2.  "Storms make oaks take deeper root." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 2.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 3.  "Never does the human soul appear so strong and noble as when it foregoes revenge and dares to forgive an injury." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
+ 3.  "It is the creative potential itself in human beings that is the image of God." <br> &emsp;&emsp;&emsp; <i>-by Mary Daly</i> 
 
- 4.  "Count not him among your friends who will retail your privacies to the world." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "Quit now, you'll never make it. If you disregard this advice, you'll be halfway there." <br> &emsp;&emsp;&emsp; <i>-by David Zucker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
