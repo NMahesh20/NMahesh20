@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We require from buildings, as from men, two kinds of goodness: first, the doing their practical duty well: then that they be graceful and pleasing in doing it; which last is itself another form of duty." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 1.  "A child that has a quick temper, just blaze up and cool down, ain't never likely to be sly or deceitful." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 2.  "Man is his own star and the soul that can render an honest and perfect man commands all light, all influence, all fate." <br> &emsp;&emsp;&emsp; <i>-by John Fletcher</i> 
 
- 3.  "It is the creative potential itself in human beings that is the image of God." <br> &emsp;&emsp;&emsp; <i>-by Mary Daly</i> 
+ 3.  "Remember when life's path is steep to keep your mind even." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 4.  "Quit now, you'll never make it. If you disregard this advice, you'll be halfway there." <br> &emsp;&emsp;&emsp; <i>-by David Zucker</i> 
+ 4.  "Don't reserve your best behavior for special occasions. You can't have two sets of manners, two social codes - one for those you admire and want to impress, another for those whom you consider unimportant. You must be the same to all people." <br> &emsp;&emsp;&emsp; <i>-by Lillian Eichler Watson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
