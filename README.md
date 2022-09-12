@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A child that has a quick temper, just blaze up and cool down, ain't never likely to be sly or deceitful." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Good ideas are not adopted automatically. They must be driven into practice with courageous patience." <br> &emsp;&emsp;&emsp; <i>-by Hyman Rickover</i> 
 
- 2.  "Man is his own star and the soul that can render an honest and perfect man commands all light, all influence, all fate." <br> &emsp;&emsp;&emsp; <i>-by John Fletcher</i> 
+ 2.  "If a free society cannot help the many who are poor, it cannot save the few who are rich." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 3.  "Remember when life's path is steep to keep your mind even." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 3.  "You cannot acquire experience by making experiments. You cannot create experience. You must undergo it." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 4.  "Don't reserve your best behavior for special occasions. You can't have two sets of manners, two social codes - one for those you admire and want to impress, another for those whom you consider unimportant. You must be the same to all people." <br> &emsp;&emsp;&emsp; <i>-by Lillian Eichler Watson</i> 
+ 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
