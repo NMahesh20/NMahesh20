@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good ideas are not adopted automatically. They must be driven into practice with courageous patience." <br> &emsp;&emsp;&emsp; <i>-by Hyman Rickover</i> 
+ 1.  "Ultimately, we all have to decide for ourselves what constitutes failure, but the world is quite eager to give you a set of criteria if you let it." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "If a free society cannot help the many who are poor, it cannot save the few who are rich." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 2.  "Sometimes the laughter in mothering is the recognition of the ironies and absurdities. Sometime, though, it's just pure, unthinking delight." <br> &emsp;&emsp;&emsp; <i>-by Barbara Schapiro</i> 
 
- 3.  "You cannot acquire experience by making experiments. You cannot create experience. You must undergo it." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 3.  "What we're all striving for is authenticity, a spirit-to-spirit connection." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
+ 4.  "When the conduct of men is designed to be influenced, persuasion, kind unassuming persuasion, should ever be adopted. It is an old and true maxim that 'a drop of honey catches more flies than a gallon of gall.' So with men. If you would win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart, which, say what he will, is the great highroad to his reason, and which, once gained, you will find but little trouble in convincing him of the justice of your cause, if indeed that cause is really a good one." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
