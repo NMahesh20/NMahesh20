@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everybody is too busy with their own lives to give a damn about your book, painting, screenplay etc, especially if you haven't sold it yet. And the ones that aren't, you don't want in your life anyway." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "When you get right down to it, what we all need is a place to go... A place where we can escape the noise of our lives and just relax." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "It is characteristic of all deep human problems that they are not to be approached without some humor and some bewilderment." <br> &emsp;&emsp;&emsp; <i>-by Freeman Dyson</i> 
+ 2.  "Maps encourage boldness. They're like cryptic love letters. They make anything seem possible." <br> &emsp;&emsp;&emsp; <i>-by Mark Jenkins</i> 
 
- 3.  "While one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior." <br> &emsp;&emsp;&emsp; <i>-by Henry C. Link</i> 
+ 3.  "Love all, trust a few. Do wrong to none." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "A great secret of success is to go through life as a man who never gets used up." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
+ 4.  "Wish not so much to live long as to live well." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
