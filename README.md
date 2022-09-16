@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you get right down to it, what we all need is a place to go... A place where we can escape the noise of our lives and just relax." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Above all things, reverence yourself." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 
- 2.  "Maps encourage boldness. They're like cryptic love letters. They make anything seem possible." <br> &emsp;&emsp;&emsp; <i>-by Mark Jenkins</i> 
+ 2.  "If you would marry suitably, marry your equal." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
 
- 3.  "Love all, trust a few. Do wrong to none." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
 
- 4.  "Wish not so much to live long as to live well." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Through all the world there goes one long cry from the heart of the artist: Give me leave to do my utmost." <br> &emsp;&emsp;&emsp; <i>-by Isak Dineson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
