@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Above all things, reverence yourself." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 1.  "I know that our bodies were made to thrive only in pure air, and the scenes in which pure air is found. There is not a "fragment" in all nature, for every relative fragment of one thing is a full harmonious unit in itself." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "If you would marry suitably, marry your equal." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
+ 2.  "On a long enough timeline. The survival rate for everyone drops to zero." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
+ 3.  "Be wise with speed . A fool at forty is a fool indeed." <br> &emsp;&emsp;&emsp; <i>-by Edward Young</i> 
 
- 4.  "Through all the world there goes one long cry from the heart of the artist: Give me leave to do my utmost." <br> &emsp;&emsp;&emsp; <i>-by Isak Dineson</i> 
+ 4.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
