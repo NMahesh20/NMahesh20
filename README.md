@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know that our bodies were made to thrive only in pure air, and the scenes in which pure air is found. There is not a "fragment" in all nature, for every relative fragment of one thing is a full harmonious unit in itself." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "In the end, I decide that the mark we've left on each other is the color and shape of love. That the unfinished business between us. Because love, love is never finished. It circles and circles, the memories out of order and not always complete." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
 
- 2.  "On a long enough timeline. The survival rate for everyone drops to zero." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 3.  "Be wise with speed . A fool at forty is a fool indeed." <br> &emsp;&emsp;&emsp; <i>-by Edward Young</i> 
+ 3.  "God creates men, but they choose each other." <br> &emsp;&emsp;&emsp; <i>-by Niccolo Machiavelli</i> 
 
- 4.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
+ 4.  "It's easier to put on slippers than to carpet the whole world." <br> &emsp;&emsp;&emsp; <i>-by Al Franken</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
