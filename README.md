@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In the end, I decide that the mark we've left on each other is the color and shape of love. That the unfinished business between us. Because love, love is never finished. It circles and circles, the memories out of order and not always complete." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
+ 1.  "I believe in recovery, and I believe that as a role model I have the responsibility to let young people know that you can make a mistake and come back from it." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "You don't have to die in order to make a living." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 3.  "God creates men, but they choose each other." <br> &emsp;&emsp;&emsp; <i>-by Niccolo Machiavelli</i> 
+ 3.  "Authenticity matters little, though--our willingness to accept legends depends far more upon their expression of concepts we want to believe than upon their plausibility." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 4.  "It's easier to put on slippers than to carpet the whole world." <br> &emsp;&emsp;&emsp; <i>-by Al Franken</i> 
+ 4.  "To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer, is to have kept your soul alive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
