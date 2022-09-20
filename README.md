@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I believe in recovery, and I believe that as a role model I have the responsibility to let young people know that you can make a mistake and come back from it." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "To grow mature is to separate more distinctly, to connect more closely." <br> &emsp;&emsp;&emsp; <i>-by Hugo Von Hofmannsthal</i> 
 
- 2.  "You don't have to die in order to make a living." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 2.  "Artists who seek perfection in everything are those who cannot attain it in anything." <br> &emsp;&emsp;&emsp; <i>-by Eugene Delacroix</i> 
 
- 3.  "Authenticity matters little, though--our willingness to accept legends depends far more upon their expression of concepts we want to believe than upon their plausibility." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
+ 3.  "It's not the hours you put in your work that counts, it's the work you put in the hours." <br> &emsp;&emsp;&emsp; <i>-by Sam Ewing</i> 
 
- 4.  "To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer, is to have kept your soul alive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 4.  "Intuition isn't the enemy, but the ally, of reason." <br> &emsp;&emsp;&emsp; <i>-by John Kord Lagemann</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
