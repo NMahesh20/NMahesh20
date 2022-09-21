@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To grow mature is to separate more distinctly, to connect more closely." <br> &emsp;&emsp;&emsp; <i>-by Hugo Von Hofmannsthal</i> 
+ 1.  "No matter how far you travel or how much you run from it, can you ever really escape your past?" <br> &emsp;&emsp;&emsp; <i>-by Becky Hartman Edwards and Michael Patrick King</i> 
 
- 2.  "Artists who seek perfection in everything are those who cannot attain it in anything." <br> &emsp;&emsp;&emsp; <i>-by Eugene Delacroix</i> 
+ 2.  "How simple a thing it seems to me that to know ourselves as we are, we must know our mothers' names." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 3.  "It's not the hours you put in your work that counts, it's the work you put in the hours." <br> &emsp;&emsp;&emsp; <i>-by Sam Ewing</i> 
+ 3.  "Passion kept one fully in the present, so that time became a series of mutually exclusive 'nows.'" <br> &emsp;&emsp;&emsp; <i>-by Sue Halpern</i> 
 
- 4.  "Intuition isn't the enemy, but the ally, of reason." <br> &emsp;&emsp;&emsp; <i>-by John Kord Lagemann</i> 
+ 4.  "Never try to reason the prejudice out of a man. It was not reasoned into him, and cannot be reasoned out." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
