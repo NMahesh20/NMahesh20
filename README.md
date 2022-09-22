@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No matter how far you travel or how much you run from it, can you ever really escape your past?" <br> &emsp;&emsp;&emsp; <i>-by Becky Hartman Edwards and Michael Patrick King</i> 
+ 1.  "This time, like all times, is a very good one, if we but know what to do with it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 2.  "How simple a thing it seems to me that to know ourselves as we are, we must know our mothers' names." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 2.  "For all their strength, men were sometimes like little children." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "Passion kept one fully in the present, so that time became a series of mutually exclusive 'nows.'" <br> &emsp;&emsp;&emsp; <i>-by Sue Halpern</i> 
+ 3.  "Funny business, a woman's career: the things you drop on the way up the ladder so you can move faster. You forget you'll need them again when you get back to being a woman. It's one career all females have in common, whether we like it or not: being a woman. Sooner or later, we've got to work at it, no matter how many other careers we've had or wanted." <br> &emsp;&emsp;&emsp; <i>-by Joseph L. Mankiewicz</i> 
 
- 4.  "Never try to reason the prejudice out of a man. It was not reasoned into him, and cannot be reasoned out." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 4.  "Act as if it were impossible to fail." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Brande</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
