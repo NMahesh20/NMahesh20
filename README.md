@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Yes is how you get your first job, and your next job, and your spouse, and even your kids. Even if it's a bit edgy, a bit out of your comfort zone, saying yes means that you will do something new, meet someone new and make a difference." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Farrah Gray</i> 
 
- 3.  "Education is the ability to listen to almost anything without losing your temper or your self-confidence." <br> &emsp;&emsp;&emsp; <i>-by Robert Frost</i> 
+ 3.  "Be not slow to visit the sick." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
 
- 4.  "You will find that the mere resolve not to be useless, and the honest desire to help other people, will, in the quickest and delicatest ways, improve yourself." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
