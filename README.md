@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Yes is how you get your first job, and your next job, and your spouse, and even your kids. Even if it's a bit edgy, a bit out of your comfort zone, saying yes means that you will do something new, meet someone new and make a difference." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "Content makes poor men rich; discontentment makes rich men poor." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Farrah Gray</i> 
+ 2.  "Treat your friends as you do your pictures, and place them in their best light." <br> &emsp;&emsp;&emsp; <i>-by Jennie Jerome Churchill</i> 
 
- 3.  "Be not slow to visit the sick." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
+ 3.  "So you see, imagination needs moodling - long, inefficient, happy idling, dawdling and puttering." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
 
- 4.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "You can have anything you want if you want it desperately enough. You must want it with an inner exuberance that erupts through the skin and joins the energy that created the world." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
