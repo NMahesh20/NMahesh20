@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Content makes poor men rich; discontentment makes rich men poor." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 1.  "The things that make us safest from others make us least from ourselves." <br> &emsp;&emsp;&emsp; <i>-by Danah Boyd</i> 
 
- 2.  "Treat your friends as you do your pictures, and place them in their best light." <br> &emsp;&emsp;&emsp; <i>-by Jennie Jerome Churchill</i> 
+ 2.  "Happiness is essentially a state of going somewhere, wholeheartedly, one-directionally, without regret or reservation." <br> &emsp;&emsp;&emsp; <i>-by William H. Sheldon</i> 
 
- 3.  "So you see, imagination needs moodling - long, inefficient, happy idling, dawdling and puttering." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
+ 3.  "Real, constructive mental power lies in the creative thought that shapes your destiny, and your hour-by-hour mental conduct produces power for change in your life. Develop a train of thought on which to ride. The nobility of your life as well as your happiness depends upon the direction in which that train of thought is going." <br> &emsp;&emsp;&emsp; <i>-by Laurence J. Peter</i> 
 
- 4.  "You can have anything you want if you want it desperately enough. You must want it with an inner exuberance that erupts through the skin and joins the energy that created the world." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
+ 4.  "Without friends no one would choose to live, though he had all other goods." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
