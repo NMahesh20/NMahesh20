@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The things that make us safest from others make us least from ourselves." <br> &emsp;&emsp;&emsp; <i>-by Danah Boyd</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
 
- 2.  "Happiness is essentially a state of going somewhere, wholeheartedly, one-directionally, without regret or reservation." <br> &emsp;&emsp;&emsp; <i>-by William H. Sheldon</i> 
+ 2.  "Concern for someone else was a good remedy for taking the mind off one's own troubles." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Real, constructive mental power lies in the creative thought that shapes your destiny, and your hour-by-hour mental conduct produces power for change in your life. Develop a train of thought on which to ride. The nobility of your life as well as your happiness depends upon the direction in which that train of thought is going." <br> &emsp;&emsp;&emsp; <i>-by Laurence J. Peter</i> 
+ 3.  "Give me where to stand, and I will move the earth." <br> &emsp;&emsp;&emsp; <i>-by Archimedes</i> 
 
- 4.  "Without friends no one would choose to live, though he had all other goods." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "Poetry should please by a fine excess and not by singularity. It should strike the reader as a wording of his own highest thoughts, and appear almost as a remembrance." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
