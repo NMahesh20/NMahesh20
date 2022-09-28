@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
+ 1.  "Love is the ability and willingness to allow those that you care for to be what they choose for themselves without any insistence that they satisfy you." <br> &emsp;&emsp;&emsp; <i>-by Wayne Dyer</i> 
 
- 2.  "Concern for someone else was a good remedy for taking the mind off one's own troubles." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "Living is having ups and downs and sharing them with friends." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "Give me where to stand, and I will move the earth." <br> &emsp;&emsp;&emsp; <i>-by Archimedes</i> 
+ 3.  "It is a fine thing to establish one's own religion in one's heart, not to be dependent on tradition and second-hand ideals. Life will seem to you, later, not a lesser, but a greater thing." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
 
- 4.  "Poetry should please by a fine excess and not by singularity. It should strike the reader as a wording of his own highest thoughts, and appear almost as a remembrance." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
+ 4.  "A sailor without a destination cannot hope for a favorable wind." <br> &emsp;&emsp;&emsp; <i>-by Leon Tec</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
