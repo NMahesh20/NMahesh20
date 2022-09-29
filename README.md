@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Love is the ability and willingness to allow those that you care for to be what they choose for themselves without any insistence that they satisfy you." <br> &emsp;&emsp;&emsp; <i>-by Wayne Dyer</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 
- 2.  "Living is having ups and downs and sharing them with friends." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 2.  "People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us can come to being happy." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "It is a fine thing to establish one's own religion in one's heart, not to be dependent on tradition and second-hand ideals. Life will seem to you, later, not a lesser, but a greater thing." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
+ 3.  "Set up as an ideal the facing of reality as honestly and as cheerfully as possible." <br> &emsp;&emsp;&emsp; <i>-by Dr. Karl Menninger</i> 
 
- 4.  "A sailor without a destination cannot hope for a favorable wind." <br> &emsp;&emsp;&emsp; <i>-by Leon Tec</i> 
+ 4.  "Don't let your sorrow come higher than your knees." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
