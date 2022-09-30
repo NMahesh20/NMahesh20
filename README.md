@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 1.  "Be courteous to all, but intimate with few; and let those few be well tried before you give them your confidence." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 2.  "People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us can come to being happy." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "Time is the most valuable thing a man can spend." <br> &emsp;&emsp;&emsp; <i>-by Theophrastus</i> 
 
- 3.  "Set up as an ideal the facing of reality as honestly and as cheerfully as possible." <br> &emsp;&emsp;&emsp; <i>-by Dr. Karl Menninger</i> 
+ 3.  "It is curious that physical courage should be so common in the world and moral courage so rare." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "Don't let your sorrow come higher than your knees." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
+ 4.  "I never cease being dumbfounded by the unbelievable things people believe." <br> &emsp;&emsp;&emsp; <i>-by Leo Rosten</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
