@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Be courteous to all, but intimate with few; and let those few be well tried before you give them your confidence." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 1.  "Failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than I was and began diverting all my energy into finishing the only work that mattered to me." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "Time is the most valuable thing a man can spend." <br> &emsp;&emsp;&emsp; <i>-by Theophrastus</i> 
+ 2.  "Most of the basic truths of life sound absurd at first hearing." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Goudge</i> 
 
- 3.  "It is curious that physical courage should be so common in the world and moral courage so rare." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "It is better to die on your feet than live on your knees." <br> &emsp;&emsp;&emsp; <i>-by Emiliano Zapata</i> 
 
- 4.  "I never cease being dumbfounded by the unbelievable things people believe." <br> &emsp;&emsp;&emsp; <i>-by Leo Rosten</i> 
+ 4.  "I do not regret one professional enemy I have made. Any actor who doesn't dare to make an enemy should get out of the business." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
