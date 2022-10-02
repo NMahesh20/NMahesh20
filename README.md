@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Failure meant a stripping away of the inessential. I stopped pretending to myself that I was anything other than I was and began diverting all my energy into finishing the only work that mattered to me." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "There comes a point in life when you realize everything you know about yourself, it's all just conditioning. It's the rare man who truly know who he is." <br> &emsp;&emsp;&emsp; <i>-by Brian Buckner</i> 
 
- 2.  "Most of the basic truths of life sound absurd at first hearing." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Goudge</i> 
+ 2.  "The first duty of love is to listen." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
 
- 3.  "It is better to die on your feet than live on your knees." <br> &emsp;&emsp;&emsp; <i>-by Emiliano Zapata</i> 
+ 3.  "For the most part, fear is nothing but an illusion. When you share it with someone else, it tends to disappear." <br> &emsp;&emsp;&emsp; <i>-by Marilyn C. Barrick</i> 
 
- 4.  "I do not regret one professional enemy I have made. Any actor who doesn't dare to make an enemy should get out of the business." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "I used to dread getting older because I thought I would not be able to do all the things I wanted to do, but now that I am older I find that I don't want to do them." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
