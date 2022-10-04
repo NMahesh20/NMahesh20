@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There comes a point in life when you realize everything you know about yourself, it's all just conditioning. It's the rare man who truly know who he is." <br> &emsp;&emsp;&emsp; <i>-by Brian Buckner</i> 
+ 1.  "I'm not judging people, I'm judging their actions. It's the same type of distinction that I try to apply to myself, to judge, but not be judgmental." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 2.  "The first duty of love is to listen." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
+ 2.  "I hear and I forget. I see and I remember. I do and I understand." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 3.  "For the most part, fear is nothing but an illusion. When you share it with someone else, it tends to disappear." <br> &emsp;&emsp;&emsp; <i>-by Marilyn C. Barrick</i> 
+ 3.  "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
 
- 4.  "I used to dread getting older because I thought I would not be able to do all the things I wanted to do, but now that I am older I find that I don't want to do them." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
+ 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
