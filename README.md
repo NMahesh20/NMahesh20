@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm not judging people, I'm judging their actions. It's the same type of distinction that I try to apply to myself, to judge, but not be judgmental." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "I hear and I forget. I see and I remember. I do and I understand." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 2.  "Experience is a good teacher, but she sends in terrific bills." <br> &emsp;&emsp;&emsp; <i>-by Minna Thomas Antrim</i> 
 
- 3.  "Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
+ 3.  "Sharing food with another human being is an intimate act that should not be indulged in lightly." <br> &emsp;&emsp;&emsp; <i>-by M. F. K. Fisher</i> 
 
- 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
+ 4.  "There is no need to go to India or anywhere else to find peace. You will find that deep place of silence right in your room, your garden or even your bathtub." <br> &emsp;&emsp;&emsp; <i>-by Elisabeth Kubler-Ross</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
