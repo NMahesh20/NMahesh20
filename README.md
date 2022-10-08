@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We can't take any credit for our talents. It's how we use them that counts." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
+ 1.  "People are people, messy and mutable, combining differently with one another from day to day - even hour to hour." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
 
- 2.  "Whatever you fear most has no power - it is your fear that has the power." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "It's innocence when it charms us, ignorance when it doesn't." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 
- 3.  "Don't rule out working with your hands. It does not preclude using your head." <br> &emsp;&emsp;&emsp; <i>-by Andy Rooney</i> 
+ 3.  "A man travels the world over in search of what he needs and returns home to find it." <br> &emsp;&emsp;&emsp; <i>-by George Moore</i> 
 
- 4.  "We are made to persist. That's how we find out who we are." <br> &emsp;&emsp;&emsp; <i>-by Tobias Wolff</i> 
+ 4.  "What lies behind us and what lies before us are tiny matters compared to what lies within us." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
