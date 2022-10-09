@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People are people, messy and mutable, combining differently with one another from day to day - even hour to hour." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
+ 1.  "Chicken exits are self-sabotage. They give you a false explanation for why you don't have something you want." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "It's innocence when it charms us, ignorance when it doesn't." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 2.  "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 
- 3.  "A man travels the world over in search of what he needs and returns home to find it." <br> &emsp;&emsp;&emsp; <i>-by George Moore</i> 
+ 3.  "Life is a moderately good play with a badly written third act." <br> &emsp;&emsp;&emsp; <i>-by Truman Capote</i> 
 
- 4.  "What lies behind us and what lies before us are tiny matters compared to what lies within us." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "A torn jacket is soon mended; but hard words bruise the heart of a child." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
