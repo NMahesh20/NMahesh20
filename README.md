@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Chicken exits are self-sabotage. They give you a false explanation for why you don't have something you want." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "While I am overwhelmingly proud of work that I, believe me, did not do on my own, I can assure you that awards have very little bearing on my own personal happiness, my own sense of well-being and purpose in the world." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
+ 2.  "You don't need fancy highbrow traditions or money to really learn. You just need people with the desire to better themselves." <br> &emsp;&emsp;&emsp; <i>-by Adam Cooper and Bill Collage</i> 
 
- 3.  "Life is a moderately good play with a badly written third act." <br> &emsp;&emsp;&emsp; <i>-by Truman Capote</i> 
+ 3.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
 
- 4.  "A torn jacket is soon mended; but hard words bruise the heart of a child." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "To me, old age is always 15 years older than I am." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
