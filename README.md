@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
 
- 2.  "My life is the story of a man who always wants to carry too much. My spiritual quest is the painful process of learning to let go of things not essential." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "To have that sense of one's intrinsic worth... is potentially to have everything..." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
 
- 3.  "My friends are my estate." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 3.  "The most important thing is to be whatever you are without shame." <br> &emsp;&emsp;&emsp; <i>-by Rod Steiger</i> 
 
- 4.  "Promote yourself, but do not demote another." <br> &emsp;&emsp;&emsp; <i>-by Israel Salanter</i> 
+ 4.  "The reward of one duty is the power to fulfill another." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
