@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
+ 1.  "Who would have guessed it possible that waiting is sustainable. A place with its own harvest." <br> &emsp;&emsp;&emsp; <i>-by Kay Ryan</i> 
 
- 2.  "To have that sense of one's intrinsic worth... is potentially to have everything..." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 2.  "Beautiful young people are accidents of nature, but beautiful old people are works of art." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 
- 3.  "The most important thing is to be whatever you are without shame." <br> &emsp;&emsp;&emsp; <i>-by Rod Steiger</i> 
+ 3.  "Never promise more than you can perform." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "The reward of one duty is the power to fulfill another." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "When you cannot get a compliment any other way pay yourself one." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
