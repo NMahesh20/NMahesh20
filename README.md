@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Who would have guessed it possible that waiting is sustainable. A place with its own harvest." <br> &emsp;&emsp;&emsp; <i>-by Kay Ryan</i> 
+ 1.  "Knowledge is the only instrument of production that is not subject to diminishing returns." <br> &emsp;&emsp;&emsp; <i>-by John Clarke</i> 
 
- 2.  "Beautiful young people are accidents of nature, but beautiful old people are works of art." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 2.  "By learning to discover and value our ordinariness, we nurture a friendliness toward ourselves and the world that is the essence of a healthy soul." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 3.  "Never promise more than you can perform." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "God gives every bird its food, but He does not throw it into its nest." <br> &emsp;&emsp;&emsp; <i>-by J. G. Holland</i> 
 
- 4.  "When you cannot get a compliment any other way pay yourself one." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "To be mature means to face, and not evade, every fresh crisis that comes." <br> &emsp;&emsp;&emsp; <i>-by Fritz Kunkel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
