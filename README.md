@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Knowledge is the only instrument of production that is not subject to diminishing returns." <br> &emsp;&emsp;&emsp; <i>-by John Clarke</i> 
+ 1.  "Anyone may have diamonds: an heirloom is an ornament of quite a different kind." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "By learning to discover and value our ordinariness, we nurture a friendliness toward ourselves and the world that is the essence of a healthy soul." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
+ 2.  "Wait until it is night before saying that it has been a fine day." <br> &emsp;&emsp;&emsp; <i>-by French Proverb</i> 
 
- 3.  "God gives every bird its food, but He does not throw it into its nest." <br> &emsp;&emsp;&emsp; <i>-by J. G. Holland</i> 
+ 3.  "Experience teaches slowly and at the cost of mistakes." <br> &emsp;&emsp;&emsp; <i>-by James A. Froude</i> 
 
- 4.  "To be mature means to face, and not evade, every fresh crisis that comes." <br> &emsp;&emsp;&emsp; <i>-by Fritz Kunkel</i> 
+ 4.  "Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
