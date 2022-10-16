@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Anyone may have diamonds: an heirloom is an ornament of quite a different kind." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "Change is the process by which the future invades our lives." <br> &emsp;&emsp;&emsp; <i>-by Alvin Toffler</i> 
 
- 2.  "Wait until it is night before saying that it has been a fine day." <br> &emsp;&emsp;&emsp; <i>-by French Proverb</i> 
+ 2.  "To succeed is nothing, it's an accident. but to feel no doubts about oneself is something very different: it is character." <br> &emsp;&emsp;&emsp; <i>-by Marie Leneru</i> 
 
- 3.  "Experience teaches slowly and at the cost of mistakes." <br> &emsp;&emsp;&emsp; <i>-by James A. Froude</i> 
+ 3.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
 
- 4.  "Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 4.  "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Gilman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
