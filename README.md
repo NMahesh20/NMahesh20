@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Change is the process by which the future invades our lives." <br> &emsp;&emsp;&emsp; <i>-by Alvin Toffler</i> 
+ 1.  "Success is following the pattern of life one enjoys most." <br> &emsp;&emsp;&emsp; <i>-by Al Capp</i> 
 
- 2.  "To succeed is nothing, it's an accident. but to feel no doubts about oneself is something very different: it is character." <br> &emsp;&emsp;&emsp; <i>-by Marie Leneru</i> 
+ 2.  "We succeed only as we identify in life, or in war, or in anything else, a single overriding objective, and make all other considerations bend to that one objective." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 3.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 3.  "Good communication is as stimulating as black coffee and just as hard to sleep after." <br> &emsp;&emsp;&emsp; <i>-by Anne Morrow Lindbergh</i> 
 
- 4.  "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Gilman</i> 
+ 4.  "Courage is doing what you're afraid to do. There can be no courage unless you're scared." <br> &emsp;&emsp;&emsp; <i>-by Eddie Rickenbacker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
