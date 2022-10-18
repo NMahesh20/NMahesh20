@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success is following the pattern of life one enjoys most." <br> &emsp;&emsp;&emsp; <i>-by Al Capp</i> 
+ 1.  "Sometimes old things need to go away. That way, we have room for the new things that come into our lives." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "We succeed only as we identify in life, or in war, or in anything else, a single overriding objective, and make all other considerations bend to that one objective." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 2.  "There is no mistaking a real book when one meets it. It is like falling in love." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 
- 3.  "Good communication is as stimulating as black coffee and just as hard to sleep after." <br> &emsp;&emsp;&emsp; <i>-by Anne Morrow Lindbergh</i> 
+ 3.  "Reading maketh a full man, conference a ready man, and writing an exact man." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "Courage is doing what you're afraid to do. There can be no courage unless you're scared." <br> &emsp;&emsp;&emsp; <i>-by Eddie Rickenbacker</i> 
+ 4.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
