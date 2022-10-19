@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes old things need to go away. That way, we have room for the new things that come into our lives." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "Having a holiday weekend without a family member felt like putting on a sweater that had an extra arm." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
 
- 2.  "There is no mistaking a real book when one meets it. It is like falling in love." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 2.  "Guard your honor. Let your reputation fall where it will. And outlive the bastards." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Reading maketh a full man, conference a ready man, and writing an exact man." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "We may lay in a stock of pleasures, as we would lay in a stock of wine; but if we defer tasting them too long, we shall find that both are soured by age." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 
- 4.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
