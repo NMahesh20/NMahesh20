@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Having a holiday weekend without a family member felt like putting on a sweater that had an extra arm." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
+ 1.  "Diluting your product to make it more 'commercial' will just make people like it less." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "Guard your honor. Let your reputation fall where it will. And outlive the bastards." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "One's dignity may be assaulted, vandalized and cruelly mocked, but cannot be taken away unless it is surrendered." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
 
- 3.  "We may lay in a stock of pleasures, as we would lay in a stock of wine; but if we defer tasting them too long, we shall find that both are soured by age." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 3.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 4.  "Discouragement is simply the despair of wounded self-love." <br> &emsp;&emsp;&emsp; <i>-by Francois de Fenelon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
