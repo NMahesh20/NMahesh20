@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Diluting your product to make it more 'commercial' will just make people like it less." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "A joyful life is an individual creation that cannot be copied from a recipe." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "One's dignity may be assaulted, vandalized and cruelly mocked, but cannot be taken away unless it is surrendered." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 2.  "An honest man can feel no pleasure in the exercise of power over his fellow citizens." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 3.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 3.  "One's first step in wisdom is to question everything - and one's last is to come to terms with everything." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 4.  "Discouragement is simply the despair of wounded self-love." <br> &emsp;&emsp;&emsp; <i>-by Francois de Fenelon</i> 
+ 4.  "If you reveal your secrets to the wind you should not blame the wind for revealing them to the trees." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
