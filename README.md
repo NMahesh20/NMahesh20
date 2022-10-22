@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A joyful life is an individual creation that cannot be copied from a recipe." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "There is hardly any personal defect which an agreeable manner might not gradually reconcile one to." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "An honest man can feel no pleasure in the exercise of power over his fellow citizens." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 2.  "A doctor saves lives -- It's up to people to create lives that are worth saving." <br> &emsp;&emsp;&emsp; <i>-by Philip Gold</i> 
 
- 3.  "One's first step in wisdom is to question everything - and one's last is to come to terms with everything." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 3.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "If you reveal your secrets to the wind you should not blame the wind for revealing them to the trees." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "It's not that some people have willpower and some don't. It's that some people are ready to change and others are not." <br> &emsp;&emsp;&emsp; <i>-by James Gordon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
