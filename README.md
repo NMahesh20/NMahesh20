@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is hardly any personal defect which an agreeable manner might not gradually reconcile one to." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Dooley</i> 
 
- 2.  "A doctor saves lives -- It's up to people to create lives that are worth saving." <br> &emsp;&emsp;&emsp; <i>-by Philip Gold</i> 
+ 2.  "The way you define yourself as a writer is that you write every time you have a free minute. If you didn't behave that way you would never do anything." <br> &emsp;&emsp;&emsp; <i>-by John Irving</i> 
 
- 3.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 3.  "There is no remedy for love but to love more." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "It's not that some people have willpower and some don't. It's that some people are ready to change and others are not." <br> &emsp;&emsp;&emsp; <i>-by James Gordon</i> 
+ 4.  "Once a government is committed to the principle of silencing the voice of opposition, it has only one way to go, and that is down the path of increasingly repressive measures, until it becomes a source of terror to all its citizens and creates a country where everyone lives in fear." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
