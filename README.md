@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Dooley</i> 
+ 1.  "Put even the plainest woman into a beautiful dress and unconsciously she will try to live up to it." <br> &emsp;&emsp;&emsp; <i>-by Lady Duff-Gordon</i> 
 
- 2.  "The way you define yourself as a writer is that you write every time you have a free minute. If you didn't behave that way you would never do anything." <br> &emsp;&emsp;&emsp; <i>-by John Irving</i> 
+ 2.  "Do thou restrain the haughty spirit in thy breast, for better far is gentle courtesy." <br> &emsp;&emsp;&emsp; <i>-by Homer</i> 
 
- 3.  "There is no remedy for love but to love more." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "The only factor becoming scarce in a world of abundance is human attention." <br> &emsp;&emsp;&emsp; <i>-by Kevin Kelly</i> 
 
- 4.  "Once a government is committed to the principle of silencing the voice of opposition, it has only one way to go, and that is down the path of increasingly repressive measures, until it becomes a source of terror to all its citizens and creates a country where everyone lives in fear." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 4.  "He who laughs, lasts!" <br> &emsp;&emsp;&emsp; <i>-by Mary Pettibone Poole</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
