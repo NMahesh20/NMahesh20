@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Put even the plainest woman into a beautiful dress and unconsciously she will try to live up to it." <br> &emsp;&emsp;&emsp; <i>-by Lady Duff-Gordon</i> 
+ 1.  "Never let the fear of failure be an excuse for not trying. Society tells us that to fail is the most terrible thing in the world, but I know it isn't. Failure is part of what makes us human." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
 
- 2.  "Do thou restrain the haughty spirit in thy breast, for better far is gentle courtesy." <br> &emsp;&emsp;&emsp; <i>-by Homer</i> 
+ 2.  "Nothing in life is promised except death." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
 
- 3.  "The only factor becoming scarce in a world of abundance is human attention." <br> &emsp;&emsp;&emsp; <i>-by Kevin Kelly</i> 
+ 3.  "When you point your finger at someone, three fingers are pointing back at you." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "He who laughs, lasts!" <br> &emsp;&emsp;&emsp; <i>-by Mary Pettibone Poole</i> 
+ 4.  "Remember that what you believe will depend very much on what you are." <br> &emsp;&emsp;&emsp; <i>-by Noah Porter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
