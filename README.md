@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Never let the fear of failure be an excuse for not trying. Society tells us that to fail is the most terrible thing in the world, but I know it isn't. Failure is part of what makes us human." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
+ 1.  "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Nothing in life is promised except death." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 3.  "When you point your finger at someone, three fingers are pointing back at you." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "It's also helpful to realize that this very body that we have, that's sitting right here right now... with its aches and it pleasures... is exactly what we need to be fully human, fully awake, fully alive." <br> &emsp;&emsp;&emsp; <i>-by Pema Chodron</i> 
 
- 4.  "Remember that what you believe will depend very much on what you are." <br> &emsp;&emsp;&emsp; <i>-by Noah Porter</i> 
+ 4.  "It is best to do things systematically, since we are only human, and disorder is our worst enemy." <br> &emsp;&emsp;&emsp; <i>-by Hesiod</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
