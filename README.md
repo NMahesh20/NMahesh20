@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you." <br> &emsp;&emsp;&emsp; <i>-by Diana Spencer</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 2.  "The great secret that all old people share is that you really haven't changed in 70 or 80 years. Your body changes, but you don't change at all." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 
- 3.  "It's also helpful to realize that this very body that we have, that's sitting right here right now... with its aches and it pleasures... is exactly what we need to be fully human, fully awake, fully alive." <br> &emsp;&emsp;&emsp; <i>-by Pema Chodron</i> 
+ 3.  "Whenever you commend, add your reasons for doing so; it is this which distinguishes the approbation of a man of sense from the flattery of sycophants and admiration of fools." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Steele</i> 
 
- 4.  "It is best to do things systematically, since we are only human, and disorder is our worst enemy." <br> &emsp;&emsp;&emsp; <i>-by Hesiod</i> 
+ 4.  "My father used to say, 'Let them see you and not the suit. That should be secondary.'" <br> &emsp;&emsp;&emsp; <i>-by Cary Grant</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
