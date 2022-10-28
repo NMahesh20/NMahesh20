@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you." <br> &emsp;&emsp;&emsp; <i>-by Diana Spencer</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
 
- 2.  "The great secret that all old people share is that you really haven't changed in 70 or 80 years. Your body changes, but you don't change at all." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 2.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Whenever you commend, add your reasons for doing so; it is this which distinguishes the approbation of a man of sense from the flattery of sycophants and admiration of fools." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Steele</i> 
+ 3.  "Look not mournfully into the past. It comes not back again. Wisely improve the present. It is thine. Go forth to meet the shadowy future, without fear." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 
- 4.  "My father used to say, 'Let them see you and not the suit. That should be secondary.'" <br> &emsp;&emsp;&emsp; <i>-by Cary Grant</i> 
+ 4.  "The discovery of a new dish does more for human happiness than the discovery of a new star." <br> &emsp;&emsp;&emsp; <i>-by Anthelme Brillat-Savarin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
