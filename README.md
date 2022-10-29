@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
+ 1.  "When you write things down, they sometimes take you places you hadn't planned." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
 
- 2.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "If we are to learn to improve the quality of the decisions we make, we need to accept the mysterious nature of our snap judgments." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 3.  "Look not mournfully into the past. It comes not back again. Wisely improve the present. It is thine. Go forth to meet the shadowy future, without fear." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 3.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
 
- 4.  "The discovery of a new dish does more for human happiness than the discovery of a new star." <br> &emsp;&emsp;&emsp; <i>-by Anthelme Brillat-Savarin</i> 
+ 4.  "Whoever gossips to you will gossip about you." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
