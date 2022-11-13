@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you write things down, they sometimes take you places you hadn't planned." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 1.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
 
- 2.  "If we are to learn to improve the quality of the decisions we make, we need to accept the mysterious nature of our snap judgments." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 2.  "Remember! Things in life will not always run smoothly. Sometimes we will be rising toward the heights - then all will seem to reverse itself and start downward. The great fact to remember is that the trend of civilization itself is forever upward, that a line drawn through the middle of the peaks and the valleys of the centuries always has an upward trend." <br> &emsp;&emsp;&emsp; <i>-by Endicott Peabody</i> 
 
- 3.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
+ 3.  "Endeavor to be always patient of the faults and imperfections of others for thou has many faults and imperfections of thine own that require forbearance. If thou are not able to make thyself that which thou wishest, how canst thou expect to mold another in conformity to thy will?" <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 4.  "Whoever gossips to you will gossip about you." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 4.  "If thou are a master, be sometimes blind; if a servant, sometimes deaf." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
