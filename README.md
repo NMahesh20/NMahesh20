@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
+ 1.  "Like threads of silver seen through crystal beads/Let love through good deeds show." <br> &emsp;&emsp;&emsp; <i>-by Edwin Arnold</i> 
 
- 2.  "Remember! Things in life will not always run smoothly. Sometimes we will be rising toward the heights - then all will seem to reverse itself and start downward. The great fact to remember is that the trend of civilization itself is forever upward, that a line drawn through the middle of the peaks and the valleys of the centuries always has an upward trend." <br> &emsp;&emsp;&emsp; <i>-by Endicott Peabody</i> 
+ 2.  "Nothing is easy to the unwilling." <br> &emsp;&emsp;&emsp; <i>-by Nikki Giovanni</i> 
 
- 3.  "Endeavor to be always patient of the faults and imperfections of others for thou has many faults and imperfections of thine own that require forbearance. If thou are not able to make thyself that which thou wishest, how canst thou expect to mold another in conformity to thy will?" <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 3.  "Let thy speech be short, comprehending much in a few words." <br> &emsp;&emsp;&emsp; <i>-by Aprocrypha</i> 
 
- 4.  "If thou are a master, be sometimes blind; if a servant, sometimes deaf." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 4.  "As men, we are all equal in the presence of death." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
