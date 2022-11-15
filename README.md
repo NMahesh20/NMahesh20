@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Like threads of silver seen through crystal beads/Let love through good deeds show." <br> &emsp;&emsp;&emsp; <i>-by Edwin Arnold</i> 
+ 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Nothing is easy to the unwilling." <br> &emsp;&emsp;&emsp; <i>-by Nikki Giovanni</i> 
+ 2.  "Success is relative. It is what we can make of the mess we have made of things." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 
- 3.  "Let thy speech be short, comprehending much in a few words." <br> &emsp;&emsp;&emsp; <i>-by Aprocrypha</i> 
+ 3.  "The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. What you'll discover will be wonderful. What you'll discover will be yourself." <br> &emsp;&emsp;&emsp; <i>-by Alan Alda</i> 
 
- 4.  "As men, we are all equal in the presence of death." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "Pleasure in the job puts perfection in the work." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
