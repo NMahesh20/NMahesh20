@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "If the inevitability of human oblivion worries you, I encourage you to ignore it." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Success is relative. It is what we can make of the mess we have made of things." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 2.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 3.  "The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. What you'll discover will be wonderful. What you'll discover will be yourself." <br> &emsp;&emsp;&emsp; <i>-by Alan Alda</i> 
+ 3.  "The excellence of a gift lies in its appropriateness rather than in its value." <br> &emsp;&emsp;&emsp; <i>-by Charles Dudley Warner</i> 
 
- 4.  "Pleasure in the job puts perfection in the work." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
