@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If the inevitability of human oblivion worries you, I encourage you to ignore it." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "You gotta dream? You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it, period." <br> &emsp;&emsp;&emsp; <i>-by Steven Conrad</i> 
 
- 2.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 2.  "The end result of kindness is that it draws people to you." <br> &emsp;&emsp;&emsp; <i>-by Anita Roddick</i> 
 
- 3.  "The excellence of a gift lies in its appropriateness rather than in its value." <br> &emsp;&emsp;&emsp; <i>-by Charles Dudley Warner</i> 
+ 3.  "With the gift of listening comes the gift of healing." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck</i> 
 
- 4.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 4.  "Live in such a way that you would not be ashamed to sell your parrot to the town gossip." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
