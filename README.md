@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You gotta dream? You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it, period." <br> &emsp;&emsp;&emsp; <i>-by Steven Conrad</i> 
+ 1.  "We can aspire to anything, but we don't get it just 'cause we want it. I would rather spend my life close to the birds than waste it wishing I had wings." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
 
- 2.  "The end result of kindness is that it draws people to you." <br> &emsp;&emsp;&emsp; <i>-by Anita Roddick</i> 
+ 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
 
- 3.  "With the gift of listening comes the gift of healing." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck</i> 
+ 3.  "The only way to last a really long time is to build something useful enough that people will want to keep it going after you die, and to cultivate a sense of ownership in other people. In short: make good shit and give it away as fast as you can." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 4.  "Live in such a way that you would not be ashamed to sell your parrot to the town gossip." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 4.  "It is easier to exclude harmful passions than to rule them, and to deny them admittance than to control them after they have been admitted." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
