@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We can aspire to anything, but we don't get it just 'cause we want it. I would rather spend my life close to the birds than waste it wishing I had wings." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
+ 1.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
 
- 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
+ 2.  "We cannot destroy kindred: Our chains stretch a little sometimes, but they never break." <br> &emsp;&emsp;&emsp; <i>-by Marie de Rabutin-Chantal</i> 
 
- 3.  "The only way to last a really long time is to build something useful enough that people will want to keep it going after you die, and to cultivate a sense of ownership in other people. In short: make good shit and give it away as fast as you can." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 3.  "You may delay, but time will not." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "It is easier to exclude harmful passions than to rule them, and to deny them admittance than to control them after they have been admitted." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Don't go around saying the world owes you a living. The world owes you nothing. It was here first. " <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
