@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
+ 1.  "Anybody can observe the Sabbath, but making it holy surely takes the rest of the week." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 2.  "We cannot destroy kindred: Our chains stretch a little sometimes, but they never break." <br> &emsp;&emsp;&emsp; <i>-by Marie de Rabutin-Chantal</i> 
+ 2.  "The art of being wise is the art of knowing what to overlook." <br> &emsp;&emsp;&emsp; <i>-by William James</i> 
 
- 3.  "You may delay, but time will not." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "Flowers never emit so sweet and strong a fragrance as before a storm. When a storm approaches thee, be as fragrant as a sweet-smelling flower." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
 
- 4.  "Don't go around saying the world owes you a living. The world owes you nothing. It was here first. " <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Blessed is he who has found his work; let him ask no other blessedness." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
