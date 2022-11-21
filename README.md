@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Anybody can observe the Sabbath, but making it holy surely takes the rest of the week." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 1.  "In health the flesh is graced, the holy enters the world." <br> &emsp;&emsp;&emsp; <i>-by Wendell Berry</i> 
 
- 2.  "The art of being wise is the art of knowing what to overlook." <br> &emsp;&emsp;&emsp; <i>-by William James</i> 
+ 2.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
 
- 3.  "Flowers never emit so sweet and strong a fragrance as before a storm. When a storm approaches thee, be as fragrant as a sweet-smelling flower." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
+ 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
 
- 4.  "Blessed is he who has found his work; let him ask no other blessedness." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
+ 4.  "There are admirable potentialities in every human being. Believe in your strength and your youth. Learn to repeat endlessly to yourself, 'It all depends on me.'" <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
