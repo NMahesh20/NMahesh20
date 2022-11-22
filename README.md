@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In health the flesh is graced, the holy enters the world." <br> &emsp;&emsp;&emsp; <i>-by Wendell Berry</i> 
+ 1.  "All a good letter has to do is make you feel special." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
+ 2.  "Don't sacrifice your political convictions for the convenience of the hour." <br> &emsp;&emsp;&emsp; <i>-by Edward M. Kennedy</i> 
 
- 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
+ 3.  "When you have only two pennies left in the world, buy a loaf of bread with one, and a lily with the other." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "There are admirable potentialities in every human being. Believe in your strength and your youth. Learn to repeat endlessly to yourself, 'It all depends on me.'" <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 4.  "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." <br> &emsp;&emsp;&emsp; <i>-by John Quincy Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
