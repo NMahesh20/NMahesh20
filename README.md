@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All a good letter has to do is make you feel special." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Suzanne Young</i> 
 
- 2.  "Don't sacrifice your political convictions for the convenience of the hour." <br> &emsp;&emsp;&emsp; <i>-by Edward M. Kennedy</i> 
+ 2.  "Peace is not a relationship of nations. It is a condition of mind brought about by a serenity of soul. Peace is not merely the absence of war. It is also a state of mind. Lasting peace can come only to peaceful people." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 3.  "When you have only two pennies left in the world, buy a loaf of bread with one, and a lily with the other." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 4.  "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." <br> &emsp;&emsp;&emsp; <i>-by John Quincy Adams</i> 
+ 4.  "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
