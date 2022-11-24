@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Suzanne Young</i> 
+ 1.  "Success only hurts the first time." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Peace is not a relationship of nations. It is a condition of mind brought about by a serenity of soul. Peace is not merely the absence of war. It is also a state of mind. Lasting peace can come only to peaceful people." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 2.  "Things don't fall apart. Things hold. Lines connect in thin ways that last and last and lives become generations made out of pictures and words just kept." <br> &emsp;&emsp;&emsp; <i>-by Lucille Clifton</i> 
 
- 3.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 3.  "Walking is the best possible exercise. Habituate yourself to walk very far." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 4.  "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "The bravest thing you can do when you are not brave is to profess courage and act accordingly." <br> &emsp;&emsp;&emsp; <i>-by Corra Harris</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
