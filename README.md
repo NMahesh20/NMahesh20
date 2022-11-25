@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success only hurts the first time." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "Stop seeing the obstacles you face as reasons why you can't do something. See them as a reason why you can. And celebrate your accomplishments on a daily basis." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Things don't fall apart. Things hold. Lines connect in thin ways that last and last and lives become generations made out of pictures and words just kept." <br> &emsp;&emsp;&emsp; <i>-by Lucille Clifton</i> 
+ 2.  "He who promises more than he is able to perform, is false to himself; and he who does not perform what he has promised, is a traitor to his friend." <br> &emsp;&emsp;&emsp; <i>-by George Shelley</i> 
 
- 3.  "Walking is the best possible exercise. Habituate yourself to walk very far." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 3.  "Laughing is the sensation of feeling good all over and showing it principally in one spot." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 4.  "The bravest thing you can do when you are not brave is to profess courage and act accordingly." <br> &emsp;&emsp;&emsp; <i>-by Corra Harris</i> 
+ 4.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
