@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Stop seeing the obstacles you face as reasons why you can't do something. See them as a reason why you can. And celebrate your accomplishments on a daily basis." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "He who promises more than he is able to perform, is false to himself; and he who does not perform what he has promised, is a traitor to his friend." <br> &emsp;&emsp;&emsp; <i>-by George Shelley</i> 
+ 2.  "I think when I work 14 hours a day, seven days a week, I get lucky." <br> &emsp;&emsp;&emsp; <i>-by Armand Hammer</i> 
 
- 3.  "Laughing is the sensation of feeling good all over and showing it principally in one spot." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 3.  "Too many people think only of their own profit. But business opportunity seldom knocks on the door of self-centered people. No customer ever goes to a store merely to please the storekeeper." <br> &emsp;&emsp;&emsp; <i>-by Kazuo Inamori</i> 
 
- 4.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 4.  "You can talk about anything if you go about it the right way, which is never malicious." <br> &emsp;&emsp;&emsp; <i>-by Rodney Carrington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
