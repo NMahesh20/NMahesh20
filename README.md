@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "You're only given a little spark of madness. You mustn't lose it." <br> &emsp;&emsp;&emsp; <i>-by Robin Williams</i> 
 
- 2.  "I think when I work 14 hours a day, seven days a week, I get lucky." <br> &emsp;&emsp;&emsp; <i>-by Armand Hammer</i> 
+ 2.  "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity before it is entitled to the appellation." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 3.  "Too many people think only of their own profit. But business opportunity seldom knocks on the door of self-centered people. No customer ever goes to a store merely to please the storekeeper." <br> &emsp;&emsp;&emsp; <i>-by Kazuo Inamori</i> 
+ 3.  "Fools admire, but men of sense approve." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
 
- 4.  "You can talk about anything if you go about it the right way, which is never malicious." <br> &emsp;&emsp;&emsp; <i>-by Rodney Carrington</i> 
+ 4.  "Nature is just enough; but men and women must comprehend and accept her suggestions." <br> &emsp;&emsp;&emsp; <i>-by Antoinette Brown Blackwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
