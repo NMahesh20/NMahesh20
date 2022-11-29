@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Suicidal glory is the luxury of the irresponsible. We're not giving up. We're waiting for a better opportunity to win." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 1.  "Fasting and natural diet, though essentially unknown [in today's U.S.] as a therapy, should be the first treatment when someone discovers that she or he has a medical problem. It should not be applied only to the most advanced cases, as is present practice. Whether the patient has a cardiac condition, hypertension, autoimmune disease, fibroids, or asthma, he or she must be informed that fasting and natural, plant-based diets are a viable alternative to conventional therapy, and an effective one. The time may come when not offering this substantially more effective nutritional approach will be considered malpractice." <br> &emsp;&emsp;&emsp; <i>-by Joel Fuhrman, M.D.</i> 
 
- 2.  "Life itself is a quotation." <br> &emsp;&emsp;&emsp; <i>-by Jorge Luis Borges</i> 
+ 2.  "When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 
- 3.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
+ 3.  "Self-development is a higher duty than self-sacrifice." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 
- 4.  "Never rely on the glory of the morning nor the smiles of your mother-in-law." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
+ 4.  "There smites nothing so sharp, nor smelleth so sour as shame." <br> &emsp;&emsp;&emsp; <i>-by William Langland</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
