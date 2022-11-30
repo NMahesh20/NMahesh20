@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fasting and natural diet, though essentially unknown [in today's U.S.] as a therapy, should be the first treatment when someone discovers that she or he has a medical problem. It should not be applied only to the most advanced cases, as is present practice. Whether the patient has a cardiac condition, hypertension, autoimmune disease, fibroids, or asthma, he or she must be informed that fasting and natural, plant-based diets are a viable alternative to conventional therapy, and an effective one. The time may come when not offering this substantially more effective nutritional approach will be considered malpractice." <br> &emsp;&emsp;&emsp; <i>-by Joel Fuhrman, M.D.</i> 
+ 1.  "Man's main task is to give birth to himself." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
 
- 2.  "When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 2.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 3.  "Self-development is a higher duty than self-sacrifice." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 3.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "There smites nothing so sharp, nor smelleth so sour as shame." <br> &emsp;&emsp;&emsp; <i>-by William Langland</i> 
+ 4.  "...in order that a man may be happy, it is necessary that he should not only be capable of his work, but a good judge of his work." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
