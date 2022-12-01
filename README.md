@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Man's main task is to give birth to himself." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
+ 1.  "I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book! When I have a house of my own, I shall be miserable if I have not an excellent library." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 2.  "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 4.  "...in order that a man may be happy, it is necessary that he should not only be capable of his work, but a good judge of his work." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
