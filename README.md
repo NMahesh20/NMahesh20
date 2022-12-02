@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I declare after all there is no enjoyment like reading! How much sooner one tires of anything than of a book! When I have a house of my own, I shall be miserable if I have not an excellent library." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Isn't it fascinating how long a few minutes seem when you are completely alone with not a familiar face in sight?" <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
 
- 2.  "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "I am not dying, not anymore than any of us are at any moment. We run, hopefully as fast as we can, and then everyone must stop. We can only choose how we handle the race." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 3.  "Remember that happiness is a way of travel - not a destination." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Goodman</i> 
 
- 4.  "Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
+ 4.  "Real glory springs from the silent conquest of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Joseph P. Thompson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
