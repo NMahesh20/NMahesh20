@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "Your whole life people tell you to do what you love. But if you gotta do something else to pay the bills, you don't automatically have to be miserable." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 2.  "The art of war is simple enough. Find out where your enemy is. Get at him as soon as you can. Strike him as hard as you can, and keep moving on." <br> &emsp;&emsp;&emsp; <i>-by Ulysses S. Grant</i> 
+ 2.  "Life is constantly providing us with new funds, new resources, even when we are reduced to immobility. In life's ledger there is no such thing as frozen assets." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "If you wouldst live long, live well, for folly and wickedness shorten life." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "The truth is that there is nothing noble in being superior to somebody else. The only real nobility is in being superior to your former self." <br> &emsp;&emsp;&emsp; <i>-by Whitney Young</i> 
 
- 4.  "We did not change as we grew older; we just became more clearly ourselves." <br> &emsp;&emsp;&emsp; <i>-by Lynn Hall</i> 
+ 4.  "[Common sense] is the best sense I know of." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
