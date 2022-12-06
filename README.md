@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your whole life people tell you to do what you love. But if you gotta do something else to pay the bills, you don't automatically have to be miserable." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Life is constantly providing us with new funds, new resources, even when we are reduced to immobility. In life's ledger there is no such thing as frozen assets." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 2.  "I want to change the pop world one sequin at a time. Artists tend to take themselves way too seriously and don't enjoy the fun of making an impact on culture. I just have a good time and sequins represent a good time." <br> &emsp;&emsp;&emsp; <i>-by Lady Gaga</i> 
 
- 3.  "The truth is that there is nothing noble in being superior to somebody else. The only real nobility is in being superior to your former self." <br> &emsp;&emsp;&emsp; <i>-by Whitney Young</i> 
+ 3.  "When you strike at a king, you must kill him." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "[Common sense] is the best sense I know of." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 4.  "Always aim at complete harmony of thought and word and deed. Always aim at purifying your thoughts and everything will be well." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
