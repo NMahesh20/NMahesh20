@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing else exists when art does." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 1.  "I know of only one bird - the parrot - that talks; and it can't fly very high." <br> &emsp;&emsp;&emsp; <i>-by Wilbur Wright</i> 
 
- 2.  "Follow the grain in your own wood." <br> &emsp;&emsp;&emsp; <i>-by Howard Thurman</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Zelda Fitzgerald</i> 
 
- 3.  "It seems to me that people have vast potential. Most people can do extraordinary things if they have the confidence or take the risks. Yet most people don't. They sit in front of the telly and treat life as if it goes on forever." <br> &emsp;&emsp;&emsp; <i>-by Philip Adams</i> 
+ 3.  "You must keep sending work out; you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you're working on another one. If you have talent, you will receive some measure of success - but only if you persist." <br> &emsp;&emsp;&emsp; <i>-by Isaac Asimov</i> 
 
- 4.  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "One must know oneself, if this does not serve to discover truth, it at least serves as a rule of life and there is nothing better." <br> &emsp;&emsp;&emsp; <i>-by Blaise Pascal</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
