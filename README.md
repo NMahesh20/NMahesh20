@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Nothing else exists when art does." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "I want to change the pop world one sequin at a time. Artists tend to take themselves way too seriously and don't enjoy the fun of making an impact on culture. I just have a good time and sequins represent a good time." <br> &emsp;&emsp;&emsp; <i>-by Lady Gaga</i> 
+ 2.  "Follow the grain in your own wood." <br> &emsp;&emsp;&emsp; <i>-by Howard Thurman</i> 
 
- 3.  "When you strike at a king, you must kill him." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "It seems to me that people have vast potential. Most people can do extraordinary things if they have the confidence or take the risks. Yet most people don't. They sit in front of the telly and treat life as if it goes on forever." <br> &emsp;&emsp;&emsp; <i>-by Philip Adams</i> 
 
- 4.  "Always aim at complete harmony of thought and word and deed. Always aim at purifying your thoughts and everything will be well." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
