@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know of only one bird - the parrot - that talks; and it can't fly very high." <br> &emsp;&emsp;&emsp; <i>-by Wilbur Wright</i> 
+ 1.  "It is impossible to go through life without trust: That is to be imprisoned in the worst cell of all, oneself." <br> &emsp;&emsp;&emsp; <i>-by Graham Greene</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Zelda Fitzgerald</i> 
+ 2.  "The best mirror is an old friend." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 3.  "You must keep sending work out; you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you're working on another one. If you have talent, you will receive some measure of success - but only if you persist." <br> &emsp;&emsp;&emsp; <i>-by Isaac Asimov</i> 
+ 3.  "So long as we live among men, let us cherish humanity." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "One must know oneself, if this does not serve to discover truth, it at least serves as a rule of life and there is nothing better." <br> &emsp;&emsp;&emsp; <i>-by Blaise Pascal</i> 
+ 4.  "It is just the little touches after the average man would quit that make the master's fame." <br> &emsp;&emsp;&emsp; <i>-by Orison Swett Marden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
