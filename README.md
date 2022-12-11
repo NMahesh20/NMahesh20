@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is impossible to go through life without trust: That is to be imprisoned in the worst cell of all, oneself." <br> &emsp;&emsp;&emsp; <i>-by Graham Greene</i> 
+ 1.  "There's only so much you can do, but if somebody doesn't give you a chance there is nothing you can do." <br> &emsp;&emsp;&emsp; <i>-by Charlize Theron</i> 
 
- 2.  "The best mirror is an old friend." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 2.  "I dream, therefore I become." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Ren�e Grossman</i> 
 
- 3.  "So long as we live among men, let us cherish humanity." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "Anything that has real and lasting value is always a gift from within." <br> &emsp;&emsp;&emsp; <i>-by Franz Kafka</i> 
 
- 4.  "It is just the little touches after the average man would quit that make the master's fame." <br> &emsp;&emsp;&emsp; <i>-by Orison Swett Marden</i> 
+ 4.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
