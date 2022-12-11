@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's only so much you can do, but if somebody doesn't give you a chance there is nothing you can do." <br> &emsp;&emsp;&emsp; <i>-by Charlize Theron</i> 
+ 1.  "Keep playing games. Make time to play games with your friends and family, because it's surprisingly heartbreaking to wipe a thin layer of dust off a game you love, before you put it back on the shelf because the real world is calling you." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "I dream, therefore I become." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Ren�e Grossman</i> 
+ 2.  "Your mailbox is your window to your heart! Make sure you leave that window open!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "Anything that has real and lasting value is always a gift from within." <br> &emsp;&emsp;&emsp; <i>-by Franz Kafka</i> 
+ 3.  "I am so beautiful, sometimes people weep when they see me. And it has nothing to do with what I look like really, it is just that I gave myself the power to say that I am beautiful, and if I could do that, maybe there is hope for them too. And the great divide between the beautiful and the ugly will cease to be. Because we are all what we choose." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 4.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 4.  "The best things carried to excess are wrong." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
