@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep playing games. Make time to play games with your friends and family, because it's surprisingly heartbreaking to wipe a thin layer of dust off a game you love, before you put it back on the shelf because the real world is calling you." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "I honestly don't know how you live without having a cat inside your house. It's like having a little living piece of art that is also very warm and soft." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
 
- 2.  "Your mailbox is your window to your heart! Make sure you leave that window open!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "We can be sure that the greatest hope for maintaining equilibrium in the face of any situation rests within ourselves." <br> &emsp;&emsp;&emsp; <i>-by Francis J. Braceland</i> 
 
- 3.  "I am so beautiful, sometimes people weep when they see me. And it has nothing to do with what I look like really, it is just that I gave myself the power to say that I am beautiful, and if I could do that, maybe there is hope for them too. And the great divide between the beautiful and the ugly will cease to be. Because we are all what we choose." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 3.  "An unhurried sense of time is in itself a form of wealth." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Friedman</i> 
 
- 4.  "The best things carried to excess are wrong." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
+ 4.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
