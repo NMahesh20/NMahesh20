@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I honestly don't know how you live without having a cat inside your house. It's like having a little living piece of art that is also very warm and soft." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "As a scientist, I am not sure anymore that life can be reduced to a class struggle, to dialectical materialism, or any set of formulas. Life is spontaneous and it is unpredictable, it is magical. I think that we have struggled so hard with the tangible that we have forgotten the intangible." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 2.  "We can be sure that the greatest hope for maintaining equilibrium in the face of any situation rests within ourselves." <br> &emsp;&emsp;&emsp; <i>-by Francis J. Braceland</i> 
+ 2.  "Conceal a flaw, and the world will imagine the worst." <br> &emsp;&emsp;&emsp; <i>-by Marcus Valerius Martialis</i> 
 
- 3.  "An unhurried sense of time is in itself a form of wealth." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Friedman</i> 
+ 3.  "If you bow at all, bow low." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 4.  "Well-timed silence hath more eloquence than speech." <br> &emsp;&emsp;&emsp; <i>-by Martin Fraquhar Tupper</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
