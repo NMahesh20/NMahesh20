@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "As a scientist, I am not sure anymore that life can be reduced to a class struggle, to dialectical materialism, or any set of formulas. Life is spontaneous and it is unpredictable, it is magical. I think that we have struggled so hard with the tangible that we have forgotten the intangible." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 1.  "There are some things you can't share without ending up liking each other." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "Conceal a flaw, and the world will imagine the worst." <br> &emsp;&emsp;&emsp; <i>-by Marcus Valerius Martialis</i> 
+ 2.  "If I had my life to live over... I'd dare to make more mistakes next time." <br> &emsp;&emsp;&emsp; <i>-by Nadine Stair</i> 
 
- 3.  "If you bow at all, bow low." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "I take it as a man's duty to restrain himself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Well-timed silence hath more eloquence than speech." <br> &emsp;&emsp;&emsp; <i>-by Martin Fraquhar Tupper</i> 
+ 4.  "Wisdom doesn't automatically come with old age. Nothing does - except wrinkles. It's true, some wines improve with age. But only if the grapes were good in the first place." <br> &emsp;&emsp;&emsp; <i>-by Abigail Van Buren</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
