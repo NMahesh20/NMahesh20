@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are some things you can't share without ending up liking each other." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "A man that don't believe in destiny don't need to know what his destiny is." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "If I had my life to live over... I'd dare to make more mistakes next time." <br> &emsp;&emsp;&emsp; <i>-by Nadine Stair</i> 
+ 2.  "I do not want to die... until I have faithfully made the most of my talent and cultivated the seed that was placed in me until the last small twig has grown." <br> &emsp;&emsp;&emsp; <i>-by Kathe Kollwitz</i> 
 
- 3.  "I take it as a man's duty to restrain himself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "No man who ever held the office of president would congratulate a friend on obtaining it." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 4.  "Wisdom doesn't automatically come with old age. Nothing does - except wrinkles. It's true, some wines improve with age. But only if the grapes were good in the first place." <br> &emsp;&emsp;&emsp; <i>-by Abigail Van Buren</i> 
+ 4.  "The charity that hastens to proclaim its good deeds, ceases to be charity, and is only pride and ostentation." <br> &emsp;&emsp;&emsp; <i>-by William Hutton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
