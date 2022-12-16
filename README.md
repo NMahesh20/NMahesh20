@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A man that don't believe in destiny don't need to know what his destiny is." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "Stay centered by accepting whatever you are doing. This is the ultimate." <br> &emsp;&emsp;&emsp; <i>-by Chuang-tzu</i> 
 
- 2.  "I do not want to die... until I have faithfully made the most of my talent and cultivated the seed that was placed in me until the last small twig has grown." <br> &emsp;&emsp;&emsp; <i>-by Kathe Kollwitz</i> 
+ 2.  "Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life." <br> &emsp;&emsp;&emsp; <i>-by Christiane Northrup, M.D.</i> 
 
- 3.  "No man who ever held the office of president would congratulate a friend on obtaining it." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 3.  "Life is consciousness." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
 
- 4.  "The charity that hastens to proclaim its good deeds, ceases to be charity, and is only pride and ostentation." <br> &emsp;&emsp;&emsp; <i>-by William Hutton</i> 
+ 4.  "Eighty percent of success is showing up." <br> &emsp;&emsp;&emsp; <i>-by Woody Allen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
