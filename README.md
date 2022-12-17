@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Stay centered by accepting whatever you are doing. This is the ultimate." <br> &emsp;&emsp;&emsp; <i>-by Chuang-tzu</i> 
+ 1.  "Aging is not 'lost youth' but a new stage of opportunity and strength." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 2.  "Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life." <br> &emsp;&emsp;&emsp; <i>-by Christiane Northrup, M.D.</i> 
+ 2.  "When you close your doors, and make darkness within, remember never to say that you are alone, for you are not alone; nay, God is within, and your genius is within. And what need have they of light to see what you are doing?" <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 3.  "Life is consciousness." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
+ 3.  "Drive thy business or it will drive thee." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "Eighty percent of success is showing up." <br> &emsp;&emsp;&emsp; <i>-by Woody Allen</i> 
+ 4.  "For the things we have to learn before we can do them, we learn by doing them." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
