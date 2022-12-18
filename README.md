@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Aging is not 'lost youth' but a new stage of opportunity and strength." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 1.  "We who are of mature age seldom suspect how unmercifully and yet with what insight the very young judge us." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "When you close your doors, and make darkness within, remember never to say that you are alone, for you are not alone; nay, God is within, and your genius is within. And what need have they of light to see what you are doing?" <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 2.  "My evil genius Procrastination has whispered me to tarry 'til a more convenient season." <br> &emsp;&emsp;&emsp; <i>-by Mary Todd Lincoln</i> 
 
- 3.  "Drive thy business or it will drive thee." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "When you reach for the stars you may not quite get one, but you won't come up with a handful of mud either." <br> &emsp;&emsp;&emsp; <i>-by Leo Burnett</i> 
 
- 4.  "For the things we have to learn before we can do them, we learn by doing them." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "When you wish to instruct, be brief; that men's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
