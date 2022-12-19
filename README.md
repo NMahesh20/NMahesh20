@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We who are of mature age seldom suspect how unmercifully and yet with what insight the very young judge us." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "I would visualize things coming to me. It would just make me feel better. Visualization works if you work hard. That's the thing. You can't just visualize and go eat a sandwich." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
 
- 2.  "My evil genius Procrastination has whispered me to tarry 'til a more convenient season." <br> &emsp;&emsp;&emsp; <i>-by Mary Todd Lincoln</i> 
+ 2.  "Ignorant men don't know what good they hold in their hands until they've flung it away." <br> &emsp;&emsp;&emsp; <i>-by Sophocles</i> 
 
- 3.  "When you reach for the stars you may not quite get one, but you won't come up with a handful of mud either." <br> &emsp;&emsp;&emsp; <i>-by Leo Burnett</i> 
+ 3.  "He who every morning plans the transaction of the day and follows out that plan, carries a thread that will guide him through the maze of the most busy life. But where no plan is laid, where the disposal of time is surrendered merely to the chance of incidence, chaos will soon reign." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "When you wish to instruct, be brief; that men's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 4.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
