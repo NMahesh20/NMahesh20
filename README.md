@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I would visualize things coming to me. It would just make me feel better. Visualization works if you work hard. That's the thing. You can't just visualize and go eat a sandwich." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Aaron Douglas Trimble</i> 
 
- 2.  "Ignorant men don't know what good they hold in their hands until they've flung it away." <br> &emsp;&emsp;&emsp; <i>-by Sophocles</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
 
- 3.  "He who every morning plans the transaction of the day and follows out that plan, carries a thread that will guide him through the maze of the most busy life. But where no plan is laid, where the disposal of time is surrendered merely to the chance of incidence, chaos will soon reign." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
 
- 4.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
+ 4.  "Derive happiness in oneself from a good day's work, from illuminating the fog that surrounds us." <br> &emsp;&emsp;&emsp; <i>-by Henri Matisse</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
