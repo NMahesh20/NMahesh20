@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Aaron Douglas Trimble</i> 
+ 1.  "Whenever you find that you are on the side of the majority, it is time to pause and reflect." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
+ 2.  "Do not believe that he who seeks to comfort you lives untroubled among the simple and quiet words that sometimes do you good. His life has much difficulty... Were it otherwise he would never have been able to find those words." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 
- 3.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
+ 3.  "I know God will not give me anything I can't handle. I just wish that He didn't trust me so much." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 4.  "Derive happiness in oneself from a good day's work, from illuminating the fog that surrounds us." <br> &emsp;&emsp;&emsp; <i>-by Henri Matisse</i> 
+ 4.  "The world is round and the place which may seem like the end may also be only the beginning." <br> &emsp;&emsp;&emsp; <i>-by Ivy Baker Priest</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
