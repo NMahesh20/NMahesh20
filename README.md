@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whenever you find that you are on the side of the majority, it is time to pause and reflect." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 1.  "I could not conceive that [fans] actually wanted me to sign something. It took a long time for me to figure out (a) just say 'Thank you' and sign the thing, and (b) smile in the picture, because if you try to just half-smile you're going to look constipated." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Do not believe that he who seeks to comfort you lives untroubled among the simple and quiet words that sometimes do you good. His life has much difficulty... Were it otherwise he would never have been able to find those words." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 3.  "I know God will not give me anything I can't handle. I just wish that He didn't trust me so much." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 3.  "I believe that [everyone] is the keeper of a dream - and by tuning into one another's secret hopes, we can become better friends, better partners, better parents, and better lovers." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "The world is round and the place which may seem like the end may also be only the beginning." <br> &emsp;&emsp;&emsp; <i>-by Ivy Baker Priest</i> 
+ 4.  "It is a mistake to try to look too far ahead. The chain of destiny can only be grasped one link at a time." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
