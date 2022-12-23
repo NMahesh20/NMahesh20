@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I could not conceive that [fans] actually wanted me to sign something. It took a long time for me to figure out (a) just say 'Thank you' and sign the thing, and (b) smile in the picture, because if you try to just half-smile you're going to look constipated." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 2.  "Make no little plans; they have no magic to stir men's blood...Make big plans, aim high in hope and work." <br> &emsp;&emsp;&emsp; <i>-by Daniel H. Burnham</i> 
 
- 3.  "I believe that [everyone] is the keeper of a dream - and by tuning into one another's secret hopes, we can become better friends, better partners, better parents, and better lovers." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Good manners will open doors that the best education cannot." <br> &emsp;&emsp;&emsp; <i>-by Clarence Thomas</i> 
 
- 4.  "It is a mistake to try to look too far ahead. The chain of destiny can only be grasped one link at a time." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 4.  "Anger as soon as fed is dead- / 'Tis starving makes it fat." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
