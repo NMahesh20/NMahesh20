@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
+ 1.  "Then give to the world the best you have. And the best will come back to you." <br> &emsp;&emsp;&emsp; <i>-by Madeline Bridges</i> 
 
- 2.  "Make no little plans; they have no magic to stir men's blood...Make big plans, aim high in hope and work." <br> &emsp;&emsp;&emsp; <i>-by Daniel H. Burnham</i> 
+ 2.  "Every instance of heartbreak can teach us powerful lessons about creating the kind of love we really want." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 3.  "Good manners will open doors that the best education cannot." <br> &emsp;&emsp;&emsp; <i>-by Clarence Thomas</i> 
+ 3.  "Happy or unhappy, families are all mysterious." <br> &emsp;&emsp;&emsp; <i>-by Gloria Steinem</i> 
 
- 4.  "Anger as soon as fed is dead- / 'Tis starving makes it fat." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 4.  "But be, as you have been, my happiness..." <br> &emsp;&emsp;&emsp; <i>-by Randall Jarrell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
