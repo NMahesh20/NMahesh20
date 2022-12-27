@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Advice is very easy to give, and even easier not to follow, so I don't fool with it." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "Maybe it's what's inside that counts, but being told you look good feels good!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "The lessons this life has planted in my heart pertain more to caring than crops, more to Golden Rule than gold, more to the proper choice than to the popular choice." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 2.  "The way to procure insults is to submit to them: a man meets with no more respect than he exacts." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
 
- 3.  "What's the use of worrying? It never was worthwhile." <br> &emsp;&emsp;&emsp; <i>-by George Asaf</i> 
+ 3.  "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Nothing is at last sacred but the integrity of your own mind." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
