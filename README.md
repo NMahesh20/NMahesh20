@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The meek shall inherit the earth? Well... I don't think so. If by meek you mean friendly and introverted, okay maybe, but if by meek you mean unwilling to take a chance, then never. If I was a betting man and I had to wager on who I thought would inherit the earth, my money would be on the curious." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
+ 1.  "Think of life as a giant, fat cat you're in charge of. Sometimes you can control it, but other times, it's going to do what it wants and you have to roll with it. And sometimes you can do everything - everything you're s'posed to do- and it'll still shred all the things you hold dear... The only thing you can really do with life is rub its belly and prepare for the worst." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "In the absences of a decent time machine, fiction remains the most sturdy vehicle for visiting other eras." <br> &emsp;&emsp;&emsp; <i>-by Tom Nolan</i> 
+ 2.  "You have got to discover you, what you do, and trust it." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
 
- 3.  "I'm a great believer in luck, and I find the harder I work the more I have of it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 3.  "When you want to believe in something, you also have to believe in everything that's necessary for believing in it." <br> &emsp;&emsp;&emsp; <i>-by Ugo Betti</i> 
 
- 4.  "Depend not on another, but lean instead on thyself...True happiness is born of self-reliance." <br> &emsp;&emsp;&emsp; <i>-by The laws of Manu</i> 
+ 4.  "Be not the first by whom the new are tried,/ Nor yet the last to lay the old aside." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
