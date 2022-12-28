@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Maybe it's what's inside that counts, but being told you look good feels good!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "The meek shall inherit the earth? Well... I don't think so. If by meek you mean friendly and introverted, okay maybe, but if by meek you mean unwilling to take a chance, then never. If I was a betting man and I had to wager on who I thought would inherit the earth, my money would be on the curious." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
 
- 2.  "The way to procure insults is to submit to them: a man meets with no more respect than he exacts." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
+ 2.  "In the absences of a decent time machine, fiction remains the most sturdy vehicle for visiting other eras." <br> &emsp;&emsp;&emsp; <i>-by Tom Nolan</i> 
 
- 3.  "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "I'm a great believer in luck, and I find the harder I work the more I have of it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
+ 4.  "Depend not on another, but lean instead on thyself...True happiness is born of self-reliance." <br> &emsp;&emsp;&emsp; <i>-by The laws of Manu</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
