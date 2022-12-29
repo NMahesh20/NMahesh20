@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Think of life as a giant, fat cat you're in charge of. Sometimes you can control it, but other times, it's going to do what it wants and you have to roll with it. And sometimes you can do everything - everything you're s'posed to do- and it'll still shred all the things you hold dear... The only thing you can really do with life is rub its belly and prepare for the worst." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "An idea isn't worth that much. It's the execution of the idea that has value. If you can't convince one other person that this is something to devote your life to, then it's not worth it." <br> &emsp;&emsp;&emsp; <i>-by Joel Spolsky</i> 
 
- 2.  "You have got to discover you, what you do, and trust it." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
+ 2.  "All I can say about life is, Oh God, enjoy it!" <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
 
- 3.  "When you want to believe in something, you also have to believe in everything that's necessary for believing in it." <br> &emsp;&emsp;&emsp; <i>-by Ugo Betti</i> 
+ 3.  "Travel only with thy equals or thy betters; if there are none, travel alone." <br> &emsp;&emsp;&emsp; <i>-by The Dhammapada</i> 
 
- 4.  "Be not the first by whom the new are tried,/ Nor yet the last to lay the old aside." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
+ 4.  "Exercise alone provides psychological and physical benefits. However, if you also adopt a strategy that engages your mind while you exercise, you can get a whole host of psychological benefits fairly quickly." <br> &emsp;&emsp;&emsp; <i>-by James Rippe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
