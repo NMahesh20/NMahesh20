@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An idea isn't worth that much. It's the execution of the idea that has value. If you can't convince one other person that this is something to devote your life to, then it's not worth it." <br> &emsp;&emsp;&emsp; <i>-by Joel Spolsky</i> 
+ 1.  "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "All I can say about life is, Oh God, enjoy it!" <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
+ 2.  "Age is opportunity no less/ Than youth itself, though in another dress,/ And as the evening twilight fades away/ The sky is filled with stars, invisible by day." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 
- 3.  "Travel only with thy equals or thy betters; if there are none, travel alone." <br> &emsp;&emsp;&emsp; <i>-by The Dhammapada</i> 
+ 3.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
 
- 4.  "Exercise alone provides psychological and physical benefits. However, if you also adopt a strategy that engages your mind while you exercise, you can get a whole host of psychological benefits fairly quickly." <br> &emsp;&emsp;&emsp; <i>-by James Rippe</i> 
+ 4.  "Better fare hard with good men than feast it with bad." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
