@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "Really listening and suspending one's own judgment is necessary in order to understand other people on their own terms... This is a process that requires trust and builds trust." <br> &emsp;&emsp;&emsp; <i>-by Mary Field Belenky</i> 
 
- 2.  "Age is opportunity no less/ Than youth itself, though in another dress,/ And as the evening twilight fades away/ The sky is filled with stars, invisible by day." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 2.  "No one can make you feel inferior without your consent." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 
- 3.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
+ 3.  "The palest ink is better than the best memory." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Better fare hard with good men than feast it with bad." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 4.  "It is in vain to say human beings ought to be satisfied with tranquillity: they must have action; and they will make it if they cannot find it." <br> &emsp;&emsp;&emsp; <i>-by Charlotte Bronte</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
