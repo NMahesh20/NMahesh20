@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Really listening and suspending one's own judgment is necessary in order to understand other people on their own terms... This is a process that requires trust and builds trust." <br> &emsp;&emsp;&emsp; <i>-by Mary Field Belenky</i> 
+ 1.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 2.  "No one can make you feel inferior without your consent." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 2.  "By the work one knows the workmen." <br> &emsp;&emsp;&emsp; <i>-by Jean De La Fontaine</i> 
 
- 3.  "The palest ink is better than the best memory." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
 
- 4.  "It is in vain to say human beings ought to be satisfied with tranquillity: they must have action; and they will make it if they cannot find it." <br> &emsp;&emsp;&emsp; <i>-by Charlotte Bronte</i> 
+ 4.  "Good habits result from resisting temptation." <br> &emsp;&emsp;&emsp; <i>-by Ancient Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
