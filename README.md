@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 1.  "The secret to success in life is known only to those who have not succeeded." <br> &emsp;&emsp;&emsp; <i>-by John Churton Collins</i> 
 
- 2.  "By the work one knows the workmen." <br> &emsp;&emsp;&emsp; <i>-by Jean De La Fontaine</i> 
+ 2.  "Because he has never forgiven himself any fault, he can forgive no one else's." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
 
- 3.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
+ 3.  "When in doubt, tell the truth." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "Good habits result from resisting temptation." <br> &emsp;&emsp;&emsp; <i>-by Ancient Proverb</i> 
+ 4.  "A minute's success pays the failure of years." <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
