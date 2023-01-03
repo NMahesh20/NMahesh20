@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The secret to success in life is known only to those who have not succeeded." <br> &emsp;&emsp;&emsp; <i>-by John Churton Collins</i> 
+ 1.  "The first rule of life is to reveal nothing, to be exceptionally cautious in what you say, in whatever company you may find yourself. If you have a secret, you have only to whisper it to your dearest friend with the strictest injunction that it will go no further, and within half a day the story is all over town, and when you do make what would seem to be a perfectly sensible remark, you will find it reported in the most grotesque form, thus incurring no end of criticism to rebound upon you." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Because he has never forgiven himself any fault, he can forgive no one else's." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
+ 2.  "Great ability develops and reveals itself increasingly with every new assignment." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 
- 3.  "When in doubt, tell the truth." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "We live in a time of transition, an uneasy era which is likely to endure for the rest of this century. During the period we may be tempted to abandon some of the time-honored principles and commitments which have been proven during the difficult times of past generations. We must never yield to this temptation. Our American values are not luxuries, but necessities - not the salt in our bread, but the bread itself." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Carter</i> 
 
- 4.  "A minute's success pays the failure of years." <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 4.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
