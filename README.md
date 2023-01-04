@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The first rule of life is to reveal nothing, to be exceptionally cautious in what you say, in whatever company you may find yourself. If you have a secret, you have only to whisper it to your dearest friend with the strictest injunction that it will go no further, and within half a day the story is all over town, and when you do make what would seem to be a perfectly sensible remark, you will find it reported in the most grotesque form, thus incurring no end of criticism to rebound upon you." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "If you wait for tomorrow, tomorrow comes. If you don't wait for tomorrow, tomorrow comes." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 2.  "Great ability develops and reveals itself increasingly with every new assignment." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 2.  "Having a dream is what keeps you alive. Overcoming the challenges make life worth living." <br> &emsp;&emsp;&emsp; <i>-by Mary Tyler Moore</i> 
 
- 3.  "We live in a time of transition, an uneasy era which is likely to endure for the rest of this century. During the period we may be tempted to abandon some of the time-honored principles and commitments which have been proven during the difficult times of past generations. We must never yield to this temptation. Our American values are not luxuries, but necessities - not the salt in our bread, but the bread itself." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Carter</i> 
+ 3.  "For today and its blessings, I owe the world an attitude of gratitude." <br> &emsp;&emsp;&emsp; <i>-by Clarence E. Hodges</i> 
 
- 4.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
