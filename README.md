@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you wait for tomorrow, tomorrow comes. If you don't wait for tomorrow, tomorrow comes." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Having a dream is what keeps you alive. Overcoming the challenges make life worth living." <br> &emsp;&emsp;&emsp; <i>-by Mary Tyler Moore</i> 
+ 2.  "The best way to try to motivate somebody is by being direct with them. To be honest with them. Lies are never the right way to get your message across." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "For today and its blessings, I owe the world an attitude of gratitude." <br> &emsp;&emsp;&emsp; <i>-by Clarence E. Hodges</i> 
+ 3.  "You risk tears if you let yourself be tamed." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exup�ry</i> 
 
- 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "The lesson which life repeats and constantly enforces is 'look under foot.' You are always nearer the divine and the true sources of your power than you think." <br> &emsp;&emsp;&emsp; <i>-by John Burroughs</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
