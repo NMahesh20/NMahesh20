@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "If you are capable people are happy to play with you." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
 
- 2.  "The best way to try to motivate somebody is by being direct with them. To be honest with them. Lies are never the right way to get your message across." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 2.  "They can conquer who believe they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
 
- 3.  "You risk tears if you let yourself be tamed." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exup�ry</i> 
+ 3.  "Laugh at yourself first, before anyone else can." <br> &emsp;&emsp;&emsp; <i>-by Elsa Maxwell</i> 
 
- 4.  "The lesson which life repeats and constantly enforces is 'look under foot.' You are always nearer the divine and the true sources of your power than you think." <br> &emsp;&emsp;&emsp; <i>-by John Burroughs</i> 
+ 4.  "It has all been very interesting." <br> &emsp;&emsp;&emsp; <i>-by Lady Mary Wortley Montagu</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
