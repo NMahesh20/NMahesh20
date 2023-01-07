@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you are capable people are happy to play with you." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
+ 1.  "Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
 
- 2.  "They can conquer who believe they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
+ 2.  "If I make a record I love, then somebody will like it. Maybe not everybody, but that won't matter." <br> &emsp;&emsp;&emsp; <i>-by Norah Jones</i> 
 
- 3.  "Laugh at yourself first, before anyone else can." <br> &emsp;&emsp;&emsp; <i>-by Elsa Maxwell</i> 
+ 3.  "If your ship doesn't come in, swim out to it!" <br> &emsp;&emsp;&emsp; <i>-by Jonathan Winters</i> 
 
- 4.  "It has all been very interesting." <br> &emsp;&emsp;&emsp; <i>-by Lady Mary Wortley Montagu</i> 
+ 4.  "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
