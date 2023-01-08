@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
+ 1.  "Life is either a daring adventure or nothing. Security does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than exposure." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 2.  "If I make a record I love, then somebody will like it. Maybe not everybody, but that won't matter." <br> &emsp;&emsp;&emsp; <i>-by Norah Jones</i> 
+ 2.  "In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
 
- 3.  "If your ship doesn't come in, swim out to it!" <br> &emsp;&emsp;&emsp; <i>-by Jonathan Winters</i> 
+ 3.  "Trumpet in a herd of elephants; crow in the company of cocks; bleat in a flock of goats." <br> &emsp;&emsp;&emsp; <i>-by Malayan Proverb</i> 
 
- 4.  "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 4.  "Walking is man's best medicine." <br> &emsp;&emsp;&emsp; <i>-by Hippocrates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
