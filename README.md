@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is either a daring adventure or nothing. Security does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than exposure." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 1.  "Nobody can tell you if what you're doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
+ 2.  "Miracles: You do not have to look for them. They are there, 24-7, beaming like radio waves all around you. Put up the antenna, turn up the volume - snap... crackle... this just in, every person you talk to is a chance to change the world..." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "Trumpet in a herd of elephants; crow in the company of cocks; bleat in a flock of goats." <br> &emsp;&emsp;&emsp; <i>-by Malayan Proverb</i> 
+ 3.  "Be more splendid, more extraordinary. Use every moment to fill yourself up." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Walking is man's best medicine." <br> &emsp;&emsp;&emsp; <i>-by Hippocrates</i> 
+ 4.  "Sometimes we do a thing in order to find out the reason for it. Sometimes our actions are questions not answers." <br> &emsp;&emsp;&emsp; <i>-by John Le Carre</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
