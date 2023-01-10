@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nobody can tell you if what you're doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "We cannot fail to win unless we fail to try." <br> &emsp;&emsp;&emsp; <i>-by Tom Clancy</i> 
 
- 2.  "Miracles: You do not have to look for them. They are there, 24-7, beaming like radio waves all around you. Put up the antenna, turn up the volume - snap... crackle... this just in, every person you talk to is a chance to change the world..." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "Leadership is based on inspiration, not domination; on cooperation, not intimidation." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Wood</i> 
 
- 3.  "Be more splendid, more extraordinary. Use every moment to fill yourself up." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Cats regard people as warmblooded furniture." <br> &emsp;&emsp;&emsp; <i>-by Jacquelyn Mitchard</i> 
 
- 4.  "Sometimes we do a thing in order to find out the reason for it. Sometimes our actions are questions not answers." <br> &emsp;&emsp;&emsp; <i>-by John Le Carre</i> 
+ 4.  "I'm very pleased with each advancing year. It stems back to when I was forty. I was a bit upset about reaching that milestone, but an older friend consoled me. 'Don't complain about growing old - many, many people do not have that privilege.'" <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
