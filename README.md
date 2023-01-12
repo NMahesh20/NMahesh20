@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 2.  "The majority of people perform well in a crisis and when the spotlight is on them; it's on the Sunday afternoons of this life, when the nobody is looking, that the spirit falters." <br> &emsp;&emsp;&emsp; <i>-by Alan Bennett</i> 
+ 2.  "You try to give away what you want yourself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
+ 3.  "For visions come not to polluted eyes." <br> &emsp;&emsp;&emsp; <i>-by Mary Howitt</i> 
 
- 4.  "I've arrived at this outermost edge of my life by my own actions. Where I am is thoroughly unacceptable. Therefore, I must stop doing what I've been doing." <br> &emsp;&emsp;&emsp; <i>-by Alice Koller</i> 
+ 4.  "Books...are like lobster shells, we surround ourselves with 'em, then we grow out of 'em and leave 'em behind, as evidence of our earlier stages of development." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
