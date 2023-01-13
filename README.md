@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 1.  "The best years of your life are the ones in which you decide your problems are your own.You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
 
- 2.  "You try to give away what you want yourself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Anyone who goes through life trusting people without making sure they are worthy of trust is a fool. Yet there are people who may be trusted, men as well as women. There are are as many difference in their natures as there are flowers in these meadows." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "For visions come not to polluted eyes." <br> &emsp;&emsp;&emsp; <i>-by Mary Howitt</i> 
+ 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
 
- 4.  "Books...are like lobster shells, we surround ourselves with 'em, then we grow out of 'em and leave 'em behind, as evidence of our earlier stages of development." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
+ 4.  "It is better to offer no excuse than a bad one." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
