@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best years of your life are the ones in which you decide your problems are your own.You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
+ 1.  "You can question somebody's views and their judgment without questioning their motives or patriotism." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Anyone who goes through life trusting people without making sure they are worthy of trust is a fool. Yet there are people who may be trusted, men as well as women. There are are as many difference in their natures as there are flowers in these meadows." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
+ 3.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "It is better to offer no excuse than a bad one." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 4.  "My passions were all gathered together like fingers that made a fist. Drive is considered aggression today; I knew it then as purpose." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
