@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can question somebody's views and their judgment without questioning their motives or patriotism." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "I am looking for a lot of men who have an infinite capacity to not know what can't be done." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
 
- 2.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "We are what we repeatedly do. Excellence then, is not an act, but a habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 3.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "She wanted something to happen - something, anything: she did not know what." <br> &emsp;&emsp;&emsp; <i>-by Kate Chopin</i> 
 
- 4.  "My passions were all gathered together like fingers that made a fist. Drive is considered aggression today; I knew it then as purpose." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "It's asking a great deal that things should appeal to your reason as well as your sense of the aesthetic." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
