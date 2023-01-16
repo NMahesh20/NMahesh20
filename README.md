@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I am looking for a lot of men who have an infinite capacity to not know what can't be done." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Noela Evans</i> 
 
- 2.  "We are what we repeatedly do. Excellence then, is not an act, but a habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 2.  "Roam abroad in the world, and take thy fill of its enjoyments before the day shall come when thou must quit it for good." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
 
- 3.  "She wanted something to happen - something, anything: she did not know what." <br> &emsp;&emsp;&emsp; <i>-by Kate Chopin</i> 
+ 3.  "Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 4.  "It's asking a great deal that things should appeal to your reason as well as your sense of the aesthetic." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "In attempts to improve your character, know what is in your power and what is beyond it." <br> &emsp;&emsp;&emsp; <i>-by Francis Thompson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
