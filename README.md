@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Noela Evans</i> 
+ 1.  "That was the worst part about having cancer, sometimes: The physical evidence of disease separates you from other people." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Roam abroad in the world, and take thy fill of its enjoyments before the day shall come when thou must quit it for good." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
+ 2.  "We live in an age when unnecessary things are our only necessities." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 
- 3.  "Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 3.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
 
- 4.  "In attempts to improve your character, know what is in your power and what is beyond it." <br> &emsp;&emsp;&emsp; <i>-by Francis Thompson</i> 
+ 4.  "The time to pray is not when we are in a tight spot but just as soon as we get out of it." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
