@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That was the worst part about having cancer, sometimes: The physical evidence of disease separates you from other people." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Adversity causes some men to break; others to break records." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
 
- 2.  "We live in an age when unnecessary things are our only necessities." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 2.  "The truth is not simply what you think it is; it is also the circumstances in which it is said, and to whom, why and how it is said." <br> &emsp;&emsp;&emsp; <i>-by Vaclav Havel</i> 
 
- 3.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
+ 3.  "Nobody sees a flower - really - it is so small it takes time - we haven't time - and to see takes time, like to have a friend takes time." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
 
- 4.  "The time to pray is not when we are in a tight spot but just as soon as we get out of it." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 4.  "Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
