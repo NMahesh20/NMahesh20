@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Adversity causes some men to break; others to break records." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 1.  "Silence is golden when you can't think of a good answer." <br> &emsp;&emsp;&emsp; <i>-by Muhammad Ali</i> 
 
- 2.  "The truth is not simply what you think it is; it is also the circumstances in which it is said, and to whom, why and how it is said." <br> &emsp;&emsp;&emsp; <i>-by Vaclav Havel</i> 
+ 2.  "Gratitude is the most exquisite form of courtesy." <br> &emsp;&emsp;&emsp; <i>-by Jacques Maritain</i> 
 
- 3.  "Nobody sees a flower - really - it is so small it takes time - we haven't time - and to see takes time, like to have a friend takes time." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
+ 3.  "Eat before shopping. If you go to the store hungry, you are likely to make unnecessary purchases." <br> &emsp;&emsp;&emsp; <i>-by American Heart Association Cookbook</i> 
 
- 4.  "Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
+ 4.  "Always behave like a duck - keep calm and unruffled on the surface but paddle like the devil underneath." <br> &emsp;&emsp;&emsp; <i>-by Jacob Braude</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
