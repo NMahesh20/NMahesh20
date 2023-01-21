@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Is life worth living?/ Aye, with the best of us,/ Heights of us, depths of us - / Life is the test of us!" <br> &emsp;&emsp;&emsp; <i>-by Corinne Roosevelt Robinson</i> 
+ 1.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
 
- 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
+ 2.  "First keep the peace within yourself, then you can also bring peace to others." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 3.  "Be faithful to that which exists nowhere but in yourself - and thus make yourself indispensable." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "The great secret of power is never to will to do more than you can accomplish." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
 
- 4.  "When the character of a man is not clear to you, look at his friends." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
+ 4.  "Sorrow was like the wind. It came in gusts." <br> &emsp;&emsp;&emsp; <i>-by Marjorie Kinnan Rawlings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
