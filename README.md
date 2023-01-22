@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Meri Williams</i> 
 
- 2.  "First keep the peace within yourself, then you can also bring peace to others." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 2.  "Justice does not come from the outside. It comes from inner peace." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 3.  "The great secret of power is never to will to do more than you can accomplish." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
+ 3.  "Seek not, my soul, the life of the immortals; but enjoy to the full the resources that are within thy reach." <br> &emsp;&emsp;&emsp; <i>-by Pindar</i> 
 
- 4.  "Sorrow was like the wind. It came in gusts." <br> &emsp;&emsp;&emsp; <i>-by Marjorie Kinnan Rawlings</i> 
+ 4.  "The minute you settle for less than you deserve, you get even less than you settled for." <br> &emsp;&emsp;&emsp; <i>-by Maureen Dowd</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
