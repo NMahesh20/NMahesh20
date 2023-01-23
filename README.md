@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Meri Williams</i> 
+ 1.  "A little drama wins more friends than boring." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "Justice does not come from the outside. It comes from inner peace." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 2.  "Treasure the love you receive above all. It will survive long after your good health has vanished." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Seek not, my soul, the life of the immortals; but enjoy to the full the resources that are within thy reach." <br> &emsp;&emsp;&emsp; <i>-by Pindar</i> 
+ 3.  "Everything is connected... no one thing can change by itself." <br> &emsp;&emsp;&emsp; <i>-by Paul Hawken</i> 
 
- 4.  "The minute you settle for less than you deserve, you get even less than you settled for." <br> &emsp;&emsp;&emsp; <i>-by Maureen Dowd</i> 
+ 4.  "Be brief, for no discourse can please when too long." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
