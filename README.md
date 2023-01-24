@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A little drama wins more friends than boring." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "Regimen is superior to medicine." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 
- 2.  "Treasure the love you receive above all. It will survive long after your good health has vanished." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
 
- 3.  "Everything is connected... no one thing can change by itself." <br> &emsp;&emsp;&emsp; <i>-by Paul Hawken</i> 
+ 3.  "All that is necessary for the triumph of evil is that good men do nothing." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 
- 4.  "Be brief, for no discourse can please when too long." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 4.  "Always hold your head up, but be careful to keep your nose at a friendly level." <br> &emsp;&emsp;&emsp; <i>-by Max L. Forman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
