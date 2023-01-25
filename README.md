@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Regimen is superior to medicine." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 1.  "There are some men who lift the age they inhabit, till all men walk on higher ground in that lifetime." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Anderson</i> 
 
- 2.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
+ 2.  "He that would make his own liberty secure, must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach to himself." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 
- 3.  "All that is necessary for the triumph of evil is that good men do nothing." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 3.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 4.  "Always hold your head up, but be careful to keep your nose at a friendly level." <br> &emsp;&emsp;&emsp; <i>-by Max L. Forman</i> 
+ 4.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
