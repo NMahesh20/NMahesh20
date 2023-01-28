@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 1.  "Unfortunately sometimes one can't do what one thinks is right without making someone else unhappy." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "I think that when you invite people to your home, you invite them to yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Accept the pain, cherish the joys, resolve the regrets; then can come the best of benedictions - 'If I had my life to live over, I'd do it all the same.'" <br> &emsp;&emsp;&emsp; <i>-by Joan McIntosh</i> 
 
- 3.  "The happiness of your life depends upon the quality of your thoughts, therefore guard accordingly; and take care that you entertain no notions unsuitable to virtue, and reasonable nature." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 3.  "I am here and you will know that I am the best and will hear me." <br> &emsp;&emsp;&emsp; <i>-by Leontyne Price</i> 
 
- 4.  "Set all things in their own peculiar place, and know that order is the greatest grace." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
+ 4.  "It's not foresight or hindsight we need. We need sight, plain and simple. We need to see what is right in front of us." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
