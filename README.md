@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Unfortunately sometimes one can't do what one thinks is right without making someone else unhappy." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 2.  "Accept the pain, cherish the joys, resolve the regrets; then can come the best of benedictions - 'If I had my life to live over, I'd do it all the same.'" <br> &emsp;&emsp;&emsp; <i>-by Joan McIntosh</i> 
+ 2.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
 
- 3.  "I am here and you will know that I am the best and will hear me." <br> &emsp;&emsp;&emsp; <i>-by Leontyne Price</i> 
+ 3.  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
 
- 4.  "It's not foresight or hindsight we need. We need sight, plain and simple. We need to see what is right in front of us." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 4.  "Go after a man's weakness, and never, ever, threaten unless you're going to follow through, because if you don't, the next time you won't be taken seriously." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Cohn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
