@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 1.  "We did not start as friends, but as people who respected and admired each other. Crucial, absolutely crucial for a partnership. As soon as we could afford it, we ceased sharing lodgings. Equally crucial." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 2.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
+ 2.  "I have you and even if we never meet or ever see each other, we have left our thumbprints in the thick, moist clay of each other's lives." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 3.  "Rather than love, than money, than fame, give me truth." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "Go after a man's weakness, and never, ever, threaten unless you're going to follow through, because if you don't, the next time you won't be taken seriously." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Cohn</i> 
+ 4.  "What we play is life." <br> &emsp;&emsp;&emsp; <i>-by Louis Armstrong</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
