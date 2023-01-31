@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We did not start as friends, but as people who respected and admired each other. Crucial, absolutely crucial for a partnership. As soon as we could afford it, we ceased sharing lodgings. Equally crucial." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 1.  "It is the letter not sent that is often the most valuable." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
 
- 2.  "I have you and even if we never meet or ever see each other, we have left our thumbprints in the thick, moist clay of each other's lives." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "It's noble to want to confess, but if the results are just damage and pain, that's not noble. It's selfish." <br> &emsp;&emsp;&emsp; <i>-by Carol Green</i> 
 
- 3.  "Rather than love, than money, than fame, give me truth." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "When a thought is too weak to be expressed simply, it should be rejected." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
 
- 4.  "What we play is life." <br> &emsp;&emsp;&emsp; <i>-by Louis Armstrong</i> 
+ 4.  "What worries you masters you." <br> &emsp;&emsp;&emsp; <i>-by Haddon W. Robinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
