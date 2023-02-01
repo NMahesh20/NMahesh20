@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is the letter not sent that is often the most valuable." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 1.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 2.  "It's noble to want to confess, but if the results are just damage and pain, that's not noble. It's selfish." <br> &emsp;&emsp;&emsp; <i>-by Carol Green</i> 
+ 2.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "When a thought is too weak to be expressed simply, it should be rejected." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
+ 3.  "If one speaks or acts with a cruel mind, misery follows, as the cart follows the horse... If one speaks or acts with a pure mind, happiness follows, as a shadow follows its source." <br> &emsp;&emsp;&emsp; <i>-by the Dhammapada</i> 
 
- 4.  "What worries you masters you." <br> &emsp;&emsp;&emsp; <i>-by Haddon W. Robinson</i> 
+ 4.  "[The body is] a marvelous machine...a chemical laboratory, a power-house. Every movement, voluntary or involuntary, full of secrets and marvels!" <br> &emsp;&emsp;&emsp; <i>-by Theodor Herzl</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
