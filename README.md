@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 1.  "You cannot fly like an eagle with the wings of a wren." <br> &emsp;&emsp;&emsp; <i>-by William Henry Hudson</i> 
 
- 2.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
 
- 3.  "If one speaks or acts with a cruel mind, misery follows, as the cart follows the horse... If one speaks or acts with a pure mind, happiness follows, as a shadow follows its source." <br> &emsp;&emsp;&emsp; <i>-by the Dhammapada</i> 
+ 3.  "Men are like steel. When they lose their temper, they lose their worth." <br> &emsp;&emsp;&emsp; <i>-by Chuck Norris</i> 
 
- 4.  "[The body is] a marvelous machine...a chemical laboratory, a power-house. Every movement, voluntary or involuntary, full of secrets and marvels!" <br> &emsp;&emsp;&emsp; <i>-by Theodor Herzl</i> 
+ 4.  "Perhaps too much of everything is as bad as too little." <br> &emsp;&emsp;&emsp; <i>-by Edna Ferber</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
