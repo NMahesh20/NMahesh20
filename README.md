@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You cannot fly like an eagle with the wings of a wren." <br> &emsp;&emsp;&emsp; <i>-by William Henry Hudson</i> 
+ 1.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
 
- 2.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 2.  "If you can't do what you want, do what you can." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Men are like steel. When they lose their temper, they lose their worth." <br> &emsp;&emsp;&emsp; <i>-by Chuck Norris</i> 
+ 3.  "I never did give anybody hell. I just told the truth, and they thought it was hell." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 4.  "Perhaps too much of everything is as bad as too little." <br> &emsp;&emsp;&emsp; <i>-by Edna Ferber</i> 
+ 4.  "Go often to the house of thy friend; for weeds soon choke up the unused path." <br> &emsp;&emsp;&emsp; <i>-by Scandinavian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
