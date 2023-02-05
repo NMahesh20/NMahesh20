@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I would rather spend an hour among the notorious than two minutes with the dull." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 1.  "Don't do what you want. Do what you don't want. Do what you're trained not to want. Do the things that scare you the most." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "The fact is, sometimes it's hard to walk in a single woman's shoes. That's why we need really special ones now and then to make the walk a little more fun." <br> &emsp;&emsp;&emsp; <i>-by Jenny Bicks</i> 
+ 2.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 3.  "Rejoice not at thine enemy's fall - but don't rush to pick him up either." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 3.  "How we remember, what we remember and why we remember form the most personal map of our individuality." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
 
- 4.  "Raise your sail one foot and you get ten feet of wind." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "It is not enough to have a good mind. The main thing is to use it well." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
