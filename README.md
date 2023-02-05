@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
+ 1.  "I would rather spend an hour among the notorious than two minutes with the dull." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 2.  "If you can't do what you want, do what you can." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "The fact is, sometimes it's hard to walk in a single woman's shoes. That's why we need really special ones now and then to make the walk a little more fun." <br> &emsp;&emsp;&emsp; <i>-by Jenny Bicks</i> 
 
- 3.  "I never did give anybody hell. I just told the truth, and they thought it was hell." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 3.  "Rejoice not at thine enemy's fall - but don't rush to pick him up either." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 4.  "Go often to the house of thy friend; for weeds soon choke up the unused path." <br> &emsp;&emsp;&emsp; <i>-by Scandinavian Proverb</i> 
+ 4.  "Raise your sail one foot and you get ten feet of wind." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
