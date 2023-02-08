@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To play it safe is not to play." <br> &emsp;&emsp;&emsp; <i>-by Robert Altman</i> 
+ 1.  "The idea of a mass audience was really an invention of the Industrial Revolution." <br> &emsp;&emsp;&emsp; <i>-by David Cronenberg</i> 
 
- 2.  "You never know till you try to reach them how accessible men are; but you must approach each man by the right door." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 2.  "Privacy and security are those things you give up when you show the world what makes you extraordinary." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "In taking revenge, a man is but even with his enemy; but in passing it over, he is superior." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "Sometimes it's hard to avoid the happiness of others." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
 
- 4.  "Every artist was first an amateur." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "I don't know the key to success, but the key to failure is trying to please everybody." <br> &emsp;&emsp;&emsp; <i>-by Bill Cosby</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
