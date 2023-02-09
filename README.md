@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The idea of a mass audience was really an invention of the Industrial Revolution." <br> &emsp;&emsp;&emsp; <i>-by David Cronenberg</i> 
+ 1.  "Only solitary men know the full joys of frienship. Others have their family; but to a solitary and an exile, his friends are everything." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 2.  "Privacy and security are those things you give up when you show the world what makes you extraordinary." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "If we all did the things we are capable of doing, we would literally astound ourselves." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 
- 3.  "Sometimes it's hard to avoid the happiness of others." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
+ 3.  "It's not your painting anymore. It stopped being your painting the moment that you finished it." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 4.  "I don't know the key to success, but the key to failure is trying to please everybody." <br> &emsp;&emsp;&emsp; <i>-by Bill Cosby</i> 
+ 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
