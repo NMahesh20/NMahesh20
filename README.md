@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only solitary men know the full joys of frienship. Others have their family; but to a solitary and an exile, his friends are everything." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "If we all did the things we are capable of doing, we would literally astound ourselves." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 2.  "We find no real satisfaction or happiness in life without obstacles to conquer and goals to achieve." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Maltz</i> 
 
- 3.  "It's not your painting anymore. It stopped being your painting the moment that you finished it." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
+ 3.  "The animals of the planet are in desperate peril... Without free animal life I believe we will lose the spiritual equivalent of oxygen." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 4.  "The true secret of giving advice is, after you have honestly given it, to be perfectly indifferent whether it is taken or not, and never persist in trying to set people right." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
