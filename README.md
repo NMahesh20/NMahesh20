@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "And since, in our passage through this world, painful circumstances occur more frequently than pleasing ones, and since our sense of evil is, I fear, more acute than our sense of good, we become the victims of our feelings, unless we can in some degree command them." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "We find no real satisfaction or happiness in life without obstacles to conquer and goals to achieve." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Maltz</i> 
+ 2.  "He makes people pleased with him by making them first pleased with themselves." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 3.  "The animals of the planet are in desperate peril... Without free animal life I believe we will lose the spiritual equivalent of oxygen." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 3.  "Emergencies have always been necessary to progress. It was darkness which produced the lamp. It was fog that produced the compass. It was hunger that drove us to exploration. And it took a depression to teach us the real value of a job." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "The true secret of giving advice is, after you have honestly given it, to be perfectly indifferent whether it is taken or not, and never persist in trying to set people right." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
+ 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
