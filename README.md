@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "And since, in our passage through this world, painful circumstances occur more frequently than pleasing ones, and since our sense of evil is, I fear, more acute than our sense of good, we become the victims of our feelings, unless we can in some degree command them." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 2.  "He makes people pleased with him by making them first pleased with themselves." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 2.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 3.  "Emergencies have always been necessary to progress. It was darkness which produced the lamp. It was fog that produced the compass. It was hunger that drove us to exploration. And it took a depression to teach us the real value of a job." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "A loud voice cannot compete with a clear voice, even if it's a whisper." <br> &emsp;&emsp;&emsp; <i>-by Barry Neil Kaufman</i> 
 
- 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
+ 4.  "Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living." <br> &emsp;&emsp;&emsp; <i>-by Miriam Beard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
