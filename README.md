@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 1.  "The more passions and desires one has, the more ways one has of being happy." <br> &emsp;&emsp;&emsp; <i>-by Charlotte-Catherine</i> 
 
- 2.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 2.  "Security is a kind of death." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
 
- 3.  "A loud voice cannot compete with a clear voice, even if it's a whisper." <br> &emsp;&emsp;&emsp; <i>-by Barry Neil Kaufman</i> 
+ 3.  "Living apart and at peace with myself, I came to realize more vividly the meaning of the doctrine of acceptance. To refrain from giving advice, to refrain from meddling in the affairs of others, to refrain, even though the motives be the highest, from tampering with another's way of life - so simple, yet so difficult for an active spirit. Hands off!" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 4.  "Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living." <br> &emsp;&emsp;&emsp; <i>-by Miriam Beard</i> 
+ 4.  "The time to stop talking is when the other person nods his head affirmatively but says nothing." <br> &emsp;&emsp;&emsp; <i>-by Henry S. Haskins</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
