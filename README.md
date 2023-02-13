@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The more passions and desires one has, the more ways one has of being happy." <br> &emsp;&emsp;&emsp; <i>-by Charlotte-Catherine</i> 
+ 1.  "Maybe kissing is sort of like nature's coffee." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "Security is a kind of death." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
+ 2.  "I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "Living apart and at peace with myself, I came to realize more vividly the meaning of the doctrine of acceptance. To refrain from giving advice, to refrain from meddling in the affairs of others, to refrain, even though the motives be the highest, from tampering with another's way of life - so simple, yet so difficult for an active spirit. Hands off!" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 3.  "Every pilot needs a co-pilot, and let me tell you, it is awful nice to have someone sitting there beside you, especially when you hit some bumpy air." <br> &emsp;&emsp;&emsp; <i>-by Eric Wald</i> 
 
- 4.  "The time to stop talking is when the other person nods his head affirmatively but says nothing." <br> &emsp;&emsp;&emsp; <i>-by Henry S. Haskins</i> 
+ 4.  "Young people are in a condition like permanent intoxication, because youth is sweet and they are growing." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
