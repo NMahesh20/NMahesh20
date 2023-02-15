@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We made a solemn vow not to take any job outside of show business. We borrowed money from parents and friends, rather than take that lethal job waiting tables. This forced us to take any job offered to us. Anything. We once did a show in the middle of the Benjamin Franklin Parkway in Philadelphia as part of a fashion show on a hot July night while all around our stage, a race-riot was fully underway. That's how serious we were about our vow." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 1.  "The stream is as good as at first; the little rubbish it collects in the turnings is easily moved away." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "What helps luck is a habit of watching for opportunities, of having a patient, but restless mind, of sacrificing one's ease or vanity, of uniting a love of detail to foresight, and of passing through hard times bravely and cheerfully." <br> &emsp;&emsp;&emsp; <i>-by Charles Victor Cherbuliez</i> 
+ 2.  "Inner wisdom is more important than wealth. The more you spend it, the more you gain." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
+ 3.  "Your world is made of your memories, and your memories are given to you by your world. The whispering voice of happenstance is always in our ears. 'This is the world. This is the way things are. Look. Pay attention. Remember.'" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "Retirement at sixty-five is ridiculous. When I was sixty-five I still had pimples." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
+ 4.  "Joy is prayer - Joy is strength - Joy is love - Joy is a net of love by which you can catch souls." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
