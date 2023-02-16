@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The stream is as good as at first; the little rubbish it collects in the turnings is easily moved away." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 2.  "Inner wisdom is more important than wealth. The more you spend it, the more you gain." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "When a man takes one step toward God, God takes more steps toward that man than there are sands in the worlds of time." <br> &emsp;&emsp;&emsp; <i>-by The Work of the Chariot</i> 
 
- 3.  "Your world is made of your memories, and your memories are given to you by your world. The whispering voice of happenstance is always in our ears. 'This is the world. This is the way things are. Look. Pay attention. Remember.'" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
 
- 4.  "Joy is prayer - Joy is strength - Joy is love - Joy is a net of love by which you can catch souls." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 4.  "You have to have confidence in your ability, and then be tough enough to follow through." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
