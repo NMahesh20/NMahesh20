@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 1.  "Enough organization, enough lists and we think we can control the uncontrollable." <br> &emsp;&emsp;&emsp; <i>-by John Mankiewicz</i> 
 
- 2.  "When a man takes one step toward God, God takes more steps toward that man than there are sands in the worlds of time." <br> &emsp;&emsp;&emsp; <i>-by The Work of the Chariot</i> 
+ 2.  "Seasons change, so do cities. People come into your life and people go, but it's comforting to know: the ones you love are always in your heart and if you're very lucky, a plane ride away." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 3.  "Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
+ 3.  "Each failure to sell will increase your chances for success at your next attempt." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "You have to have confidence in your ability, and then be tough enough to follow through." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
+ 4.  "It's sad when our daddies die. Makes us one less person inside." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
