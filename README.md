@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we make assumptions, we contribute to the complexity rather than the simplicity of a problem, making it more difficult to solve." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "I started thinking about little kids putting a cylindrical peg through a circular hole, and how they do it over and over again for months when they figure it out, and how basketball was basically just a slightly more aerobic version of that same exercise." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 2.  "Sometimes the questions are complicated and the answers are simple." <br> &emsp;&emsp;&emsp; <i>-by Dr. Seuss</i> 
 
- 3.  "It is all very well, when the pen flows, but then there are the dark days when imagination deserts one, and it is an effort to put anything down on paper. That little you have achieved stares at you at the end of the day, and you know the next morning you will have to scrape it down and start again." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 3.  "Everyone has his burden; what counts is how you carry it." <br> &emsp;&emsp;&emsp; <i>-by Joe Brown and David Brown</i> 
 
- 4.  "This art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of energy in our great men." <br> &emsp;&emsp;&emsp; <i>-by Captain J. A. Hadfield</i> 
+ 4.  "I can't criticize what I don't understand. If you want to call this art, you've got the benefit of all my doubts." <br> &emsp;&emsp;&emsp; <i>-by Charles Rosin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
