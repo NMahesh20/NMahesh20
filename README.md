@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "That's the key to having it all: stop expecting it to look like what you thought it was going to look like." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
 
- 2.  "Sometimes the questions are complicated and the answers are simple." <br> &emsp;&emsp;&emsp; <i>-by Dr. Seuss</i> 
+ 2.  "Know most of the rooms of thy native country before thou goest over the threshold thereof." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 3.  "Everyone has his burden; what counts is how you carry it." <br> &emsp;&emsp;&emsp; <i>-by Joe Brown and David Brown</i> 
+ 3.  "Adapt or perish, now as ever, is nature's inexorable imperative." <br> &emsp;&emsp;&emsp; <i>-by H. G. Wells</i> 
 
- 4.  "I can't criticize what I don't understand. If you want to call this art, you've got the benefit of all my doubts." <br> &emsp;&emsp;&emsp; <i>-by Charles Rosin</i> 
+ 4.  "The man who has confidence in himself gains the confidence of others." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
