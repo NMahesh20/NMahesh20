@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's the key to having it all: stop expecting it to look like what you thought it was going to look like." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 1.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 2.  "Know most of the rooms of thy native country before thou goest over the threshold thereof." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 2.  "The body says what words cannot." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
 
- 3.  "Adapt or perish, now as ever, is nature's inexorable imperative." <br> &emsp;&emsp;&emsp; <i>-by H. G. Wells</i> 
+ 3.  "Oh, darling, let your body in, let it tie you in, in comfort." <br> &emsp;&emsp;&emsp; <i>-by Anne Sexton</i> 
 
- 4.  "The man who has confidence in himself gains the confidence of others." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
+ 4.  "Be ashamed to die until you have won some victory for humanity." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
