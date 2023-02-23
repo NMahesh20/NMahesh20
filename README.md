@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
+ 1.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "The body says what words cannot." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
+ 2.  "You don't have to die in order to make a living." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 3.  "Oh, darling, let your body in, let it tie you in, in comfort." <br> &emsp;&emsp;&emsp; <i>-by Anne Sexton</i> 
+ 3.  "It is folly to punish your neighbor by fire when you live next door." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "Be ashamed to die until you have won some victory for humanity." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
+ 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
