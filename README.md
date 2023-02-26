@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one can be really esteemed accomplished who does not greatly surpass what is usually met with." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Live forever or die in the attempt." <br> &emsp;&emsp;&emsp; <i>-by Joseph Heller</i> 
 
- 2.  "Human beings have an inalienable right to invent themselves." <br> &emsp;&emsp;&emsp; <i>-by Germaine Greer</i> 
+ 2.  "Fidelity to commitment in the face of doubts and fears is a very spiritual thing." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Mix a little foolishness with your prudence: It's good to be silly at the right moment." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 3.  "Genius is one percent inspiration, ninety-nine percent perspiration." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 
- 4.  "A friend is a second self." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "Think of all the beauty still left around you and be happy." <br> &emsp;&emsp;&emsp; <i>-by Anne Frank</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
