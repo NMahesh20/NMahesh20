@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You really haven't changed, you've just become more of yourself. That is really what were all trying to do: become more of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "You're probably on the right track if you feel like a sidewalk worm during a rainstorm." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
 
- 2.  "I think the promise of fame and what it holds to you as a child and dreaming of it is not what it is. What it is, I'm not complaining about, but it's just different than the reality you dreamed." <br> &emsp;&emsp;&emsp; <i>-by Rosie O'Donnell</i> 
+ 2.  "Every patient carries her or his own doctor inside." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
 
- 3.  "Success is meaningless if you can't sleep at night because of harsh things said, petty secrets sharpened against hard and stony regret, just waiting to be plunged into the soft underbelly of a 'friendship.'" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 3.  "Sometimes old things need to go away. That way, we have room for the new things that come into our lives." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 4.  "One must also accept that one has 'uncreative' moments. The more honestly one can accept that, the quicker these moments will pass." <br> &emsp;&emsp;&emsp; <i>-by Etty Hillesum</i> 
+ 4.  "You can't separate peace from freedom because no one can be at peace unless he has his freedom." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
