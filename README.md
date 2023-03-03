@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No matter how far you travel or how much you run from it, can you ever really escape your past?" <br> &emsp;&emsp;&emsp; <i>-by Becky Hartman Edwards and Michael Patrick King</i> 
+ 1.  "My parents taught me how to listen to everybody before I made up my own mind. When you listen, you learn. You absorb like a sponge-and your life becomes so much better than when you are just trying to be listened to all the time." <br> &emsp;&emsp;&emsp; <i>-by Steven Spielberg</i> 
 
- 2.  "Painting is just another way of keeping a diary." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
+ 2.  "It is the creative potential itself in human beings that is the image of God." <br> &emsp;&emsp;&emsp; <i>-by Mary Daly</i> 
 
- 3.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 3.  "Dive into the sea of thought, and find there pearls beyond price." <br> &emsp;&emsp;&emsp; <i>-by Moses Ibn Ezra</i> 
 
- 4.  "Money is the opposite of the weather. Nobody talks about it, but everybody does something about it." <br> &emsp;&emsp;&emsp; <i>-by Rebecca Johnson</i> 
+ 4.  "Do not fear death so much, but rather the inadequate life." <br> &emsp;&emsp;&emsp; <i>-by Bertolt Brecht</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
