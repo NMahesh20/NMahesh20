@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My parents taught me how to listen to everybody before I made up my own mind. When you listen, you learn. You absorb like a sponge-and your life becomes so much better than when you are just trying to be listened to all the time." <br> &emsp;&emsp;&emsp; <i>-by Steven Spielberg</i> 
+ 1.  "Art has never been made while thinking of art." <br> &emsp;&emsp;&emsp; <i>-by Niko Stumpo</i> 
 
- 2.  "It is the creative potential itself in human beings that is the image of God." <br> &emsp;&emsp;&emsp; <i>-by Mary Daly</i> 
+ 2.  "I have witnessed the softening of the hardest of hearts by a simple smile." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
 
- 3.  "Dive into the sea of thought, and find there pearls beyond price." <br> &emsp;&emsp;&emsp; <i>-by Moses Ibn Ezra</i> 
+ 3.  "It does not do to dwell on dreams and forget to live." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "Do not fear death so much, but rather the inadequate life." <br> &emsp;&emsp;&emsp; <i>-by Bertolt Brecht</i> 
+ 4.  "For me, words are a form of action, capable of influencing change." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bengis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
