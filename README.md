@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Art has never been made while thinking of art." <br> &emsp;&emsp;&emsp; <i>-by Niko Stumpo</i> 
+ 1.  "You can't think yourself out of a writing block, you have to write yourself out of a thinking block." <br> &emsp;&emsp;&emsp; <i>-by John Rogers</i> 
 
- 2.  "I have witnessed the softening of the hardest of hearts by a simple smile." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 3.  "It does not do to dwell on dreams and forget to live." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 4.  "For me, words are a form of action, capable of influencing change." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bengis</i> 
+ 4.  "Victory attained by violence is tantamount to a defeat, for it is momentary." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
