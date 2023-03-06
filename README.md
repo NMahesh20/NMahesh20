@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't think yourself out of a writing block, you have to write yourself out of a thinking block." <br> &emsp;&emsp;&emsp; <i>-by John Rogers</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 2.  "Never suffer youth to be an excuse for inadequacy, nor age and fame to be an excuse for indolence." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Haydon</i> 
 
- 3.  "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 3.  "Any ordinary favor we do for someone or any compassionate reaching out may seem to be going nowhere at first, but may be planting a seed we can't see right now. Sometimes we need to just do the best we can and then trust in an unfolding we can't design or ordain." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 4.  "Victory attained by violence is tantamount to a defeat, for it is momentary." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "Giving is a necessity sometimes... more urgent, indeed, than having." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
