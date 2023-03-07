@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 1.  "The power to bring me out of solitude - or to push me back into it - had never belonged to another person. It was mine and only mine." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 2.  "Never suffer youth to be an excuse for inadequacy, nor age and fame to be an excuse for indolence." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Haydon</i> 
+ 2.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 3.  "Any ordinary favor we do for someone or any compassionate reaching out may seem to be going nowhere at first, but may be planting a seed we can't see right now. Sometimes we need to just do the best we can and then trust in an unfolding we can't design or ordain." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 3.  "People who are always making allowances for themselves soon go bankrupt." <br> &emsp;&emsp;&emsp; <i>-by Mary Pettibone Poole</i> 
 
- 4.  "Giving is a necessity sometimes... more urgent, indeed, than having." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
+ 4.  "After all it is those who have a deep and real inner life who are best able to deal with the irritating details of outer life." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
