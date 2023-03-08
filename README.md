@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The power to bring me out of solitude - or to push me back into it - had never belonged to another person. It was mine and only mine." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 1.  "The only joy in the world is to begin." <br> &emsp;&emsp;&emsp; <i>-by Cesare Pavese</i> 
 
- 2.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 2.  "At the height of laughter, the universe is flung into a kaleidoscope of new possibilities." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
 
- 3.  "People who are always making allowances for themselves soon go bankrupt." <br> &emsp;&emsp;&emsp; <i>-by Mary Pettibone Poole</i> 
+ 3.  "What is food to one, is to others bitter poison." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
 
- 4.  "After all it is those who have a deep and real inner life who are best able to deal with the irritating details of outer life." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
+ 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
