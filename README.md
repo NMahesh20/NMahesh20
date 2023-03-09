@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only joy in the world is to begin." <br> &emsp;&emsp;&emsp; <i>-by Cesare Pavese</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "At the height of laughter, the universe is flung into a kaleidoscope of new possibilities." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
+ 2.  "Life was mostly made up of things you couldn't control, full of surprises, and they weren't always good. Life wasn't what you made it. You were what life made you." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
 
- 3.  "What is food to one, is to others bitter poison." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
 
- 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
+ 4.  "Do not speak of repulsive matters at table." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
