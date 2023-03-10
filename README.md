@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "I take it that what all men are really after is some form or perhaps only some formula of peace." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
 
- 2.  "Life was mostly made up of things you couldn't control, full of surprises, and they weren't always good. Life wasn't what you made it. You were what life made you." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
+ 2.  "Nobody will believe in you unless you believe in yourself." <br> &emsp;&emsp;&emsp; <i>-by Liberace</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
+ 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
 
- 4.  "Do not speak of repulsive matters at table." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
+ 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
