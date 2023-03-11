@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I take it that what all men are really after is some form or perhaps only some formula of peace." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
+ 1.  "How do you define God? Like this. A God I could understand, at least potentially, was infinitely more interesting and relevant than one that defied comprehension." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 2.  "Nobody will believe in you unless you believe in yourself." <br> &emsp;&emsp;&emsp; <i>-by Liberace</i> 
+ 2.  "Americans are overreachers; overreaching is the most admirable of the many American excesses." <br> &emsp;&emsp;&emsp; <i>-by George F. Will</i> 
 
- 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
+ 3.  "Don't flatter yourself that friendship authorizes you to say disagreeable things to your intimates. The nearer you come into relation with a person, the more necessary do tact and courtesy become. Except in cases of necessity, which are rare, leave your friend to learn unpleasant things from his enemies; they are ready enough to tell them." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
