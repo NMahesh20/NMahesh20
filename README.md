@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How do you define God? Like this. A God I could understand, at least potentially, was infinitely more interesting and relevant than one that defied comprehension." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 1.  "The whole point in bein' a hero is to do somethin' greater than yerself. It'd be easy to do it for the glory or the girls. We're bigger men than that." <br> &emsp;&emsp;&emsp; <i>-by Alexander Woo</i> 
 
- 2.  "Americans are overreachers; overreaching is the most admirable of the many American excesses." <br> &emsp;&emsp;&emsp; <i>-by George F. Will</i> 
+ 2.  "Follow your passion. Stay true to yourself. Never follow someone else's path unless you're in the woods and you're lost and you see a path. By all means, you should follow that." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 3.  "Don't flatter yourself that friendship authorizes you to say disagreeable things to your intimates. The nearer you come into relation with a person, the more necessary do tact and courtesy become. Except in cases of necessity, which are rare, leave your friend to learn unpleasant things from his enemies; they are ready enough to tell them." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 3.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 4.  "Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
