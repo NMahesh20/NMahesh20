@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The thing about chameleoning your way through life is that it gets to where nothing is real." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "To imagine the unimaginable is the highest use of the imagination." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
 
- 2.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
+ 2.  "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit." <br> &emsp;&emsp;&emsp; <i>-by e e cummings</i> 
+ 3.  "Don't live in a town where there are no doctors." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 4.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "Courage is being scared to death - but saddling up anyway." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
