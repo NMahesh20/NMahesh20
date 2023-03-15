@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To imagine the unimaginable is the highest use of the imagination." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
+ 1.  "Know, first, who you are; and then adorn yourself accordingly." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 2.  "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 2.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 3.  "Don't live in a town where there are no doctors." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 3.  "What we say is important for in most cases the mouth speaks what the heart is full of." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
 
- 4.  "Courage is being scared to death - but saddling up anyway." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 4.  "Hitch your wagon to a star." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
