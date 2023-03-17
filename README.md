@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Know, first, who you are; and then adorn yourself accordingly." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 1.  "When real people fall down in life, they get right back up and keep on walking." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 2.  "You've got your phenomenon on one hand. Concrete and knowable. On the other hand you've got the incomprehensible. You call it God, but to me, God or no, it remains just that, the unknowable." <br> &emsp;&emsp;&emsp; <i>-by Robin Green and Mitchell Burgess</i> 
 
- 3.  "What we say is important for in most cases the mouth speaks what the heart is full of." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
+ 3.  "If you would stand well with a great mind, leave him with a favorable impression of yourself; if with a little mind, leave him with a favorable impression of himself." <br> &emsp;&emsp;&emsp; <i>-by Samuel Taylor Coleridge</i> 
 
- 4.  "Hitch your wagon to a star." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
