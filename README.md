@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One of the hardest tasks of leadership is understanding that you are not what you are, but what you're perceived to be by others." <br> &emsp;&emsp;&emsp; <i>-by Edward L. Flom</i> 
+ 1.  "But in the end one needs more courage to live than to kill himself." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 2.  "When you point your finger at someone, three fingers are pointing back at you." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 2.  "The art of art, the glory of expression and the sunshine of the light of letters, is simplicity." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 3.  "Vigorous let us be in attaining our ends, and mild in our method of attainment." <br> &emsp;&emsp;&emsp; <i>-by Lord Newborough</i> 
+ 3.  "Life is like an ever-shifting kaleidoscope - a slight change, and all patterns alter." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 4.  "We improve ourselves by victories over ourself. There must be contests, and you must win." <br> &emsp;&emsp;&emsp; <i>-by Edward Gibbon</i> 
+ 4.  "Act as if it were impossible to fail." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Brande</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
