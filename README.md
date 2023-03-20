@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But in the end one needs more courage to live than to kill himself." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "I trust that everything happens for a reason, even when we're not wise enough to see it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "The art of art, the glory of expression and the sunshine of the light of letters, is simplicity." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "Keep five yards from a carriage, ten yards from a horse, and a hundred yards from an elephant; but the distance one should keep from a wicked man cannot be measured." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
 
- 3.  "Life is like an ever-shifting kaleidoscope - a slight change, and all patterns alter." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 3.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 
- 4.  "Act as if it were impossible to fail." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Brande</i> 
+ 4.  "Nobody speaks the truth when there's something they must have." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Bowen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
