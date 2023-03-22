@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I trust that everything happens for a reason, even when we're not wise enough to see it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Rest is the sweet sauce of labor." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 
- 2.  "Keep five yards from a carriage, ten yards from a horse, and a hundred yards from an elephant; but the distance one should keep from a wicked man cannot be measured." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
+ 2.  "Maybe it's easier to like someone else's life, and live vicariously through it, than take some responsiblity to change our lives into lives we might like." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 3.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 3.  "Don't try to solve serious matters in the middle of the night." <br> &emsp;&emsp;&emsp; <i>-by Philip K. Dick</i> 
 
- 4.  "Nobody speaks the truth when there's something they must have." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Bowen</i> 
+ 4.  "A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration." <br> &emsp;&emsp;&emsp; <i>-by Kurt Lewin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
