@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Resistance is never the agent of change. You have to embrace the actions that are going to get you closer to your goal." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Train yourself to let go of the things you fear to lose." <br> &emsp;&emsp;&emsp; <i>-by George Lucas</i> 
 
- 2.  "We can learn nothing except by going from the known to the unknown." <br> &emsp;&emsp;&emsp; <i>-by Claude Bernard</i> 
+ 2.  "Don't get yourself arrested and make your day worse! If you need to vent, just smash something that's already broken! You can't get in trouble for wrecking the unsalvageable!" <br> &emsp;&emsp;&emsp; <i>-by R. Stevens</i> 
 
- 3.  "Reveal not every secret you have to a friend, for how can you tell but that friend may hereafter become an enemy. And bring not all mischief you are able to upon an enemy, for he may one day become your friend." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
+ 3.  "Success is a journey, not a destination. The doing is often more important than the outcome." <br> &emsp;&emsp;&emsp; <i>-by Arthur Ashe</i> 
 
- 4.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
+ 4.  "One's dignity may be assaulted, vandalized and cruelly mocked, but cannot be taken away unless it is surrendered." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
