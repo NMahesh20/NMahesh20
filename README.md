@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Train yourself to let go of the things you fear to lose." <br> &emsp;&emsp;&emsp; <i>-by George Lucas</i> 
+ 1.  "A bird does not sing because it has an answer. It sings because it has a song." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 2.  "Don't get yourself arrested and make your day worse! If you need to vent, just smash something that's already broken! You can't get in trouble for wrecking the unsalvageable!" <br> &emsp;&emsp;&emsp; <i>-by R. Stevens</i> 
+ 2.  "An invasion of armies can be resisted, but not an idea whose time has come." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 3.  "Success is a journey, not a destination. The doing is often more important than the outcome." <br> &emsp;&emsp;&emsp; <i>-by Arthur Ashe</i> 
+ 3.  "The art of being wise is the art of knowing what to overlook." <br> &emsp;&emsp;&emsp; <i>-by William James</i> 
 
- 4.  "One's dignity may be assaulted, vandalized and cruelly mocked, but cannot be taken away unless it is surrendered." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 4.  "Whoever gossips to you will gossip about you." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
