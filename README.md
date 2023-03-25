@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A bird does not sing because it has an answer. It sings because it has a song." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 1.  "The only way of finding the limits of the possible is by going beyond them into the impossible." <br> &emsp;&emsp;&emsp; <i>-by Arthur C. Clarke</i> 
 
- 2.  "An invasion of armies can be resisted, but not an idea whose time has come." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 2.  "It's about what YOU are going to do with the short time you have left on this earth." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "The art of being wise is the art of knowing what to overlook." <br> &emsp;&emsp;&emsp; <i>-by William James</i> 
+ 3.  "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 4.  "Whoever gossips to you will gossip about you." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 4.  "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
