@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only way of finding the limits of the possible is by going beyond them into the impossible." <br> &emsp;&emsp;&emsp; <i>-by Arthur C. Clarke</i> 
+ 1.  "We are like a bunch of dogs squirting on fire hydrants. We poison the groundwater with our toxic piss, marking everything MINE in a ridiculous attempt to survive our deaths." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "It's about what YOU are going to do with the short time you have left on this earth." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
 
- 3.  "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "The mind's first step to self-awareness must be through the body." <br> &emsp;&emsp;&emsp; <i>-by George Sheehan</i> 
 
- 4.  "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine and at last you create what you will." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 4.  "Next in importance to freedom and justice is popular education, without which neither freedom nor justice can be permanently maintained." <br> &emsp;&emsp;&emsp; <i>-by James A. Garfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
