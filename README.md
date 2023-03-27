@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are like a bunch of dogs squirting on fire hydrants. We poison the groundwater with our toxic piss, marking everything MINE in a ridiculous attempt to survive our deaths." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Food is our common ground, a universal experience." <br> &emsp;&emsp;&emsp; <i>-by James Beard</i> 
 
- 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
+ 2.  "Happiness depends upon ourselves." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 3.  "The mind's first step to self-awareness must be through the body." <br> &emsp;&emsp;&emsp; <i>-by George Sheehan</i> 
+ 3.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 4.  "Next in importance to freedom and justice is popular education, without which neither freedom nor justice can be permanently maintained." <br> &emsp;&emsp;&emsp; <i>-by James A. Garfield</i> 
+ 4.  "In every power, of which taste is the foundation, excellence is pretty fairly divided between the sexes." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
