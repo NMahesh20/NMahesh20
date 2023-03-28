@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Food is our common ground, a universal experience." <br> &emsp;&emsp;&emsp; <i>-by James Beard</i> 
+ 1.  "Let no man pull you low enough to hate him." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 2.  "Happiness depends upon ourselves." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 2.  "If you are not criticized, you may not be doing much." <br> &emsp;&emsp;&emsp; <i>-by Donald H. Rumsfeld</i> 
 
- 3.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 3.  "Do not pray for easy lives. Pray to be stronger men. Do not pray for tasks equal to your powers. Pray for powers equal to your tasks. Then the doing of your work shall be no miracle, but you shall be the miracle." <br> &emsp;&emsp;&emsp; <i>-by Phillips Brooks</i> 
 
- 4.  "In every power, of which taste is the foundation, excellence is pretty fairly divided between the sexes." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 4.  "Man is only miserable so far as he thinks himself so." <br> &emsp;&emsp;&emsp; <i>-by Jacopo Sannazaro</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
