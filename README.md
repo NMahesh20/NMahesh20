@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is one person in charge of every office in America and that person is Charles Darwin." <br> &emsp;&emsp;&emsp; <i>-by Charlie Grandy</i> 
+ 1.  "Get on stage. A lot. Try stuff. Make your best stab and keep stabbing. If it's there in your heart, it will eventually find its way out. Or you will give up and have a prudent, contented life doing something else." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 2.  "The real voyage of discovery consists not in seeking new landscapes but in having new eyes." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 2.  "Sometimes a slow gradual approach does more good than a large gesture." <br> &emsp;&emsp;&emsp; <i>-by Craig Newmark</i> 
 
- 3.  "Success is following the pattern of life one enjoys most." <br> &emsp;&emsp;&emsp; <i>-by Al Capp</i> 
+ 3.  "Feet, why do I need them if I have wings to fly?" <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
 
- 4.  "Nature magically suits a man to his fortunes, by making them the fruit of his character." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
