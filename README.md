@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Get on stage. A lot. Try stuff. Make your best stab and keep stabbing. If it's there in your heart, it will eventually find its way out. Or you will give up and have a prudent, contented life doing something else." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Sometimes a slow gradual approach does more good than a large gesture." <br> &emsp;&emsp;&emsp; <i>-by Craig Newmark</i> 
+ 2.  "We are who people think we are." <br> &emsp;&emsp;&emsp; <i>-by David Foster</i> 
 
- 3.  "Feet, why do I need them if I have wings to fly?" <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 4.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
+ 4.  "Be rich to yourself and poor to your friends." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
