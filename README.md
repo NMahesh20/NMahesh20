@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Genius begins great works; labor alone finishes them." <br> &emsp;&emsp;&emsp; <i>-by Joseph Joubert</i> 
 
- 2.  "We are who people think we are." <br> &emsp;&emsp;&emsp; <i>-by David Foster</i> 
+ 2.  "I stand in awe of my body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 3.  "A full cup must be carried steadily." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 4.  "Be rich to yourself and poor to your friends." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
+ 4.  "To make pleasures pleasant, shorten them." <br> &emsp;&emsp;&emsp; <i>-by Charles Buxton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
