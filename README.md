@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Genius begins great works; labor alone finishes them." <br> &emsp;&emsp;&emsp; <i>-by Joseph Joubert</i> 
+ 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
 
- 2.  "I stand in awe of my body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 
- 3.  "A full cup must be carried steadily." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 3.  "The only place you will be accepted is the place you make for yourself." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 4.  "To make pleasures pleasant, shorten them." <br> &emsp;&emsp;&emsp; <i>-by Charles Buxton</i> 
+ 4.  "Life is an escalator: You can move forward or backward; you can not remain still." <br> &emsp;&emsp;&emsp; <i>-by Patricia Russell-McCloud</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
