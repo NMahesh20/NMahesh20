@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "It is no profit to have learned well, if you neglect to do well." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 2.  "A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
+ 2.  "We should manage our fortunes as we do our health - enjoy it when good, be patient when it is bad, and never apply violent remedies except in an extreme necessity." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
 
- 3.  "Little by little, one travels far." <br> &emsp;&emsp;&emsp; <i>-by J. R. R. Tolkien</i> 
+ 3.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Resentment is anger directed at others--at what they did or did not do." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 4.  "No matter how lonely you get or how many birth announcements you receive, the trick is not to get frightened. There's nothing wrong with being alone." <br> &emsp;&emsp;&emsp; <i>-by Wendy Wasserstein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
