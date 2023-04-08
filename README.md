@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is no profit to have learned well, if you neglect to do well." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 1.  "Even the most dangerous look less threatening when they are dead." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "We should manage our fortunes as we do our health - enjoy it when good, be patient when it is bad, and never apply violent remedies except in an extreme necessity." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 2.  "He who wrestles with us strengthens our nerves and sharpens our skill. Our antagonist is our helper." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 
- 3.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "We are most alive when we're in love." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
 
- 4.  "No matter how lonely you get or how many birth announcements you receive, the trick is not to get frightened. There's nothing wrong with being alone." <br> &emsp;&emsp;&emsp; <i>-by Wendy Wasserstein</i> 
+ 4.  "I am a Conservative to preserve all that is good in our constitution, a Radical to remove all that is bad. I seek to preserve property and to respect order, and I equally decry the appeal to the passions of the many or the prejudices of the few." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
