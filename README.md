@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "He has achieved success who has lived well, laughed often, and loved much." <br> &emsp;&emsp;&emsp; <i>-by Bessie A. Stanley</i> 
+ 1.  "Be generous, be delicate, and always pursue the prize." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
 
- 2.  "The vitality of thought is in adventure. Ideas won't keep. Something must be done about them." <br> &emsp;&emsp;&emsp; <i>-by Alfred North Whitehead</i> 
+ 2.  "Content thyself to be obscurely good. When vice prevails, and impious men bear sway, the post of honor is a private station." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 3.  "Without discipline, there's no life at all." <br> &emsp;&emsp;&emsp; <i>-by Katharine Hepburn</i> 
+ 3.  "No matter how much you disagree with your kin, if you are a thoroughbred you will not discuss their shortcomings with the neighbors." <br> &emsp;&emsp;&emsp; <i>-by Tom Thompson</i> 
 
- 4.  "Love all, trust a few. Do wrong to none." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched for they are full of the truthless ideal which have been instilled into them, and each time they come in contact with the real, they are bruised and wounded." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
