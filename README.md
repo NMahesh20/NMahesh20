@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Be generous, be delicate, and always pursue the prize." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
+ 1.  "I'd heard it all the time, 'Live in the moment.' But if I did that, I'd weigh more than a dump truck. Losing weight wasn't about the moment at all; it was about having faith in the future. It was about knowing there would be another meal in a few hours." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 2.  "Content thyself to be obscurely good. When vice prevails, and impious men bear sway, the post of honor is a private station." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 2.  "It is only necessary to make war with five things; with the maladies of the body, the ignorances of the mind, with the passions of the body, with the seditions of the city and the discords of families." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 
- 3.  "No matter how much you disagree with your kin, if you are a thoroughbred you will not discuss their shortcomings with the neighbors." <br> &emsp;&emsp;&emsp; <i>-by Tom Thompson</i> 
+ 3.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
 
- 4.  "It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched for they are full of the truthless ideal which have been instilled into them, and each time they come in contact with the real, they are bruised and wounded." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "If we cannot live so as to be happy, let us least live so as to deserve it." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Hermann Fichte</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
