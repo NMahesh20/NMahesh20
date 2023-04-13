@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'd heard it all the time, 'Live in the moment.' But if I did that, I'd weigh more than a dump truck. Losing weight wasn't about the moment at all; it was about having faith in the future. It was about knowing there would be another meal in a few hours." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "It is only necessary to make war with five things; with the maladies of the body, the ignorances of the mind, with the passions of the body, with the seditions of the city and the discords of families." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 2.  "Never continue in a job you don't enjoy. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined." <br> &emsp;&emsp;&emsp; <i>-by Johnny Carson</i> 
 
- 3.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
+ 3.  "There is only one way to defeat the enemy, and that is to write as well as one can. The best argument is an undeniably good book." <br> &emsp;&emsp;&emsp; <i>-by Saul Bellow</i> 
 
- 4.  "If we cannot live so as to be happy, let us least live so as to deserve it." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Hermann Fichte</i> 
+ 4.  "Facing it, always facing it, that's the way to get through. Face it." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
