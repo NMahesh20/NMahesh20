@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "I have seen a peaceful expression turn to anger as fast as a whip cracks, and so the look on the face might mean less than what it seems to be." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 2.  "Never continue in a job you don't enjoy. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined." <br> &emsp;&emsp;&emsp; <i>-by Johnny Carson</i> 
+ 2.  "There is a lot more to life than just struggling to make money." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 3.  "There is only one way to defeat the enemy, and that is to write as well as one can. The best argument is an undeniably good book." <br> &emsp;&emsp;&emsp; <i>-by Saul Bellow</i> 
+ 3.  "My whole career can be summed up with 'Ignorance is bliss.' When you do not know better, you do not really worry about failing." <br> &emsp;&emsp;&emsp; <i>-by Jeff Foxworthy</i> 
 
- 4.  "Facing it, always facing it, that's the way to get through. Face it." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
+ 4.  "We're not talking about historical accuracy, we're talking about art. I've set in motion a geometric inevitability. If I start chiseling there, chipping here, the whole form is compromised." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
