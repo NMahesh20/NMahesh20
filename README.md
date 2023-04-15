@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have seen a peaceful expression turn to anger as fast as a whip cracks, and so the look on the face might mean less than what it seems to be." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 1.  "Exercise is medicine. Literally. Just like a pill, it reliably changes brain function by altering the activity of key brain chemicals and hormones." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
 
- 2.  "There is a lot more to life than just struggling to make money." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 2.  "The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing." <br> &emsp;&emsp;&emsp; <i>-by Eric Berne</i> 
 
- 3.  "My whole career can be summed up with 'Ignorance is bliss.' When you do not know better, you do not really worry about failing." <br> &emsp;&emsp;&emsp; <i>-by Jeff Foxworthy</i> 
+ 3.  "Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
 
- 4.  "We're not talking about historical accuracy, we're talking about art. I've set in motion a geometric inevitability. If I start chiseling there, chipping here, the whole form is compromised." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
+ 4.  "Do not wait for extraordinary circumstances to do good; try to use ordinary situations." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
