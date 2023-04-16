@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Exercise is medicine. Literally. Just like a pill, it reliably changes brain function by altering the activity of key brain chemicals and hormones." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
+ 1.  "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing." <br> &emsp;&emsp;&emsp; <i>-by Eric Berne</i> 
+ 2.  "And so faith is closing your eyes and following the breath of your soul down to the bottom of life, where existence and nonexistence have merged into irrelevance. All that matters is the little part you play in the vast drama." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
+ 3.  "Some books are to be tasted, others to be swallowed, and some few to be chewed and digested: that is, some books are to be read only in parts, others to be read, but not curiously, and some few to be read wholly, and with diligence and attention." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "Do not wait for extraordinary circumstances to do good; try to use ordinary situations." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
+ 4.  "Do not wait for the last judgment. It takes place every day." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
