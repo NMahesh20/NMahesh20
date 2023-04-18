@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 1.  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 
- 2.  "Never again clutter your days or nights with so many menial and unimportant things that you have no time to accept a real challenge when it comes along. This applies to play as well as work. A day merely survived is no cause for celebration. You are not here to fritter away your precious hours when you have the ability to accomplish so much by making a slight change in your routine. No more busy work. No more hiding from success. Leave time, leave space, to grow. Now. Now! Not tomorrow!" <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "When the conduct of men is designed to be influenced, persuasion, kind unassuming persuasion, should ever be adopted. It is an old and true maxim that 'a drop of honey catches more flies than a gallon of gall.' So with men. If you would win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart, which, say what he will, is the great highroad to his reason, and which, once gained, you will find but little trouble in convincing him of the justice of your cause, if indeed that cause is really a good one." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 3.  "A book burrows into your life in a very profound way because the experience of reading is not passive." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 3.  "The thing always happens that you really believe in; and the belief in a thing makes it happen." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "Total absence of humor renders life impossible." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "There are some things you learn best in calm, and some in storm." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
