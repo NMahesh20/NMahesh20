@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 1.  "We may go to the moon, but that's not very far. The greatest distance we have to cover still lies within us." <br> &emsp;&emsp;&emsp; <i>-by Charles de Gaulle</i> 
 
- 2.  "When the conduct of men is designed to be influenced, persuasion, kind unassuming persuasion, should ever be adopted. It is an old and true maxim that 'a drop of honey catches more flies than a gallon of gall.' So with men. If you would win a man to your cause, first convince him that you are his sincere friend. Therein is a drop of honey that catches his heart, which, say what he will, is the great highroad to his reason, and which, once gained, you will find but little trouble in convincing him of the justice of your cause, if indeed that cause is really a good one." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 2.  "Two men look out through the same bars: One sees the mud and one the stars." <br> &emsp;&emsp;&emsp; <i>-by Frederick Langbridge</i> 
 
- 3.  "The thing always happens that you really believe in; and the belief in a thing makes it happen." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 3.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 
- 4.  "There are some things you learn best in calm, and some in storm." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 4.  "We are always in search of the redeeming formula, the crystallizing thought." <br> &emsp;&emsp;&emsp; <i>-by Etty Hillesum</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
