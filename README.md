@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We may go to the moon, but that's not very far. The greatest distance we have to cover still lies within us." <br> &emsp;&emsp;&emsp; <i>-by Charles de Gaulle</i> 
+ 1.  "Money's the same, whoever gives it to you. That was the point of money, after all: crisp and clean or wrinkled or disintegrated into quarters - a dollar was always worth a hundred cents." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "Two men look out through the same bars: One sees the mud and one the stars." <br> &emsp;&emsp;&emsp; <i>-by Frederick Langbridge</i> 
+ 2.  "There are people whom one loves immediately and forever. Even to know they are alive in the world with one is quite enough." <br> &emsp;&emsp;&emsp; <i>-by Nancy Spain</i> 
 
- 3.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 3.  "Three failures denote uncommon strength. A weakling has not enough grit to fail thrice." <br> &emsp;&emsp;&emsp; <i>-by Minna Thomas Antrim</i> 
 
- 4.  "We are always in search of the redeeming formula, the crystallizing thought." <br> &emsp;&emsp;&emsp; <i>-by Etty Hillesum</i> 
+ 4.  "It is better to die on your feet than live on your knees." <br> &emsp;&emsp;&emsp; <i>-by Emiliano Zapata</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
