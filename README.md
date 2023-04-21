@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Money's the same, whoever gives it to you. That was the point of money, after all: crisp and clean or wrinkled or disintegrated into quarters - a dollar was always worth a hundred cents." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "Public opinion is a weak tyrant compared with our own private opinion. What a man thinks of himself, that is which determines, or rather indicates, his fate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "There are people whom one loves immediately and forever. Even to know they are alive in the world with one is quite enough." <br> &emsp;&emsp;&emsp; <i>-by Nancy Spain</i> 
+ 2.  "Pain (any pain--emotional, physical, mental) has a message. The information it has about our life can be remarkably specific, but it usually falls into one of two categories: "We would be more alive if we did more of this," and, "Life would be more lovely if we did less of that." Once we get the pain's message, and follow its advice, the pain goes away." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Three failures denote uncommon strength. A weakling has not enough grit to fail thrice." <br> &emsp;&emsp;&emsp; <i>-by Minna Thomas Antrim</i> 
+ 3.  "Man is distinguished from all other creatures by the faculty of laughter." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 4.  "It is better to die on your feet than live on your knees." <br> &emsp;&emsp;&emsp; <i>-by Emiliano Zapata</i> 
+ 4.  "Music is the wine that fills the cup of silence." <br> &emsp;&emsp;&emsp; <i>-by Robert Fripp</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
