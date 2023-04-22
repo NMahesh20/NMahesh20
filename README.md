@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Public opinion is a weak tyrant compared with our own private opinion. What a man thinks of himself, that is which determines, or rather indicates, his fate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
 
- 2.  "Pain (any pain--emotional, physical, mental) has a message. The information it has about our life can be remarkably specific, but it usually falls into one of two categories: "We would be more alive if we did more of this," and, "Life would be more lovely if we did less of that." Once we get the pain's message, and follow its advice, the pain goes away." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "If I have learnt anything, it is that life forms no logical patterns. It is haphazard and full of beauties which I try to catch as they fly by, for who knows whether any of them will ever return?" <br> &emsp;&emsp;&emsp; <i>-by Margot Fonteyn</i> 
 
- 3.  "Man is distinguished from all other creatures by the faculty of laughter." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 3.  "Love cannot survive if you just give it scraps of yourself, scraps of your time, scraps of your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Mary O'Hara</i> 
 
- 4.  "Music is the wine that fills the cup of silence." <br> &emsp;&emsp;&emsp; <i>-by Robert Fripp</i> 
+ 4.  "The sole advantage of power is that you can do more good." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
