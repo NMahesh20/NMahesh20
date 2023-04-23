@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
+ 1.  "Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now!" <br> &emsp;&emsp;&emsp; <i>-by Michael Landon</i> 
 
- 2.  "If I have learnt anything, it is that life forms no logical patterns. It is haphazard and full of beauties which I try to catch as they fly by, for who knows whether any of them will ever return?" <br> &emsp;&emsp;&emsp; <i>-by Margot Fonteyn</i> 
+ 2.  "In terms of being late or not starting at all, then it's never too late." <br> &emsp;&emsp;&emsp; <i>-by Alison Headley</i> 
 
- 3.  "Love cannot survive if you just give it scraps of yourself, scraps of your time, scraps of your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Mary O'Hara</i> 
+ 3.  "Do what thy manhood bids thee do, from none but self expect applause; He noblest lives and noblest dies who makes and keeps his self-made laws." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Francis Burton</i> 
 
- 4.  "The sole advantage of power is that you can do more good." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 4.  "For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
