@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now!" <br> &emsp;&emsp;&emsp; <i>-by Michael Landon</i> 
+ 1.  "Whatever you think, be sure it is what you think; whatever you want, be sure that is what you want; whatever you feel, be sure that is what you feel." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 
- 2.  "In terms of being late or not starting at all, then it's never too late." <br> &emsp;&emsp;&emsp; <i>-by Alison Headley</i> 
+ 2.  "I live in company with a body, a silent companion, exacting and eternal." <br> &emsp;&emsp;&emsp; <i>-by Eugene Delacroix</i> 
 
- 3.  "Do what thy manhood bids thee do, from none but self expect applause; He noblest lives and noblest dies who makes and keeps his self-made laws." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Francis Burton</i> 
+ 3.  "Work is not always required. There is such a thing as sacred idleness." <br> &emsp;&emsp;&emsp; <i>-by George MacDonald</i> 
 
- 4.  "For one human being to love another; that is perhaps the most difficult of all our tasks, the ultimate, the last test and proof, the work for which all other work is but preparation." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
+ 4.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
