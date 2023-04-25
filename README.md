@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you think, be sure it is what you think; whatever you want, be sure that is what you want; whatever you feel, be sure that is what you feel." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 1.  "It's not the things we do in life that we regret on our death bed, it is the things we do not." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "I live in company with a body, a silent companion, exacting and eternal." <br> &emsp;&emsp;&emsp; <i>-by Eugene Delacroix</i> 
+ 2.  "Learn to see in another's calamity the ills which you should avoid." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 3.  "Work is not always required. There is such a thing as sacred idleness." <br> &emsp;&emsp;&emsp; <i>-by George MacDonald</i> 
+ 3.  "I think we're having fun. I think our customers really like our products. And we're always trying to do better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 4.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 4.  "There are two ways of spreading light: to be the candle or the mirror that reflects it." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
