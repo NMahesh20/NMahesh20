@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's not the things we do in life that we regret on our death bed, it is the things we do not." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Learn to see in another's calamity the ills which you should avoid." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 2.  "The family is the country of the heart." <br> &emsp;&emsp;&emsp; <i>-by Giuseppe Mazzini</i> 
 
- 3.  "I think we're having fun. I think our customers really like our products. And we're always trying to do better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "He who postpones the hour of living rightly is like the rustic who waits for the river to run out before he crosses." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 4.  "There are two ways of spreading light: to be the candle or the mirror that reflects it." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
+ 4.  "Far better it is to dare mighty things, to win glorious triumphs even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much because they live in the gray twilight that knows neither victory nor defeat." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
