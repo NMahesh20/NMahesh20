@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Sometimes the lies you tell are less frightening than the loneliness you might feel if you stopped telling them." <br> &emsp;&emsp;&emsp; <i>-by Brock Clarke</i> 
 
- 2.  "The family is the country of the heart." <br> &emsp;&emsp;&emsp; <i>-by Giuseppe Mazzini</i> 
+ 2.  "Without tenderness, a man is uninteresting." <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
 
- 3.  "He who postpones the hour of living rightly is like the rustic who waits for the river to run out before he crosses." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 3.  "You're only given a little spark of madness. You mustn't lose it." <br> &emsp;&emsp;&emsp; <i>-by Robin Williams</i> 
 
- 4.  "Far better it is to dare mighty things, to win glorious triumphs even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much because they live in the gray twilight that knows neither victory nor defeat." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 4.  "Art is merely the refuge which the ingenious have invented, when they were supplied with food and women, to escape the tediousness of life." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
