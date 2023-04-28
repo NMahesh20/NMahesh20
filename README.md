@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes the lies you tell are less frightening than the loneliness you might feel if you stopped telling them." <br> &emsp;&emsp;&emsp; <i>-by Brock Clarke</i> 
+ 1.  "When you don't know what to do, get still. Get very still until you do know what to do." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Without tenderness, a man is uninteresting." <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
+ 2.  "We cannot destroy kindred: Our chains stretch a little sometimes, but they never break." <br> &emsp;&emsp;&emsp; <i>-by Marie de Rabutin-Chantal</i> 
 
- 3.  "You're only given a little spark of madness. You mustn't lose it." <br> &emsp;&emsp;&emsp; <i>-by Robin Williams</i> 
+ 3.  "If there is one thing worse than being an ugly duckling in a house of swans, it's having the swans pretend there's no difference." <br> &emsp;&emsp;&emsp; <i>-by Teena Booth</i> 
 
- 4.  "Art is merely the refuge which the ingenious have invented, when they were supplied with food and women, to escape the tediousness of life." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
