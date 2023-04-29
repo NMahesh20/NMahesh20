@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you don't know what to do, get still. Get very still until you do know what to do." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "We all have such a finite time to leave the world better than we found it." <br> &emsp;&emsp;&emsp; <i>-by Dave Kellett</i> 
 
- 2.  "We cannot destroy kindred: Our chains stretch a little sometimes, but they never break." <br> &emsp;&emsp;&emsp; <i>-by Marie de Rabutin-Chantal</i> 
+ 2.  "Interestingly, from an identity standpoint, what does it mean to have a disability? Pamela Anderson has more prosthetic in her body than I do and nobody calls her disabled." <br> &emsp;&emsp;&emsp; <i>-by Aimee Mullins</i> 
 
- 3.  "If there is one thing worse than being an ugly duckling in a house of swans, it's having the swans pretend there's no difference." <br> &emsp;&emsp;&emsp; <i>-by Teena Booth</i> 
+ 3.  "Everybody has difficult years, but a lot of times the difficult years end up being the greatest years of your whole entire life, if you survive them." <br> &emsp;&emsp;&emsp; <i>-by Brittany Murphy</i> 
 
- 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
+ 4.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
