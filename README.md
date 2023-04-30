@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all have such a finite time to leave the world better than we found it." <br> &emsp;&emsp;&emsp; <i>-by Dave Kellett</i> 
+ 1.  "War is a beastly business, it is true, but one proof we are human is our ability to learn, even from it, how better to exist." <br> &emsp;&emsp;&emsp; <i>-by M. F. K. Fisher</i> 
 
- 2.  "Interestingly, from an identity standpoint, what does it mean to have a disability? Pamela Anderson has more prosthetic in her body than I do and nobody calls her disabled." <br> &emsp;&emsp;&emsp; <i>-by Aimee Mullins</i> 
+ 2.  "Sometimes people do things that hurt and it's not because they mean to. They just do. It doesn't necessarily have anything to do with you, but you end up hurt because of it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "Everybody has difficult years, but a lot of times the difficult years end up being the greatest years of your whole entire life, if you survive them." <br> &emsp;&emsp;&emsp; <i>-by Brittany Murphy</i> 
+ 3.  "Be thou the first true merit to befriend, his praise is lost who stays till all commend." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
 
- 4.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 4.  "People forget how fast you did a job - but they remember how well you did it." <br> &emsp;&emsp;&emsp; <i>-by Howard Newton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
