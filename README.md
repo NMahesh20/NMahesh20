@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "War is a beastly business, it is true, but one proof we are human is our ability to learn, even from it, how better to exist." <br> &emsp;&emsp;&emsp; <i>-by M. F. K. Fisher</i> 
+ 1.  "Read not to contradict and confute, nor to find talk and discourse, but to weigh and consider." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 2.  "Sometimes people do things that hurt and it's not because they mean to. They just do. It doesn't necessarily have anything to do with you, but you end up hurt because of it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "So much is a man worth as he esteems himself." <br> &emsp;&emsp;&emsp; <i>-by Francois Rabelais</i> 
 
- 3.  "Be thou the first true merit to befriend, his praise is lost who stays till all commend." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
+ 3.  "As soon as you trust yourself, you will know how to live." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "People forget how fast you did a job - but they remember how well you did it." <br> &emsp;&emsp;&emsp; <i>-by Howard Newton</i> 
+ 4.  "The strongest possible piece of advice I would give any young woman is: Don't screw around, and don't smoke." <br> &emsp;&emsp;&emsp; <i>-by Edwina Currie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
