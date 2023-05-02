@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Read not to contradict and confute, nor to find talk and discourse, but to weigh and consider." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 1.  "Oh! Do not attack me with your watch. A watch is always too fast or too slow. I cannot be dictated to by a watch." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "So much is a man worth as he esteems himself." <br> &emsp;&emsp;&emsp; <i>-by Francois Rabelais</i> 
+ 2.  "If you know how to spend less than you get, you have the philosopher's stone." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "As soon as you trust yourself, you will know how to live." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "When you have a number of disagreeable duties to perform, always do the most disagreeable first." <br> &emsp;&emsp;&emsp; <i>-by Josiah Quincy</i> 
 
- 4.  "The strongest possible piece of advice I would give any young woman is: Don't screw around, and don't smoke." <br> &emsp;&emsp;&emsp; <i>-by Edwina Currie</i> 
+ 4.  "Where you used to be, there is a hole in the world, which I find myself constantly walking around in the daytime, and falling into at night. I miss you like hell." <br> &emsp;&emsp;&emsp; <i>-by Edna St. Vincent Millay</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
