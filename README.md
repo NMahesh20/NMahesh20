@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Oh! Do not attack me with your watch. A watch is always too fast or too slow. I cannot be dictated to by a watch." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "The least I can do is speak out for those who cannot speak for themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "If you know how to spend less than you get, you have the philosopher's stone." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "The body is an instrument, the mind its function, the witness and reward of its operation." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 
- 3.  "When you have a number of disagreeable duties to perform, always do the most disagreeable first." <br> &emsp;&emsp;&emsp; <i>-by Josiah Quincy</i> 
+ 3.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Where you used to be, there is a hole in the world, which I find myself constantly walking around in the daytime, and falling into at night. I miss you like hell." <br> &emsp;&emsp;&emsp; <i>-by Edna St. Vincent Millay</i> 
+ 4.  "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
