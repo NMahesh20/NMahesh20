@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The least I can do is speak out for those who cannot speak for themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "Great people and great athletes realize early in their lives their destiny, and accept it. Even if they do not consciously realize the how, the where, the what." <br> &emsp;&emsp;&emsp; <i>-by Percy Cerutty</i> 
 
- 2.  "The body is an instrument, the mind its function, the witness and reward of its operation." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 2.  "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend them all the care, kindness and understanding you can muster. Your life will never be the same again." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "If you want to be respected, you must respect yourself." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "Every great mistake has a halfway moment, a split second when it can be recalled and perhaps remedied." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 4.  "If you cannot get rid of the family skeleton, you may as well make it dance." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
