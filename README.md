@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Great people and great athletes realize early in their lives their destiny, and accept it. Even if they do not consciously realize the how, the where, the what." <br> &emsp;&emsp;&emsp; <i>-by Percy Cerutty</i> 
+ 1.  "We would worry less about what others think of us if we realized how seldom they do." <br> &emsp;&emsp;&emsp; <i>-by Ethel Barrett</i> 
 
- 2.  "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend them all the care, kindness and understanding you can muster. Your life will never be the same again." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "The wisest men follow their own direction." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
 
- 3.  "If you want to be respected, you must respect yourself." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "We hold in our hands, the most precious gift of all: Freedom. The freedom to express our art. Our love. The freedom to be who we want to be. We are not going to give that freedom away and no one shall take it from us!" <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 4.  "If you cannot get rid of the family skeleton, you may as well make it dance." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 4.  "The true traveler is he who goes on foot, and even then, he sits down a lot of the time." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
