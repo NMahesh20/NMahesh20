@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We would worry less about what others think of us if we realized how seldom they do." <br> &emsp;&emsp;&emsp; <i>-by Ethel Barrett</i> 
+ 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "The wisest men follow their own direction." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Sugar</i> 
 
- 3.  "We hold in our hands, the most precious gift of all: Freedom. The freedom to express our art. Our love. The freedom to be who we want to be. We are not going to give that freedom away and no one shall take it from us!" <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 3.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 4.  "The true traveler is he who goes on foot, and even then, he sits down a lot of the time." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "Actions have consequences...first rule of life. And the second rule is this - you are the only one responsible for your own actions." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
