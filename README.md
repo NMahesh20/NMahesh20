@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "You can't jump down the stairs in one leap, however much you might wish to, and you even more surely can't jump up it, but one step and then the next and there you are, at the top or the bottom and not a bit out of breath or discomposed." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Sugar</i> 
+ 2.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 3.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 3.  "Her grandmother, as she gets older, is not fading but rather becoming more concentrated." <br> &emsp;&emsp;&emsp; <i>-by Paulette Bates Alden</i> 
 
- 4.  "Actions have consequences...first rule of life. And the second rule is this - you are the only one responsible for your own actions." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 4.  "Well-timed silence hath more eloquence than speech." <br> &emsp;&emsp;&emsp; <i>-by Martin Fraquhar Tupper</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
