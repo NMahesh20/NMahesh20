@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A runners creed: I will win; if I cannot win, I shall be second; if I cannot be second, I shall be third; if I cannot place at all, I shall still do my best." <br> &emsp;&emsp;&emsp; <i>-by Ken Doherty</i> 
+ 1.  "Mistakes and disappointment make the sweet things in life that much sweeter." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Not going home is already like death." <br> &emsp;&emsp;&emsp; <i>-by E. Catherine Tobler</i> 
+ 2.  "Stress is an ignorant state. It believes that everything is an emergency. Nothing is that important." <br> &emsp;&emsp;&emsp; <i>-by Natalie Goldberg</i> 
 
- 3.  "The great aim of education is not knowledge but action." <br> &emsp;&emsp;&emsp; <i>-by Herbert Spencer</i> 
+ 3.  "A mind troubled by doubt cannot focus on the course to victory." <br> &emsp;&emsp;&emsp; <i>-by Arthur Golden</i> 
 
- 4.  "I was thought to be 'stuck up.' I wasn't. I was just sure of myself. This is and always has been an unforgivable quality to the unsure." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
