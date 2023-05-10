@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Mistakes and disappointment make the sweet things in life that much sweeter." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Call home at least once a week. It's a proven fact that we call home less the older we get. And that's wrong. It should be the other way around. As we get older, our parents get older." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "Stress is an ignorant state. It believes that everything is an emergency. Nothing is that important." <br> &emsp;&emsp;&emsp; <i>-by Natalie Goldberg</i> 
+ 2.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "A mind troubled by doubt cannot focus on the course to victory." <br> &emsp;&emsp;&emsp; <i>-by Arthur Golden</i> 
+ 3.  "Every day we do things, we are things that have to do with peace. If we are aware of our life..., our way of looking at things, we will know how to make peace right in the moment, we are alive." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 4.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
+ 4.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
