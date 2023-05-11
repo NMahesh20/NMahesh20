@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Call home at least once a week. It's a proven fact that we call home less the older we get. And that's wrong. It should be the other way around. As we get older, our parents get older." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "It is how people respond to stress that determines whether they will profit from misfortune or be miserable." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "When thou seest an eagle, thou seest a portion of genius; lift up thy head!" <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "Every day we do things, we are things that have to do with peace. If we are aware of our life..., our way of looking at things, we will know how to make peace right in the moment, we are alive." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 3.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
 
- 4.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 4.  "Live in such a way that you would not be ashamed to sell your parrot to the town gossip." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
