@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is how people respond to stress that determines whether they will profit from misfortune or be miserable." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "When thou seest an eagle, thou seest a portion of genius; lift up thy head!" <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "We are told that people stay in love because of chemistry or because they remain intrigued with each other, because of many kindnesses, because of luck... But part of it has got to be forgiveness and gratefulness." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 3.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
+ 3.  "All of us failed to match our dreams of perfection. So I rate us on the basis of our splendid failure to do the impossible." <br> &emsp;&emsp;&emsp; <i>-by William Faulkner</i> 
 
- 4.  "Live in such a way that you would not be ashamed to sell your parrot to the town gossip." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 4.  "No great deed, private or public, had ever been undertaken in a bliss of certainty." <br> &emsp;&emsp;&emsp; <i>-by Leon Wieseltier</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
