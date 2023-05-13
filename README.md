@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Happiness comes more from loving than being loved; and often when our affection seems wounded it is only our vanity bleeding. To love, and to be hurt often, and to love again - this is the brave and happy life." <br> &emsp;&emsp;&emsp; <i>-by J. E. Buchrose</i> 
 
- 2.  "We are told that people stay in love because of chemistry or because they remain intrigued with each other, because of many kindnesses, because of luck... But part of it has got to be forgiveness and gratefulness." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 2.  "To the soul, there is hardly anything more healing than friendship." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 3.  "All of us failed to match our dreams of perfection. So I rate us on the basis of our splendid failure to do the impossible." <br> &emsp;&emsp;&emsp; <i>-by William Faulkner</i> 
+ 3.  "The great thing about a computer notebook is that no matter how much you stuff into it, it doesn't get bigger or heavier." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
 
- 4.  "No great deed, private or public, had ever been undertaken in a bliss of certainty." <br> &emsp;&emsp;&emsp; <i>-by Leon Wieseltier</i> 
+ 4.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
