@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What are riches - grandeur - health itself, to the luxury of a pure conscience, the health of the soul; - and what the sufferings of poverty, disappointment, despair - to the anguish of an afflicted one!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "In a networked world, trust is the most important currency." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "Like anyone else, there are days I feel beautiful and days I don't, and when I don't, I do something about it." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Tiegs</i> 
+ 2.  "Even the best of friends need time apart." <br> &emsp;&emsp;&emsp; <i>-by Mark Heath</i> 
 
- 3.  "Make voyages! - Attempt them! - there's nothing else..." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
+ 3.  "I've learned that all a person has in life is family and friends. If you lose those, you have nothing, so friends are to be treasured more than anything else in the world." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 4.  "Sometimes a scream is better than a thesis." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Adversity does teach who your real friends are." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
