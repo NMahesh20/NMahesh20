@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In a networked world, trust is the most important currency." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "The most beautiful adventures are not those we go to seek." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 2.  "Even the best of friends need time apart." <br> &emsp;&emsp;&emsp; <i>-by Mark Heath</i> 
+ 2.  "Change is the process by which the future invades our lives." <br> &emsp;&emsp;&emsp; <i>-by Alvin Toffler</i> 
 
- 3.  "I've learned that all a person has in life is family and friends. If you lose those, you have nothing, so friends are to be treasured more than anything else in the world." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 3.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
 
- 4.  "Adversity does teach who your real friends are." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "Truth is the only safe ground to stand on." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
