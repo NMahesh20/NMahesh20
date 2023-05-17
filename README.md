@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The most beautiful adventures are not those we go to seek." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 1.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
 
- 2.  "Change is the process by which the future invades our lives." <br> &emsp;&emsp;&emsp; <i>-by Alvin Toffler</i> 
+ 2.  "Cherish all your happy moments: they make a fine cushion for old age." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 
- 3.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
+ 3.  "Reason should direct and appetite obey." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 
- 4.  "Truth is the only safe ground to stand on." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 4.  "The highest reward for man's toil is not what he gets for it, but what he becomes by it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
