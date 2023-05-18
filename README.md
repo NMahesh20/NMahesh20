@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 1.  "It is one of man's curious idiosyncrasies to create difficulties for the pleasure of resolving them." <br> &emsp;&emsp;&emsp; <i>-by Joseph de Maistre</i> 
 
- 2.  "Cherish all your happy moments: they make a fine cushion for old age." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 2.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
 
- 3.  "Reason should direct and appetite obey." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 3.  "You can be confident and secure and know that you do a good job at what you do. But you don't know to be arrogant about it." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
 
- 4.  "The highest reward for man's toil is not what he gets for it, but what he becomes by it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "Approach each new problem not with a view of finding what you hope will be there, but to get the truth, the realities that must be grappled with. You may not like what you find. In that case you are entitled to try to change it. But do not deceive yourself as to what you do find to be the facts of the situation." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
