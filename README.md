@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is one of man's curious idiosyncrasies to create difficulties for the pleasure of resolving them." <br> &emsp;&emsp;&emsp; <i>-by Joseph de Maistre</i> 
+ 1.  "I will never forget who this victory truly belongs to. It belongs to you. It belongs to you. I was never the likeliest candidate for this office. We didn't start with much money or many endorsements. Our campaign was not hatched in the halls of Washington. It began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston. It was built by working men and women who dug into what little savings they had to give $5 and $10 and $20 to the cause." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
+ 2.  "Life is too complicated not to be orderly." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
 
- 3.  "You can be confident and secure and know that you do a good job at what you do. But you don't know to be arrogant about it." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 3.  "The trick is to make sure you don't die waiting for prosperity to come." <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
 
- 4.  "Approach each new problem not with a view of finding what you hope will be there, but to get the truth, the realities that must be grappled with. You may not like what you find. In that case you are entitled to try to change it. But do not deceive yourself as to what you do find to be the facts of the situation." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
+ 4.  "Men for the sake of getting a living forget to live." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
