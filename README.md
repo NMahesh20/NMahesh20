@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I will never forget who this victory truly belongs to. It belongs to you. It belongs to you. I was never the likeliest candidate for this office. We didn't start with much money or many endorsements. Our campaign was not hatched in the halls of Washington. It began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston. It was built by working men and women who dug into what little savings they had to give $5 and $10 and $20 to the cause." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
 
- 2.  "Life is too complicated not to be orderly." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
+ 2.  "Don't part with your illusions. When they are gone you may still exist, but you have ceased to live." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 3.  "The trick is to make sure you don't die waiting for prosperity to come." <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
+ 3.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 
- 4.  "Men for the sake of getting a living forget to live." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
+ 4.  "Now I see the secret of the making of the best persons. It is to grow in the open air and to eat and sleep with the earth." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
