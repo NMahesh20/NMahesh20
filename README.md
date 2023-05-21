@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
+ 1.  "A way to a man's heart is through his stomach, that shit true as gold. You put some love in your food and a fool can taste it." <br> &emsp;&emsp;&emsp; <i>-by Raelle Tucker</i> 
 
- 2.  "Don't part with your illusions. When they are gone you may still exist, but you have ceased to live." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 2.  "Anger repressed can poison a relationship as surely as the cruelest words." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
 
- 3.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 3.  "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Now I see the secret of the making of the best persons. It is to grow in the open air and to eat and sleep with the earth." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "It is bitter to lose a friend to evil, before one loses him to death." <br> &emsp;&emsp;&emsp; <i>-by Mary Renault</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
