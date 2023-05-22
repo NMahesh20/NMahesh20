@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A way to a man's heart is through his stomach, that shit true as gold. You put some love in your food and a fool can taste it." <br> &emsp;&emsp;&emsp; <i>-by Raelle Tucker</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Anger repressed can poison a relationship as surely as the cruelest words." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
+ 2.  "The best defence against misguided arrogance is a keen sense of humour." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
 
- 3.  "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "I'm very pleased with each advancing year. It stems back to when I was forty. I was a bit upset about reaching that milestone, but an older friend consoled me. 'Don't complain about growing old - many, many people do not have that privilege.'" <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
 
- 4.  "It is bitter to lose a friend to evil, before one loses him to death." <br> &emsp;&emsp;&emsp; <i>-by Mary Renault</i> 
+ 4.  "Dwell not upon thy weariness, thy strength shall be according to the measure of thy desire." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
