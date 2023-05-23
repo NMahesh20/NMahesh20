@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "When I make up my mind to do a thing it stays made up." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "The best defence against misguided arrogance is a keen sense of humour." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 2.  "How we treasure (and admire) the people who acknowledge us!" <br> &emsp;&emsp;&emsp; <i>-by Julie Morgenstern</i> 
 
- 3.  "I'm very pleased with each advancing year. It stems back to when I was forty. I was a bit upset about reaching that milestone, but an older friend consoled me. 'Don't complain about growing old - many, many people do not have that privilege.'" <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
+ 3.  "Know how to listen, and you will profit even from those who talk badly." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 
- 4.  "Dwell not upon thy weariness, thy strength shall be according to the measure of thy desire." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
+ 4.  "Hate no one; hate their vices, not themselves." <br> &emsp;&emsp;&emsp; <i>-by J. G. C. Brainard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
