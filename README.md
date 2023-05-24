@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I make up my mind to do a thing it stays made up." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "No man is justified in doing evil on the ground of expediency." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 2.  "How we treasure (and admire) the people who acknowledge us!" <br> &emsp;&emsp;&emsp; <i>-by Julie Morgenstern</i> 
+ 2.  "There is no den in the wide world to hide a rogue. Commit a crime and the earth is made of glass. Commit a crime, and it seems as if a coat of snow fell on the ground, such as reveals in the woods the track of every partridge, and fox, and squirrel." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "Know how to listen, and you will profit even from those who talk badly." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 3.  "Enjoy your own life without comparing it with that of another." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Condorcet</i> 
 
- 4.  "Hate no one; hate their vices, not themselves." <br> &emsp;&emsp;&emsp; <i>-by J. G. C. Brainard</i> 
+ 4.  "The only man who is really free is the one who can turn down an invitation to dinner without giving an excuse." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
