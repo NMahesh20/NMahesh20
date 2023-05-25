@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No man is justified in doing evil on the ground of expediency." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 1.  "It's only after we've lost everything that we're free to do anything." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "There is no den in the wide world to hide a rogue. Commit a crime and the earth is made of glass. Commit a crime, and it seems as if a coat of snow fell on the ground, such as reveals in the woods the track of every partridge, and fox, and squirrel." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "Enjoy your own life without comparing it with that of another." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Condorcet</i> 
+ 3.  "Surely there comes a time when counting the cost and paying the price aren't things to think about any more. All that matters is value - the ultimate value of what one does." <br> &emsp;&emsp;&emsp; <i>-by James Hilton</i> 
 
- 4.  "The only man who is really free is the one who can turn down an invitation to dinner without giving an excuse." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 4.  "Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
