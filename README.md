@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's only after we've lost everything that we're free to do anything." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "If you have been touched by the success fairy, people think you know why. People think success breeds enlightenment and you are duty-bound to spread around like manure. Fertilize those young minds!" <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
 
- 3.  "Surely there comes a time when counting the cost and paying the price aren't things to think about any more. All that matters is value - the ultimate value of what one does." <br> &emsp;&emsp;&emsp; <i>-by James Hilton</i> 
+ 3.  "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 4.  "Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "If indeed you must be candid, be candid beautifully." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
