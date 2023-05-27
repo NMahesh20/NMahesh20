@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you have been touched by the success fairy, people think you know why. People think success breeds enlightenment and you are duty-bound to spread around like manure. Fertilize those young minds!" <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "Clergymen have much the same in their breeches as other men." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
+ 2.  "Sometimes the measure of friendship isn't your ability to not harm but your capacity to forgive the things done to you and ask forgiveness for your own mistakes." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 3.  "Don't be a fool and die for your country. Let the other sonofabitch die for his." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
 
- 4.  "If indeed you must be candid, be candid beautifully." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "Strong lives are motivated by dynamic purposes." <br> &emsp;&emsp;&emsp; <i>-by Kenneth Hildebrand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
