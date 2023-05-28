@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Clergymen have much the same in their breeches as other men." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "If we can connect in some tiny way with a human that doesn't agree with us, then maybe we won't blow up the planet." <br> &emsp;&emsp;&emsp; <i>-by Nancy White</i> 
 
- 2.  "Sometimes the measure of friendship isn't your ability to not harm but your capacity to forgive the things done to you and ask forgiveness for your own mistakes." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "In this life we get only those things for which we hunt, for which we strive, and for which we are willing to sacrifice." <br> &emsp;&emsp;&emsp; <i>-by George Matthew Adams</i> 
 
- 3.  "Don't be a fool and die for your country. Let the other sonofabitch die for his." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
+ 3.  "The bird of paradise alights only upon the hand that does not grasp." <br> &emsp;&emsp;&emsp; <i>-by John Berry</i> 
 
- 4.  "Strong lives are motivated by dynamic purposes." <br> &emsp;&emsp;&emsp; <i>-by Kenneth Hildebrand</i> 
+ 4.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
