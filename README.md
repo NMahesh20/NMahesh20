@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I always like a good math solution to any love problem." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 1.  "I am an atheist, myself. A simple faith, but a great comfort to me, in these last days." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 2.  "Nerds don't just happen to dress informally. They do it too consistently. Consciously or not, they dress informally as a prophylactic measure against stupidity." <br> &emsp;&emsp;&emsp; <i>-by Paul Graham</i> 
+ 2.  "Only if we understand can we care. Only if we care will we help. Only if we help shall they be saved." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 3.  "Don't laugh at a youth for his affectations; he is only trying on one face after another to find his own." <br> &emsp;&emsp;&emsp; <i>-by Logan Pearsall Smith</i> 
+ 3.  "How beggarly appear arguments before a defiant deed!" <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 4.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
+ 4.  "I must create a system, or be enslaved by another man's." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
