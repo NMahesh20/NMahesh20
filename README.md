@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I am an atheist, myself. A simple faith, but a great comfort to me, in these last days." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 1.  "When I walk into my kitchen today, I am not alone. Whether we know it or not, none of us is. We bring fathers and mothers and kitchen tables, and every meal we have ever eaten. Food is never just food. It's also a way of getting at something else: who we are, who we have been, and who we want to be." <br> &emsp;&emsp;&emsp; <i>-by Molly Wizenberg</i> 
 
- 2.  "Only if we understand can we care. Only if we care will we help. Only if we help shall they be saved." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 2.  "Good order is the foundation of all things." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 
- 3.  "How beggarly appear arguments before a defiant deed!" <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 3.  "If any man wish to write in a clear style, let him be first clear in his thoughts; and if any would write in a noble style, let him first possess a noble soul." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "I must create a system, or be enslaved by another man's." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 4.  "A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog." <br> &emsp;&emsp;&emsp; <i>-by Jack London</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
