@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I walk into my kitchen today, I am not alone. Whether we know it or not, none of us is. We bring fathers and mothers and kitchen tables, and every meal we have ever eaten. Food is never just food. It's also a way of getting at something else: who we are, who we have been, and who we want to be." <br> &emsp;&emsp;&emsp; <i>-by Molly Wizenberg</i> 
+ 1.  "I've learned that you can't have everything and do everything at the same time." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Good order is the foundation of all things." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 2.  "Disconnecting from change does not recapture the past. It loses the future." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
 
- 3.  "If any man wish to write in a clear style, let him be first clear in his thoughts; and if any would write in a noble style, let him first possess a noble soul." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "You can't help someone get up a hill without getting closer to the top yourself." <br> &emsp;&emsp;&emsp; <i>-by H. Norman Schwarzkopf</i> 
 
- 4.  "A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog." <br> &emsp;&emsp;&emsp; <i>-by Jack London</i> 
+ 4.  "While grief is fresh, every attempt to divert only irritates. You must wait till it be digested, and then amusement will dissipate the remains of it." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
