@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I've learned that you can't have everything and do everything at the same time." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Your mailbox is your window to your heart! Make sure you leave that window open!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Disconnecting from change does not recapture the past. It loses the future." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
+ 2.  "The more I give myself permission to live in the moment and enjoy it without feeling guilty or judgmental about any other time, the better I feel about the quality of my work." <br> &emsp;&emsp;&emsp; <i>-by Wayne Dyer</i> 
 
- 3.  "You can't help someone get up a hill without getting closer to the top yourself." <br> &emsp;&emsp;&emsp; <i>-by H. Norman Schwarzkopf</i> 
+ 3.  "Anger at lies lasts forever. Anger at truth can't last." <br> &emsp;&emsp;&emsp; <i>-by Greg Evans</i> 
 
- 4.  "While grief is fresh, every attempt to divert only irritates. You must wait till it be digested, and then amusement will dissipate the remains of it." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 4.  "All things must change to something new, to something strange." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
