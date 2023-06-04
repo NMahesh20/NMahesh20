@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We would accomplish many more things if we did not think of them as impossible." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
+ 1.  "What we obtain too cheap, we esteem too lightly." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 
- 2.  "Truth has beauty, power and necessity." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Ashton-Warner</i> 
+ 2.  "The only real prison is fear, and the only real freedom is freedom from fear." <br> &emsp;&emsp;&emsp; <i>-by Aung San Suu Kyi</i> 
 
- 3.  "A gift in season is a double favor to the needy." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "For all that has been, thanks. For all that will be, yes." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 
- 4.  "To acquire knowledge, one must study; but to acquire wisdom, one must observe." <br> &emsp;&emsp;&emsp; <i>-by Marilyn vos Savant</i> 
+ 4.  "If you wouldst live long, live well, for folly and wickedness shorten life." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
