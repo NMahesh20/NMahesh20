@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What we obtain too cheap, we esteem too lightly." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 1.  "That's the secret of entertaining. You make your guests feel welcome and at home. If you do that honestly, the rest takes care of itself." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 2.  "The only real prison is fear, and the only real freedom is freedom from fear." <br> &emsp;&emsp;&emsp; <i>-by Aung San Suu Kyi</i> 
+ 2.  "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day; begin it well and serenely and with too high a spirit to be encumbered with your old nonsense." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "For all that has been, thanks. For all that will be, yes." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
+ 3.  "Do not throw the arrow which will return against you." <br> &emsp;&emsp;&emsp; <i>-by Kurdish Proverb</i> 
 
- 4.  "If you wouldst live long, live well, for folly and wickedness shorten life." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Men acquire a particular quality by constantly acting a particular way... you become just by performing just actions, temperate by performing temperate actions, brave by performing brave actions." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
