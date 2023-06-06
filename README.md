@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's the secret of entertaining. You make your guests feel welcome and at home. If you do that honestly, the rest takes care of itself." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 1.  "In order to truly give to others, you have to give to yourself first." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day; begin it well and serenely and with too high a spirit to be encumbered with your old nonsense." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "If you have made mistakes, even serious ones, there is always another chance for you. What we call failure is not the falling down but the staying down." <br> &emsp;&emsp;&emsp; <i>-by Mary Pickford</i> 
 
- 3.  "Do not throw the arrow which will return against you." <br> &emsp;&emsp;&emsp; <i>-by Kurdish Proverb</i> 
+ 3.  "Patience serves as a protection against wrongs as clothes do against cold. For if you put on more clothes as the cold increases, it will have no power to hurt you. So in like manner you must grow in patience when you meet with great wrongs, and they will then be powerless to vex your mind." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
 
- 4.  "Men acquire a particular quality by constantly acting a particular way... you become just by performing just actions, temperate by performing temperate actions, brave by performing brave actions." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work." <br> &emsp;&emsp;&emsp; <i>-by H. L. Hunt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
