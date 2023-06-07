@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In order to truly give to others, you have to give to yourself first." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "The size of your audience doesn't matter. What's important is that your audience is listening." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "If you have made mistakes, even serious ones, there is always another chance for you. What we call failure is not the falling down but the staying down." <br> &emsp;&emsp;&emsp; <i>-by Mary Pickford</i> 
+ 2.  "It still holds true that man is most uniquely human when he turns obstacles into opportunities." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 3.  "Patience serves as a protection against wrongs as clothes do against cold. For if you put on more clothes as the cold increases, it will have no power to hurt you. So in like manner you must grow in patience when you meet with great wrongs, and they will then be powerless to vex your mind." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
+ 3.  "Go not for every grief to the physician, nor for every quarrel to the lawyer, nor for every thirst to the pot." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 4.  "Decide what you want, decide what you are willing to exchange for it. Establish your priorities and go to work." <br> &emsp;&emsp;&emsp; <i>-by H. L. Hunt</i> 
+ 4.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
