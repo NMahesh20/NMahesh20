@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The size of your audience doesn't matter. What's important is that your audience is listening." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "Learning to live what you're born with is the process, the involvement, the making of a life." <br> &emsp;&emsp;&emsp; <i>-by Diane Wakoski</i> 
 
- 2.  "It still holds true that man is most uniquely human when he turns obstacles into opportunities." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 2.  "We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
 
- 3.  "Go not for every grief to the physician, nor for every quarrel to the lawyer, nor for every thirst to the pot." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 3.  "If you have knowledge, let others light their candles at it." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
 
- 4.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 4.  "Annual income twenty pounds, annual expenditure nineteen six, result happiness. Annual income twenty pounds, annual expenditure twenty pound ought and six, result misery." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
