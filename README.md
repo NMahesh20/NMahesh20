@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Learning to live what you're born with is the process, the involvement, the making of a life." <br> &emsp;&emsp;&emsp; <i>-by Diane Wakoski</i> 
+ 1.  "The greatest danger to our future is apathy." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
+ 2.  "Ah, music. A magic beyond all we do here!" <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "If you have knowledge, let others light their candles at it." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
+ 3.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
 
- 4.  "Annual income twenty pounds, annual expenditure nineteen six, result happiness. Annual income twenty pounds, annual expenditure twenty pound ought and six, result misery." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "There's always one who loves and one who lets himself be loved." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
