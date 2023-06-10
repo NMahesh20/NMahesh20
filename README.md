@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The greatest danger to our future is apathy." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "The lessons this life has planted in my heart pertain more to caring than crops, more to Golden Rule than gold, more to the proper choice than to the popular choice." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
 
- 2.  "Ah, music. A magic beyond all we do here!" <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "Those little nimble musicians of the air, that warble forth their curious ditties, with which nature hath furnished them to the shame of art." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
 
- 3.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
+ 3.  "A strong positive mental attitude will create more miracles than any wonder drug." <br> &emsp;&emsp;&emsp; <i>-by Patricia Neal</i> 
 
- 4.  "There's always one who loves and one who lets himself be loved." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
