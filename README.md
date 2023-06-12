@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "Passion is seldom the end of any story, for it cannot long endure if it is not soon supplemented with true affection and mutual respect." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
 
- 2.  "Associate with well-mannered persons and your manners will improve. Run around with decent folk and your own decent instincts will be strengthened." <br> &emsp;&emsp;&emsp; <i>-by Stanley Walker</i> 
+ 2.  "Only some people get what they want. Those are the people who show up to get it." <br> &emsp;&emsp;&emsp; <i>-by Dianne Houston</i> 
 
- 3.  "Our patience will achieve more than our force." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 3.  "Age is no guarantee of maturity." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "A misery is not to be measured from the nature of the evil, but from the temper of the sufferer." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 4.  "Man does not live by words alone, despite the fact that sometimes he has to eat them." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
