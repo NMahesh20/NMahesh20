@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Passion is seldom the end of any story, for it cannot long endure if it is not soon supplemented with true affection and mutual respect." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 1.  "Put up with it and you will get more of it." <br> &emsp;&emsp;&emsp; <i>-by Lynne Deal</i> 
 
- 2.  "Only some people get what they want. Those are the people who show up to get it." <br> &emsp;&emsp;&emsp; <i>-by Dianne Houston</i> 
+ 2.  "How beautiful maleness is, if it finds its right expression." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
 
- 3.  "Age is no guarantee of maturity." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "When in doubt, tell the truth." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "Man does not live by words alone, despite the fact that sometimes he has to eat them." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
+ 4.  "I know of no more encouraging fact than the unquestioned ability of a man to elevate his life by conscious endeavor." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
