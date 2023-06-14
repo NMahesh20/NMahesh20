@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Put up with it and you will get more of it." <br> &emsp;&emsp;&emsp; <i>-by Lynne Deal</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
 
- 2.  "How beautiful maleness is, if it finds its right expression." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
+ 2.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
 
- 3.  "When in doubt, tell the truth." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "Every one of us gets through the tough times because somebody is there, standing in the gap to close it for us." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "I know of no more encouraging fact than the unquestioned ability of a man to elevate his life by conscious endeavor." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "I must govern the clock, not be governed by it." <br> &emsp;&emsp;&emsp; <i>-by Golda Meir</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
