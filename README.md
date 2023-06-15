@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
+ 1.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 2.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
+ 2.  "Judge thyself with the judgment of sincerity, and thou will judge others with the judgment of charity." <br> &emsp;&emsp;&emsp; <i>-by John Mitchell Mason</i> 
 
- 3.  "Every one of us gets through the tough times because somebody is there, standing in the gap to close it for us." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "The golden moments in the stream of life rush past us and we see nothing but sand; the angels come to visit us, and we only know them when they are gone." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 
- 4.  "I must govern the clock, not be governed by it." <br> &emsp;&emsp;&emsp; <i>-by Golda Meir</i> 
+ 4.  "Journal writing is a voyage to the interior." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
