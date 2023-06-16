@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 1.  "Before we get too depressed about the state of our politics, let's remember our history. The great debates of the past, all stirred great passions. They all made somebody angry, and at least once led to a terrible war. What is amazing, is that despite all the conflict, our experiment in democracy has worked better than any form of government on earth." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Judge thyself with the judgment of sincerity, and thou will judge others with the judgment of charity." <br> &emsp;&emsp;&emsp; <i>-by John Mitchell Mason</i> 
+ 2.  "It's not the will to win that matters...everyone has that. It's the will to prepare to win that matters." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
 
- 3.  "The golden moments in the stream of life rush past us and we see nothing but sand; the angels come to visit us, and we only know them when they are gone." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 3.  "A successful marriage requires falling in love many times, always with the same person." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 
- 4.  "Journal writing is a voyage to the interior." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "Eventually, all things merge into one, and a river runs through it. The river was cut by the world's great flood and runs over rocks from the basement of time. On some of the rocks are timeless raindrops. Under the rocks are the words, and some of the words are theirs. I am haunted by waters." <br> &emsp;&emsp;&emsp; <i>-by Norman Maclean</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
