@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Before we get too depressed about the state of our politics, let's remember our history. The great debates of the past, all stirred great passions. They all made somebody angry, and at least once led to a terrible war. What is amazing, is that despite all the conflict, our experiment in democracy has worked better than any form of government on earth." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "An agreeable manner may set off handsome features, but can never alter plain ones." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "It's not the will to win that matters...everyone has that. It's the will to prepare to win that matters." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
+ 2.  "Maybe because it's entirely an artist's eye, patience and skill that makes an image and not his tools." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
 
- 3.  "A successful marriage requires falling in love many times, always with the same person." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 3.  "Man's main task is to give birth to himself." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
 
- 4.  "Eventually, all things merge into one, and a river runs through it. The river was cut by the world's great flood and runs over rocks from the basement of time. On some of the rocks are timeless raindrops. Under the rocks are the words, and some of the words are theirs. I am haunted by waters." <br> &emsp;&emsp;&emsp; <i>-by Norman Maclean</i> 
+ 4.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
