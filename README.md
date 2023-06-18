@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An agreeable manner may set off handsome features, but can never alter plain ones." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Watch your thoughts, they become words./ Watch your words, they become actions./ Watch your actions, they become habits./ Watch your habits, they become your character./ Watch your character, it becomes your destiny." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 2.  "Maybe because it's entirely an artist's eye, patience and skill that makes an image and not his tools." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
+ 2.  "I shut my eyes in order to see." <br> &emsp;&emsp;&emsp; <i>-by Paul Gauguin</i> 
 
- 3.  "Man's main task is to give birth to himself." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
+ 3.  "I will follow the right side even to the fire, but excluding the fire if I can." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 4.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
+ 4.  "If you reveal your secrets to the wind you should not blame the wind for revealing them to the trees." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
