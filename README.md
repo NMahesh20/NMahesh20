@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Watch your thoughts, they become words./ Watch your words, they become actions./ Watch your actions, they become habits./ Watch your habits, they become your character./ Watch your character, it becomes your destiny." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 1.  "To achieve great things we must live as though we were never going to die." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
 
- 2.  "I shut my eyes in order to see." <br> &emsp;&emsp;&emsp; <i>-by Paul Gauguin</i> 
+ 2.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
 
- 3.  "I will follow the right side even to the fire, but excluding the fire if I can." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 3.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
 
- 4.  "If you reveal your secrets to the wind you should not blame the wind for revealing them to the trees." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "Work and acquire, and thou hast chained the wheel of Chance." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
