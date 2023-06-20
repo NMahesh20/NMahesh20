@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To achieve great things we must live as though we were never going to die." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
+ 1.  "Worry is a misuse of imagination." <br> &emsp;&emsp;&emsp; <i>-by Dan Zadra</i> 
 
- 2.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
+ 2.  "You can get everything in life you want if you will just help enough other people get what they want." <br> &emsp;&emsp;&emsp; <i>-by Zig Ziglar</i> 
 
- 3.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
+ 3.  "A weapon is a device for making your enemy change his mind." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Work and acquire, and thou hast chained the wheel of Chance." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Ask, and it shall be given you; Seek, and ye shall find; Knock, and it shall be opened unto you." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
