@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Worry is a misuse of imagination." <br> &emsp;&emsp;&emsp; <i>-by Dan Zadra</i> 
+ 1.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "You can get everything in life you want if you will just help enough other people get what they want." <br> &emsp;&emsp;&emsp; <i>-by Zig Ziglar</i> 
+ 2.  "Conceal a flaw, and the world will imagine the worst." <br> &emsp;&emsp;&emsp; <i>-by Marcus Valerius Martialis</i> 
 
- 3.  "A weapon is a device for making your enemy change his mind." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Pick battles big enough to matter, small enough to win." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Kozol</i> 
 
- 4.  "Ask, and it shall be given you; Seek, and ye shall find; Knock, and it shall be opened unto you." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "Where is there dignity unless there is honesty?" <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
