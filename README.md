@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 2.  "Conceal a flaw, and the world will imagine the worst." <br> &emsp;&emsp;&emsp; <i>-by Marcus Valerius Martialis</i> 
+ 2.  "Creative work is play. It is free speculation using materials of one's chosen form." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
 
- 3.  "Pick battles big enough to matter, small enough to win." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Kozol</i> 
+ 3.  "If you would cure anger, do not feed it. Say to yourself: 'I used to be angry every day; then every other day; now only every third or fourth day.' When you reach thirty days offer a sacrifice of thanksgiving to the gods." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 4.  "Where is there dignity unless there is honesty?" <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 4.  "I have enjoyed greatly the second blooming that comes when you finish the life of the emotions and of personal relations; and suddenly find - at the age of fifty, say - that a whole new life has opened before you, filled with things you can think about, study, or read about...It is as if a fresh sap of ideas and thoughts was rising in you." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
