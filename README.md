@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
 
- 2.  "Creative work is play. It is free speculation using materials of one's chosen form." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
+ 2.  "Who is wise? He that learns from every One./ Who is powerful? He that governs his Passions./ Who is rich? He that is content./ Who is that? Nobody./" <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "If you would cure anger, do not feed it. Say to yourself: 'I used to be angry every day; then every other day; now only every third or fourth day.' When you reach thirty days offer a sacrifice of thanksgiving to the gods." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 3.  "How little a thing can make us happy when we feel that we have earned it." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "I have enjoyed greatly the second blooming that comes when you finish the life of the emotions and of personal relations; and suddenly find - at the age of fifty, say - that a whole new life has opened before you, filled with things you can think about, study, or read about...It is as if a fresh sap of ideas and thoughts was rising in you." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 4.  "Men show their characters in nothing more clearly than in what they think laughable." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
