@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
+ 1.  "The only reason we die, is because we accept death as an inevitability." <br> &emsp;&emsp;&emsp; <i>-by Seth MacFarlane</i> 
 
- 2.  "Who is wise? He that learns from every One./ Who is powerful? He that governs his Passions./ Who is rich? He that is content./ Who is that? Nobody./" <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "Such is the irresistible nature of truth that all it asks, and all it wants, is the liberty of appearing." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 
- 3.  "How little a thing can make us happy when we feel that we have earned it." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
 
- 4.  "Men show their characters in nothing more clearly than in what they think laughable." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
