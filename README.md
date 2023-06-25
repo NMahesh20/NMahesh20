@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only reason we die, is because we accept death as an inevitability." <br> &emsp;&emsp;&emsp; <i>-by Seth MacFarlane</i> 
+ 1.  "Dude, marriage is the 'get out of loneliness free' card in the Monopoly game of life." <br> &emsp;&emsp;&emsp; <i>-by Veronica Pare and Ferrett Steinmetz</i> 
 
- 2.  "Such is the irresistible nature of truth that all it asks, and all it wants, is the liberty of appearing." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 2.  "Getting my lifelong weight struggle under control has come from a process of treating myself as well as I treat others in every way." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
+ 3.  "If you want creative workers, give them enough time to play." <br> &emsp;&emsp;&emsp; <i>-by John Cleese</i> 
 
- 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
+ 4.  "You will do foolish things, but do them with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
