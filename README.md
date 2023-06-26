@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Dude, marriage is the 'get out of loneliness free' card in the Monopoly game of life." <br> &emsp;&emsp;&emsp; <i>-by Veronica Pare and Ferrett Steinmetz</i> 
+ 1.  "Justice does not come from the outside. It comes from inner peace." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 2.  "Getting my lifelong weight struggle under control has come from a process of treating myself as well as I treat others in every way." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "I'm a great believer in luck, and I find the harder I work the more I have of it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 3.  "If you want creative workers, give them enough time to play." <br> &emsp;&emsp;&emsp; <i>-by John Cleese</i> 
+ 3.  "America is a vast conspiracy to make you happy." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
 
- 4.  "You will do foolish things, but do them with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "We know what we are, but know not what we may be." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
