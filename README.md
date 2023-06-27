@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Justice does not come from the outside. It comes from inner peace." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 1.  "Heirlooms we don't have in our family. But stories we've got." <br> &emsp;&emsp;&emsp; <i>-by Rose Cherin</i> 
 
- 2.  "I'm a great believer in luck, and I find the harder I work the more I have of it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 2.  "Work while you have the light. You are responsible for the talent that has been entrusted to you." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
 
- 3.  "America is a vast conspiracy to make you happy." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 3.  "The greatest good you can do for another is not just share your riches, but to reveal to him his own." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 4.  "We know what we are, but know not what we may be." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "Sport is imposing order on what was chaos." <br> &emsp;&emsp;&emsp; <i>-by Anthony Starr</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
