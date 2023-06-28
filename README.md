@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Heirlooms we don't have in our family. But stories we've got." <br> &emsp;&emsp;&emsp; <i>-by Rose Cherin</i> 
+ 1.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
 
- 2.  "Work while you have the light. You are responsible for the talent that has been entrusted to you." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
+ 2.  "Givers have to set limits because takers rarely do." <br> &emsp;&emsp;&emsp; <i>-by Irma Kurtz</i> 
 
- 3.  "The greatest good you can do for another is not just share your riches, but to reveal to him his own." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 3.  "In the depth of winter, I finally learned that within me there lay an invincible summer." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 4.  "Sport is imposing order on what was chaos." <br> &emsp;&emsp;&emsp; <i>-by Anthony Starr</i> 
+ 4.  "If you would not step into the harlot's house, do not go by the harlot's door." <br> &emsp;&emsp;&emsp; <i>-by Thomas Secker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
