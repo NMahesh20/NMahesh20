@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
+ 1.  "It is as hard to see one's self as to look backwards without turning around." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "Givers have to set limits because takers rarely do." <br> &emsp;&emsp;&emsp; <i>-by Irma Kurtz</i> 
+ 2.  "The architect should strive continually to simplify; the ensemble of the rooms should then be carefully considered that comfort and utility may go hand in hand with beauty." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 3.  "In the depth of winter, I finally learned that within me there lay an invincible summer." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 3.  "You sort of start thinking anything's possible if you've got enough nerve." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "If you would not step into the harlot's house, do not go by the harlot's door." <br> &emsp;&emsp;&emsp; <i>-by Thomas Secker</i> 
+ 4.  "Let the fear of danger be a spur to prevent it; he that fears not, gives advantage to the danger." <br> &emsp;&emsp;&emsp; <i>-by Francis Quarles</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
