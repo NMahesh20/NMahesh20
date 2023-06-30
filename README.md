@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is as hard to see one's self as to look backwards without turning around." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 2.  "The architect should strive continually to simplify; the ensemble of the rooms should then be carefully considered that comfort and utility may go hand in hand with beauty." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 2.  "Our lives teach us who we are." <br> &emsp;&emsp;&emsp; <i>-by Salman Rushdie</i> 
 
- 3.  "You sort of start thinking anything's possible if you've got enough nerve." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "After I'm dead I'd rather have people ask why I have no monument than why I have one." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
 
- 4.  "Let the fear of danger be a spur to prevent it; he that fears not, gives advantage to the danger." <br> &emsp;&emsp;&emsp; <i>-by Francis Quarles</i> 
+ 4.  "It is wonderful how quickly you get used to things, even the most astonishing." <br> &emsp;&emsp;&emsp; <i>-by Edith Nesbitt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
