@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 1.  "There is no greater joy nor greater reward than to make a fundamental difference in someone's life." <br> &emsp;&emsp;&emsp; <i>-by Sister Mary Rose McGeady</i> 
 
- 2.  "Our lives teach us who we are." <br> &emsp;&emsp;&emsp; <i>-by Salman Rushdie</i> 
+ 2.  "During [these] periods of relaxation after concentrated intellectual activity, the intuitive mind seems to take over and can produce the sudden clarifying insights which give so much joy and delight." <br> &emsp;&emsp;&emsp; <i>-by Fritjof Capra</i> 
 
- 3.  "After I'm dead I'd rather have people ask why I have no monument than why I have one." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
+ 3.  "Speak what you think today in hard words and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "It is wonderful how quickly you get used to things, even the most astonishing." <br> &emsp;&emsp;&emsp; <i>-by Edith Nesbitt</i> 
+ 4.  "He that climbs the tall tree has won right to the fruit." <br> &emsp;&emsp;&emsp; <i>-by Sir Walter Scott</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
