@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no greater joy nor greater reward than to make a fundamental difference in someone's life." <br> &emsp;&emsp;&emsp; <i>-by Sister Mary Rose McGeady</i> 
+ 1.  "You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics." <br> &emsp;&emsp;&emsp; <i>-by Charles Bukowski</i> 
 
- 2.  "During [these] periods of relaxation after concentrated intellectual activity, the intuitive mind seems to take over and can produce the sudden clarifying insights which give so much joy and delight." <br> &emsp;&emsp;&emsp; <i>-by Fritjof Capra</i> 
+ 2.  "What's the use of worrying? It never was worthwhile." <br> &emsp;&emsp;&emsp; <i>-by George Asaf</i> 
 
- 3.  "Speak what you think today in hard words and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "A sailor without a destination cannot hope for a favorable wind." <br> &emsp;&emsp;&emsp; <i>-by Leon Tec</i> 
 
- 4.  "He that climbs the tall tree has won right to the fruit." <br> &emsp;&emsp;&emsp; <i>-by Sir Walter Scott</i> 
+ 4.  "The man who has nothing to boast of but his illustrious ancestry is like the potato - the best part under ground." <br> &emsp;&emsp;&emsp; <i>-by Thomas Overbury</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
