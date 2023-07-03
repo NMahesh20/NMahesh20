@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics." <br> &emsp;&emsp;&emsp; <i>-by Charles Bukowski</i> 
+ 1.  "Parents are never as bad as kids think they are." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
 
- 2.  "What's the use of worrying? It never was worthwhile." <br> &emsp;&emsp;&emsp; <i>-by George Asaf</i> 
+ 2.  "We cannot deny the facts of nature, but we should certainly try to improve on them." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "A sailor without a destination cannot hope for a favorable wind." <br> &emsp;&emsp;&emsp; <i>-by Leon Tec</i> 
+ 3.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
 
- 4.  "The man who has nothing to boast of but his illustrious ancestry is like the potato - the best part under ground." <br> &emsp;&emsp;&emsp; <i>-by Thomas Overbury</i> 
+ 4.  "Do it now. It is not safe to leave a generous feeling to the cooling influences of the world." <br> &emsp;&emsp;&emsp; <i>-by Thomas Guthrie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
