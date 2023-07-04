@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Parents are never as bad as kids think they are." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
+ 1.  "Be kind - Remember every one you meet is fighting a battle - everybody's lonesome." <br> &emsp;&emsp;&emsp; <i>-by Marion Parker</i> 
 
- 2.  "We cannot deny the facts of nature, but we should certainly try to improve on them." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "The moment we begin to fear the opinions of others and hesitate to tell the truth that is in us, and from motives of policy are silent when we should speak, the divine floods of light and life no longer flow into our souls." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 
- 3.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
+ 3.  "The love of learning, the sequestered nooks,/ And all the sweet serenity of books." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 
- 4.  "Do it now. It is not safe to leave a generous feeling to the cooling influences of the world." <br> &emsp;&emsp;&emsp; <i>-by Thomas Guthrie</i> 
+ 4.  "Every moment is a golden one for him who has the vision to recognize it as such." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
