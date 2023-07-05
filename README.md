@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Be kind - Remember every one you meet is fighting a battle - everybody's lonesome." <br> &emsp;&emsp;&emsp; <i>-by Marion Parker</i> 
+ 1.  "People choose the paths that grant them the greatest rewards for the least amount of effort." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "The moment we begin to fear the opinions of others and hesitate to tell the truth that is in us, and from motives of policy are silent when we should speak, the divine floods of light and life no longer flow into our souls." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 2.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "The love of learning, the sequestered nooks,/ And all the sweet serenity of books." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 3.  "Nothing is too small to know, and nothing is too big to attempt." <br> &emsp;&emsp;&emsp; <i>-by William Van Horne</i> 
 
- 4.  "Every moment is a golden one for him who has the vision to recognize it as such." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 4.  "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life." <br> &emsp;&emsp;&emsp; <i>-by Dr. David M. Burns</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
