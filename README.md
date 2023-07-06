@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People choose the paths that grant them the greatest rewards for the least amount of effort." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "There's no praise to beat the sort you can put in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Moliere</i> 
 
- 2.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "Fear does not have any special power unless you empower it by submitting to it." <br> &emsp;&emsp;&emsp; <i>-by Les Brown</i> 
 
- 3.  "Nothing is too small to know, and nothing is too big to attempt." <br> &emsp;&emsp;&emsp; <i>-by William Van Horne</i> 
+ 3.  "Don't gamble; take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 
- 4.  "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life." <br> &emsp;&emsp;&emsp; <i>-by Dr. David M. Burns</i> 
+ 4.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
