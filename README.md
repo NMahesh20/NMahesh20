@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's no praise to beat the sort you can put in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Moliere</i> 
+ 1.  "Love doesn't just sit there, like a stone; it has to be made, like bread, remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Ursula K. LeGuin</i> 
 
- 2.  "Fear does not have any special power unless you empower it by submitting to it." <br> &emsp;&emsp;&emsp; <i>-by Les Brown</i> 
+ 2.  "Hope doesn't come from calculating whether the good news is winning out over the bad. It's simply a choice to take action." <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
 
- 3.  "Don't gamble; take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 3.  "It is in the knowledge of the genuine conditions of our lives that we must draw our strength to live and our reasons for living." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
 
- 4.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
+ 4.  "True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked." <br> &emsp;&emsp;&emsp; <i>-by Erich Segal</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
