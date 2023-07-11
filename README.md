@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The universe will reward you for taking risks on its behalf." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
+ 1.  "The fact is, sometimes it's hard to walk in a single woman's shoes. That's why we need really special ones now and then to make the walk a little more fun." <br> &emsp;&emsp;&emsp; <i>-by Jenny Bicks</i> 
 
- 2.  "Be fit for more than the thing you are now doing. Let everyone know that you have a reserve in yourself; that you have more power than you are now using. If you are not too large for the place you occupy, you are too small for it." <br> &emsp;&emsp;&emsp; <i>-by James A. Garfield</i> 
+ 2.  "It's just a ride and we can change it any time we want. It's only a choice. No effort, no work, no job, no savings and money, a choice, right now, between fear and love. The eyes of fear want you to put bigger locks on your door, buy guns, close yourself off. The eyes of love instead see all of us as one." <br> &emsp;&emsp;&emsp; <i>-by Bill Hicks</i> 
 
- 3.  "In giving advice, seek to help, not please, your friend." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
+ 3.  "The idea of perfect closes your mind to new standards. When you drive hard toward one ideal, you miss opportunities and paths, not to mention hurting your confidence. Believe in your potential and then go out and explore it; don't limit it." <br> &emsp;&emsp;&emsp; <i>-by John Eliot, Ph.D.</i> 
 
- 4.  "There is no remedy for love but to love more." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "I would visualize things coming to me. It would just make me feel better. Visualization works if you work hard. That's the thing. You can't just visualize and go eat a sandwich." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
