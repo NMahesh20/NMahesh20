@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Life isn't long enough for love and art." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Self-importance is our greatest enemy. Think about it - what weakens us is feeling offended by the deeds and misdeeds of our fellowmen. Our self-importance requires that we spend most of our lives offended by someone." <br> &emsp;&emsp;&emsp; <i>-by Carlos Castaneda</i> 
+ 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 3.  "If you have something to say, then say it. If not, enjoy the silence while it lasts. The noise will return soon enough. In the meantime, you%uFFFDre better off going out into the big, wide world, having some adventures and refilling your well. Trying to create when you don%uFFFDt feel like it is like making conversation for the sake of making conversation." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 3.  "The way you overcome shyness is to become so wrapped up in something that you forget to be afraid." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
 
- 4.  "Fear not those who argue but those who dodge." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
+ 4.  "We are what we repeatedly do. Excellence then, is not an act, but a habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
