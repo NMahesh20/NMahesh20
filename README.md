@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life isn't long enough for love and art." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Ever tried? Ever failed? No Matter, try again, fail again, Fail better." <br> &emsp;&emsp;&emsp; <i>-by Samuel Beckett</i> 
 
- 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 2.  "How could you be a Great Man if history brought you no Great Events, or brought you to them at the wrong time, too young, too old?" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "The way you overcome shyness is to become so wrapped up in something that you forget to be afraid." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
+ 3.  "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy" <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 
- 4.  "We are what we repeatedly do. Excellence then, is not an act, but a habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
