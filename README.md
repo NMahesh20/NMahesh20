@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Ever tried? Ever failed? No Matter, try again, fail again, Fail better." <br> &emsp;&emsp;&emsp; <i>-by Samuel Beckett</i> 
+ 1.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 2.  "How could you be a Great Man if history brought you no Great Events, or brought you to them at the wrong time, too young, too old?" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "The real hero is always a hero by mistake; he dreams of being an honest coward like everybody else." <br> &emsp;&emsp;&emsp; <i>-by Umberto Eco</i> 
 
- 3.  "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy" <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
+ 3.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
 
- 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Be master of your petty annoyances and conserve your energies for the big, worthwhile things. It isn't the mountain ahead that wears you out - it's the grain of sand in your shoe." <br> &emsp;&emsp;&emsp; <i>-by Robert Service</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
