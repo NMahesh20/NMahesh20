@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "The real hero is always a hero by mistake; he dreams of being an honest coward like everybody else." <br> &emsp;&emsp;&emsp; <i>-by Umberto Eco</i> 
+ 2.  "Real love is a permanently self-enlarging experience." <br> &emsp;&emsp;&emsp; <i>-by M. Scott Peck</i> 
 
- 3.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
+ 3.  "Doubt whom you will, but never yourself." <br> &emsp;&emsp;&emsp; <i>-by Christine Bovee</i> 
 
- 4.  "Be master of your petty annoyances and conserve your energies for the big, worthwhile things. It isn't the mountain ahead that wears you out - it's the grain of sand in your shoe." <br> &emsp;&emsp;&emsp; <i>-by Robert Service</i> 
+ 4.  "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
