@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jack Layton</i> 
 
- 2.  "Real love is a permanently self-enlarging experience." <br> &emsp;&emsp;&emsp; <i>-by M. Scott Peck</i> 
+ 2.  "Life is full of obstacle illusions." <br> &emsp;&emsp;&emsp; <i>-by Grant Frazier</i> 
 
- 3.  "Doubt whom you will, but never yourself." <br> &emsp;&emsp;&emsp; <i>-by Christine Bovee</i> 
+ 3.  "Leave well - even 'pretty well' - alone: that is what I learn as I get old." <br> &emsp;&emsp;&emsp; <i>-by Edward Fitzgerald</i> 
 
- 4.  "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 4.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
