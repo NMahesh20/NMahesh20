@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jack Layton</i> 
+ 1.  "A person who forgoes the use of his symbolic skills is never really free." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "Life is full of obstacle illusions." <br> &emsp;&emsp;&emsp; <i>-by Grant Frazier</i> 
+ 2.  "The sweet and the sour: this is what makes great art." <br> &emsp;&emsp;&emsp; <i>-by Ward Jenkins</i> 
 
- 3.  "Leave well - even 'pretty well' - alone: that is what I learn as I get old." <br> &emsp;&emsp;&emsp; <i>-by Edward Fitzgerald</i> 
+ 3.  "Most people rust out due to lack of challenge. Few people rust out due to overuse." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 4.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "Perhaps I am a bear, or some hibernating animal underneath, for the instinct to be half asleep all winter is so strong in me." <br> &emsp;&emsp;&emsp; <i>-by Anne Morrow Lindbergh</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
