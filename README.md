@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A person who forgoes the use of his symbolic skills is never really free." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 2.  "The sweet and the sour: this is what makes great art." <br> &emsp;&emsp;&emsp; <i>-by Ward Jenkins</i> 
+ 2.  "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 3.  "Most people rust out due to lack of challenge. Few people rust out due to overuse." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 3.  "Act as if it were impossible to fail." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Brande</i> 
 
- 4.  "Perhaps I am a bear, or some hibernating animal underneath, for the instinct to be half asleep all winter is so strong in me." <br> &emsp;&emsp;&emsp; <i>-by Anne Morrow Lindbergh</i> 
+ 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
