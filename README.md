@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 1.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 2.  "Be life long or short, its completeness depends on what it was lived for." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
 
- 3.  "Act as if it were impossible to fail." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Brande</i> 
+ 3.  "Thou shouldst eat to live; not live to eat." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
+ 4.  "Man seeketh in society comfort, use and protection." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
