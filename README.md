@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "The art of leadership is saying no, not yes. It is very easy to say yes." <br> &emsp;&emsp;&emsp; <i>-by Tony Blair</i> 
 
- 2.  "Be life long or short, its completeness depends on what it was lived for." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
+ 2.  "Never spend your money before you have it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 3.  "Thou shouldst eat to live; not live to eat." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 3.  "Remember not only to say the right thing in the right place, but far more difficult still, to leave unsaid the wrong thing at the tempting moment." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "Man seeketh in society comfort, use and protection." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
