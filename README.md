@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The art of leadership is saying no, not yes. It is very easy to say yes." <br> &emsp;&emsp;&emsp; <i>-by Tony Blair</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Never spend your money before you have it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 2.  "The ordinary acts we practice every day at home are of more importance to the soul than their simplicity might suggest." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 3.  "Remember not only to say the right thing in the right place, but far more difficult still, to leave unsaid the wrong thing at the tempting moment." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "Everybody likes to go their own way--to choose their own time and manner of devotion." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
+ 4.  "You may be disappointed if you fail, but you are doomed if you don't try." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
