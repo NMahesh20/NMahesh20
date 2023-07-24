@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We could have bought a small yacht with what we spent on our dog an dall the things he destroyed. Then again, how many yachts wait by the door all day for your return?" <br> &emsp;&emsp;&emsp; <i>-by John Grogan</i> 
+ 1.  "We spend most of our time and energy in a kind of horizontal thinking. We move along the surface of things [but] there are times when we stop. We sit still. We lose ourselves in a pile of leaves or its memory. We listen and breezes from a whole other world begin to whisper." <br> &emsp;&emsp;&emsp; <i>-by James Carroll</i> 
 
- 2.  "The important thing is this: To be able at any moment to sacrifice what we are for what we could become." <br> &emsp;&emsp;&emsp; <i>-by Charles DuBois</i> 
+ 2.  "Never bear more than one trouble at a time. Some people bear three kinds - all they have had, all they have now, and all they expect to have." <br> &emsp;&emsp;&emsp; <i>-by Edward Everett Hale</i> 
 
- 3.  "Not by wrath does one kill, but by laughter." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 3.  "There is only one success - to be able to spend your life in your own way." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 
- 4.  "Happiness is not a station you arrive at, but a manner of traveling." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
+ 4.  "You can have anything you want if you want it desperately enough. You must want it with an inner exuberance that erupts through the skin and joins the energy that created the world." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
