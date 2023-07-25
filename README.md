@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We spend most of our time and energy in a kind of horizontal thinking. We move along the surface of things [but] there are times when we stop. We sit still. We lose ourselves in a pile of leaves or its memory. We listen and breezes from a whole other world begin to whisper." <br> &emsp;&emsp;&emsp; <i>-by James Carroll</i> 
+ 1.  "A God that can be understood is no God. Who can explain the Infinite in words?" <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Never bear more than one trouble at a time. Some people bear three kinds - all they have had, all they have now, and all they expect to have." <br> &emsp;&emsp;&emsp; <i>-by Edward Everett Hale</i> 
+ 2.  "What is right for one couple is wrong for another. I would say that there are many more important factors to a happy marriage." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "There is only one success - to be able to spend your life in your own way." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 3.  "We don't always get to choose what we love." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 4.  "You can have anything you want if you want it desperately enough. You must want it with an inner exuberance that erupts through the skin and joins the energy that created the world." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
+ 4.  "Freedom is a possession of inestimable value." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
