@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A God that can be understood is no God. Who can explain the Infinite in words?" <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "There is no old age. There is, as there always was, just you." <br> &emsp;&emsp;&emsp; <i>-by Carol Matthau</i> 
 
- 2.  "What is right for one couple is wrong for another. I would say that there are many more important factors to a happy marriage." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
 
- 3.  "We don't always get to choose what we love." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 3.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 
- 4.  "Freedom is a possession of inestimable value." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 4.  "I consider being ill as one of the great pleasures of life, provided one is not too ill." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
