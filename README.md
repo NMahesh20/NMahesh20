@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no old age. There is, as there always was, just you." <br> &emsp;&emsp;&emsp; <i>-by Carol Matthau</i> 
+ 1.  "Cease to ask what the morrow will bring forth. And set down as gain each day that Fortune grants." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
+ 2.  "The highest proof of virtue is to possess boundless power without abusing it." <br> &emsp;&emsp;&emsp; <i>-by Lord Macaulay</i> 
 
- 3.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 3.  "There are more tears shed over answered prayers than over unanswered prayers." <br> &emsp;&emsp;&emsp; <i>-by Saint Theresa of Jesus</i> 
 
- 4.  "I consider being ill as one of the great pleasures of life, provided one is not too ill." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
+ 4.  "A good marriage is one which allows for change and growth in the individuals and in the way they express their love." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
