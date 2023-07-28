@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Cease to ask what the morrow will bring forth. And set down as gain each day that Fortune grants." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 1.  "Virtue and taste are nearly the same, for virtue is little more than active taste, and the most delicate affections of each combine in real love." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "The highest proof of virtue is to possess boundless power without abusing it." <br> &emsp;&emsp;&emsp; <i>-by Lord Macaulay</i> 
+ 2.  "Examine what is said, not him who speaks." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
 
- 3.  "There are more tears shed over answered prayers than over unanswered prayers." <br> &emsp;&emsp;&emsp; <i>-by Saint Theresa of Jesus</i> 
+ 3.  "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 4.  "A good marriage is one which allows for change and growth in the individuals and in the way they express their love." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 4.  "To get thine ends, lay bashfulness aside; Who fears to ask, doth teach to be deny'd." <br> &emsp;&emsp;&emsp; <i>-by Robert Herrick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
