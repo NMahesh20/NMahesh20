@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Virtue and taste are nearly the same, for virtue is little more than active taste, and the most delicate affections of each combine in real love." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "The worst thing of all is standing by when folks are doing something wrong." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
 
- 2.  "Examine what is said, not him who speaks." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
+ 2.  "The only difference between a rut and a grave... is in their dimensions." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasglow</i> 
 
- 3.  "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 3.  "What you are is a question only you can answer." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "To get thine ends, lay bashfulness aside; Who fears to ask, doth teach to be deny'd." <br> &emsp;&emsp;&emsp; <i>-by Robert Herrick</i> 
+ 4.  "There's nothing that keeps its youth,/ So far as I know, but a tree and truth." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
