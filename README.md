@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The worst thing of all is standing by when folks are doing something wrong." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 1.  "Self-control is not a problem in the future. It's only a problem NOW when the chocolates is next to us." <br> &emsp;&emsp;&emsp; <i>-by Shlomo Bernartzi</i> 
 
- 2.  "The only difference between a rut and a grave... is in their dimensions." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasglow</i> 
+ 2.  "The moral virtues, then, are produced in us neither by nature nor against nature. Nature, indeed, prepares in us the ground for their reception, but their complete formation is the product of habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 3.  "What you are is a question only you can answer." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Repression is not the way to virtue. When people restrain themselves out of fear, their lives are by necessity diminished. Only through freely chosen discipline can life be enjoyed and still kept within the bounds of reason." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 4.  "There's nothing that keeps its youth,/ So far as I know, but a tree and truth." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 4.  "The real distinction is between those who adapt their purposes to reality and those who seek to mold reality in the light of their purposes." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
