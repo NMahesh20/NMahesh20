@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Journalism is just a gun. It's only got one bullet in it, but if you aim right, that's all you need. Aim it right and you can blow a kneecap off the world." <br> &emsp;&emsp;&emsp; <i>-by Warren Ellis</i> 
+ 1.  "We all have a few failures under our belt. It's what makes us ready for the successes." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "If I was more complacent and I let things slide, my life would be easier, but you all wouldn't be as entertained. My misery is your pleasure." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 2.  "For today and its blessings, I owe the world an attitude of gratitude." <br> &emsp;&emsp;&emsp; <i>-by Clarence E. Hodges</i> 
 
- 3.  "It is the loving, not the loved, woman who feels loveable." <br> &emsp;&emsp;&emsp; <i>-by Jessamyn West</i> 
+ 3.  "What a child doesn't receive he can seldom later give." <br> &emsp;&emsp;&emsp; <i>-by P. D. James</i> 
 
- 4.  "I love my past. I love my present. I'm not ashamed of what I've had, and I'm not sad because I have it no longer." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
