@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all have a few failures under our belt. It's what makes us ready for the successes." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "All these years I've been feeling like I was growing into myself. Finally, I feel grown." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "For today and its blessings, I owe the world an attitude of gratitude." <br> &emsp;&emsp;&emsp; <i>-by Clarence E. Hodges</i> 
+ 2.  "Sometimes when you look back on a situation, you realize it wasn't all you thought it was. A beautiful girl walked into your life. You fell in love. Or did you? Maybe it was only a childish infatuation, or maybe just a brief moment of vanity." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 3.  "What a child doesn't receive he can seldom later give." <br> &emsp;&emsp;&emsp; <i>-by P. D. James</i> 
+ 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
+ 4.  "If you refuse to be made straight when you are green, you will not be made straight when you are dry." <br> &emsp;&emsp;&emsp; <i>-by African Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
