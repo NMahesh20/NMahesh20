@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All these years I've been feeling like I was growing into myself. Finally, I feel grown." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "I was brought up to believe that the only thing worth doing was to add to the sum of accurate information in the world." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
 
- 2.  "Sometimes when you look back on a situation, you realize it wasn't all you thought it was. A beautiful girl walked into your life. You fell in love. Or did you? Maybe it was only a childish infatuation, or maybe just a brief moment of vanity." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 2.  "A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
 
- 4.  "If you refuse to be made straight when you are green, you will not be made straight when you are dry." <br> &emsp;&emsp;&emsp; <i>-by African Proverb</i> 
+ 4.  "Avoid having your ego so close to your position that when your position falls, your ego goes with it." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
