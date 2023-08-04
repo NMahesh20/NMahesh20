@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I was brought up to believe that the only thing worth doing was to add to the sum of accurate information in the world." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
+ 1.  "How simple a thing it seems to me that to know ourselves as we are, we must know our mothers' names." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 2.  "A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "What does it matter how one comes by the truth so long as one pounces upon it and lives by it?" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
+ 3.  "Deeds, not stones, are the true monuments of the great." <br> &emsp;&emsp;&emsp; <i>-by John L. Motley</i> 
 
- 4.  "Avoid having your ego so close to your position that when your position falls, your ego goes with it." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 4.  "Enjoyment is not a goal, it is a feeling that accompanies important ongoing activity." <br> &emsp;&emsp;&emsp; <i>-by Paul Goodman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
