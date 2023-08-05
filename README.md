@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How simple a thing it seems to me that to know ourselves as we are, we must know our mothers' names." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 1.  "Don't give advice. It will come back and bite you in the [butt]. Don't take anyone's advice. So, my advice to you is to be true to yourself and everything will be fine." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "What does it matter how one comes by the truth so long as one pounces upon it and lives by it?" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 2.  "[M]aybe the most any of us can expect of ourselves isn't perfection but progress." <br> &emsp;&emsp;&emsp; <i>-by Michelle Burford</i> 
 
- 3.  "Deeds, not stones, are the true monuments of the great." <br> &emsp;&emsp;&emsp; <i>-by John L. Motley</i> 
+ 3.  "Abuse a man unjustly, and you will make friends for him." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
 
- 4.  "Enjoyment is not a goal, it is a feeling that accompanies important ongoing activity." <br> &emsp;&emsp;&emsp; <i>-by Paul Goodman</i> 
+ 4.  "In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
