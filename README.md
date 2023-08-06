@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't give advice. It will come back and bite you in the [butt]. Don't take anyone's advice. So, my advice to you is to be true to yourself and everything will be fine." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "A little drama wins more friends than boring." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "[M]aybe the most any of us can expect of ourselves isn't perfection but progress." <br> &emsp;&emsp;&emsp; <i>-by Michelle Burford</i> 
+ 2.  "The bravest thing you can do when you are not brave is to profess courage and act accordingly." <br> &emsp;&emsp;&emsp; <i>-by Corra Harris</i> 
 
- 3.  "Abuse a man unjustly, and you will make friends for him." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
+ 3.  "The heights by great men reached and kept were not attained by sudden flight, but they while their companions slept, were toiling upward in the night." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 
- 4.  "In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "When I read a book I seem to read it with my eyes only, but now and then I come across a passage, perhaps only a phrase, which has a meaning for me, and it becomes part of me." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
