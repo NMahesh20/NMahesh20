@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A little drama wins more friends than boring." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 
- 2.  "The bravest thing you can do when you are not brave is to profess courage and act accordingly." <br> &emsp;&emsp;&emsp; <i>-by Corra Harris</i> 
+ 2.  "Ask advice only of your equals." <br> &emsp;&emsp;&emsp; <i>-by Danish Proverb</i> 
 
- 3.  "The heights by great men reached and kept were not attained by sudden flight, but they while their companions slept, were toiling upward in the night." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 3.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
 
- 4.  "When I read a book I seem to read it with my eyes only, but now and then I come across a passage, perhaps only a phrase, which has a meaning for me, and it becomes part of me." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Cheese - milk's leap toward immortality." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
