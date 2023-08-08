@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 1.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 2.  "Ask advice only of your equals." <br> &emsp;&emsp;&emsp; <i>-by Danish Proverb</i> 
+ 2.  "It's a sign of mediocrity when you demonstrate gratitude with moderation." <br> &emsp;&emsp;&emsp; <i>-by Roberto Benigni</i> 
 
- 3.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
+ 3.  "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "Cheese - milk's leap toward immortality." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 4.  "Change has a considerable psychological impact on the human mind. To the fearful it is threatening because it means that things may get worse. To the hopeful it is encouraging because things may get better. To the confident it is inspiring because the challenge exists to make things better." <br> &emsp;&emsp;&emsp; <i>-by King Whitney Jr.</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
