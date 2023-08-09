@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 1.  "Yes is how you get your first job, and your next job, and your spouse, and even your kids. Even if it's a bit edgy, a bit out of your comfort zone, saying yes means that you will do something new, meet someone new and make a difference." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "It's a sign of mediocrity when you demonstrate gratitude with moderation." <br> &emsp;&emsp;&emsp; <i>-by Roberto Benigni</i> 
+ 2.  "Painting in watercolor is like walking a tight-rope; one must achieve a perfect balance between what the paint wants to do and what the artist wants to do, or all is lost." <br> &emsp;&emsp;&emsp; <i>-by Mary C. Taylor</i> 
 
- 3.  "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "Power never takes a back step - only in the face of more power." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 4.  "Change has a considerable psychological impact on the human mind. To the fearful it is threatening because it means that things may get worse. To the hopeful it is encouraging because things may get better. To the confident it is inspiring because the challenge exists to make things better." <br> &emsp;&emsp;&emsp; <i>-by King Whitney Jr.</i> 
+ 4.  "Sleep after toil, port after stormy seas, ease after war, death after life does greatly please." <br> &emsp;&emsp;&emsp; <i>-by Edmund Spenser</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
