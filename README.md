@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Yes is how you get your first job, and your next job, and your spouse, and even your kids. Even if it's a bit edgy, a bit out of your comfort zone, saying yes means that you will do something new, meet someone new and make a difference." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Painting in watercolor is like walking a tight-rope; one must achieve a perfect balance between what the paint wants to do and what the artist wants to do, or all is lost." <br> &emsp;&emsp;&emsp; <i>-by Mary C. Taylor</i> 
+ 2.  "All love that has not friendship for its base, is like a mansion built upon sand." <br> &emsp;&emsp;&emsp; <i>-by Ella Wheeler Wilcox</i> 
 
- 3.  "Power never takes a back step - only in the face of more power." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 3.  "The older I get, the more I feel / almost beautiful..." <br> &emsp;&emsp;&emsp; <i>-by Sharon Olds</i> 
 
- 4.  "Sleep after toil, port after stormy seas, ease after war, death after life does greatly please." <br> &emsp;&emsp;&emsp; <i>-by Edmund Spenser</i> 
+ 4.  "Because I have loved life, I shall have no sorrow to die." <br> &emsp;&emsp;&emsp; <i>-by Amelia Burr</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
