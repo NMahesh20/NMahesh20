@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "This is why I loved technology: if you used it right, it could give you power and privacy." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
 
- 2.  "All love that has not friendship for its base, is like a mansion built upon sand." <br> &emsp;&emsp;&emsp; <i>-by Ella Wheeler Wilcox</i> 
+ 2.  "The trick is not how much pain you feel - but how much joy you feel. Any idiot can feel pain. Life is full of excuses to feel pain, excuses not to live, excuses, excuses, excuses." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 3.  "The older I get, the more I feel / almost beautiful..." <br> &emsp;&emsp;&emsp; <i>-by Sharon Olds</i> 
+ 3.  "We learn by example and by direct experience because there are real limits to the adequacy of verbal instruction." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 4.  "Because I have loved life, I shall have no sorrow to die." <br> &emsp;&emsp;&emsp; <i>-by Amelia Burr</i> 
+ 4.  "Learning is not compulsory... neither is survival." <br> &emsp;&emsp;&emsp; <i>-by W. Edwards Deming</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
