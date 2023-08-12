@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "This is why I loved technology: if you used it right, it could give you power and privacy." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
+ 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "The trick is not how much pain you feel - but how much joy you feel. Any idiot can feel pain. Life is full of excuses to feel pain, excuses not to live, excuses, excuses, excuses." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 2.  "What we truly and earnestly aspire to be, that in some sense, we are. The mere aspiration, by changing the frame of the mind, for the moment realizes itself." <br> &emsp;&emsp;&emsp; <i>-by Anna Jameson</i> 
 
- 3.  "We learn by example and by direct experience because there are real limits to the adequacy of verbal instruction." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 3.  "Fear is the tax that conscience pays to guilt." <br> &emsp;&emsp;&emsp; <i>-by George Sewell</i> 
 
- 4.  "Learning is not compulsory... neither is survival." <br> &emsp;&emsp;&emsp; <i>-by W. Edwards Deming</i> 
+ 4.  "I really do believe I can accomplish a great deal with a big grin, I know some people find that disconcerting, but that doesn't matter." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
