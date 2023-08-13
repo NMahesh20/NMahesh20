@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "Too many people think only of their own profit. But business opportunity seldom knocks on the door of self-centered people. No customer ever goes to a store merely to please the storekeeper." <br> &emsp;&emsp;&emsp; <i>-by Kazuo Inamori</i> 
 
- 2.  "What we truly and earnestly aspire to be, that in some sense, we are. The mere aspiration, by changing the frame of the mind, for the moment realizes itself." <br> &emsp;&emsp;&emsp; <i>-by Anna Jameson</i> 
+ 2.  "Do not employ handsome servants." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 3.  "Fear is the tax that conscience pays to guilt." <br> &emsp;&emsp;&emsp; <i>-by George Sewell</i> 
+ 3.  "Be a fountain, not a drain." <br> &emsp;&emsp;&emsp; <i>-by Rex Hudler</i> 
 
- 4.  "I really do believe I can accomplish a great deal with a big grin, I know some people find that disconcerting, but that doesn't matter." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
+ 4.  "The strongest principle of growth lies in human choice." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
