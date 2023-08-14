@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Too many people think only of their own profit. But business opportunity seldom knocks on the door of self-centered people. No customer ever goes to a store merely to please the storekeeper." <br> &emsp;&emsp;&emsp; <i>-by Kazuo Inamori</i> 
+ 1.  "The perfection of art is to conceal art." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
 
- 2.  "Do not employ handsome servants." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Noela Evans</i> 
 
- 3.  "Be a fountain, not a drain." <br> &emsp;&emsp;&emsp; <i>-by Rex Hudler</i> 
+ 3.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "The strongest principle of growth lies in human choice." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Genius is of no country." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
