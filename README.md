@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "This is something that I do consider to be good advice: I took my first paycheck and I put it in the goddamn bank. Then I took my second paycheck and put it in the goddamn bank. I had seen the roller coaster of my father's career - top of the world, then unemployed - and I never wanted to take a job because I needed money." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "I wanted change and excitement and to shoot off in all directions myself, like the colored arrows from a Fourth of July rocket." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Plath</i> 
 
- 2.  "By desiring little, a poor man makes himself rich." <br> &emsp;&emsp;&emsp; <i>-by Democritus</i> 
+ 2.  "The greatest pleasure in life is doing what people say you cannot do." <br> &emsp;&emsp;&emsp; <i>-by Walter Bagehot</i> 
 
- 3.  "What makes something special is not just what you have to gain, but what you feel there is to lose." <br> &emsp;&emsp;&emsp; <i>-by Andre Agassi</i> 
+ 3.  "We call them dumb animals, and so they are, for they cannot tell us how they feel, but they do not suffer less because they have no words." <br> &emsp;&emsp;&emsp; <i>-by Anna Sewell</i> 
 
- 4.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
+ 4.  "What may be done at any time will be done at no time." <br> &emsp;&emsp;&emsp; <i>-by Scottish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
