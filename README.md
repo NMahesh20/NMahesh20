@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Loss of virtue in a female is irretrievable; that one false step involves her in endless ruin; that her reputation is no less brittle than it is beautiful; and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "Go often to the house of thy friend; for weeds soon choke up the unused path." <br> &emsp;&emsp;&emsp; <i>-by Scandinavian Proverb</i> 
+ 2.  "The secret of concentration is the secret of self-discovery. You reach inside yourself to discover your personal resources, and what it takes to match them to the challenge." <br> &emsp;&emsp;&emsp; <i>-by Arnold Palmer</i> 
 
- 3.  "You must give some time to your fellow men. Even if it's a little thing, do something for others - something for which you get no pay but the privilege of doing it." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
+ 3.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 4.  "I've never known any trouble that an hour's reading didn't assuage." <br> &emsp;&emsp;&emsp; <i>-by Charles De Secondat</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
