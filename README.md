@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "The secret of concentration is the secret of self-discovery. You reach inside yourself to discover your personal resources, and what it takes to match them to the challenge." <br> &emsp;&emsp;&emsp; <i>-by Arnold Palmer</i> 
+ 2.  "There was no escaping by means of any journey, however adventurous, one took one's problems and sorrows with one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "The creative person basically has two kinds of jobs: One is the sexy, creative kind. Second is the kind that pays the bills. Sometimes the task in hand covers both bases, but not often. This tense duality will always play center stage. It will never be transcended." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 4.  "I've never known any trouble that an hour's reading didn't assuage." <br> &emsp;&emsp;&emsp; <i>-by Charles De Secondat</i> 
+ 4.  "Tears may be dried up, but the heart - never." <br> &emsp;&emsp;&emsp; <i>-by Marguerite de Valois</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
