@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "The fact that a great many people believe something is no guarantee of its truth." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "There was no escaping by means of any journey, however adventurous, one took one's problems and sorrows with one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
 
- 3.  "The creative person basically has two kinds of jobs: One is the sexy, creative kind. Second is the kind that pays the bills. Sometimes the task in hand covers both bases, but not often. This tense duality will always play center stage. It will never be transcended." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 3.  "Living apart and at peace with myself, I came to realize more vividly the meaning of the doctrine of acceptance. To refrain from giving advice, to refrain from meddling in the affairs of others, to refrain, even though the motives be the highest, from tampering with another's way of life - so simple, yet so difficult for an active spirit. Hands off!" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 4.  "Tears may be dried up, but the heart - never." <br> &emsp;&emsp;&emsp; <i>-by Marguerite de Valois</i> 
+ 4.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
