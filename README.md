@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The fact that a great many people believe something is no guarantee of its truth." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Self-regulation will always be a challenge, but if somebody's going to be in charge, it might as well be me." <br> &emsp;&emsp;&emsp; <i>-by Daniel Akst</i> 
 
- 2.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
+ 2.  "Luck is the residue of design." <br> &emsp;&emsp;&emsp; <i>-by Branch Rickey</i> 
 
- 3.  "Living apart and at peace with myself, I came to realize more vividly the meaning of the doctrine of acceptance. To refrain from giving advice, to refrain from meddling in the affairs of others, to refrain, even though the motives be the highest, from tampering with another's way of life - so simple, yet so difficult for an active spirit. Hands off!" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 3.  "When you strike at a king, you must kill him." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 4.  "To be alone is to be different, to be different is to be alone." <br> &emsp;&emsp;&emsp; <i>-by Suzanne Gordon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
