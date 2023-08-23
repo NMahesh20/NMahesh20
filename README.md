@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Self-regulation will always be a challenge, but if somebody's going to be in charge, it might as well be me." <br> &emsp;&emsp;&emsp; <i>-by Daniel Akst</i> 
+ 1.  "The past is finished. There is nothing to b gained by going over it. Whatever it gave us in the experiences it brought us was something we had to know." <br> &emsp;&emsp;&emsp; <i>-by Rebecca Beard</i> 
 
- 2.  "Luck is the residue of design." <br> &emsp;&emsp;&emsp; <i>-by Branch Rickey</i> 
+ 2.  "An unhurried sense of time is in itself a form of wealth." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Friedman</i> 
 
- 3.  "When you strike at a king, you must kill him." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Be not afraid of growing slowly, be afraid only of standing still." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "To be alone is to be different, to be different is to be alone." <br> &emsp;&emsp;&emsp; <i>-by Suzanne Gordon</i> 
+ 4.  "'Tis the most tender part of love, each other to forgive." <br> &emsp;&emsp;&emsp; <i>-by John Sheffield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
