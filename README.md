@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The past is finished. There is nothing to b gained by going over it. Whatever it gave us in the experiences it brought us was something we had to know." <br> &emsp;&emsp;&emsp; <i>-by Rebecca Beard</i> 
+ 1.  "Acquire inner peace and a multitude will find their salvation near you." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck Doherty</i> 
 
- 2.  "An unhurried sense of time is in itself a form of wealth." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Friedman</i> 
+ 2.  "Courage is saying, "Maybe what I'm doing isn't working; maybe I should try something else."" <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
 
- 3.  "Be not afraid of growing slowly, be afraid only of standing still." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "Integrity combined with faithfulness is a powerful force and worthy of great respect." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "'Tis the most tender part of love, each other to forgive." <br> &emsp;&emsp;&emsp; <i>-by John Sheffield</i> 
+ 4.  "Life's greatest happiness is to be convinced we are loved." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
