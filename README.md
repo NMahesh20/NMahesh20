@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Acquire inner peace and a multitude will find their salvation near you." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck Doherty</i> 
+ 1.  "Seasons change, so do cities. People come into your life and people go, but it's comforting to know: the ones you love are always in your heart and if you're very lucky, a plane ride away." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "Courage is saying, "Maybe what I'm doing isn't working; maybe I should try something else."" <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
+ 2.  "Throughout life, one does not miss any chance to hold onto the things that are really precious, if one is truly wise." <br> &emsp;&emsp;&emsp; <i>-by Ed Greenwood</i> 
 
- 3.  "Integrity combined with faithfulness is a powerful force and worthy of great respect." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "Patterning your life around other's opinions is nothing more than slavery." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "Life's greatest happiness is to be convinced we are loved." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 4.  "Far better it is to dare mighty things, to win glorious triumphs even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much because they live in the gray twilight that knows neither victory nor defeat." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
