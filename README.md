@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I deal with stress in two ways because there are two kinds of stress. There's stress that you can take care of and there's stress that you can't. The first one, I take care of it as fast as possible, because putting it off always makes it worse. Things that I can't fix? I think about the fact that I can't fix them. I think about why I can't fix them and I come to terms with the fact that this is a problem that I'm not going to overcome and that the world is not a wish granting factory." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "Sit down before fact as a little child, be prepared to give up every preconceived notion... or you shall learn nothing." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 2.  "Dreams come true. Without that possibility, nature would not incite us to have them." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 2.  "I believe that one of life's greatest risks is never daring to risk." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
+ 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 
- 4.  "Death comes to all/ But great achievements raise a monument/ Which shall endure until the sun grows old." <br> &emsp;&emsp;&emsp; <i>-by George Fabricius</i> 
+ 4.  "Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living." <br> &emsp;&emsp;&emsp; <i>-by Miriam Beard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
