@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sit down before fact as a little child, be prepared to give up every preconceived notion... or you shall learn nothing." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 1.  "Some cupid kills with arrows, some with traps." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 2.  "I believe that one of life's greatest risks is never daring to risk." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "What we should be asking is not whether we need a big government or small government, but how we can create a smarter and better government." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 3.  "Sometimes people do things that hurt and it's not because they mean to. They just do. It doesn't necessarily have anything to do with you, but you end up hurt because of it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 4.  "Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living." <br> &emsp;&emsp;&emsp; <i>-by Miriam Beard</i> 
+ 4.  "Convinced myself, I seek not to convince." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
