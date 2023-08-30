@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'd rather look ridiculous when everybody else does than plain and sensible all by myself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
+ 2.  "I love drugs, but I hate hangovers, and the hatred of the hangover wins by a landslide every time." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "Eccentricity is not, as dull people would have us believe, a form of madness. It is often a kind of innocent pride, and the man of genius and the aristocrat are frequently regarded as eccentrics because genius and aristocrat are entirely unafraid of and uninfluenced by the opinions and vagaries of the crowd." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
+ 3.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
 
- 4.  "" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "It never pays to deal with the flyweights of the world. They take far too much pleasure in thwarting you at every turn." <br> &emsp;&emsp;&emsp; <i>-by Sue Grafton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
