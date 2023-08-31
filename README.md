@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 1.  "Life is tough, and if you have the ability to laugh at it you have the ability to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
 
- 2.  "I love drugs, but I hate hangovers, and the hatred of the hangover wins by a landslide every time." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "To use fear as the friend it is, we must retrain and reprogram ourselves...We must persistently and convincingly tell ourselves that the fear is here--with its gift of energy and heightened awareness--so we can do our best and learn the most in the new situation." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
+ 3.  "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding. Hold this picture tenaciously. Never permit it to fade. Your mind will seek to develop the picture...Do not build up obstacles in your imagination." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 
- 4.  "It never pays to deal with the flyweights of the world. They take far too much pleasure in thwarting you at every turn." <br> &emsp;&emsp;&emsp; <i>-by Sue Grafton</i> 
+ 4.  "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
