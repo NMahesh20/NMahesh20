@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is tough, and if you have the ability to laugh at it you have the ability to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
+ 1.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
 
- 2.  "To use fear as the friend it is, we must retrain and reprogram ourselves...We must persistently and convincingly tell ourselves that the fear is here--with its gift of energy and heightened awareness--so we can do our best and learn the most in the new situation." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
 
- 3.  "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding. Hold this picture tenaciously. Never permit it to fade. Your mind will seek to develop the picture...Do not build up obstacles in your imagination." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
+ 3.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
 
- 4.  "The probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "There will be a time when loud-mouthed, incompetent people seem to be getting the best of you. When that happens, you only have to be patient and wait for them to self destruct. It never fails." <br> &emsp;&emsp;&emsp; <i>-by Richard Rybolt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
