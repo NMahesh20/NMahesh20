@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
+ 1.  "The least I can do is speak out for those who cannot speak for themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
+ 2.  "Never let the demands of tomorrow interfere with the pleasures and excitement of today." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
 
- 3.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
+ 3.  "Never part without loving words to think of during your absence. It may be that you will not meet again in life." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
 
- 4.  "There will be a time when loud-mouthed, incompetent people seem to be getting the best of you. When that happens, you only have to be patient and wait for them to self destruct. It never fails." <br> &emsp;&emsp;&emsp; <i>-by Richard Rybolt</i> 
+ 4.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
