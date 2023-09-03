@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The least I can do is speak out for those who cannot speak for themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "I have very strong feelings about how you lead your life. You always look ahead, you never look back." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 2.  "Never let the demands of tomorrow interfere with the pleasures and excitement of today." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
+ 2.  "I have made my world and it is a much better world than I ever saw outside." <br> &emsp;&emsp;&emsp; <i>-by Louise Nevelson</i> 
 
- 3.  "Never part without loving words to think of during your absence. It may be that you will not meet again in life." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
+ 3.  "We must accept that this creative pulse within us is God's creative pulse itself." <br> &emsp;&emsp;&emsp; <i>-by Joseph Chilton Pearce</i> 
 
- 4.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
+ 4.  "When you relinquish the desire to control your future, you can have more happiness." <br> &emsp;&emsp;&emsp; <i>-by Nicole Kidman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
