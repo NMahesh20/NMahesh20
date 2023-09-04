@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have very strong feelings about how you lead your life. You always look ahead, you never look back." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "One of the things about equality is not just that you be treated equally to a man, but that you treat yourself equally to the way you treat a man." <br> &emsp;&emsp;&emsp; <i>-by Marlo Thomas</i> 
 
- 2.  "I have made my world and it is a much better world than I ever saw outside." <br> &emsp;&emsp;&emsp; <i>-by Louise Nevelson</i> 
+ 2.  "Creativity comes from trust. Trust your instincts." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
 
- 3.  "We must accept that this creative pulse within us is God's creative pulse itself." <br> &emsp;&emsp;&emsp; <i>-by Joseph Chilton Pearce</i> 
+ 3.  "Praise youth and it will prosper." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
 
- 4.  "When you relinquish the desire to control your future, you can have more happiness." <br> &emsp;&emsp;&emsp; <i>-by Nicole Kidman</i> 
+ 4.  "Never help a child with a task at which he feels he can succeed." <br> &emsp;&emsp;&emsp; <i>-by Maria Montessori</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
