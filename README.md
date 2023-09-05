@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One of the things about equality is not just that you be treated equally to a man, but that you treat yourself equally to the way you treat a man." <br> &emsp;&emsp;&emsp; <i>-by Marlo Thomas</i> 
+ 1.  "When I'm not doing something that comes deeply from me, I get bored. When I get bored I get distracted and when I get distracted, I become depressed. It's a natural resistance, and it insures your integrity." <br> &emsp;&emsp;&emsp; <i>-by Maria Irene Fornes</i> 
 
- 2.  "Creativity comes from trust. Trust your instincts." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
+ 2.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Praise youth and it will prosper." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
+ 3.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
 
- 4.  "Never help a child with a task at which he feels he can succeed." <br> &emsp;&emsp;&emsp; <i>-by Maria Montessori</i> 
+ 4.  "If you know how to spend less than you get, you have the philosopher's stone." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
