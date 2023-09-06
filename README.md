@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I'm not doing something that comes deeply from me, I get bored. When I get bored I get distracted and when I get distracted, I become depressed. It's a natural resistance, and it insures your integrity." <br> &emsp;&emsp;&emsp; <i>-by Maria Irene Fornes</i> 
+ 1.  "Fear sometimes stops you from doing stupid things. But it can also stop you from doing creative or exciting or experimental things. It can cloud your judgment of others, and lead to all kinds of evil. The control and understanding of our personal fears is one of the most important undertakings in our life." <br> &emsp;&emsp;&emsp; <i>-by Helen Mirren</i> 
 
- 2.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "We are who people think we are." <br> &emsp;&emsp;&emsp; <i>-by David Foster</i> 
 
- 3.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
+ 3.  "I cannot think well of a man who sports with any woman's feelings; and there may often be a great deal more suffered than a stander-by can judge of." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "If you know how to spend less than you get, you have the philosopher's stone." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Our feelings are our most genuine paths to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Audre Lorde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
