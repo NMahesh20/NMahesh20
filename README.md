@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fear sometimes stops you from doing stupid things. But it can also stop you from doing creative or exciting or experimental things. It can cloud your judgment of others, and lead to all kinds of evil. The control and understanding of our personal fears is one of the most important undertakings in our life." <br> &emsp;&emsp;&emsp; <i>-by Helen Mirren</i> 
+ 1.  "Take a music bath once or twice a week for a few seasons, and you will find that it is to the soul what the water bath is to the body." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 2.  "We are who people think we are." <br> &emsp;&emsp;&emsp; <i>-by David Foster</i> 
+ 2.  "Waste not fresh tears over old griefs." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
 
- 3.  "I cannot think well of a man who sports with any woman's feelings; and there may often be a great deal more suffered than a stander-by can judge of." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "A loud voice cannot compete with a clear voice, even if it's a whisper." <br> &emsp;&emsp;&emsp; <i>-by Barry Neil Kaufman</i> 
 
- 4.  "Our feelings are our most genuine paths to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Audre Lorde</i> 
+ 4.  "How many a man has dated a new era in his life from the reading of a book." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
