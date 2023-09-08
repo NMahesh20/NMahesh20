@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Take a music bath once or twice a week for a few seasons, and you will find that it is to the soul what the water bath is to the body." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 1.  "Talent is nothing but a prolonged period of attention and shortened period of mental assimilation." <br> &emsp;&emsp;&emsp; <i>-by Konstantin Stanislavsky</i> 
 
- 2.  "Waste not fresh tears over old griefs." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
+ 2.  "Roam abroad in the world, and take thy fill of its enjoyments before the day shall come when thou must quit it for good." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
 
- 3.  "A loud voice cannot compete with a clear voice, even if it's a whisper." <br> &emsp;&emsp;&emsp; <i>-by Barry Neil Kaufman</i> 
+ 3.  "One's first step in wisdom is to question everything - and one's last is to come to terms with everything." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 4.  "How many a man has dated a new era in his life from the reading of a book." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "We have too many high sounding words, and too few actions that correspond with them." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
