@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Talent is nothing but a prolonged period of attention and shortened period of mental assimilation." <br> &emsp;&emsp;&emsp; <i>-by Konstantin Stanislavsky</i> 
+ 1.  "Looking forward to things is half the pleasure of them. You mayn't get the things themselves; but nothing can prevent you from having the fun of looking forward to them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Roam abroad in the world, and take thy fill of its enjoyments before the day shall come when thou must quit it for good." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
+ 2.  "Time present and time past are both perhaps present in time future and time future contained in time past. If all time is eternally present all time is unredeemable." <br> &emsp;&emsp;&emsp; <i>-by Swatch</i> 
 
- 3.  "One's first step in wisdom is to question everything - and one's last is to come to terms with everything." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 3.  "See, that's all you're thinking about, is winning. You're confirming your sense of self- worth through outward reward instead of through inner appreciation." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 4.  "We have too many high sounding words, and too few actions that correspond with them." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
+ 4.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
