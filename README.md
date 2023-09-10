@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Looking forward to things is half the pleasure of them. You mayn't get the things themselves; but nothing can prevent you from having the fun of looking forward to them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Time present and time past are both perhaps present in time future and time future contained in time past. If all time is eternally present all time is unredeemable." <br> &emsp;&emsp;&emsp; <i>-by Swatch</i> 
+ 2.  "Why do we have to wait for special moments to say nice things or tell people we care about them?" <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "See, that's all you're thinking about, is winning. You're confirming your sense of self- worth through outward reward instead of through inner appreciation." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 3.  "Never refuse any advance of friendship, for if nine out of ten bring you nothing, one alone may repay you." <br> &emsp;&emsp;&emsp; <i>-by Madame de Tencin</i> 
 
- 4.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
+ 4.  "Food is the most primitive form of comfort." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
