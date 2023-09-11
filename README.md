@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "I honestly don't know how you live without having a cat inside your house. It's like having a little living piece of art that is also very warm and soft." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
 
- 2.  "Why do we have to wait for special moments to say nice things or tell people we care about them?" <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "No matter how old you are, there's always something good to look forward to." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 3.  "Never refuse any advance of friendship, for if nine out of ten bring you nothing, one alone may repay you." <br> &emsp;&emsp;&emsp; <i>-by Madame de Tencin</i> 
+ 3.  "Be rich to yourself and poor to your friends." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
 
- 4.  "Food is the most primitive form of comfort." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
+ 4.  "I do not regret one professional enemy I have made. Any actor who doesn't dare to make an enemy should get out of the business." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
