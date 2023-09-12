@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I honestly don't know how you live without having a cat inside your house. It's like having a little living piece of art that is also very warm and soft." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "Loving yourself means caring enough to make the hard decisions in your life." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "No matter how old you are, there's always something good to look forward to." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 2.  "If you have accomplished all that you planned for yourself, you have not planned enough." <br> &emsp;&emsp;&emsp; <i>-by Edward Everett Hale</i> 
 
- 3.  "Be rich to yourself and poor to your friends." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
+ 3.  "Learn to see in another's calamity the ills which you should avoid." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "I do not regret one professional enemy I have made. Any actor who doesn't dare to make an enemy should get out of the business." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Don't take life too seriously. You'll never get out of it alive." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
