@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Loving yourself means caring enough to make the hard decisions in your life." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Ruminating about the past is like trying to drive backward to undo a car accident." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "If you have accomplished all that you planned for yourself, you have not planned enough." <br> &emsp;&emsp;&emsp; <i>-by Edward Everett Hale</i> 
+ 2.  "Happiness comes more from loving than being loved; and often when our affection seems wounded it is only our vanity bleeding. To love, and to be hurt often, and to love again - this is the brave and happy life." <br> &emsp;&emsp;&emsp; <i>-by J. E. Buchrose</i> 
 
- 3.  "Learn to see in another's calamity the ills which you should avoid." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "Be more splendid, more extraordinary. Use every moment to fill yourself up." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Don't take life too seriously. You'll never get out of it alive." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 4.  "Do not wait for extraordinary circumstances to do good; try to use ordinary situations." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
