@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In America, they want you to accomplish these great feats, to pull off these David Copperfield-type stunts. You want me to be great, but you don't ever want me to say I'm great?" <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 1.  "The only reason why we ask other people how their weekend was is so we can tell them about our own weekend." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "All appears to change when we change." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
+ 2.  "We know what a person thinks not when he tells us what he thinks, but by his actions." <br> &emsp;&emsp;&emsp; <i>-by Isaac Bashevis Singer</i> 
 
- 3.  "Brains, like hearts, go where they are appreciated." <br> &emsp;&emsp;&emsp; <i>-by Robert S. McNamara</i> 
+ 3.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
 
- 4.  "Before he sets out, the traveler must possess fixed interests and facilities to be served by travel." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 4.  "If the only prayer you ever say in your whole life is "thank you," that would suffice." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
