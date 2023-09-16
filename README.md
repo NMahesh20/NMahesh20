@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only reason why we ask other people how their weekend was is so we can tell them about our own weekend." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "Love is that splendid triggering of human vitality... the supreme activity which nature affords anyone for going out of himself toward someone else." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
 
- 2.  "We know what a person thinks not when he tells us what he thinks, but by his actions." <br> &emsp;&emsp;&emsp; <i>-by Isaac Bashevis Singer</i> 
+ 2.  "The mind's first step to self-awareness must be through the body." <br> &emsp;&emsp;&emsp; <i>-by George Sheehan</i> 
 
- 3.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
+ 3.  "That is what marriage really means: helping one another to reach the full status of being persons, responsible and autonomous beings who do not run away from life." <br> &emsp;&emsp;&emsp; <i>-by Paul Tournier</i> 
 
- 4.  "If the only prayer you ever say in your whole life is "thank you," that would suffice." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
+ 4.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
