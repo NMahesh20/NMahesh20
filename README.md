@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Love is that splendid triggering of human vitality... the supreme activity which nature affords anyone for going out of himself toward someone else." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
+ 1.  "Actions have consequences...first rule of life. And the second rule is this - you are the only one responsible for your own actions." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 2.  "The mind's first step to self-awareness must be through the body." <br> &emsp;&emsp;&emsp; <i>-by George Sheehan</i> 
+ 2.  "The best of us must sometimes eat our words." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "That is what marriage really means: helping one another to reach the full status of being persons, responsible and autonomous beings who do not run away from life." <br> &emsp;&emsp;&emsp; <i>-by Paul Tournier</i> 
+ 3.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
+ 4.  "The time to pray is not when we are in a tight spot but just as soon as we get out of it." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
