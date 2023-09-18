@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Actions have consequences...first rule of life. And the second rule is this - you are the only one responsible for your own actions." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 1.  "Part of being creative is learning how to protect your freedom. That includes freedom from avarice." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "The best of us must sometimes eat our words." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "You don't pay back your parents. You can't. The debt you owe them gets collected by your children, who hand it down in turn. It's a sort of entailment. Or if you don't have children of the body, it's left as a debt to your common humanity. Or to your God, if you possess or are possessed by one." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "A good home must be made, not bought." <br> &emsp;&emsp;&emsp; <i>-by Joyce Maynard</i> 
 
- 4.  "The time to pray is not when we are in a tight spot but just as soon as we get out of it." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 4.  "Knowledge is power." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
