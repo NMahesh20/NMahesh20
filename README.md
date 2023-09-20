@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "If you are capable people are happy to play with you." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
 
- 2.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 2.  "Promote yourself, but do not demote another." <br> &emsp;&emsp;&emsp; <i>-by Israel Salanter</i> 
 
- 3.  "The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 3.  "There is no shortage of good days. It is good lives that are hard to come by." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
 
- 4.  "Eighty percent of success is showing up." <br> &emsp;&emsp;&emsp; <i>-by Woody Allen</i> 
+ 4.  "I daresay one profits more by the mistakes one makes off one's own bat than by doing the right thing on somebody's else advice." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
