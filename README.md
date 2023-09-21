@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you are capable people are happy to play with you." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
+ 1.  "Authenticity matters little, though--our willingness to accept legends depends far more upon their expression of concepts we want to believe than upon their plausibility." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 2.  "Promote yourself, but do not demote another." <br> &emsp;&emsp;&emsp; <i>-by Israel Salanter</i> 
+ 2.  "Inspiration may be a form of superconsciousness, or perhaps of subconsciousness - I wouldn't know. But I am sure it is the antithesis of self- consciousness." <br> &emsp;&emsp;&emsp; <i>-by Aaron Copland</i> 
 
- 3.  "There is no shortage of good days. It is good lives that are hard to come by." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
+ 3.  "Open your mouth and purse cautiously, and your stock of wealth and reputation shall, at least in repute, be great." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
 
- 4.  "I daresay one profits more by the mistakes one makes off one's own bat than by doing the right thing on somebody's else advice." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "The most powerful factors in the world are clear ideas in the minds of energetic men of good will." <br> &emsp;&emsp;&emsp; <i>-by J. Arthur Thomson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
