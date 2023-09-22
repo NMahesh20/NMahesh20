@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Authenticity matters little, though--our willingness to accept legends depends far more upon their expression of concepts we want to believe than upon their plausibility." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
+ 1.  "My friends are my estate." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
 
- 2.  "Inspiration may be a form of superconsciousness, or perhaps of subconsciousness - I wouldn't know. But I am sure it is the antithesis of self- consciousness." <br> &emsp;&emsp;&emsp; <i>-by Aaron Copland</i> 
+ 2.  "The true meaning of religion is thus not simply morality, but morality touched by emotion." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 3.  "Open your mouth and purse cautiously, and your stock of wealth and reputation shall, at least in repute, be great." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
+ 3.  "If you wish your merit to be known, acknowledge that of other people." <br> &emsp;&emsp;&emsp; <i>-by Oriental Proverb</i> 
 
- 4.  "The most powerful factors in the world are clear ideas in the minds of energetic men of good will." <br> &emsp;&emsp;&emsp; <i>-by J. Arthur Thomson</i> 
+ 4.  "Man is what he believes." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
