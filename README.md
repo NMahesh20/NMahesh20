@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My friends are my estate." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 1.  "Just because this isn't in your life plan doesn't mean this isn't exactly where you're supposed to be." <br> &emsp;&emsp;&emsp; <i>-by Nahnatchka Khan</i> 
 
- 2.  "The true meaning of religion is thus not simply morality, but morality touched by emotion." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 2.  "If you observe a really happy man, you will find... that he is happy in the course of living life twenty-four crowded hours each day." <br> &emsp;&emsp;&emsp; <i>-by W. Beran Wolfe</i> 
 
- 3.  "If you wish your merit to be known, acknowledge that of other people." <br> &emsp;&emsp;&emsp; <i>-by Oriental Proverb</i> 
+ 3.  "Be substantially great in thyself, and more than thou appearest unto others." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 4.  "Man is what he believes." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
+ 4.  "Our imagination is the only limit to what we can hope to have in the future." <br> &emsp;&emsp;&emsp; <i>-by Charles F. Kettering</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
