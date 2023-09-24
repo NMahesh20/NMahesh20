@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just because this isn't in your life plan doesn't mean this isn't exactly where you're supposed to be." <br> &emsp;&emsp;&emsp; <i>-by Nahnatchka Khan</i> 
+ 1.  "When people talk, listen completely. Most people never listen." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
 
- 2.  "If you observe a really happy man, you will find... that he is happy in the course of living life twenty-four crowded hours each day." <br> &emsp;&emsp;&emsp; <i>-by W. Beran Wolfe</i> 
+ 2.  "Let us make one point, that we meet each other with a smile, when it is difficult to smile. Smile at each other, make time for each other in your family." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 3.  "Be substantially great in thyself, and more than thou appearest unto others." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 3.  "Never advise anyone to go to war or to marry." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "Our imagination is the only limit to what we can hope to have in the future." <br> &emsp;&emsp;&emsp; <i>-by Charles F. Kettering</i> 
+ 4.  "You can have it all. You just can't have it all at once." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
