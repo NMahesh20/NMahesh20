@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When people talk, listen completely. Most people never listen." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
+ 1.  "We resent the thought that anything can please us when someone we love is no longer here to share the pleasure with us, and we almost feel as if we were unfaithful to our sorrow when we find our interest in life returning to us." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Let us make one point, that we meet each other with a smile, when it is difficult to smile. Smile at each other, make time for each other in your family." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 2.  "You gotta dream? You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it, period." <br> &emsp;&emsp;&emsp; <i>-by Steven Conrad</i> 
 
- 3.  "Never advise anyone to go to war or to marry." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "If we were to care about every person suffering on this planet, life would shut down." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 4.  "You can have it all. You just can't have it all at once." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "You do ill if you praise, but worse if you censure, what you do not understand." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
