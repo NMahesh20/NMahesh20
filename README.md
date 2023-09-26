@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We resent the thought that anything can please us when someone we love is no longer here to share the pleasure with us, and we almost feel as if we were unfaithful to our sorrow when we find our interest in life returning to us." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 2.  "You gotta dream? You gotta protect it. People can't do somethin' themselves, they wanna tell you you can't do it. If you want somethin', go get it, period." <br> &emsp;&emsp;&emsp; <i>-by Steven Conrad</i> 
+ 2.  "All sanity depends on this: that it should be a delight to feel heat strike the skin, a delight to stand upright, knowing the bones are moving easily under the flesh." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 
- 3.  "If we were to care about every person suffering on this planet, life would shut down." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 3.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
 
- 4.  "You do ill if you praise, but worse if you censure, what you do not understand." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
+ 4.  "Hail to you gods, on that day of the great reckoning. Behold me, I have come to you, without sin, without guilt, without evil, without a witness against me, without one whom I have wronged. I am one pure of mouth, pure of hands." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Dead</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
