@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 1.  "Anything you could ever want or be you already have and are." <br> &emsp;&emsp;&emsp; <i>-by David Russell</i> 
 
- 2.  "All sanity depends on this: that it should be a delight to feel heat strike the skin, a delight to stand upright, knowing the bones are moving easily under the flesh." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 2.  "If the people who make the decisions are the people who will also bear the consequences of those decisions, perhaps better decisions will result." <br> &emsp;&emsp;&emsp; <i>-by John Abrams</i> 
 
- 3.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
+ 3.  "We cannot fail to win unless we fail to try." <br> &emsp;&emsp;&emsp; <i>-by Tom Clancy</i> 
 
- 4.  "Hail to you gods, on that day of the great reckoning. Behold me, I have come to you, without sin, without guilt, without evil, without a witness against me, without one whom I have wronged. I am one pure of mouth, pure of hands." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Dead</i> 
+ 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
