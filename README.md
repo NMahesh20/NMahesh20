@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Anything you could ever want or be you already have and are." <br> &emsp;&emsp;&emsp; <i>-by David Russell</i> 
+ 1.  "The weird thing about houses is that they almost always look like nothing is happening inside of them, even though they contain most of our lives." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "If the people who make the decisions are the people who will also bear the consequences of those decisions, perhaps better decisions will result." <br> &emsp;&emsp;&emsp; <i>-by John Abrams</i> 
+ 2.  "Accustom yourself continually to make many acts of love, for they enkindle and melt the soul." <br> &emsp;&emsp;&emsp; <i>-by Saint Teresa of Avila</i> 
 
- 3.  "We cannot fail to win unless we fail to try." <br> &emsp;&emsp;&emsp; <i>-by Tom Clancy</i> 
+ 3.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
+ 4.  "Obtain from yourself all that makes complaining useless. No longer implore from others what you yourself can obtain." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
