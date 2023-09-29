@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The weird thing about houses is that they almost always look like nothing is happening inside of them, even though they contain most of our lives." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Maybe coming clean is the ultimate selfish act. A way to absolve yourself by hurting someone who doesn't deserve to be hurt." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
 
- 2.  "Accustom yourself continually to make many acts of love, for they enkindle and melt the soul." <br> &emsp;&emsp;&emsp; <i>-by Saint Teresa of Avila</i> 
+ 2.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
 
- 3.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "Obtain from yourself all that makes complaining useless. No longer implore from others what you yourself can obtain." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 4.  "Live each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
