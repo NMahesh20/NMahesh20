@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Maybe coming clean is the ultimate selfish act. A way to absolve yourself by hurting someone who doesn't deserve to be hurt." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 2.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
+ 2.  "Vanity and pride are different things, though the words are often used synonymously.... Pride relates more to our opinion of ourselves, vanity to what we would have others think of us." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "A bird does not sing because it has an answer. It sings because it has a song." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Live each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Make money your god and it will plague you like the devil." <br> &emsp;&emsp;&emsp; <i>-by Henry Fielding</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
