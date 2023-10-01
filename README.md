@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
 
- 2.  "Vanity and pride are different things, though the words are often used synonymously.... Pride relates more to our opinion of ourselves, vanity to what we would have others think of us." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "By prizing heartfulness above faultlessness, we may reap more from our effort because we're more likely to be changed by it." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 3.  "A bird does not sing because it has an answer. It sings because it has a song." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "You have to recognize when the right place and the right time fuse and take advantage of that opportunity. There are plenty of opportunities out there. You can't sit back and wait." <br> &emsp;&emsp;&emsp; <i>-by Ellen Metcalf</i> 
 
- 4.  "Make money your god and it will plague you like the devil." <br> &emsp;&emsp;&emsp; <i>-by Henry Fielding</i> 
+ 4.  "Laziness is nothing more than the habit of resting before you get tired." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
