@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
+ 1.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 2.  "By prizing heartfulness above faultlessness, we may reap more from our effort because we're more likely to be changed by it." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 2.  "As I see it, every day you do one of two things: build health or produce disease in yourself." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 
- 3.  "You have to recognize when the right place and the right time fuse and take advantage of that opportunity. There are plenty of opportunities out there. You can't sit back and wait." <br> &emsp;&emsp;&emsp; <i>-by Ellen Metcalf</i> 
+ 3.  "It is not always the same thing to be a good man and a good citizen." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 4.  "Laziness is nothing more than the habit of resting before you get tired." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 4.  "A tough lesson in life that one has to learn is that not everybody wishes you well." <br> &emsp;&emsp;&emsp; <i>-by Dan Rather</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
