@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 1.  "All my possessions for a moment of time." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
 
- 2.  "As I see it, every day you do one of two things: build health or produce disease in yourself." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "It is not always the same thing to be a good man and a good citizen." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 3.  "Every time you don't follow your inner guidance, you feel a loss of energy, loss of power, a sense of spiritual deadness." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
 
- 4.  "A tough lesson in life that one has to learn is that not everybody wishes you well." <br> &emsp;&emsp;&emsp; <i>-by Dan Rather</i> 
+ 4.  "Undoubtedly, we become what we envisage." <br> &emsp;&emsp;&emsp; <i>-by Claude M. Bristol</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
