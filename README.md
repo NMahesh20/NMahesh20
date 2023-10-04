@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All my possessions for a moment of time." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 
- 3.  "Every time you don't follow your inner guidance, you feel a loss of energy, loss of power, a sense of spiritual deadness." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
+ 3.  "The advice of friends must be received with a judicious reserve; we must not give ourselves up to it and follow it blindly, whether right or wrong." <br> &emsp;&emsp;&emsp; <i>-by Pierre Charron</i> 
 
- 4.  "Undoubtedly, we become what we envisage." <br> &emsp;&emsp;&emsp; <i>-by Claude M. Bristol</i> 
+ 4.  "If you can give your son or daughter only one gift, let it be enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Bruce Barton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
