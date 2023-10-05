@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "There is only one you... Don't you dare change just because you're outnumbered!" <br> &emsp;&emsp;&emsp; <i>-by Charles Swindoll</i> 
 
- 2.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 2.  "Everyone in the world was programmed by the place they were born, hemmed in by their beliefs, but you had to at least try to grow your own brain" <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "The advice of friends must be received with a judicious reserve; we must not give ourselves up to it and follow it blindly, whether right or wrong." <br> &emsp;&emsp;&emsp; <i>-by Pierre Charron</i> 
+ 3.  "The meek shall inherit the earth? Well... I don't think so. If by meek you mean friendly and introverted, okay maybe, but if by meek you mean unwilling to take a chance, then never. If I was a betting man and I had to wager on who I thought would inherit the earth, my money would be on the curious." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
 
- 4.  "If you can give your son or daughter only one gift, let it be enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Bruce Barton</i> 
+ 4.  "You see what power is - holding someone else's fear in your hand and showing it to them!" <br> &emsp;&emsp;&emsp; <i>-by Amy Tan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
