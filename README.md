@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Somebody once asked me if I have anything like faith, and I said I have faith in the narrative. I have a belief in a narrative that is bigger than me, that is alive and I trust will work itself out." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 2.  "Obscurity is a good thing. You can fail in obscurity. It removes the fear of failure." <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
+ 2.  "Nothing is easy to the unwilling." <br> &emsp;&emsp;&emsp; <i>-by Nikki Giovanni</i> 
 
- 3.  "Be sure that it is not you that is mortal, but only your body. For that man whom your outward form reveals is not yourself; the spirit is the true self, not that physical figure which and be pointed out by your finger." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 3.  "Stoop and you'll be stepped on; stand tall and you'll be shot at." <br> &emsp;&emsp;&emsp; <i>-by Carlos A. Urbizo</i> 
 
- 4.  "The evil of the world is made possible by nothing but the sanction you give it." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 4.  "Exercise ferments the humors, casts them into their proper channels, throws off redundancies, and helps nature in those secret distributions, without which the body cannot subsist in its vigor, nor the soul act with cheerfulness." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
