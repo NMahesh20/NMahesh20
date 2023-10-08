@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 1.  "Progress is a nice word. But change is its motivator and change has its enemies." <br> &emsp;&emsp;&emsp; <i>-by Robert F. Kennedy</i> 
 
- 2.  "Nothing is easy to the unwilling." <br> &emsp;&emsp;&emsp; <i>-by Nikki Giovanni</i> 
+ 2.  "Politics has never been for the thin-skinned or the faint of heart, and if you enter the arena , you should expect to get roughed up. Moreover, Democracy in a nation of more than 300 million people is inherently difficult." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 3.  "Stoop and you'll be stepped on; stand tall and you'll be shot at." <br> &emsp;&emsp;&emsp; <i>-by Carlos A. Urbizo</i> 
+ 3.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 4.  "Exercise ferments the humors, casts them into their proper channels, throws off redundancies, and helps nature in those secret distributions, without which the body cannot subsist in its vigor, nor the soul act with cheerfulness." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 4.  "There's no easy way out. If there were, I would have bought it. And believe me, it would be one of my favorite things!" <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
