@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Progress is a nice word. But change is its motivator and change has its enemies." <br> &emsp;&emsp;&emsp; <i>-by Robert F. Kennedy</i> 
+ 1.  "I wish you sunshine on your path and storms to season your journey. I wish you peace in the world in which you live... More I cannot wish you except perhaps love to make all the rest worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Robert A. Ward</i> 
 
- 2.  "Politics has never been for the thin-skinned or the faint of heart, and if you enter the arena , you should expect to get roughed up. Moreover, Democracy in a nation of more than 300 million people is inherently difficult." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "While we have the gift of life, it seems to me that only tragedy is to allow part of us to die - whether it is our spirit, our creativity, or our glorious uniqueness." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
 
- 3.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 3.  "One doesn't discover new lands without consenting to lose sight of the shore for a very long time." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "There's no easy way out. If there were, I would have bought it. And believe me, it would be one of my favorite things!" <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "He not busy being born is busy dying." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
