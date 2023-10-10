@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I wish you sunshine on your path and storms to season your journey. I wish you peace in the world in which you live... More I cannot wish you except perhaps love to make all the rest worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Robert A. Ward</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "While we have the gift of life, it seems to me that only tragedy is to allow part of us to die - whether it is our spirit, our creativity, or our glorious uniqueness." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
+ 2.  "Beauty and seduction is nature's tool for survival, because we will protect what we love." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
 
- 3.  "One doesn't discover new lands without consenting to lose sight of the shore for a very long time." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "That best portion of a good man's life, / His little, nameless, unremembered acts of kindness and of love." <br> &emsp;&emsp;&emsp; <i>-by William Wordsworth</i> 
 
- 4.  "He not busy being born is busy dying." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
+ 4.  "For you to be successful, sacrifices must be made. It's better that they are made by others but failing that, you'll have to make them yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
