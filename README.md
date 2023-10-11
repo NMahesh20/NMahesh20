@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Beauty and seduction is nature's tool for survival, because we will protect what we love." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
+ 2.  "Everybody is too busy with their own lives to give a damn about your book, painting, screenplay etc, especially if you haven't sold it yet. And the ones that aren't, you don't want in your life anyway." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "That best portion of a good man's life, / His little, nameless, unremembered acts of kindness and of love." <br> &emsp;&emsp;&emsp; <i>-by William Wordsworth</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by John M. Capozzi</i> 
 
- 4.  "For you to be successful, sacrifices must be made. It's better that they are made by others but failing that, you'll have to make them yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
+ 4.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
