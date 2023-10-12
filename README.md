@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Everybody is too busy with their own lives to give a damn about your book, painting, screenplay etc, especially if you haven't sold it yet. And the ones that aren't, you don't want in your life anyway." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "No man is an Island, intire of itselfe; every man is a peece of the Continent, a part of the maine..." <br> &emsp;&emsp;&emsp; <i>-by John Donne</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by John M. Capozzi</i> 
+ 3.  "I'm very pleased with each advancing year. It stems back to when I was forty. I was a bit upset about reaching that milestone, but an older friend consoled me. 'Don't complain about growing old - many, many people do not have that privilege.'" <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
 
- 4.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
+ 4.  "Bacchus hath drowned more men than Neptune." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
