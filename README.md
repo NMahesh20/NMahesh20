@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "I have been truthful all along the way. The truth is more interesting, and if you tell the truth you never have to cover your tracks." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "No man is an Island, intire of itselfe; every man is a peece of the Continent, a part of the maine..." <br> &emsp;&emsp;&emsp; <i>-by John Donne</i> 
+ 2.  "I am not afraid of storms, for I am learning how to sail my ship." <br> &emsp;&emsp;&emsp; <i>-by Louisa May Alcott</i> 
 
- 3.  "I'm very pleased with each advancing year. It stems back to when I was forty. I was a bit upset about reaching that milestone, but an older friend consoled me. 'Don't complain about growing old - many, many people do not have that privilege.'" <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
+ 3.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 4.  "Bacchus hath drowned more men than Neptune." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 4.  "Man does not live by words alone, despite the fact that sometimes he has to eat them." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
