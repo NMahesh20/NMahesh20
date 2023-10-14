@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have been truthful all along the way. The truth is more interesting, and if you tell the truth you never have to cover your tracks." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "Pretending is not just play. Pretending is imagined possibility. Pretending, or acting, is a very valuable life skill and we do it all the time." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "I am not afraid of storms, for I am learning how to sail my ship." <br> &emsp;&emsp;&emsp; <i>-by Louisa May Alcott</i> 
+ 2.  "Lasting change is a series of compromises. And compromise is all right, as long your values don't change." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 3.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 3.  "Do not trust all men, but trust men of worth; the former course is silly, the latter a mark of prudence." <br> &emsp;&emsp;&emsp; <i>-by Democritus</i> 
 
- 4.  "Man does not live by words alone, despite the fact that sometimes he has to eat them." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
+ 4.  "To be a saint is the exception; to be upright is the rule. Err, falter, sin, but be upright. To commit the least possible sin is the law for man. Sin is a gravitation." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
