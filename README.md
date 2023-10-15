@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Pretending is not just play. Pretending is imagined possibility. Pretending, or acting, is a very valuable life skill and we do it all the time." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
 
- 2.  "Lasting change is a series of compromises. And compromise is all right, as long your values don't change." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 2.  "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 
- 3.  "Do not trust all men, but trust men of worth; the former course is silly, the latter a mark of prudence." <br> &emsp;&emsp;&emsp; <i>-by Democritus</i> 
+ 3.  "I am in earnest; I will not equivocate; I will not excuse; I will not retreat a single inch; and I will be heard." <br> &emsp;&emsp;&emsp; <i>-by William Lloyd Garrison</i> 
 
- 4.  "To be a saint is the exception; to be upright is the rule. Err, falter, sin, but be upright. To commit the least possible sin is the law for man. Sin is a gravitation." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 4.  "There was a definite process by which one made people into friends, and it involved talking to them and listening to them for hours at a time." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
