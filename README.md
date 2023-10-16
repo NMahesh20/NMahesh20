@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
+ 1.  "The Past is to be respected and acknoledged, but not to be worshiped. It is our future in which we will find our greatness." <br> &emsp;&emsp;&emsp; <i>-by Pierre Trudeau</i> 
 
- 2.  "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
+ 2.  "If you can't do what you want, do what you can." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "I am in earnest; I will not equivocate; I will not excuse; I will not retreat a single inch; and I will be heard." <br> &emsp;&emsp;&emsp; <i>-by William Lloyd Garrison</i> 
+ 3.  "Let us so live that when we come to die even the undertaker will be sorry." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "There was a definite process by which one made people into friends, and it involved talking to them and listening to them for hours at a time." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
+ 4.  "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
