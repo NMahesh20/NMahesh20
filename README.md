@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The Past is to be respected and acknoledged, but not to be worshiped. It is our future in which we will find our greatness." <br> &emsp;&emsp;&emsp; <i>-by Pierre Trudeau</i> 
+ 1.  "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "If you can't do what you want, do what you can." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Summer afternoon - Summer afternoon... the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
 
- 3.  "Let us so live that when we come to die even the undertaker will be sorry." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "To believe in God or in a guiding force because someone tells you to is the height of stupidity. We are given senses to receive our information within. With our own eyes we see, and with our own skin we feel. With our intelligence, it is intended that we understand. But each person must puzzle it out for himself or herself." <br> &emsp;&emsp;&emsp; <i>-by Sophy Burnham</i> 
 
- 4.  "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
+ 4.  "It is best to do things systematically, since we are only human, and disorder is our worst enemy." <br> &emsp;&emsp;&emsp; <i>-by Hesiod</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
