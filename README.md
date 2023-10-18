@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "Your whole life people tell you to do what you love. But if you gotta do something else to pay the bills, you don't automatically have to be miserable." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 2.  "Summer afternoon - Summer afternoon... the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
+ 2.  "Read at least one book a month. This is self-serving, obviously. It's a proven fact that people who read buy more books than people who don't read. In truth, I wish you'd read ten books a month, or at least buy that many." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 3.  "To believe in God or in a guiding force because someone tells you to is the height of stupidity. We are given senses to receive our information within. With our own eyes we see, and with our own skin we feel. With our intelligence, it is intended that we understand. But each person must puzzle it out for himself or herself." <br> &emsp;&emsp;&emsp; <i>-by Sophy Burnham</i> 
+ 3.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 4.  "It is best to do things systematically, since we are only human, and disorder is our worst enemy." <br> &emsp;&emsp;&emsp; <i>-by Hesiod</i> 
+ 4.  "Tao. Some of us look for the Way in opium and some in God, some of us in whiskey and some in love. It is all the same Way and it leads nowhither." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
