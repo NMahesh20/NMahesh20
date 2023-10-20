@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes ya gotta do stuff 'cause it's expected of ya, not 'cause of anything else." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "I live in the present due to the constraints of the Space-Time Continuum." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
 
- 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
+ 2.  "When people think the world of you, be careful with them." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "He who would travel happily must travel light." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
+ 3.  "Never do today what you can put off till tomorrow. Delay may give clearer light as to what is best to be done." <br> &emsp;&emsp;&emsp; <i>-by Aaron Burr</i> 
 
- 4.  "There is no den in the wide world to hide a rogue. Commit a crime and the earth is made of glass. Commit a crime, and it seems as if a coat of snow fell on the ground, such as reveals in the woods the track of every partridge, and fox, and squirrel." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "To me, old age is always 15 years older than I am." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
