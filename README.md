@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I live in the present due to the constraints of the Space-Time Continuum." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "If you forgo your plan, you also have to forgo fear." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "When people think the world of you, be careful with them." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Holding onto anger is like grasping onto a hot coal with the intent of throwing it at someone else. You are the one who gets burned." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 3.  "Never do today what you can put off till tomorrow. Delay may give clearer light as to what is best to be done." <br> &emsp;&emsp;&emsp; <i>-by Aaron Burr</i> 
+ 3.  "We can't take any credit for our talents. It's how we use them that counts." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
 
- 4.  "To me, old age is always 15 years older than I am." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
+ 4.  "The palest ink is better than the best memory." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
