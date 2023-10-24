@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 1.  "In Kyudo philosophy, you don't aim--you become one with the target. Then, in fact, there's nothing to aim at. I find it works well with women, too. Give it a try." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
 
- 2.  "If your success is not on your own terms, if it looks good to the world but does not feel good in your heart, it is not success at all." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
 
- 3.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
+ 3.  "The way to final freedom is within thy self." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Golden Precepts</i> 
 
- 4.  "Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 4.  "Do give books - religious or otherwise - for Christmas. They're never fattening, seldom sinful, and permanently personal." <br> &emsp;&emsp;&emsp; <i>-by Lenore Hershey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
