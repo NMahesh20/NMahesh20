@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you forgo your plan, you also have to forgo fear." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 2.  "Holding onto anger is like grasping onto a hot coal with the intent of throwing it at someone else. You are the one who gets burned." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
+ 2.  "If your success is not on your own terms, if it looks good to the world but does not feel good in your heart, it is not success at all." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "We can't take any credit for our talents. It's how we use them that counts." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
+ 3.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
 
- 4.  "The palest ink is better than the best memory." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
