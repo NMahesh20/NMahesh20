@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In Kyudo philosophy, you don't aim--you become one with the target. Then, in fact, there's nothing to aim at. I find it works well with women, too. Give it a try." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
+ 1.  "The past with its pleasures, its rewards, its foolishness, it punishments, is there for each of us forever, and it should be." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 
- 2.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
+ 2.  "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it." <br> &emsp;&emsp;&emsp; <i>-by Starline X. Hodge</i> 
 
- 3.  "The way to final freedom is within thy self." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Golden Precepts</i> 
+ 3.  "I looked always outside of myself to see what I could make the world give me instead of looking within myself to see what was there." <br> &emsp;&emsp;&emsp; <i>-by Belle Livingstone</i> 
 
- 4.  "Do give books - religious or otherwise - for Christmas. They're never fattening, seldom sinful, and permanently personal." <br> &emsp;&emsp;&emsp; <i>-by Lenore Hershey</i> 
+ 4.  "It is by acts and not by ideas that people live." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
