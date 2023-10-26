@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The past with its pleasures, its rewards, its foolishness, it punishments, is there for each of us forever, and it should be." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 1.  "I know love and lust don't always keep the same company." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
 
- 2.  "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it." <br> &emsp;&emsp;&emsp; <i>-by Starline X. Hodge</i> 
+ 2.  "Mach-S, the speed at which stress can't keep up, is simply forward motion. But it has to be self- propelled. Note that people in cars are still stressed." <br> &emsp;&emsp;&emsp; <i>-by Jef Mallett</i> 
 
- 3.  "I looked always outside of myself to see what I could make the world give me instead of looking within myself to see what was there." <br> &emsp;&emsp;&emsp; <i>-by Belle Livingstone</i> 
+ 3.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
 
- 4.  "It is by acts and not by ideas that people live." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 4.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
