@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know love and lust don't always keep the same company." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
+ 1.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
 
- 2.  "Mach-S, the speed at which stress can't keep up, is simply forward motion. But it has to be self- propelled. Note that people in cars are still stressed." <br> &emsp;&emsp;&emsp; <i>-by Jef Mallett</i> 
+ 2.  "I think of a hero as someone who understands the degree of responsibility that comes with his freedom." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
 
- 3.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
+ 3.  "Those who don't know how to weep with their whole heart, don't know how to laugh either." <br> &emsp;&emsp;&emsp; <i>-by Golda Meir</i> 
 
- 4.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
+ 4.  "Nothing in the world can take the place of Persistence.  Talent will not; nothing is more common than unsuccessful men with talent.  Genius will not; unrewarded genius is almost a proverb.  Education will not; the world is full of educated derelicts.  Persistence and determination alone are omnipotent. The slogan 'Press On' has solved and always will solve the problems of the human race." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
