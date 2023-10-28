@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
+ 1.  "We none of us expect to be in smooth water all our days." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "I think of a hero as someone who understands the degree of responsibility that comes with his freedom." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
+ 2.  "It is very difficult to know people and I don't think one can ever really know any but one's own countrymen. For men and women are not only themselves; they are also the region in which they are born, the city apartment or the farm in which they learnt to walk, the games they played as children, the old wives' tales they overheard, the food they ate, the schools they attended, the sports they followed, the poets they read, and the God they believed in. It is all these things that have made them what they are, and these are the things that you can't come to know by hearsay, you can only know them if you have lived them." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 3.  "Those who don't know how to weep with their whole heart, don't know how to laugh either." <br> &emsp;&emsp;&emsp; <i>-by Golda Meir</i> 
+ 3.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 4.  "Nothing in the world can take the place of Persistence.  Talent will not; nothing is more common than unsuccessful men with talent.  Genius will not; unrewarded genius is almost a proverb.  Education will not; the world is full of educated derelicts.  Persistence and determination alone are omnipotent. The slogan 'Press On' has solved and always will solve the problems of the human race." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
+ 4.  "This is pretty much what journals are all about, at least to me. I knew as I wrote them that even though they provided an excellent place for brain (and heart, and psyche) dump, they were mainly a map of me." <br> &emsp;&emsp;&emsp; <i>-by Colleen Wainwright</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
