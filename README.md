@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm struck by the insidious, computer-driven tendency to take things out of the domain of muscular activity and put them into the domain of mental activity. The transfer is not paying off. Sure, muscles are unreliable, but they represent several million years of accumulated finesse." <br> &emsp;&emsp;&emsp; <i>-by Brian Eno</i> 
+ 1.  "Until you make peace with who you are, you'll never be content with what you have." <br> &emsp;&emsp;&emsp; <i>-by Doris Mortman</i> 
 
- 2.  "I am not afraid of the pen, or the scaffold, or the sword. I will tell the truth wherever I please." <br> &emsp;&emsp;&emsp; <i>-by Mother Jones</i> 
+ 2.  "Always laugh when you can. It is cheap medicine." <br> &emsp;&emsp;&emsp; <i>-by Lord Byron</i> 
 
- 3.  "Success is following the pattern of life one enjoys most." <br> &emsp;&emsp;&emsp; <i>-by Al Capp</i> 
+ 3.  "If indeed you must be candid, be candid beautifully." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 
- 4.  "He who would leap high must take a long run." <br> &emsp;&emsp;&emsp; <i>-by Danish Proverb</i> 
+ 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
