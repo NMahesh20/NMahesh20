@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Until you make peace with who you are, you'll never be content with what you have." <br> &emsp;&emsp;&emsp; <i>-by Doris Mortman</i> 
+ 1.  "I have you and even if we never meet or ever see each other, we have left our thumbprints in the thick, moist clay of each other's lives." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 2.  "Always laugh when you can. It is cheap medicine." <br> &emsp;&emsp;&emsp; <i>-by Lord Byron</i> 
+ 2.  "Surely there comes a time when counting the cost and paying the price aren't things to think about any more. All that matters is value - the ultimate value of what one does." <br> &emsp;&emsp;&emsp; <i>-by James Hilton</i> 
 
- 3.  "If indeed you must be candid, be candid beautifully." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 3.  "Properly, we should read for power. Man reading should be man intensely alive. The book should be a ball of light in one's hand." <br> &emsp;&emsp;&emsp; <i>-by Ezra Pound</i> 
 
- 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
+ 4.  "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." <br> &emsp;&emsp;&emsp; <i>-by John Quincy Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
