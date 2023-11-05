@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When the mind has once begun to yield to the weakness of superstition, trifles impress it with the force of conviction." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "That's the thing about being a former fat camp champ: when asked if I'd change my past if I could, I always answer no. The pain of being an overweight kid, the humiliation, make you think twice before ever cutting anyone else down." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 2.  "In every aspect of our lives, we are always asking ourselves, How am I of value? What is my worth? Yet I believe that worthiness is our birthright." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 3.  "Not wanting to die was another universal constant, it seemed." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 3.  "Great ability develops and reveals itself increasingly with every new assignment." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 
- 4.  "Journal writing is a voyage to the interior." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "When we are planning for posterity, we ought to remember that virtue is not hereditary." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
