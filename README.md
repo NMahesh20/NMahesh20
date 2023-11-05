@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's the thing about being a former fat camp champ: when asked if I'd change my past if I could, I always answer no. The pain of being an overweight kid, the humiliation, make you think twice before ever cutting anyone else down." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 1.  "Achievable goals are the first step to self improvement." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
 
- 3.  "Great ability develops and reveals itself increasingly with every new assignment." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
 
- 4.  "When we are planning for posterity, we ought to remember that virtue is not hereditary." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 4.  "That which we persist in doing becomes easier, not that the task itself has become easier, but that our ability to perform it has improved." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
