@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Achievable goals are the first step to self improvement." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "You have to be careful who you let define your good." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Miriam Makeba</i> 
+ 2.  "Always be ready to speak your mind and a base man will avoid you." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
+ 3.  "Nobody can give you freedom. Nobody can give you equality or justice or anything. If you're a man, you take it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 4.  "That which we persist in doing becomes easier, not that the task itself has become easier, but that our ability to perform it has improved." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Learning to love yourself is the greatest love of all." <br> &emsp;&emsp;&emsp; <i>-by Michael Masser and Linda Creed</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
