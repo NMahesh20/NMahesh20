@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You have to be careful who you let define your good." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 1.  "That's just the way things go. We meet people, get to know them and then they get up and leave us behind." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Always be ready to speak your mind and a base man will avoid you." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "I have the consolation of having added nothing to my private fortune during my public service, and of retiring with hands clean as they are empty." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 3.  "Nobody can give you freedom. Nobody can give you equality or justice or anything. If you're a man, you take it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 3.  "Anyone can revolt. It is more difficult silently to obey our own inner promptings, and to spend our lives finding sincere and fitting means of expression for our temperament and our gifts." <br> &emsp;&emsp;&emsp; <i>-by Georges Rouault</i> 
 
- 4.  "Learning to love yourself is the greatest love of all." <br> &emsp;&emsp;&emsp; <i>-by Michael Masser and Linda Creed</i> 
+ 4.  "A duty dodged is like a debt unpaid; it is only deferred, and we must come back and settle the account at last." <br> &emsp;&emsp;&emsp; <i>-by Joseph F. Newton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
