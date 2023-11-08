@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's just the way things go. We meet people, get to know them and then they get up and leave us behind." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Human beings have an inalienable right to invent themselves." <br> &emsp;&emsp;&emsp; <i>-by Germaine Greer</i> 
 
- 2.  "I have the consolation of having added nothing to my private fortune during my public service, and of retiring with hands clean as they are empty." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 2.  "Make voyages! - Attempt them! - there's nothing else..." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
 
- 3.  "Anyone can revolt. It is more difficult silently to obey our own inner promptings, and to spend our lives finding sincere and fitting means of expression for our temperament and our gifts." <br> &emsp;&emsp;&emsp; <i>-by Georges Rouault</i> 
+ 3.  "The sweat of hard work is not to be displayed. It is much more graceful to appear favored by the gods." <br> &emsp;&emsp;&emsp; <i>-by Maxine Hong Kingston</i> 
 
- 4.  "A duty dodged is like a debt unpaid; it is only deferred, and we must come back and settle the account at last." <br> &emsp;&emsp;&emsp; <i>-by Joseph F. Newton</i> 
+ 4.  "It's odd that you can get so anesthetized by your own pain or your own problem that you don't quite fully share the hell of someone close to you." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
