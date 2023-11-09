@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Human beings have an inalienable right to invent themselves." <br> &emsp;&emsp;&emsp; <i>-by Germaine Greer</i> 
+ 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Make voyages! - Attempt them! - there's nothing else..." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
+ 2.  "It can be a real struggle to accept that sometimes appearance can be more important than talent or intelligence." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 3.  "The sweat of hard work is not to be displayed. It is much more graceful to appear favored by the gods." <br> &emsp;&emsp;&emsp; <i>-by Maxine Hong Kingston</i> 
+ 3.  "A man does not have to be an angel in order to be a saint." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
 
- 4.  "It's odd that you can get so anesthetized by your own pain or your own problem that you don't quite fully share the hell of someone close to you." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
+ 4.  "I've always followed my father's advice: he told me, first to always keep my word and, second, to never insult anybody unintentionally. If I insult you, you can be goddamn sure I intend to. And, third, he told me not to go around looking for trouble." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
