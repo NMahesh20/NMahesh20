@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Our lives begin to end the day we become silent about things that matter." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 2.  "It can be a real struggle to accept that sometimes appearance can be more important than talent or intelligence." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 2.  "If you are not criticized, you may not be doing much." <br> &emsp;&emsp;&emsp; <i>-by Donald H. Rumsfeld</i> 
 
- 3.  "A man does not have to be an angel in order to be a saint." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
+ 3.  "Don't flatter yourself that friendship authorizes you to say disagreeable things to your intimates. The nearer you come into relation with a person, the more necessary do tact and courtesy become. Except in cases of necessity, which are rare, leave your friend to learn unpleasant things from his enemies; they are ready enough to tell them." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 4.  "I've always followed my father's advice: he told me, first to always keep my word and, second, to never insult anybody unintentionally. If I insult you, you can be goddamn sure I intend to. And, third, he told me not to go around looking for trouble." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 4.  "Rest satisfied with doing well, and leave others to talk of you as they please." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
