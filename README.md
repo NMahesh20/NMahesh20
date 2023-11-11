@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Our lives begin to end the day we become silent about things that matter." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 1.  "Voices that loud are always meant to bully. Do not be bullied. Acts of bravery don't always take place on battlefields. They can take place in your heart, when you have the courage to honor your character, your intellect, your inclinations, and, yes your soul by listening to its clean, clear voice of direction instead of following the muddied messages of a timid world." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 2.  "If you are not criticized, you may not be doing much." <br> &emsp;&emsp;&emsp; <i>-by Donald H. Rumsfeld</i> 
+ 2.  "When I see somebody 'suffering for their art', it%uFFFDs usually a case of them not knowing where that red line is, not knowing where the sovereignty lies." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Don't flatter yourself that friendship authorizes you to say disagreeable things to your intimates. The nearer you come into relation with a person, the more necessary do tact and courtesy become. Except in cases of necessity, which are rare, leave your friend to learn unpleasant things from his enemies; they are ready enough to tell them." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 3.  "One needs to be slow to form convictions, but once formed they must be defended against the heaviest odds." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 4.  "Rest satisfied with doing well, and leave others to talk of you as they please." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 4.  "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what." <br> &emsp;&emsp;&emsp; <i>-by Harper Lee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
