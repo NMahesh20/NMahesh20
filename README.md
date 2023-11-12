@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Voices that loud are always meant to bully. Do not be bullied. Acts of bravery don't always take place on battlefields. They can take place in your heart, when you have the courage to honor your character, your intellect, your inclinations, and, yes your soul by listening to its clean, clear voice of direction instead of following the muddied messages of a timid world." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 1.  "Easy enough to dismiss others' problems when you had none of your own." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "When I see somebody 'suffering for their art', it%uFFFDs usually a case of them not knowing where that red line is, not knowing where the sovereignty lies." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "One needs to be slow to form convictions, but once formed they must be defended against the heaviest odds." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 4.  "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what." <br> &emsp;&emsp;&emsp; <i>-by Harper Lee</i> 
+ 4.  "A friend told me that each morning when we get up we have to decide whether we are going to save or savor the world. I don't think that is the decision. It's not an either-or, save or savor. We have to do both, save and savor the world." <br> &emsp;&emsp;&emsp; <i>-by Kate Clinton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
