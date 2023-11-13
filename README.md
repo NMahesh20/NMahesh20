@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Easy enough to dismiss others' problems when you had none of your own." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "One single grateful thought raised to heaven is the most perfect prayer." <br> &emsp;&emsp;&emsp; <i>-by G. E. Lessing</i> 
 
- 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Be bold and mighty powers will come to your aid." <br> &emsp;&emsp;&emsp; <i>-by Basil King</i> 
 
- 3.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 3.  "The great French Marshall Lyautey once asked his gardener to plant a tree. The gardener objected that the tree was slow growing and would not reach maturity for 100 years. The Marshall replied, 'In that case, there is no time to lose; plant it this afternoon!'" <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 4.  "A friend told me that each morning when we get up we have to decide whether we are going to save or savor the world. I don't think that is the decision. It's not an either-or, save or savor. We have to do both, save and savor the world." <br> &emsp;&emsp;&emsp; <i>-by Kate Clinton</i> 
+ 4.  "If you think you can, you can. And if you think you can't, you're right." <br> &emsp;&emsp;&emsp; <i>-by Mary Kay Ash</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
