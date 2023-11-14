@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One single grateful thought raised to heaven is the most perfect prayer." <br> &emsp;&emsp;&emsp; <i>-by G. E. Lessing</i> 
+ 1.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Be bold and mighty powers will come to your aid." <br> &emsp;&emsp;&emsp; <i>-by Basil King</i> 
+ 2.  "It was a creed written into the founding documents that declared the destiny of a nation./ Yes we can./ It was whispered by slaves and abolitionists as they blazed a trail towards freedom through the darkest of nights./ Yes we can./ It was sung by immigrants as they struck out from distant shores and pioneers who pushed westward against an unforgiving wilderness./ Yes we can./" <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 3.  "The great French Marshall Lyautey once asked his gardener to plant a tree. The gardener objected that the tree was slow growing and would not reach maturity for 100 years. The Marshall replied, 'In that case, there is no time to lose; plant it this afternoon!'" <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "When a dog runs at you, whistle for him." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "If you think you can, you can. And if you think you can't, you're right." <br> &emsp;&emsp;&emsp; <i>-by Mary Kay Ash</i> 
+ 4.  "In the end, you'll know which people really love you. They're the ones who see you for who you are and, no matter what, always find a way to be at your side." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
