@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "Interestingly, from an identity standpoint, what does it mean to have a disability? Pamela Anderson has more prosthetic in her body than I do and nobody calls her disabled." <br> &emsp;&emsp;&emsp; <i>-by Aimee Mullins</i> 
 
- 2.  "It was a creed written into the founding documents that declared the destiny of a nation./ Yes we can./ It was whispered by slaves and abolitionists as they blazed a trail towards freedom through the darkest of nights./ Yes we can./ It was sung by immigrants as they struck out from distant shores and pioneers who pushed westward against an unforgiving wilderness./ Yes we can./" <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "I lived what most people call the good life. I was happy, but deep inside I always felt that, with the short amount of time we are given to live and love in this world, we spend too much time loving things instead of people." <br> &emsp;&emsp;&emsp; <i>-by Antonia Brenner</i> 
 
- 3.  "When a dog runs at you, whistle for him." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "I have witnessed the softening of the hardest of hearts by a simple smile." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
 
- 4.  "In the end, you'll know which people really love you. They're the ones who see you for who you are and, no matter what, always find a way to be at your side." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 4.  "Education is when you read the fine print. Experience is what you get if you don't." <br> &emsp;&emsp;&emsp; <i>-by Pete Seeger</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
