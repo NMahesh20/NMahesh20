@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Interestingly, from an identity standpoint, what does it mean to have a disability? Pamela Anderson has more prosthetic in her body than I do and nobody calls her disabled." <br> &emsp;&emsp;&emsp; <i>-by Aimee Mullins</i> 
+ 1.  "People are all over the world telling their one dramatic story and how their life has turned into getting over this one event. Now their lives are more about the past than their future." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "I lived what most people call the good life. I was happy, but deep inside I always felt that, with the short amount of time we are given to live and love in this world, we spend too much time loving things instead of people." <br> &emsp;&emsp;&emsp; <i>-by Antonia Brenner</i> 
+ 2.  "I am here and you will know that I am the best and will hear me." <br> &emsp;&emsp;&emsp; <i>-by Leontyne Price</i> 
 
- 3.  "I have witnessed the softening of the hardest of hearts by a simple smile." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
+ 3.  "Keep cool and you command everybody." <br> &emsp;&emsp;&emsp; <i>-by Louis de Saint-Just</i> 
 
- 4.  "Education is when you read the fine print. Experience is what you get if you don't." <br> &emsp;&emsp;&emsp; <i>-by Pete Seeger</i> 
+ 4.  "You cannot depend on your eyes when your imagination is out of focus." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
