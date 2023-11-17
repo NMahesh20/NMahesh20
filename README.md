@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People are all over the world telling their one dramatic story and how their life has turned into getting over this one event. Now their lives are more about the past than their future." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "We are told that people stay in love because of chemistry or because they remain intrigued with each other, because of many kindnesses, because of luck... But part of it has got to be forgiveness and gratefulness." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 2.  "I am here and you will know that I am the best and will hear me." <br> &emsp;&emsp;&emsp; <i>-by Leontyne Price</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "Keep cool and you command everybody." <br> &emsp;&emsp;&emsp; <i>-by Louis de Saint-Just</i> 
+ 3.  "The power to bring me out of solitude - or to push me back into it - had never belonged to another person. It was mine and only mine." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 4.  "You cannot depend on your eyes when your imagination is out of focus." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
