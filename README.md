@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are told that people stay in love because of chemistry or because they remain intrigued with each other, because of many kindnesses, because of luck... But part of it has got to be forgiveness and gratefulness." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 1.  "It's all knowing what to start with. If you start in the right place and follow all the steps, you will get to the right end." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "The only alternative to coexistence is codestruction." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 3.  "The power to bring me out of solitude - or to push me back into it - had never belonged to another person. It was mine and only mine." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 3.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 
- 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
+ 4.  "The crowd gives the leader new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
