@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's all knowing what to start with. If you start in the right place and follow all the steps, you will get to the right end." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
+ 1.  "This life gets bitterly cold. Sometimes you just need to cling to the person that you can claw your way out of the dark with." <br> &emsp;&emsp;&emsp; <i>-by Chris Dingess</i> 
 
- 2.  "The only alternative to coexistence is codestruction." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
 
- 3.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 3.  "No man is justified in doing evil on the ground of expediency." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 4.  "The crowd gives the leader new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
+ 4.  "The only cure for grief is action." <br> &emsp;&emsp;&emsp; <i>-by George Henry Lewes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
