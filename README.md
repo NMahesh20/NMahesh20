@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "This life gets bitterly cold. Sometimes you just need to cling to the person that you can claw your way out of the dark with." <br> &emsp;&emsp;&emsp; <i>-by Chris Dingess</i> 
+ 1.  "Realize that true happiness lies within you. Waste no time and effort searching for peace and contentment and joy in the world outside. Remember that there is no happiness in having or in getting, but only in giving. Reach out. Share. Smile. Hug. Happiness is a perfume you cannot pour on others without getting a few drops on yourself." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
+ 2.  "Don't look for more honor than your learning merits." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 3.  "No man is justified in doing evil on the ground of expediency." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 3.  "Measure not the work until the day's out and the labor done." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Barrett Browning</i> 
 
- 4.  "The only cure for grief is action." <br> &emsp;&emsp;&emsp; <i>-by George Henry Lewes</i> 
+ 4.  "The best things carried to excess are wrong." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
