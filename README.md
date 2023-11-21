@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Realize that true happiness lies within you. Waste no time and effort searching for peace and contentment and joy in the world outside. Remember that there is no happiness in having or in getting, but only in giving. Reach out. Share. Smile. Hug. Happiness is a perfume you cannot pour on others without getting a few drops on yourself." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Don't look for more honor than your learning merits." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 2.  "Our children change us... whether they live or not." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Measure not the work until the day's out and the labor done." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Barrett Browning</i> 
+ 3.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 4.  "The best things carried to excess are wrong." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
+ 4.  "A compliment is a gift, not to be thrown away carelessly, unless you want to hurt the giver." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Hamilton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
