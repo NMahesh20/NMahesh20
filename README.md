@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Breathe. Let go. And remind yourself that this very moment is the only one you know you have for sure." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Without the capacity to provide its own information, the mind drifts into randomness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "Our children change us... whether they live or not." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Givers have to set limits because takers rarely do." <br> &emsp;&emsp;&emsp; <i>-by Irma Kurtz</i> 
 
- 3.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 3.  "When life seems chaotic, you don't need people giving you easy answers or cheap promises. There might not be any answers to your problems. What you need is a safe place where you can bounce with people who have taken some bad hops of their own." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "A compliment is a gift, not to be thrown away carelessly, unless you want to hurt the giver." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Hamilton</i> 
+ 4.  "If all the year were playing holidays; To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
