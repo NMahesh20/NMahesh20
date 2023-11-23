@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Without the capacity to provide its own information, the mind drifts into randomness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "Often we can achieve an even better result when we stumble yet are willing to start over, when we don't give up after a mistake, when something doesn't come easily but we throw ourselves into trying, when we're not afraid to appear less than perfectly polished." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 2.  "Givers have to set limits because takers rarely do." <br> &emsp;&emsp;&emsp; <i>-by Irma Kurtz</i> 
+ 2.  "The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. What you'll discover will be wonderful. What you'll discover will be yourself." <br> &emsp;&emsp;&emsp; <i>-by Alan Alda</i> 
 
- 3.  "When life seems chaotic, you don't need people giving you easy answers or cheap promises. There might not be any answers to your problems. What you need is a safe place where you can bounce with people who have taken some bad hops of their own." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "When I'm trusting and being myself... everything in my life reflects this by falling into place easily, often miraculously." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
 
- 4.  "If all the year were playing holidays; To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "Be gentle with the young." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
