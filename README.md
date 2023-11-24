@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Often we can achieve an even better result when we stumble yet are willing to start over, when we don't give up after a mistake, when something doesn't come easily but we throw ourselves into trying, when we're not afraid to appear less than perfectly polished." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 1.  "Opportunity is rare, and a wise man will never let it go by him." <br> &emsp;&emsp;&emsp; <i>-by Bayard Taylor</i> 
 
- 2.  "The creative is the place where no one else has ever been. You have to leave the city of your comfort and go into the wilderness of your intuition. What you'll discover will be wonderful. What you'll discover will be yourself." <br> &emsp;&emsp;&emsp; <i>-by Alan Alda</i> 
+ 2.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "When I'm trusting and being myself... everything in my life reflects this by falling into place easily, often miraculously." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
+ 3.  "What helps luck is a habit of watching for opportunities, of having a patient, but restless mind, of sacrificing one's ease or vanity, of uniting a love of detail to foresight, and of passing through hard times bravely and cheerfully." <br> &emsp;&emsp;&emsp; <i>-by Charles Victor Cherbuliez</i> 
 
- 4.  "Be gentle with the young." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
+ 4.  "Know how to listen, and you will profit even from those who talk badly." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
