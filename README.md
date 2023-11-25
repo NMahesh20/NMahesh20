@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Opportunity is rare, and a wise man will never let it go by him." <br> &emsp;&emsp;&emsp; <i>-by Bayard Taylor</i> 
+ 1.  "The first duty of a leader is to make himself be loved without courting love. To be loved without 'playing up' to anyone - even to himself." <br> &emsp;&emsp;&emsp; <i>-by Andre Malraux</i> 
 
- 2.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "So act that your principle of action might safely be made a law for the whole world." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Kant</i> 
 
- 3.  "What helps luck is a habit of watching for opportunities, of having a patient, but restless mind, of sacrificing one's ease or vanity, of uniting a love of detail to foresight, and of passing through hard times bravely and cheerfully." <br> &emsp;&emsp;&emsp; <i>-by Charles Victor Cherbuliez</i> 
+ 3.  "If you bow at all, bow low." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Know how to listen, and you will profit even from those who talk badly." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
