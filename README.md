@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The first duty of a leader is to make himself be loved without courting love. To be loved without 'playing up' to anyone - even to himself." <br> &emsp;&emsp;&emsp; <i>-by Andre Malraux</i> 
+ 1.  "An author spends months writing a book, and maybe puts his heart's blood into it, and then it lies about unread till the reader has nothing else in the world to do." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "So act that your principle of action might safely be made a law for the whole world." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Kant</i> 
+ 2.  "I'm the only person I know that's lost a quarter of a billion dollars in one year.... It's very character-building." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "If you bow at all, bow low." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "Good company and good discourse are the very sinews of virtue." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
 
- 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
