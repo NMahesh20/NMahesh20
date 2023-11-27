@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An author spends months writing a book, and maybe puts his heart's blood into it, and then it lies about unread till the reader has nothing else in the world to do." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "There comes a point in life when you realize everything you know about yourself, it's all just conditioning. It's the rare man who truly know who he is." <br> &emsp;&emsp;&emsp; <i>-by Brian Buckner</i> 
 
- 2.  "I'm the only person I know that's lost a quarter of a billion dollars in one year.... It's very character-building." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "If you're afraid to let someone else see your weakness, take heart: Nobody's perfect. Besides, your attempts to hide your flaws don't work as well as you think they do." <br> &emsp;&emsp;&emsp; <i>-by Julie Morgenstern</i> 
 
- 3.  "Good company and good discourse are the very sinews of virtue." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
+ 3.  "Live as brave men; and if fortune is adverse, front its blows with brave hearts." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 
- 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
+ 4.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
