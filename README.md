@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Facts or opinions which are to pass through the hands of so many, to be misconceived by folly in one, and ignorance in another, can hardly have much truth left." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Life is full of surprises and and serendipity. Being open to unexpected turns in the road is an important part of success. If you try to plan every step, you may miss those wonderful twists and turns. Just find your next adventure-do it well, enjoy it-and then, not now, think about what comes next." <br> &emsp;&emsp;&emsp; <i>-by Condoleeza Rice</i> 
 
- 2.  "To be 70 years young is sometimes far more cheerful and hopeful than to be 40 years old." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 2.  "Even in the darkness, every color can be found. And every day of rain brings water flowing to things growing in the ground." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon, Zack Whedon, Maurissa Tancharoen, and Jed Whedon</i> 
 
- 3.  "Remember that happiness is a way of travel - not a destination." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Goodman</i> 
+ 3.  "You find yourself refreshed by the presence of cheerful people. Why not make an honest effort to confer that pleasure on others? Half the battle is gained if you never allow yourself to say anything gloomy." <br> &emsp;&emsp;&emsp; <i>-by Lydia M. Child</i> 
 
- 4.  "Be more prompt to go to a friend in adversity than in prosperity." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
+ 4.  "I have always thought the actions of men the best interpreters of their thoughts." <br> &emsp;&emsp;&emsp; <i>-by John Locke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
