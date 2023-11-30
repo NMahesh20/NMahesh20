@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is full of surprises and and serendipity. Being open to unexpected turns in the road is an important part of success. If you try to plan every step, you may miss those wonderful twists and turns. Just find your next adventure-do it well, enjoy it-and then, not now, think about what comes next." <br> &emsp;&emsp;&emsp; <i>-by Condoleeza Rice</i> 
+ 1.  "Things don't fall apart. Things hold. Lines connect in thin ways that last and last and lives become generations made out of pictures and words just kept." <br> &emsp;&emsp;&emsp; <i>-by Lucille Clifton</i> 
 
- 2.  "Even in the darkness, every color can be found. And every day of rain brings water flowing to things growing in the ground." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon, Zack Whedon, Maurissa Tancharoen, and Jed Whedon</i> 
+ 2.  "Most of the basic truths of life sound absurd at first hearing." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Goudge</i> 
 
- 3.  "You find yourself refreshed by the presence of cheerful people. Why not make an honest effort to confer that pleasure on others? Half the battle is gained if you never allow yourself to say anything gloomy." <br> &emsp;&emsp;&emsp; <i>-by Lydia M. Child</i> 
+ 3.  "Everything that I understand, I understand only because I love." <br> &emsp;&emsp;&emsp; <i>-by Leo Tolstoy</i> 
 
- 4.  "I have always thought the actions of men the best interpreters of their thoughts." <br> &emsp;&emsp;&emsp; <i>-by John Locke</i> 
+ 4.  "When one loses the deep intimate relationship with nature, then temples, mosques and churches become important." <br> &emsp;&emsp;&emsp; <i>-by Krishnamurti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
