@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Things don't fall apart. Things hold. Lines connect in thin ways that last and last and lives become generations made out of pictures and words just kept." <br> &emsp;&emsp;&emsp; <i>-by Lucille Clifton</i> 
+ 1.  "Everything is a drug. Family, art, causes, new shoes... We're all just tweaking our chem to avoid the void." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Most of the basic truths of life sound absurd at first hearing." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Goudge</i> 
+ 2.  "Life is an adventure in forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
 
- 3.  "Everything that I understand, I understand only because I love." <br> &emsp;&emsp;&emsp; <i>-by Leo Tolstoy</i> 
+ 3.  "Before you begin a thing, remind yourself that difficulties and delays quite impossible to foresee are ahead. If you could see them clearly, naturally you could do a great deal to get rid of them but you can't. You can only see one thing clearly and that is your goal. Form a mental vision of that and cling to it through thick and thin." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
 
- 4.  "When one loses the deep intimate relationship with nature, then temples, mosques and churches become important." <br> &emsp;&emsp;&emsp; <i>-by Krishnamurti</i> 
+ 4.  "Aim at the sun, and you may not reach it; but your arrow will fly far higher than if aimed at an object on a level with yourself." <br> &emsp;&emsp;&emsp; <i>-by Joel Hawes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
