@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything is a drug. Family, art, causes, new shoes... We're all just tweaking our chem to avoid the void." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "Some tourists think Amsterdam is a city of sin, but in truth it is a city of freedom. And in freedom, most people find sin." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Life is an adventure in forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
+ 2.  "Mountains inspire awe in any human person who has a soul. They remind us of our frailty, our unimportance, of the briefness of our span upon this earth. They touch the heavens, and sail serenely at an altitude beyond even the imaginings of a mere mortal." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Before you begin a thing, remind yourself that difficulties and delays quite impossible to foresee are ahead. If you could see them clearly, naturally you could do a great deal to get rid of them but you can't. You can only see one thing clearly and that is your goal. Form a mental vision of that and cling to it through thick and thin." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
+ 3.  "A hundred objective measurements didn't sum the worth of a garden; only the delight of its users did that. Only the use made it mean something." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Aim at the sun, and you may not reach it; but your arrow will fly far higher than if aimed at an object on a level with yourself." <br> &emsp;&emsp;&emsp; <i>-by Joel Hawes</i> 
+ 4.  "Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
