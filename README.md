@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Some tourists think Amsterdam is a city of sin, but in truth it is a city of freedom. And in freedom, most people find sin." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Inner wisdom is more important than wealth. The more you spend it, the more you gain." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Mountains inspire awe in any human person who has a soul. They remind us of our frailty, our unimportance, of the briefness of our span upon this earth. They touch the heavens, and sail serenely at an altitude beyond even the imaginings of a mere mortal." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "Keep your fears to yourself, but share your courage with others." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 3.  "A hundred objective measurements didn't sum the worth of a garden; only the delight of its users did that. Only the use made it mean something." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "You can't build a reputation on what you are going to do." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
 
- 4.  "Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 4.  "The self is not something ready-made, but something in continuous formation through choice of action." <br> &emsp;&emsp;&emsp; <i>-by John Dewey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
