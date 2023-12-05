@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If Spirituality is that you're humble in the face of forces greater than you and you believe those forces are more inclined toward being good than being bad, then I'm a spiritual person." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 1.  "You never can see into someone else's marriage." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 
- 2.  "Personal happiness lies in knowing that life is not a checklist of acquisition or achievement. Your qualifications are not your life." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
 
- 3.  "Employment is the surest antidote to sorrow." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 3.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
 
- 4.  "If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don`t appreciate the moment until it's passed." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
