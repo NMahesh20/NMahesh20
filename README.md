@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You never can see into someone else's marriage." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 1.  "The only comfort comes in thinking about how nice it was to know them, and how nice it was to brush against goodness for a season." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
+ 2.  "You've got to make a conscious choice every day to shed the old - whatever 'the old' means for you." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
 
- 3.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
+ 3.  "Blessed are those who can give without remembering, and take without forgetting." <br> &emsp;&emsp;&emsp; <i>-by Princess Elizabeth Asquith Bibesco</i> 
 
- 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 4.  "You may be disappointed if you fail, but you are doomed if you don't try." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
