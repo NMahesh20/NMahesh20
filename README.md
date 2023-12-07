@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only comfort comes in thinking about how nice it was to know them, and how nice it was to brush against goodness for a season." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "Change happens by listening and then starting a dialogue with the people who are doing something you don't believe is right." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "You've got to make a conscious choice every day to shed the old - whatever 'the old' means for you." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
+ 2.  "It's not having what you want/ It's wanting what you've got." <br> &emsp;&emsp;&emsp; <i>-by Sheryl Crow</i> 
 
- 3.  "Blessed are those who can give without remembering, and take without forgetting." <br> &emsp;&emsp;&emsp; <i>-by Princess Elizabeth Asquith Bibesco</i> 
+ 3.  "Personality can open doors, but only character can keep them open." <br> &emsp;&emsp;&emsp; <i>-by Elmer G. Letterman</i> 
 
- 4.  "You may be disappointed if you fail, but you are doomed if you don't try." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
+ 4.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
