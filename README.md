@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Change happens by listening and then starting a dialogue with the people who are doing something you don't believe is right." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "For purposes of action nothing is more useful than narrowness of thought combined with energy of will." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
 
- 2.  "It's not having what you want/ It's wanting what you've got." <br> &emsp;&emsp;&emsp; <i>-by Sheryl Crow</i> 
+ 2.  "It still holds true that man is most uniquely human when he turns obstacles into opportunities." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 3.  "Personality can open doors, but only character can keep them open." <br> &emsp;&emsp;&emsp; <i>-by Elmer G. Letterman</i> 
+ 3.  "History, despite its wrenching pain, cannot be unlived, however, if faced with courage, need not be lived again." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
 
- 4.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "Power never takes a back step - only in the face of more power." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
