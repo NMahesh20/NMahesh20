@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For purposes of action nothing is more useful than narrowness of thought combined with energy of will." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
+ 1.  "I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
 
- 2.  "It still holds true that man is most uniquely human when he turns obstacles into opportunities." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 2.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
 
- 3.  "History, despite its wrenching pain, cannot be unlived, however, if faced with courage, need not be lived again." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
+ 3.  "The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing." <br> &emsp;&emsp;&emsp; <i>-by Eric Berne</i> 
 
- 4.  "Power never takes a back step - only in the face of more power." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 4.  "Whatever you are, be a good one." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
