@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 1.  "I love that sometimes we need to go to the opposite side of the world to realize assumptions that we didn't even know we had and realize that the opposite may also be true." <br> &emsp;&emsp;&emsp; <i>-by Derek Sivers</i> 
 
- 2.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
+ 2.  "You can go a long way with bad legs and a good head." <br> &emsp;&emsp;&emsp; <i>-by Gavin McDonald</i> 
 
- 3.  "The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing." <br> &emsp;&emsp;&emsp; <i>-by Eric Berne</i> 
+ 3.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 4.  "Whatever you are, be a good one." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "The weak can never forgive. Forgiveness is the attribute of the strong." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
