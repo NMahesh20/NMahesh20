@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I love that sometimes we need to go to the opposite side of the world to realize assumptions that we didn't even know we had and realize that the opposite may also be true." <br> &emsp;&emsp;&emsp; <i>-by Derek Sivers</i> 
+ 1.  "No great improvements in the lot of mankind are possible until a great change takes place in the fundamental constitution of their modes of thought." <br> &emsp;&emsp;&emsp; <i>-by John Stuart Mill</i> 
 
- 2.  "You can go a long way with bad legs and a good head." <br> &emsp;&emsp;&emsp; <i>-by Gavin McDonald</i> 
+ 2.  "If you aren't fired with enthusiasm, you will be fired with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
 
- 3.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 3.  "Never be a cynic, even a gentle one. Never help out a sneer, even at the devil." <br> &emsp;&emsp;&emsp; <i>-by Vachel Lindsay</i> 
 
- 4.  "The weak can never forgive. Forgiveness is the attribute of the strong." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
