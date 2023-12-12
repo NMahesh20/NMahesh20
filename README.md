@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No great improvements in the lot of mankind are possible until a great change takes place in the fundamental constitution of their modes of thought." <br> &emsp;&emsp;&emsp; <i>-by John Stuart Mill</i> 
+ 1.  "Don't believe in imagining things different from what they really are. When the Lord puts us in certain circumstances He doesn't mean for us to imagine them away." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "If you aren't fired with enthusiasm, you will be fired with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
+ 2.  "Chicken exits are self-sabotage. They give you a false explanation for why you don't have something you want." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 3.  "Never be a cynic, even a gentle one. Never help out a sneer, even at the devil." <br> &emsp;&emsp;&emsp; <i>-by Vachel Lindsay</i> 
+ 3.  "To accomplish great things we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 
- 4.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 4.  "Concern for someone else was a good remedy for taking the mind off one's own troubles." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
