@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't believe in imagining things different from what they really are. When the Lord puts us in certain circumstances He doesn't mean for us to imagine them away." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "People don't have to like or support you, so you always have to say thank you." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
 
- 2.  "Chicken exits are self-sabotage. They give you a false explanation for why you don't have something you want." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 2.  "There is an alchemy in sorrow. It can be transmuted into wisdom, which, if it does not bring joy, can yet bring happiness." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 
- 3.  "To accomplish great things we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 3.  "Each success only buys an admission ticket to a more difficult problem." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
 
- 4.  "Concern for someone else was a good remedy for taking the mind off one's own troubles." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 4.  "Life shrinks or expands in proportion to one's courage." <br> &emsp;&emsp;&emsp; <i>-by Anais Nin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
