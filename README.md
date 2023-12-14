@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People don't have to like or support you, so you always have to say thank you." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 1.  "Death likes it when you play hard to get." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "There is an alchemy in sorrow. It can be transmuted into wisdom, which, if it does not bring joy, can yet bring happiness." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 2.  "I don't want to sound Pollyannaish, but I hope that out of a tragedy like this something good will come. I hope we understand we're one family." <br> &emsp;&emsp;&emsp; <i>-by Madeleine Albright</i> 
 
- 3.  "Each success only buys an admission ticket to a more difficult problem." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
+ 3.  "Wisdom is knowing what to do next; virtue is doing it." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
 
- 4.  "Life shrinks or expands in proportion to one's courage." <br> &emsp;&emsp;&emsp; <i>-by Anais Nin</i> 
+ 4.  "An idea is salvation by imagination." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
