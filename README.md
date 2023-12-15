@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Death likes it when you play hard to get." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
 
- 2.  "I don't want to sound Pollyannaish, but I hope that out of a tragedy like this something good will come. I hope we understand we're one family." <br> &emsp;&emsp;&emsp; <i>-by Madeleine Albright</i> 
+ 2.  "It's amazing how quickly nature consumes human places after we turn our backs on them. Life is a hungry thing." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "Wisdom is knowing what to do next; virtue is doing it." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
+ 3.  "If we value the pursuit of knowledge, we must be free to follow wherever that search may lead us. The free mind is not a barking dog, to be tethered on a ten-foot chain." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
 
- 4.  "An idea is salvation by imagination." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 4.  "You never know till you try to reach them how accessible men are; but you must approach each man by the right door." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
