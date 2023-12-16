@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 1.  "Ultimately, we all have to decide for ourselves what constitutes failure, but the world is quite eager to give you a set of criteria if you let it." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "It's amazing how quickly nature consumes human places after we turn our backs on them. Life is a hungry thing." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 2.  "One act of beneficence, one act of real usefulness, is worth all the abstract sentiment in the world. Sentiment is a disgrace, instead of an ornament, unless it lead us to good actions." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "If we value the pursuit of knowledge, we must be free to follow wherever that search may lead us. The free mind is not a barking dog, to be tethered on a ten-foot chain." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
+ 3.  "Diluting your product to make it more 'commercial' will just make people like it less." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 4.  "You never know till you try to reach them how accessible men are; but you must approach each man by the right door." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 4.  "Acceptance is such an important commodity, some have called it "the first law of personal growth."" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
