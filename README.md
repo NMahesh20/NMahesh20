@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Ultimately, we all have to decide for ourselves what constitutes failure, but the world is quite eager to give you a set of criteria if you let it." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "Desire, ask, believe, receive." <br> &emsp;&emsp;&emsp; <i>-by Stella Terrill Mann</i> 
 
- 2.  "One act of beneficence, one act of real usefulness, is worth all the abstract sentiment in the world. Sentiment is a disgrace, instead of an ornament, unless it lead us to good actions." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "Beware lest in your anxiety to avoid war you obtain a master." <br> &emsp;&emsp;&emsp; <i>-by Demosthenes</i> 
 
- 3.  "Diluting your product to make it more 'commercial' will just make people like it less." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 3.  "If you wish me to weep, you must mourn first yourself." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 4.  "Acceptance is such an important commodity, some have called it "the first law of personal growth."" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 4.  "Choose the life that is most useful, and habit will make it the most agreeable." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
