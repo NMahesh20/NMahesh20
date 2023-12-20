@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes creativity is a compulsion, not an ambition." <br> &emsp;&emsp;&emsp; <i>-by Ed Norton</i> 
+ 1.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 2.  "You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes." <br> &emsp;&emsp;&emsp; <i>-by Pooh's Little Instruction Book</i> 
+ 2.  "Use what you have to run toward your best - that's how I now live my life." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Reprove thy friend privately; commend him publicly." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
+ 3.  "Genius hath electric power which earth can never tame." <br> &emsp;&emsp;&emsp; <i>-by Lydia M. Child</i> 
 
- 4.  "Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don't turn up at all." <br> &emsp;&emsp;&emsp; <i>-by Sam Ewing</i> 
+ 4.  "One must be poor to know the luxury of giving." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
