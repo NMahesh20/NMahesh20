@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 1.  "The only place where success comes before work is a dictionary." <br> &emsp;&emsp;&emsp; <i>-by Vidal Sassoon</i> 
 
- 2.  "Use what you have to run toward your best - that's how I now live my life." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "The best way to live is by not knowing what will happen to you at the end of the day..." <br> &emsp;&emsp;&emsp; <i>-by Donald Barthelme</i> 
 
- 3.  "Genius hath electric power which earth can never tame." <br> &emsp;&emsp;&emsp; <i>-by Lydia M. Child</i> 
+ 3.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
 
- 4.  "One must be poor to know the luxury of giving." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Never give advice unless asked." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
