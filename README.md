@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only place where success comes before work is a dictionary." <br> &emsp;&emsp;&emsp; <i>-by Vidal Sassoon</i> 
+ 1.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
 
- 2.  "The best way to live is by not knowing what will happen to you at the end of the day..." <br> &emsp;&emsp;&emsp; <i>-by Donald Barthelme</i> 
+ 2.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
+ 3.  "If you would win a man to your cause, first convince him that you are his sincere friend." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Never give advice unless asked." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
+ 4.  "In what concerns you much, do not think that you have companions: know that you are alone in the world." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
