@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
+ 1.  "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." <br> &emsp;&emsp;&emsp; <i>-by John Patrick</i> 
 
- 2.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 3.  "If you would win a man to your cause, first convince him that you are his sincere friend." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy, not even mine." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
 
- 4.  "In what concerns you much, do not think that you have companions: know that you are alone in the world." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Nothing, of course, begins at the time you think it did." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
