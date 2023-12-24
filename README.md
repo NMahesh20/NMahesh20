@@ -22,13 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." <br> &emsp;&emsp;&emsp; <i>-by John Patrick</i> 
+ 1.  "When you have the courage to tell the truth about what you're really afraid of, fear doesn't have control over your life." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 2.  "People choose the paths that grant them the greatest rewards for the least amount of effort." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 3.  "I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy, not even mine." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
+ 3.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 4.  "Nothing, of course, begins at the time you think it did." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 4.  "In peace there's nothing so becomes a man/
+As modest stillness and humility;/
+But when the blast of war blows in our ears,/
+Then imitate the action of the tiger:/
+Stiffen the sinews, summon up the blood." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
