@@ -22,17 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you have the courage to tell the truth about what you're really afraid of, fear doesn't have control over your life." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Only passions, great passions, can elevate the soul to great things." <br> &emsp;&emsp;&emsp; <i>-by Denis Diderot</i> 
 
- 2.  "People choose the paths that grant them the greatest rewards for the least amount of effort." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 2.  "A weapon is a device for making your enemy change his mind." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 3.  "When you are right you cannot be too radical; when you are wrong, you cannot be too conservative." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 4.  "In peace there's nothing so becomes a man/
-As modest stillness and humility;/
-But when the blast of war blows in our ears,/
-Then imitate the action of the tiger:/
-Stiffen the sinews, summon up the blood." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "It is hard to fight an enemy who has outposts in your head." <br> &emsp;&emsp;&emsp; <i>-by Sally Kempton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
