@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only passions, great passions, can elevate the soul to great things." <br> &emsp;&emsp;&emsp; <i>-by Denis Diderot</i> 
+ 1.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 2.  "A weapon is a device for making your enemy change his mind." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "When you strike at a king, you must kill him." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "When you are right you cannot be too radical; when you are wrong, you cannot be too conservative." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 3.  "Knowledge and timber shouldn't be much used till they are seasoned." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 4.  "It is hard to fight an enemy who has outposts in your head." <br> &emsp;&emsp;&emsp; <i>-by Sally Kempton</i> 
+ 4.  "Nothing endures but personal qualities." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
