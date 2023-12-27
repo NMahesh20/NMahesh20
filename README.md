@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 1.  "But the worst of imagining things is that the time comes when you have to stop and that hurts." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "When you strike at a king, you must kill him." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "The secret of happiness is to make others believe they are the cause of it." <br> &emsp;&emsp;&emsp; <i>-by Al Batt</i> 
 
- 3.  "Knowledge and timber shouldn't be much used till they are seasoned." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 3.  "Whenever you commend, add your reasons for doing so; it is this which distinguishes the approbation of a man of sense from the flattery of sycophants and admiration of fools." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Steele</i> 
 
- 4.  "Nothing endures but personal qualities." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "Better be despised for too anxious apprehensions, than ruined by too confident security." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
