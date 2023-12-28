@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But the worst of imagining things is that the time comes when you have to stop and that hurts." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The secret of happiness is to make others believe they are the cause of it." <br> &emsp;&emsp;&emsp; <i>-by Al Batt</i> 
+ 2.  "It is those we live with and love and should know who elude us." <br> &emsp;&emsp;&emsp; <i>-by Norman Maclean</i> 
 
- 3.  "Whenever you commend, add your reasons for doing so; it is this which distinguishes the approbation of a man of sense from the flattery of sycophants and admiration of fools." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Steele</i> 
+ 3.  "I want freedom for the full expression of my personality." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 4.  "Better be despised for too anxious apprehensions, than ruined by too confident security." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 4.  "In order that people may be happy in their work, these three things are needed: They must be fit for it. They must not do too much of it. And they must have a sense of success in it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
