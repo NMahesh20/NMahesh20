@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "It is those we live with and love and should know who elude us." <br> &emsp;&emsp;&emsp; <i>-by Norman Maclean</i> 
+ 2.  "A mind troubled by doubt cannot focus on the course to victory." <br> &emsp;&emsp;&emsp; <i>-by Arthur Golden</i> 
 
- 3.  "I want freedom for the full expression of my personality." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "Riches may enable us to confer favours, but to confer them with propriety and grace requires a something that riches cannot give." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 
- 4.  "In order that people may be happy in their work, these three things are needed: They must be fit for it. They must not do too much of it. And they must have a sense of success in it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
