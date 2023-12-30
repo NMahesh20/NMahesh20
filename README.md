@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "A mind troubled by doubt cannot focus on the course to victory." <br> &emsp;&emsp;&emsp; <i>-by Arthur Golden</i> 
+ 2.  "Even on the highest throne in the world, we are still sitting on our ass." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 3.  "Riches may enable us to confer favours, but to confer them with propriety and grace requires a something that riches cannot give." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 3.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
 
- 4.  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
