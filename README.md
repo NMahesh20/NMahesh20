@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "How simple a thing it seems to me that to know ourselves as we are, we must know our mothers' names." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 2.  "Even on the highest throne in the world, we are still sitting on our ass." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 2.  "If you want creative workers, give them enough time to play." <br> &emsp;&emsp;&emsp; <i>-by John Cleese</i> 
 
- 3.  "Though it sounds absurd, it is true to say I felt younger at sixty than I felt at twenty." <br> &emsp;&emsp;&emsp; <i>-by Ellen Glasgow</i> 
+ 3.  "It is not enough to do good; one must do it the right way." <br> &emsp;&emsp;&emsp; <i>-by John Viscount Morley</i> 
 
- 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
+ 4.  "To be alone is to be different, to be different is to be alone." <br> &emsp;&emsp;&emsp; <i>-by Suzanne Gordon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
