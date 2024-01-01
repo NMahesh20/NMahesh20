@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How simple a thing it seems to me that to know ourselves as we are, we must know our mothers' names." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 1.  "Technical term is narcissism. You can't believe everything is your fault unless you also believe you're all powerful." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
 
- 2.  "If you want creative workers, give them enough time to play." <br> &emsp;&emsp;&emsp; <i>-by John Cleese</i> 
+ 2.  "How does a project get to be a year behind schedule? One day at a time." <br> &emsp;&emsp;&emsp; <i>-by Fred Brooks</i> 
 
- 3.  "It is not enough to do good; one must do it the right way." <br> &emsp;&emsp;&emsp; <i>-by John Viscount Morley</i> 
+ 3.  "The physician can bury his mistakes, but the architect can only advise his client to plant vines - so they should go as far as possible from home to build their first buildings." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "To be alone is to be different, to be different is to be alone." <br> &emsp;&emsp;&emsp; <i>-by Suzanne Gordon</i> 
+ 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
