@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Technical term is narcissism. You can't believe everything is your fault unless you also believe you're all powerful." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
+ 1.  "To do anything truly worth doing, I must not stand back shivering and thinking of the cold and danger, but jump in with gusto and scramble through as well as I can." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "How does a project get to be a year behind schedule? One day at a time." <br> &emsp;&emsp;&emsp; <i>-by Fred Brooks</i> 
+ 2.  "If grass can grow through cement, love can find you at every time in your life." <br> &emsp;&emsp;&emsp; <i>-by Cher</i> 
 
- 3.  "The physician can bury his mistakes, but the architect can only advise his client to plant vines - so they should go as far as possible from home to build their first buildings." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 3.  "What you cannot enforce, do not command." <br> &emsp;&emsp;&emsp; <i>-by Sophocles</i> 
 
- 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
+ 4.  "Be peaceful, be courteous, obey the law, respect everyone; but if someone puts his hand on you, send him to the cemetery." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
