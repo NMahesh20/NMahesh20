@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How little of permanent happiness could belong to a couple who were only brought together because their passions were stronger than their virtue." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "I never feel that I have comprehended an emotion, or fully lived even the smallest events, until I have reflected upon it in my journal; my pen is my truest confidant, holding in check the passions and disappointments that I dare not share even with my beloved." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 2.  "The world is not yet exhaused; let me see something tomorrow which I never saw before." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 2.  "Mistakes are part of the dues one pays for a full life." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
 
- 3.  "Be you in what line of life you may, it will be amongst your misfortunes if you have not time properly to attend to pecuniary [monetary] matters. Want of attention to these matters has impeded the progress of science and of genius itself." <br> &emsp;&emsp;&emsp; <i>-by William Cobbett</i> 
+ 3.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
 
- 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "This above all: to thine own self be true; And it must follow, as the night the day; Thou canst not then be false to any man." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
