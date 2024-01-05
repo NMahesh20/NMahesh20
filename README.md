@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I never feel that I have comprehended an emotion, or fully lived even the smallest events, until I have reflected upon it in my journal; my pen is my truest confidant, holding in check the passions and disappointments that I dare not share even with my beloved." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 1.  "Nobody can tell you if what you're doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "Mistakes are part of the dues one pays for a full life." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
 
- 3.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
+ 3.  "We succeed only as we identify in life, or in war, or in anything else, a single overriding objective, and make all other considerations bend to that one objective." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 4.  "This above all: to thine own self be true; And it must follow, as the night the day; Thou canst not then be false to any man." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "The secret of joy in work is contained in one word - excellence. To know how to do something well is to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
