@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nobody can tell you if what you're doing is good, meaningful or worthwhile. The more compelling the path, the more lonely it is." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "I think that little by little I'll be able to solve my problems and survive." <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
+ 2.  "Beware the pull on your heartstrings -- it's often the pursestrings that are actually being reached for." <br> &emsp;&emsp;&emsp; <i>-by Barbara Mikkelson</i> 
 
- 3.  "We succeed only as we identify in life, or in war, or in anything else, a single overriding objective, and make all other considerations bend to that one objective." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 3.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
 
- 4.  "The secret of joy in work is contained in one word - excellence. To know how to do something well is to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 4.  "Men seek but one thing in life - their pleasure." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
