@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think that little by little I'll be able to solve my problems and survive." <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
+ 1.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "Beware the pull on your heartstrings -- it's often the pursestrings that are actually being reached for." <br> &emsp;&emsp;&emsp; <i>-by Barbara Mikkelson</i> 
+ 2.  "Having a dream is what keeps you alive. Overcoming the challenges make life worth living." <br> &emsp;&emsp;&emsp; <i>-by Mary Tyler Moore</i> 
 
- 3.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
+ 3.  "You are going to let the fear of poverty govern your life and your reward will be that you will eat, but you will not live." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 4.  "Men seek but one thing in life - their pleasure." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Houses are built to live in, not to look on; therefore, let use be preferred before uniformity, except where both may be had." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
