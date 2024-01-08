@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "First it is necessary to stand on your own two feet. But the minute a man finds himself in that position, the next thing he should do is reach out his arms." <br> &emsp;&emsp;&emsp; <i>-by Kristin Hunter</i> 
 
- 2.  "Having a dream is what keeps you alive. Overcoming the challenges make life worth living." <br> &emsp;&emsp;&emsp; <i>-by Mary Tyler Moore</i> 
+ 2.  "The older I get, the more I feel / almost beautiful..." <br> &emsp;&emsp;&emsp; <i>-by Sharon Olds</i> 
 
- 3.  "You are going to let the fear of poverty govern your life and your reward will be that you will eat, but you will not live." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 3.  "Refuse to be ill. Never tell people you are ill; never own it to yourself. Illness is one of those things which a man should resist on principle." <br> &emsp;&emsp;&emsp; <i>-by Edward Bulwer-Lytton</i> 
 
- 4.  "Houses are built to live in, not to look on; therefore, let use be preferred before uniformity, except where both may be had." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "The strongest man in the world is the man who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
