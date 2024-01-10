@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is too complicated not to be orderly." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
 
- 2.  "What more felicity can fall to creature, than to enjoy delight with liberty." <br> &emsp;&emsp;&emsp; <i>-by Edmund Spenser</i> 
+ 2.  "Joy is not in things; it is in us." <br> &emsp;&emsp;&emsp; <i>-by Richard Wagner</i> 
 
- 3.  "Deeds, not words shall speak me." <br> &emsp;&emsp;&emsp; <i>-by John Fletcher</i> 
+ 3.  "Risk! Risk anything! Care no more for the opinions of others, for those voices. Do the hardest thing on earth for you. Act for yourself. Face the truth." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
 
- 4.  "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite." <br> &emsp;&emsp;&emsp; <i>-by G. K. Chesterton</i> 
+ 4.  "Magnificent promises are always to be suspected." <br> &emsp;&emsp;&emsp; <i>-by Theodore Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
