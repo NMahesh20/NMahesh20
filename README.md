@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
+ 1.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
 
- 2.  "Joy is not in things; it is in us." <br> &emsp;&emsp;&emsp; <i>-by Richard Wagner</i> 
+ 2.  "Carry the battle to them. Don't let them bring it to you. Put them on the defensive. And don't ever apologize for anything." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 3.  "Risk! Risk anything! Care no more for the opinions of others, for those voices. Do the hardest thing on earth for you. Act for yourself. Face the truth." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
+ 3.  "Shut out all of your past except that which will help you weather your tomorrows." <br> &emsp;&emsp;&emsp; <i>-by Sir William Osler</i> 
 
- 4.  "Magnificent promises are always to be suspected." <br> &emsp;&emsp;&emsp; <i>-by Theodore Parker</i> 
+ 4.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
