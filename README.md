@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
+ 1.  "My parents taught me how to listen to everybody before I made up my own mind. When you listen, you learn. You absorb like a sponge-and your life becomes so much better than when you are just trying to be listened to all the time." <br> &emsp;&emsp;&emsp; <i>-by Steven Spielberg</i> 
 
- 2.  "Carry the battle to them. Don't let them bring it to you. Put them on the defensive. And don't ever apologize for anything." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 2.  "One of the things about equality is not just that you be treated equally to a man, but that you treat yourself equally to the way you treat a man." <br> &emsp;&emsp;&emsp; <i>-by Marlo Thomas</i> 
 
- 3.  "Shut out all of your past except that which will help you weather your tomorrows." <br> &emsp;&emsp;&emsp; <i>-by Sir William Osler</i> 
+ 3.  "Do not go where the path may lead, go instead where there is no path and leave a trail." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Half the money I spend on advertising is wasted; the trouble is I don't know which half." <br> &emsp;&emsp;&emsp; <i>-by John Wanamaker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
