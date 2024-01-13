@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My parents taught me how to listen to everybody before I made up my own mind. When you listen, you learn. You absorb like a sponge-and your life becomes so much better than when you are just trying to be listened to all the time." <br> &emsp;&emsp;&emsp; <i>-by Steven Spielberg</i> 
+ 1.  "The world has so many lessons to teach you. I consider the world, our earth, to be like a school, and our life, the classrooms. Sometimes on our planet life school, the lessons often come dressed up as detours and road blocks and sometimes as full blown crises. And the secret I've learned to getting ahead is being open to the lessons." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "One of the things about equality is not just that you be treated equally to a man, but that you treat yourself equally to the way you treat a man." <br> &emsp;&emsp;&emsp; <i>-by Marlo Thomas</i> 
+ 2.  "Who knew that dog saliva can mend a broken heart?" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
 
- 3.  "Do not go where the path may lead, go instead where there is no path and leave a trail." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "The right things to do are those that keep our violence in abeyance; the wrong things are those that bring it to the fore." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 4.  "Half the money I spend on advertising is wasted; the trouble is I don't know which half." <br> &emsp;&emsp;&emsp; <i>-by John Wanamaker</i> 
+ 4.  "Evil is obvious only in retrospect." <br> &emsp;&emsp;&emsp; <i>-by Gloria Steinem</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
