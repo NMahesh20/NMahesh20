@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The world has so many lessons to teach you. I consider the world, our earth, to be like a school, and our life, the classrooms. Sometimes on our planet life school, the lessons often come dressed up as detours and road blocks and sometimes as full blown crises. And the secret I've learned to getting ahead is being open to the lessons." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Like threads of silver seen through crystal beads/Let love through good deeds show." <br> &emsp;&emsp;&emsp; <i>-by Edwin Arnold</i> 
 
- 2.  "Who knew that dog saliva can mend a broken heart?" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
+ 2.  "Eating is really one of your indoor sports. You play three times a day, and it's well worth while to make the game as pleasant as possible." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Draper</i> 
 
- 3.  "The right things to do are those that keep our violence in abeyance; the wrong things are those that bring it to the fore." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 3.  "Your equipment DOES NOT affect the quality of your image. The less time and effort you spend worrying about your equipment the more time and effort you can spend creating great images. The right equipment just makes it easier, faster or more convenient for you to get the results you need." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
 
- 4.  "Evil is obvious only in retrospect." <br> &emsp;&emsp;&emsp; <i>-by Gloria Steinem</i> 
+ 4.  "And this our life, exempt from public haunt,/ Finds tongues in trees, books in running brooks,/ Sermons in stones, and good in everything." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
