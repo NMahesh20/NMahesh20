@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Our obligations to our country never cease but with our lives." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 1.  "There is nothing like the razor sharp tongue of a good friend to cut through the lies we tell ourselves." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "Some things you do because you want to. Some things you do because of the needs of others in your family." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 3.  "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Please write again soon. Though my own life is filled with activity, letters encourage momentary escape into others lives and I come back to my own with greater contentment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
+ 4.  "Do not throw the arrow which will return against you." <br> &emsp;&emsp;&emsp; <i>-by Kurdish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
