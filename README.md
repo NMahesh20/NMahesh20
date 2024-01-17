@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is nothing like the razor sharp tongue of a good friend to cut through the lies we tell ourselves." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 2.  "Life itself is a quotation." <br> &emsp;&emsp;&emsp; <i>-by Jorge Luis Borges</i> 
 
- 3.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "Thou shouldst eat to live; not live to eat." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "Do not throw the arrow which will return against you." <br> &emsp;&emsp;&emsp; <i>-by Kurdish Proverb</i> 
+ 4.  "When I read a book I seem to read it with my eyes only, but now and then I come across a passage, perhaps only a phrase, which has a meaning for me, and it becomes part of me." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
