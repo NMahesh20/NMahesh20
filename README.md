@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "Big, sweeping life changes really boil down to small, everyday decisions." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Life itself is a quotation." <br> &emsp;&emsp;&emsp; <i>-by Jorge Luis Borges</i> 
+ 2.  "That is what marriage really means: helping one another to reach the full status of being persons, responsible and autonomous beings who do not run away from life." <br> &emsp;&emsp;&emsp; <i>-by Paul Tournier</i> 
 
- 3.  "Thou shouldst eat to live; not live to eat." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 3.  "The excellence of a gift lies in its appropriateness rather than in its value." <br> &emsp;&emsp;&emsp; <i>-by Charles Dudley Warner</i> 
 
- 4.  "When I read a book I seem to read it with my eyes only, but now and then I come across a passage, perhaps only a phrase, which has a meaning for me, and it becomes part of me." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity before it is entitled to the appellation." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
