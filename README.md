@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Big, sweeping life changes really boil down to small, everyday decisions." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "That is what marriage really means: helping one another to reach the full status of being persons, responsible and autonomous beings who do not run away from life." <br> &emsp;&emsp;&emsp; <i>-by Paul Tournier</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
 
- 3.  "The excellence of a gift lies in its appropriateness rather than in its value." <br> &emsp;&emsp;&emsp; <i>-by Charles Dudley Warner</i> 
+ 3.  "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face." <br> &emsp;&emsp;&emsp; <i>-by Jim Bishop</i> 
 
- 4.  "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity before it is entitled to the appellation." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 4.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
