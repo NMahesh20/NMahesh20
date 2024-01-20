@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "We hold in our hands, the most precious gift of all: Freedom. The freedom to express our art. Our love. The freedom to be who we want to be. We are not going to give that freedom away and no one shall take it from us!" <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
+ 2.  "There is no end to the adventures that we can have if only we seek them with our eyes open." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 3.  "The future is an opaque mirror. Anyone who tries to look into it sees nothing but the dim outlines of an old and worried face." <br> &emsp;&emsp;&emsp; <i>-by Jim Bishop</i> 
+ 3.  "Throw out an alarming alarm clock. If the ring is loud and strident, you're waking up to instant stress. You shouldn't be bullied out of bed, just reminded that it's time to start your day." <br> &emsp;&emsp;&emsp; <i>-by Sharon Gold</i> 
 
- 4.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
