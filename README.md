@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We hold in our hands, the most precious gift of all: Freedom. The freedom to express our art. Our love. The freedom to be who we want to be. We are not going to give that freedom away and no one shall take it from us!" <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 1.  "Whenever you looked forward to anything pleasant you were sure to be more or less disappointed . . . perhaps that is true. But there is a good side to it too. The bad things don't always come up to your expectations either . . . they nearly always turn out ever so much better than you think." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "There is no end to the adventures that we can have if only we seek them with our eyes open." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 2.  "The difference between a moral man and a man of honor is that the latter regrets a discreditable act, even when it has worked and he has not been caught." <br> &emsp;&emsp;&emsp; <i>-by H. L. Mencken</i> 
 
- 3.  "Throw out an alarming alarm clock. If the ring is loud and strident, you're waking up to instant stress. You shouldn't be bullied out of bed, just reminded that it's time to start your day." <br> &emsp;&emsp;&emsp; <i>-by Sharon Gold</i> 
+ 3.  "Do not hire a man who does your work for money, but him who does it for love of it." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
+ 4.  "Don't let your sorrow come higher than your knees." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
