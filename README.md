@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Friends, in my experience, are like ladies' fashions. They come and go with the seasons, and are rarely of such stout stuff as bears repeated wearing." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jack Layton</i> 
 
- 2.  "Silent gratitude isn't much use to anyone." <br> &emsp;&emsp;&emsp; <i>-by Gladys Bronwyn Stern</i> 
+ 2.  "All progress is precarious, and the solution of one problem brings us face to face with another problem." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 3.  "Buy on the rumor; sell on the news." <br> &emsp;&emsp;&emsp; <i>-by Wall Street Proverb</i> 
+ 3.  "Mistrust the man who finds everything good, the man who finds everything evil and still more the man who is indifferent to everything." <br> &emsp;&emsp;&emsp; <i>-by Johann K. Lavater</i> 
 
- 4.  "We cannot control the evil tongues of others; but a good life enables us to disregard them." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
+ 4.  "If we cannot live so as to be happy, let us least live so as to deserve it." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Hermann Fichte</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
