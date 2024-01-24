@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jack Layton</i> 
+ 1.  "For the most part, fear is nothing but an illusion. When you share it with someone else, it tends to disappear." <br> &emsp;&emsp;&emsp; <i>-by Marilyn C. Barrick</i> 
 
- 2.  "All progress is precarious, and the solution of one problem brings us face to face with another problem." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 2.  "It is in the knowledge of the genuine conditions of our lives that we must draw our strength to live and our reasons for living." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
 
- 3.  "Mistrust the man who finds everything good, the man who finds everything evil and still more the man who is indifferent to everything." <br> &emsp;&emsp;&emsp; <i>-by Johann K. Lavater</i> 
+ 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 
- 4.  "If we cannot live so as to be happy, let us least live so as to deserve it." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Hermann Fichte</i> 
+ 4.  "When your work speaks for itself, don't interrupt." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
