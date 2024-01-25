@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For the most part, fear is nothing but an illusion. When you share it with someone else, it tends to disappear." <br> &emsp;&emsp;&emsp; <i>-by Marilyn C. Barrick</i> 
+ 1.  "Any time and energy you spend hating and being angry at your ex will ultimately take a toll on you without effecting any positive changes in your ex or your relationship." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "It is in the knowledge of the genuine conditions of our lives that we must draw our strength to live and our reasons for living." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
+ 2.  "Give us clear vision that we may know where to stand and what to stand for, because unless we stand for something, we shall fall for anything." <br> &emsp;&emsp;&emsp; <i>-by Peter Marshall</i> 
 
- 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 3.  "If we all did the things we are capable of doing, we would literally astound ourselves." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 
- 4.  "When your work speaks for itself, don't interrupt." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
+ 4.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
