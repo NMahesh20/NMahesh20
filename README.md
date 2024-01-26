@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Any time and energy you spend hating and being angry at your ex will ultimately take a toll on you without effecting any positive changes in your ex or your relationship." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "There is no glory in the tepid smiles of the thousands. It is better to have the uproarious laughter of the hundreds." <br> &emsp;&emsp;&emsp; <i>-by Monica Hesse</i> 
 
- 2.  "Give us clear vision that we may know where to stand and what to stand for, because unless we stand for something, we shall fall for anything." <br> &emsp;&emsp;&emsp; <i>-by Peter Marshall</i> 
+ 2.  "I'm not going to quit. Why should I quit? This country is worth fighting for." <br> &emsp;&emsp;&emsp; <i>-by Hillary Rodham Clinton</i> 
 
- 3.  "If we all did the things we are capable of doing, we would literally astound ourselves." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 3.  "Accept the pain, cherish the joys, resolve the regrets; then can come the best of benedictions - 'If I had my life to live over, I'd do it all the same.'" <br> &emsp;&emsp;&emsp; <i>-by Joan McIntosh</i> 
 
- 4.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
+ 4.  "In the name of God, stop a moment, cease your work, look around you." <br> &emsp;&emsp;&emsp; <i>-by Leo Tolstoy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
