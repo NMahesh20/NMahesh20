@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no glory in the tepid smiles of the thousands. It is better to have the uproarious laughter of the hundreds." <br> &emsp;&emsp;&emsp; <i>-by Monica Hesse</i> 
+ 1.  "Order is not pressure which is imposed on society from without, but an equilibrium which is set up from within." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
 
- 2.  "I'm not going to quit. Why should I quit? This country is worth fighting for." <br> &emsp;&emsp;&emsp; <i>-by Hillary Rodham Clinton</i> 
+ 2.  "In the field of observation, chance favors only the prepared mind. " <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
 
- 3.  "Accept the pain, cherish the joys, resolve the regrets; then can come the best of benedictions - 'If I had my life to live over, I'd do it all the same.'" <br> &emsp;&emsp;&emsp; <i>-by Joan McIntosh</i> 
+ 3.  "Passion makes the world go round. Love just makes it a safer place." <br> &emsp;&emsp;&emsp; <i>-by Ice T</i> 
 
- 4.  "In the name of God, stop a moment, cease your work, look around you." <br> &emsp;&emsp;&emsp; <i>-by Leo Tolstoy</i> 
+ 4.  "If you would be wealthy, think of saving as well as getting." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
