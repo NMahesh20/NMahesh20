@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Order is not pressure which is imposed on society from without, but an equilibrium which is set up from within." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
+ 1.  "Sometimes people do things that hurt and it's not because they mean to. They just do. It doesn't necessarily have anything to do with you, but you end up hurt because of it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "In the field of observation, chance favors only the prepared mind. " <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
+ 2.  "All love that has not friendship for its base, is like a mansion built upon sand." <br> &emsp;&emsp;&emsp; <i>-by Ella Wheeler Wilcox</i> 
 
- 3.  "Passion makes the world go round. Love just makes it a safer place." <br> &emsp;&emsp;&emsp; <i>-by Ice T</i> 
+ 3.  "Resolve to be thyself: and know, that he who finds himself, loses his misery." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 4.  "If you would be wealthy, think of saving as well as getting." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
