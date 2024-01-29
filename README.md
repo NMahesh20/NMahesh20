@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes people do things that hurt and it's not because they mean to. They just do. It doesn't necessarily have anything to do with you, but you end up hurt because of it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "What makes the engine go? Desire, desire, desire." <br> &emsp;&emsp;&emsp; <i>-by Stanley Kunitz</i> 
 
- 2.  "All love that has not friendship for its base, is like a mansion built upon sand." <br> &emsp;&emsp;&emsp; <i>-by Ella Wheeler Wilcox</i> 
+ 2.  "The real power behind whatever success I have now was something I found within myself - something that's in all of us, I think, a little piece of God just waiting to be discovered." <br> &emsp;&emsp;&emsp; <i>-by Tina Turner</i> 
 
- 3.  "Resolve to be thyself: and know, that he who finds himself, loses his misery." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 3.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
 
- 4.  "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 4.  "To love is to receive a glimpse of heaven." <br> &emsp;&emsp;&emsp; <i>-by Karen Sunde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
