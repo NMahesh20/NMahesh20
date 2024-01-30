@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What makes the engine go? Desire, desire, desire." <br> &emsp;&emsp;&emsp; <i>-by Stanley Kunitz</i> 
+ 1.  "Listen. Do not have an opinion while you listen because frankly, your opinion doesn't hold much water outside of Your Universe. Just listen. Listen until their brain has been twisted like a dripping towel and what they have to say is all over the floor." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 2.  "The real power behind whatever success I have now was something I found within myself - something that's in all of us, I think, a little piece of God just waiting to be discovered." <br> &emsp;&emsp;&emsp; <i>-by Tina Turner</i> 
+ 2.  "Help others get ahead. You will always stand taller with someone else on your shoulders." <br> &emsp;&emsp;&emsp; <i>-by Bob Moawad</i> 
 
- 3.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
+ 3.  "We stand for freedom. That is our conviction for ourselves; that is our only commitment to others." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 4.  "To love is to receive a glimpse of heaven." <br> &emsp;&emsp;&emsp; <i>-by Karen Sunde</i> 
+ 4.  "Make yourself necessary to somebody. Do not make life hard to any." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
