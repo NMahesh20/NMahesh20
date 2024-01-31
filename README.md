@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Listen. Do not have an opinion while you listen because frankly, your opinion doesn't hold much water outside of Your Universe. Just listen. Listen until their brain has been twisted like a dripping towel and what they have to say is all over the floor." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 1.  "Design is not just what it looks like and feels like. Design is how it works." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Help others get ahead. You will always stand taller with someone else on your shoulders." <br> &emsp;&emsp;&emsp; <i>-by Bob Moawad</i> 
+ 2.  "The longest journey is the journey inward." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 
- 3.  "We stand for freedom. That is our conviction for ourselves; that is our only commitment to others." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "Whatever you fear most has no power - it is your fear that has the power." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Make yourself necessary to somebody. Do not make life hard to any." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
