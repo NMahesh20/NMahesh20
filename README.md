@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Design is not just what it looks like and feels like. Design is how it works." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "Life is not measured by the number of breaths we take, but by the moments that take our breath away." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 2.  "The longest journey is the journey inward." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
+ 2.  "Hold a book in your hand and you're a pilgrim at the gates of a new city." <br> &emsp;&emsp;&emsp; <i>-by Anne Michaels</i> 
 
- 3.  "Whatever you fear most has no power - it is your fear that has the power." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "The best mirror is an old friend." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 4.  "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 4.  "Defer not till tomorrow to be wise, tomorrow's sun to thee may never rise." <br> &emsp;&emsp;&emsp; <i>-by William Congreve</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
