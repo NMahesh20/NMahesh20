@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is not measured by the number of breaths we take, but by the moments that take our breath away." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 1.  "Truth indeed rather alleviates than hurts, and will always bear up against falsehood, as oil does above water." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
 
- 2.  "Hold a book in your hand and you're a pilgrim at the gates of a new city." <br> &emsp;&emsp;&emsp; <i>-by Anne Michaels</i> 
+ 2.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 3.  "The best mirror is an old friend." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 3.  "Observe Everything. / Communicate Well. / Draw, Draw, Draw." <br> &emsp;&emsp;&emsp; <i>-by Frank Thomas</i> 
 
- 4.  "Defer not till tomorrow to be wise, tomorrow's sun to thee may never rise." <br> &emsp;&emsp;&emsp; <i>-by William Congreve</i> 
+ 4.  "It's a funny thing about life; if you refuse to accept anything but the best, you very often get it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
