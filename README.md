@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Truth indeed rather alleviates than hurts, and will always bear up against falsehood, as oil does above water." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 1.  "Family connexions were always worth preserving, good company always worth seeking." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 2.  "...myopia. He was nearsighted. The future lay before him, inevitable but invisible." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 3.  "Observe Everything. / Communicate Well. / Draw, Draw, Draw." <br> &emsp;&emsp;&emsp; <i>-by Frank Thomas</i> 
+ 3.  "Seasons change, so do cities. People come into your life and people go, but it's comforting to know: the ones you love are always in your heart and if you're very lucky, a plane ride away." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 4.  "It's a funny thing about life; if you refuse to accept anything but the best, you very often get it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
