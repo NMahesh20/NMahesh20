@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Family connexions were always worth preserving, good company always worth seeking." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "An unhurried sense of time is in itself a form of wealth." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Friedman</i> 
 
- 2.  "...myopia. He was nearsighted. The future lay before him, inevitable but invisible." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 2.  "Why comes temptation, but for man to meet and master and crouch beneath his foot, and so be pedestaled in triumph?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
 
- 3.  "Seasons change, so do cities. People come into your life and people go, but it's comforting to know: the ones you love are always in your heart and if you're very lucky, a plane ride away." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 3.  "A full cup must be carried steadily." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 4.  "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
+ 4.  "The secret of being boring is to say everything." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
