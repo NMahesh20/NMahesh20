@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An unhurried sense of time is in itself a form of wealth." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Friedman</i> 
+ 1.  "The universe is not hostile, nor yet is it friendly. It is simply indifferent." <br> &emsp;&emsp;&emsp; <i>-by J. H. Holmes</i> 
 
- 2.  "Why comes temptation, but for man to meet and master and crouch beneath his foot, and so be pedestaled in triumph?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 2.  "Disconnecting from change does not recapture the past. It loses the future." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
 
- 3.  "A full cup must be carried steadily." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 3.  "It is a fine thing to establish one's own religion in one's heart, not to be dependent on tradition and second-hand ideals. Life will seem to you, later, not a lesser, but a greater thing." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
 
- 4.  "The secret of being boring is to say everything." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 4.  "Cheese - milk's leap toward immortality." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
