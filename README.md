@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The universe is not hostile, nor yet is it friendly. It is simply indifferent." <br> &emsp;&emsp;&emsp; <i>-by J. H. Holmes</i> 
+ 1.  "The universe seems wondrous to me, with or without God. It has powerful lines and uncompromising ways. Patience and time sit like sages on the planets, strong and impersonal. There is a stark beauty to all of this." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Disconnecting from change does not recapture the past. It loses the future." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
+ 2.  "When the heart speaks, the mind finds it indecent to object." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
 
- 3.  "It is a fine thing to establish one's own religion in one's heart, not to be dependent on tradition and second-hand ideals. Life will seem to you, later, not a lesser, but a greater thing." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
+ 3.  "You must have a room, or a certain hour or so a day, where you don't know what was in the newspapers that morning... a place where you can simply experience and bring forth what you are and what you might be." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
 
- 4.  "Cheese - milk's leap toward immortality." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 4.  "Fall seven times, stand up eight." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
