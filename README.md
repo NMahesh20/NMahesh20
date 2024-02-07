@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The universe seems wondrous to me, with or without God. It has powerful lines and uncompromising ways. Patience and time sit like sages on the planets, strong and impersonal. There is a stark beauty to all of this." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "The camera's only job is to get out of the way of making photographs." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
 
- 2.  "When the heart speaks, the mind finds it indecent to object." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
+ 2.  "Everything that is really great and inspiring is created by the individual who can labor in freedom." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 3.  "You must have a room, or a certain hour or so a day, where you don't know what was in the newspapers that morning... a place where you can simply experience and bring forth what you are and what you might be." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
+ 3.  "While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Fall seven times, stand up eight." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
+ 4.  "Be neither too remote nor too familiar." <br> &emsp;&emsp;&emsp; <i>-by Prince Charles</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
