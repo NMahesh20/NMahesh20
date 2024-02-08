@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The camera's only job is to get out of the way of making photographs." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
+ 1.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
 
- 2.  "Everything that is really great and inspiring is created by the individual who can labor in freedom." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 2.  "It's no accident that the church and the graveyard stand side by side. The city of the dead sleeps encircled by the city of the living." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "Because you are in control of your life. Don't ever forget that. You are what you are because of the conscious and subconscious choices you have made." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 4.  "Be neither too remote nor too familiar." <br> &emsp;&emsp;&emsp; <i>-by Prince Charles</i> 
+ 4.  "Say not, when I have leisure I will study; you may not have leisure." <br> &emsp;&emsp;&emsp; <i>-by The Mishnah</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
