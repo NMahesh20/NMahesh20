@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
+ 1.  "The only real prison is fear, and the only real freedom is freedom from fear." <br> &emsp;&emsp;&emsp; <i>-by Aung San Suu Kyi</i> 
 
- 2.  "It's no accident that the church and the graveyard stand side by side. The city of the dead sleeps encircled by the city of the living." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "When Alexander the Great visited Diogenes and asked whether he could do anything for the famed teacher, Diogenes replied: 'Only stand out of my light.' Perhaps some day we shall know how to heighten creativity. Until then, one of the best things we can do for creative men and women is to stand out of their light." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
 
- 3.  "Because you are in control of your life. Don't ever forget that. You are what you are because of the conscious and subconscious choices you have made." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 3.  "Let me advise thee not to talk of thyself as being old. There is something in Mind Cure, after all, and if thee continually talks of thyself as being old, thee may perhaps bring on some of the infirmities of age. At least I would not risk it if I were thee." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
 
- 4.  "Say not, when I have leisure I will study; you may not have leisure." <br> &emsp;&emsp;&emsp; <i>-by The Mishnah</i> 
+ 4.  "Under all speech that is good for anything there lies a silence that is better. Silence is deep as Eternity; speech is shallow as Time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
