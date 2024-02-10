@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only real prison is fear, and the only real freedom is freedom from fear." <br> &emsp;&emsp;&emsp; <i>-by Aung San Suu Kyi</i> 
+ 1.  "He that will not sail until all dangers are over, will never put to sea." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 2.  "When Alexander the Great visited Diogenes and asked whether he could do anything for the famed teacher, Diogenes replied: 'Only stand out of my light.' Perhaps some day we shall know how to heighten creativity. Until then, one of the best things we can do for creative men and women is to stand out of their light." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
+ 2.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "Let me advise thee not to talk of thyself as being old. There is something in Mind Cure, after all, and if thee continually talks of thyself as being old, thee may perhaps bring on some of the infirmities of age. At least I would not risk it if I were thee." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
+ 3.  "'Tis the most tender part of love, each other to forgive." <br> &emsp;&emsp;&emsp; <i>-by John Sheffield</i> 
 
- 4.  "Under all speech that is good for anything there lies a silence that is better. Silence is deep as Eternity; speech is shallow as Time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
+ 4.  "Ultimately, the only power to which man should aspire is that which he exercises over himself." <br> &emsp;&emsp;&emsp; <i>-by Elie Wiesel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
