@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "He that will not sail until all dangers are over, will never put to sea." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 1.  "Nothing is worse than active ignorance." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 2.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "Live each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "'Tis the most tender part of love, each other to forgive." <br> &emsp;&emsp;&emsp; <i>-by John Sheffield</i> 
+ 3.  "Don't reserve your best behavior for special occasions. You can't have two sets of manners, two social codes - one for those you admire and want to impress, another for those whom you consider unimportant. You must be the same to all people." <br> &emsp;&emsp;&emsp; <i>-by Lillian Eichler Watson</i> 
 
- 4.  "Ultimately, the only power to which man should aspire is that which he exercises over himself." <br> &emsp;&emsp;&emsp; <i>-by Elie Wiesel</i> 
+ 4.  "Courage is the price that Life exacts for granting peace." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
