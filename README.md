@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing is worse than active ignorance." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 1.  "The best way to try to motivate somebody is by being direct with them. To be honest with them. Lies are never the right way to get your message across." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 2.  "Live each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Don't reserve your best behavior for special occasions. You can't have two sets of manners, two social codes - one for those you admire and want to impress, another for those whom you consider unimportant. You must be the same to all people." <br> &emsp;&emsp;&emsp; <i>-by Lillian Eichler Watson</i> 
+ 3.  "Remember! Things in life will not always run smoothly. Sometimes we will be rising toward the heights - then all will seem to reverse itself and start downward. The great fact to remember is that the trend of civilization itself is forever upward, that a line drawn through the middle of the peaks and the valleys of the centuries always has an upward trend." <br> &emsp;&emsp;&emsp; <i>-by Endicott Peabody</i> 
 
- 4.  "Courage is the price that Life exacts for granting peace." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
+ 4.  "Do not envy a sinner; you don't know what disaster awaits him." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
