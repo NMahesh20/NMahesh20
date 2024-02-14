@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Michael Hainey</i> 
+ 1.  "Live forever or die in the attempt." <br> &emsp;&emsp;&emsp; <i>-by Joseph Heller</i> 
 
- 2.  "Enthusiasm is the great hill-climber." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 2.  "I pack my trunk, embrace my friends, embark on the sea, and at last wake up in Naples, and there beside me is the Stern Fact, the Sad Self, unrelenting, identical, that I fled from." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "Iron rusts from disuse; stagnant water loses its purity and in cold weather becomes frozen; even so does inaction sap the vigor of the mind." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
+ 3.  "A mind, like a home, is furnished by its owner, so if one's life is cold and bare he can blame none but himself." <br> &emsp;&emsp;&emsp; <i>-by Louis L'Amour</i> 
 
- 4.  "If you can give your son or daughter only one gift, let it be enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Bruce Barton</i> 
+ 4.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
