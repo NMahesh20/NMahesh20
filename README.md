@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Live forever or die in the attempt." <br> &emsp;&emsp;&emsp; <i>-by Joseph Heller</i> 
+ 1.  "Sometimes the laughter in mothering is the recognition of the ironies and absurdities. Sometime, though, it's just pure, unthinking delight." <br> &emsp;&emsp;&emsp; <i>-by Barbara Schapiro</i> 
 
- 2.  "I pack my trunk, embrace my friends, embark on the sea, and at last wake up in Naples, and there beside me is the Stern Fact, the Sad Self, unrelenting, identical, that I fled from." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "What we're all striving for is authenticity, a spirit-to-spirit connection." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "A mind, like a home, is furnished by its owner, so if one's life is cold and bare he can blame none but himself." <br> &emsp;&emsp;&emsp; <i>-by Louis L'Amour</i> 
+ 3.  "Never say never, for if you live long enough, chances are you will not be able to abide by its restrictions. Never is a long, undependable time, and life is too full of rich possibilities to have restrictions placed upon it." <br> &emsp;&emsp;&emsp; <i>-by Gloria Swanson</i> 
 
- 4.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 4.  "I am in earnest; I will not equivocate; I will not excuse; I will not retreat a single inch; and I will be heard." <br> &emsp;&emsp;&emsp; <i>-by William Lloyd Garrison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
