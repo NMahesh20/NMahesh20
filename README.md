@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes the laughter in mothering is the recognition of the ironies and absurdities. Sometime, though, it's just pure, unthinking delight." <br> &emsp;&emsp;&emsp; <i>-by Barbara Schapiro</i> 
+ 1.  "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable." <br> &emsp;&emsp;&emsp; <i>-by Christopher Reeve</i> 
 
- 2.  "What we're all striving for is authenticity, a spirit-to-spirit connection." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "If you would thoroughly know anything, teach it to others." <br> &emsp;&emsp;&emsp; <i>-by Tryon Edwards</i> 
 
- 3.  "Never say never, for if you live long enough, chances are you will not be able to abide by its restrictions. Never is a long, undependable time, and life is too full of rich possibilities to have restrictions placed upon it." <br> &emsp;&emsp;&emsp; <i>-by Gloria Swanson</i> 
+ 3.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 4.  "I am in earnest; I will not equivocate; I will not excuse; I will not retreat a single inch; and I will be heard." <br> &emsp;&emsp;&emsp; <i>-by William Lloyd Garrison</i> 
+ 4.  "To say something nice about yourself, this is the hardest thing in the world for people to do. They'd rather take their clothes off." <br> &emsp;&emsp;&emsp; <i>-by Nancy Friday</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
