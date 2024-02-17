@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable." <br> &emsp;&emsp;&emsp; <i>-by Christopher Reeve</i> 
+ 1.  "One remembers horrors, I think, for the rest of one's life, but memories do not always remain so sharp, and with time, and new circumstance, do not affect us so powerfully." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "If you would thoroughly know anything, teach it to others." <br> &emsp;&emsp;&emsp; <i>-by Tryon Edwards</i> 
+ 2.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 3.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 3.  "Be faithful to that which exists nowhere but in yourself - and thus make yourself indispensable." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "To say something nice about yourself, this is the hardest thing in the world for people to do. They'd rather take their clothes off." <br> &emsp;&emsp;&emsp; <i>-by Nancy Friday</i> 
+ 4.  "If you wish your merit to be known, acknowledge that of other people." <br> &emsp;&emsp;&emsp; <i>-by Oriental Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
