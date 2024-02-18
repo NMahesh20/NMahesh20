@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One remembers horrors, I think, for the rest of one's life, but memories do not always remain so sharp, and with time, and new circumstance, do not affect us so powerfully." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "Only some people get what they want. Those are the people who show up to get it." <br> &emsp;&emsp;&emsp; <i>-by Dianne Houston</i> 
 
- 2.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 2.  "True happiness... arises, in the first place, from the enjoyment of one's self." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 3.  "Be faithful to that which exists nowhere but in yourself - and thus make yourself indispensable." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
 
- 4.  "If you wish your merit to be known, acknowledge that of other people." <br> &emsp;&emsp;&emsp; <i>-by Oriental Proverb</i> 
+ 4.  "Not a shred of evidence exists in favor of the idea that life is serious." <br> &emsp;&emsp;&emsp; <i>-by Brendan Gill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
