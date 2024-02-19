@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only some people get what they want. Those are the people who show up to get it." <br> &emsp;&emsp;&emsp; <i>-by Dianne Houston</i> 
+ 1.  "Rumor travels faster, but it don't stay put as long as truth." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 
- 2.  "True happiness... arises, in the first place, from the enjoyment of one's self." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 2.  "Remember that what you believe will depend very much on what you are." <br> &emsp;&emsp;&emsp; <i>-by Noah Porter</i> 
 
- 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
+ 3.  "A wise man should have money in his head, but not in his heart." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 
- 4.  "Not a shred of evidence exists in favor of the idea that life is serious." <br> &emsp;&emsp;&emsp; <i>-by Brendan Gill</i> 
+ 4.  "The trouble in corporate America is that too many people with too much power live in a box (their home), then travel the same road every day to another box (their office)." <br> &emsp;&emsp;&emsp; <i>-by Faith Popcorn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
