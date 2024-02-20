@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Rumor travels faster, but it don't stay put as long as truth." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 1.  "I merely took the energy it takes to pout and wrote some blues." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
 
- 2.  "Remember that what you believe will depend very much on what you are." <br> &emsp;&emsp;&emsp; <i>-by Noah Porter</i> 
+ 2.  "Avoid destructive thinking. Improper negative thoughts sink people. A ship can sail around the world many, many times, but just let enough water get into the ship and it will sink. Just so with the human mind. Let enough negative thoughts or improper thoughts get into the human mind and the person sinks just like a ship." <br> &emsp;&emsp;&emsp; <i>-by Alfred A. Montapert</i> 
 
- 3.  "A wise man should have money in his head, but not in his heart." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 3.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
 
- 4.  "The trouble in corporate America is that too many people with too much power live in a box (their home), then travel the same road every day to another box (their office)." <br> &emsp;&emsp;&emsp; <i>-by Faith Popcorn</i> 
+ 4.  "The secret of all power is - save your force. If you want high pressure you must choke off waste." <br> &emsp;&emsp;&emsp; <i>-by Joseph Farrell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
