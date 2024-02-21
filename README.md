@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I merely took the energy it takes to pout and wrote some blues." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
+ 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 2.  "Avoid destructive thinking. Improper negative thoughts sink people. A ship can sail around the world many, many times, but just let enough water get into the ship and it will sink. Just so with the human mind. Let enough negative thoughts or improper thoughts get into the human mind and the person sinks just like a ship." <br> &emsp;&emsp;&emsp; <i>-by Alfred A. Montapert</i> 
+ 2.  "It's a sign of mediocrity when you demonstrate gratitude with moderation." <br> &emsp;&emsp;&emsp; <i>-by Roberto Benigni</i> 
 
- 3.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
+ 3.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
 
- 4.  "The secret of all power is - save your force. If you want high pressure you must choke off waste." <br> &emsp;&emsp;&emsp; <i>-by Joseph Farrell</i> 
+ 4.  "Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
