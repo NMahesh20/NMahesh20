@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 2.  "It's a sign of mediocrity when you demonstrate gratitude with moderation." <br> &emsp;&emsp;&emsp; <i>-by Roberto Benigni</i> 
+ 2.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
 
- 3.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
+ 3.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Everybody knows if you are too careful you are so occupied in being careful that you are sure to stumble over something." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
+ 4.  "Gratitude is not only the greatest of virtues, but the parent of all others." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
