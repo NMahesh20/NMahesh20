@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
+ 2.  "The majority of people perform well in a crisis and when the spotlight is on them; it's on the Sunday afternoons of this life, when the nobody is looking, that the spirit falters." <br> &emsp;&emsp;&emsp; <i>-by Alan Bennett</i> 
 
- 3.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "In Ethiopia during the famine, I saw stuff there that reorganized how I saw the world. I didn't quite know what to do about it. At a certain point, I felt God is not looking for alms. God is looking for action." <br> &emsp;&emsp;&emsp; <i>-by Bono</i> 
 
- 4.  "Gratitude is not only the greatest of virtues, but the parent of all others." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 4.  "I am careful not to confuse excellence with perfection. Excellence, I can reach for; perfection is God's business." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
