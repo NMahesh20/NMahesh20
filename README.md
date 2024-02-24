@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "The majority of people perform well in a crisis and when the spotlight is on them; it's on the Sunday afternoons of this life, when the nobody is looking, that the spirit falters." <br> &emsp;&emsp;&emsp; <i>-by Alan Bennett</i> 
+ 2.  "My idea of good company is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "In Ethiopia during the famine, I saw stuff there that reorganized how I saw the world. I didn't quite know what to do about it. At a certain point, I felt God is not looking for alms. God is looking for action." <br> &emsp;&emsp;&emsp; <i>-by Bono</i> 
+ 3.  "The only way to have a friend is to be one." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "I am careful not to confuse excellence with perfection. Excellence, I can reach for; perfection is God's business." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 4.  "Do something every day that you don't want to do; this is the golden rule for acquiring the habit of doing your duty without pain." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
