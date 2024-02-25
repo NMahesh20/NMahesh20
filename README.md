@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "My idea of good company is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "We strain to renew our capacity for wonder, to shock ourselves into astonishment once again." <br> &emsp;&emsp;&emsp; <i>-by Shana Alexander</i> 
 
- 3.  "The only way to have a friend is to be one." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 
- 4.  "Do something every day that you don't want to do; this is the golden rule for acquiring the habit of doing your duty without pain." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Good people are good because they've come to wisdom through failure." <br> &emsp;&emsp;&emsp; <i>-by William Saroyan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
