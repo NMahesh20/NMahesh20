@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
 
- 2.  "We strain to renew our capacity for wonder, to shock ourselves into astonishment once again." <br> &emsp;&emsp;&emsp; <i>-by Shana Alexander</i> 
+ 2.  "Nerds don't just happen to dress informally. They do it too consistently. Consciously or not, they dress informally as a prophylactic measure against stupidity." <br> &emsp;&emsp;&emsp; <i>-by Paul Graham</i> 
 
- 3.  "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
+ 3.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 4.  "Good people are good because they've come to wisdom through failure." <br> &emsp;&emsp;&emsp; <i>-by William Saroyan</i> 
+ 4.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
