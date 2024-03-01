@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I was young, my ambition was to be one of the people who made a difference in this world. My hope still is to leave the world a little bit better for my having been here. It's a wonderful life and I love it." <br> &emsp;&emsp;&emsp; <i>-by Jim Henson</i> 
+ 1.  "Everyone has talent. What is rare is the courage to follow the talent to the dark places where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 2.  "A certain amount of opposition is a great help to a man; it is what he wants and must have to be good for anything. Hardship and opposition are the native soil of manhood and self-reliance." <br> &emsp;&emsp;&emsp; <i>-by John Neal</i> 
+ 2.  "Only if we understand can we care. Only if we care will we help. Only if we help shall they be saved." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 3.  "You know, I think that if parents would spend less time worrying about what their kids watch on TV and more time worrying about what's going on in their kids' lives, this world would be a much better place." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 3.  "It is useless to attempt to reason a man out of a thing he was never reasoned into." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 
- 4.  "Destiny is no matter of chance. It is a matter of choice. It is not a thing to be waited for, it is a thing to be achieved." <br> &emsp;&emsp;&emsp; <i>-by William Jennings Bryan</i> 
+ 4.  "Keep five yards from a carriage, ten yards from a horse, and a hundred yards from an elephant; but the distance one should keep from a wicked man cannot be measured." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
