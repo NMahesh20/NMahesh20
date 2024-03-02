@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everyone has talent. What is rare is the courage to follow the talent to the dark places where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 1.  "Let no man pull you low enough to hate him." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 2.  "Only if we understand can we care. Only if we care will we help. Only if we help shall they be saved." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 2.  "I believe our longing for an innate harmony runs deeper than our longing for righteousness." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Rodriguez</i> 
 
- 3.  "It is useless to attempt to reason a man out of a thing he was never reasoned into." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 3.  "Say not, 'I have found the truth,' but rather, 'I have found a truth.'" <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 
- 4.  "Keep five yards from a carriage, ten yards from a horse, and a hundred yards from an elephant; but the distance one should keep from a wicked man cannot be measured." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
+ 4.  "Courage is being scared to death - but saddling up anyway." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
