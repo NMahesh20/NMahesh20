@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Let no man pull you low enough to hate him." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 1.  "You don't need to outdo the competition. It's expensive and defensive. Underdo your competition. We need more simplicity and clarity." <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
 
- 2.  "I believe our longing for an innate harmony runs deeper than our longing for righteousness." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Rodriguez</i> 
+ 2.  "Don't ever confuse the two, your life and your work. That's what I have to say. The second is only a part of the first." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "Say not, 'I have found the truth,' but rather, 'I have found a truth.'" <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 3.  "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "Courage is being scared to death - but saddling up anyway." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 4.  "[Television is] the triumph of machine over people." <br> &emsp;&emsp;&emsp; <i>-by Fred Allen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
