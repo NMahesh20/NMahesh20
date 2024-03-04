@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You don't need to outdo the competition. It's expensive and defensive. Underdo your competition. We need more simplicity and clarity." <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
+ 1.  "Grief does not change you, it reveals you." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Don't ever confuse the two, your life and your work. That's what I have to say. The second is only a part of the first." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "I felt despair. Though it seems to me now there's two kinds of it: the sort that causes a person to surrender and then the sort I had which made me take risks and make plans." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 3.  "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "[Television is] the triumph of machine over people." <br> &emsp;&emsp;&emsp; <i>-by Fred Allen</i> 
+ 4.  "Age to me means nothing. I can't get old; I'm working. I was old when I was twenty-one and out of work. As long as you're working, you stay young. When I'm in front of an audience, all that love and vitality sweeps over me and I forget my age." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
