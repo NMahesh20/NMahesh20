@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know of only one bird - the parrot - that talks; and it can't fly very high." <br> &emsp;&emsp;&emsp; <i>-by Wilbur Wright</i> 
+ 1.  "Fitness - If it came in a bottle, everybody would have a great body." <br> &emsp;&emsp;&emsp; <i>-by Cher</i> 
 
- 2.  "If you do not tell the truth about yourself you cannot tell it about other people." <br> &emsp;&emsp;&emsp; <i>-by Virginia Woolf</i> 
+ 2.  "You can talk about anything if you go about it the right way, which is never malicious." <br> &emsp;&emsp;&emsp; <i>-by Rodney Carrington</i> 
 
- 3.  "I have found adventure in flying, in world travel, in business, and even close at hand... Adventure is a state of mind - and spirit." <br> &emsp;&emsp;&emsp; <i>-by Jacqueline Cochran</i> 
+ 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
 
- 4.  "We all have the extraordinary coded within us, waiting to be released." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
+ 4.  "Don't gamble; take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
