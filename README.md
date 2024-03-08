@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fitness - If it came in a bottle, everybody would have a great body." <br> &emsp;&emsp;&emsp; <i>-by Cher</i> 
+ 1.  "Everything we do really is just a little marker on the long road to death. And sometimes that's overwhelmingly depressing to me, and sometimes it makes me feel kinship and forgiveness. We've all got the same ending to the story. The way we make that story more elaborate, I got to respect." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "You can talk about anything if you go about it the right way, which is never malicious." <br> &emsp;&emsp;&emsp; <i>-by Rodney Carrington</i> 
+ 2.  "When you close your doors, and make darkness within, remember never to say that you are alone, for you are not alone; nay, God is within, and your genius is within. And what need have they of light to see what you are doing?" <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
+ 3.  "Laziness is nothing more than the habit of resting before you get tired." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 
- 4.  "Don't gamble; take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 4.  "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
