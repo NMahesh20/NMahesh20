@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything we do really is just a little marker on the long road to death. And sometimes that's overwhelmingly depressing to me, and sometimes it makes me feel kinship and forgiveness. We've all got the same ending to the story. The way we make that story more elaborate, I got to respect." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "Love cannot survive if you just give it scraps of yourself, scraps of your time, scraps of your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Mary O'Hara</i> 
 
- 2.  "When you close your doors, and make darkness within, remember never to say that you are alone, for you are not alone; nay, God is within, and your genius is within. And what need have they of light to see what you are doing?" <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 2.  "As you become more clear about who you really are, you'll be better able to decide what is best for you - the first time around." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Laziness is nothing more than the habit of resting before you get tired." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 3.  "No matter how slow the film, Spirit always stands still long enough for the photographer It has chosen." <br> &emsp;&emsp;&emsp; <i>-by Minor White</i> 
 
- 4.  "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
+ 4.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
