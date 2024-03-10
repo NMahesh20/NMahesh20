@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Love cannot survive if you just give it scraps of yourself, scraps of your time, scraps of your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Mary O'Hara</i> 
+ 1.  "Let us take things as we find them: let us not attempt to distort them into what they are not. We cannot make facts. All our wishing cannot change them. We must use them." <br> &emsp;&emsp;&emsp; <i>-by John Henry Cardinal Newman</i> 
 
- 2.  "As you become more clear about who you really are, you'll be better able to decide what is best for you - the first time around." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "If your head is wax, don't walk in the sun." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "No matter how slow the film, Spirit always stands still long enough for the photographer It has chosen." <br> &emsp;&emsp;&emsp; <i>-by Minor White</i> 
+ 3.  "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
+ 4.  "Although the world is full of suffering, it is full also of the overcoming of it." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
