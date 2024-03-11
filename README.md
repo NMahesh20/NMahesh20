@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Let us take things as we find them: let us not attempt to distort them into what they are not. We cannot make facts. All our wishing cannot change them. We must use them." <br> &emsp;&emsp;&emsp; <i>-by John Henry Cardinal Newman</i> 
+ 1.  "No problem is too small or too trivial if we can really do something about it." <br> &emsp;&emsp;&emsp; <i>-by Richard Feynman</i> 
 
- 2.  "If your head is wax, don't walk in the sun." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "A mind too active is no mind at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roethke</i> 
 
- 3.  "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "I believe in the forgiveness of sin and the redemption of ignorance." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
 
- 4.  "Although the world is full of suffering, it is full also of the overcoming of it." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "A human being is only interesting if he's in contact with himself. I learned you have to trust yourself, be what you are, and do what you ought to do the way you should do it. You have got to discover you, what you do, and trust it." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
