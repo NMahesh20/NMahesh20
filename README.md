@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No problem is too small or too trivial if we can really do something about it." <br> &emsp;&emsp;&emsp; <i>-by Richard Feynman</i> 
+ 1.  "Change, when it comes, cracks everything open." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Allison</i> 
 
- 2.  "A mind too active is no mind at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roethke</i> 
+ 2.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
 
- 3.  "I believe in the forgiveness of sin and the redemption of ignorance." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
+ 3.  "The joy of a spirit is the measure of its power." <br> &emsp;&emsp;&emsp; <i>-by Ninon de Lenclos</i> 
 
- 4.  "A human being is only interesting if he's in contact with himself. I learned you have to trust yourself, be what you are, and do what you ought to do the way you should do it. You have got to discover you, what you do, and trust it." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
+ 4.  "A minute's success pays the failure of years." <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
