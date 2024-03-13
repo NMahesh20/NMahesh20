@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Change, when it comes, cracks everything open." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Allison</i> 
+ 1.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 2.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
+ 2.  "Never expose yourself unnecessarily to danger; a miracle may not save you...and if it does, it will be deducted from your share of luck or merit." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
 
- 3.  "The joy of a spirit is the measure of its power." <br> &emsp;&emsp;&emsp; <i>-by Ninon de Lenclos</i> 
+ 3.  "There is no shortage of good days. It is good lives that are hard to come by." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
 
- 4.  "A minute's success pays the failure of years." <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 4.  "Learning to love yourself is the greatest love of all." <br> &emsp;&emsp;&emsp; <i>-by Michael Masser and Linda Creed</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
