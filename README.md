@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
 
- 2.  "Never expose yourself unnecessarily to danger; a miracle may not save you...and if it does, it will be deducted from your share of luck or merit." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
+ 2.  "Do what thy manhood bids thee do, from none but self expect applause; He noblest lives and noblest dies who makes and keeps his self-made laws." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Francis Burton</i> 
 
- 3.  "There is no shortage of good days. It is good lives that are hard to come by." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
+ 3.  "Associate with well-mannered persons and your manners will improve. Run around with decent folk and your own decent instincts will be strengthened." <br> &emsp;&emsp;&emsp; <i>-by Stanley Walker</i> 
 
- 4.  "Learning to love yourself is the greatest love of all." <br> &emsp;&emsp;&emsp; <i>-by Michael Masser and Linda Creed</i> 
+ 4.  "Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has superior opportunity of being a good man. There will still be business enough." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
