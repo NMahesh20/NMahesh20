@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
+ 1.  "I think it would be worse to expect nothing than to be disappointed." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Do what thy manhood bids thee do, from none but self expect applause; He noblest lives and noblest dies who makes and keeps his self-made laws." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Francis Burton</i> 
+ 2.  "You can approach the act of writing with nervousness, excitement, hopefulness, or even despair–the sense that you can never completely put on the page what’s in your mind and heart. You can come to the act with your fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 3.  "Associate with well-mannered persons and your manners will improve. Run around with decent folk and your own decent instincts will be strengthened." <br> &emsp;&emsp;&emsp; <i>-by Stanley Walker</i> 
+ 3.  "The vitality of thought is in adventure. Ideas won't keep. Something must be done about them." <br> &emsp;&emsp;&emsp; <i>-by Alfred North Whitehead</i> 
 
- 4.  "Discourage litigation. Persuade your neighbors to compromise whenever you can. As a peacemaker the lawyer has superior opportunity of being a good man. There will still be business enough." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
