@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think it would be worse to expect nothing than to be disappointed." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Ya gotta live somewhere, but also you GET to live somewhere." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "You can approach the act of writing with nervousness, excitement, hopefulness, or even despair–the sense that you can never completely put on the page what’s in your mind and heart. You can come to the act with your fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 2.  "Prosperity is only an instrument to be used, not a deity to be worshipped." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
 
- 3.  "The vitality of thought is in adventure. Ideas won't keep. Something must be done about them." <br> &emsp;&emsp;&emsp; <i>-by Alfred North Whitehead</i> 
+ 3.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 4.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
+ 4.  "To repeat what others have said, requires education; to challenge it, requires brains." <br> &emsp;&emsp;&emsp; <i>-by Mary Pettibone Poole</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
