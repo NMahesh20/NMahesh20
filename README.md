@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Ya gotta live somewhere, but also you GET to live somewhere." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Whosoever is delighted in solitude is either a wild beast or a god." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 2.  "Prosperity is only an instrument to be used, not a deity to be worshipped." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
+ 2.  "People seldom become famous for what they say until after they are famous for what they've done." <br> &emsp;&emsp;&emsp; <i>-by Cullen Hightower</i> 
 
- 3.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 3.  "'Taint't worthwhile to wear a day all out before it comes." <br> &emsp;&emsp;&emsp; <i>-by Sarah Orne Jewett</i> 
 
- 4.  "To repeat what others have said, requires education; to challenge it, requires brains." <br> &emsp;&emsp;&emsp; <i>-by Mary Pettibone Poole</i> 
+ 4.  "If we had no winter, the spring would not be so pleasant: if we did not sometimes taste of adversity, prosperity would not be so welcome." <br> &emsp;&emsp;&emsp; <i>-by Anne Bradstreet</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
