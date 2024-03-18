@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whosoever is delighted in solitude is either a wild beast or a god." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 1.  "Exercise is medicine. Literally. Just like a pill, it reliably changes brain function by altering the activity of key brain chemicals and hormones." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
 
- 2.  "People seldom become famous for what they say until after they are famous for what they've done." <br> &emsp;&emsp;&emsp; <i>-by Cullen Hightower</i> 
+ 2.  "A true man never frets about his place in the world, but just slides into it by the gravitation of his nature, and swings there as easily as a star." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
 
- 3.  "'Taint't worthwhile to wear a day all out before it comes." <br> &emsp;&emsp;&emsp; <i>-by Sarah Orne Jewett</i> 
+ 3.  "Age is opportunity no less/ Than youth itself, though in another dress,/ And as the evening twilight fades away/ The sky is filled with stars, invisible by day." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 
- 4.  "If we had no winter, the spring would not be so pleasant: if we did not sometimes taste of adversity, prosperity would not be so welcome." <br> &emsp;&emsp;&emsp; <i>-by Anne Bradstreet</i> 
+ 4.  "Better be ill spoken of by one before all than by all before one." <br> &emsp;&emsp;&emsp; <i>-by Scottish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
