@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Exercise is medicine. Literally. Just like a pill, it reliably changes brain function by altering the activity of key brain chemicals and hormones." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
+ 1.  "Life ain't like books. Books got somebody writin' 'em and tryin' to entertain ya. Life is more like a set of Legos. Unless you take care of 'em, you lose a few pieces and you end up steppin' on 'em with bare feet. You gotta take care of your life." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "A true man never frets about his place in the world, but just slides into it by the gravitation of his nature, and swings there as easily as a star." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
+ 2.  "Don't need to say please to no man for a happy tune." <br> &emsp;&emsp;&emsp; <i>-by Neil Diamond</i> 
 
- 3.  "Age is opportunity no less/ Than youth itself, though in another dress,/ And as the evening twilight fades away/ The sky is filled with stars, invisible by day." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 3.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 4.  "Better be ill spoken of by one before all than by all before one." <br> &emsp;&emsp;&emsp; <i>-by Scottish Proverb</i> 
+ 4.  "There is nothing like dream to create the future. Utopia to-day, flesh and blood tomorrow." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
