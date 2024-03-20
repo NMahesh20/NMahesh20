@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life ain't like books. Books got somebody writin' 'em and tryin' to entertain ya. Life is more like a set of Legos. Unless you take care of 'em, you lose a few pieces and you end up steppin' on 'em with bare feet. You gotta take care of your life." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "We can learn nothing except by going from the known to the unknown." <br> &emsp;&emsp;&emsp; <i>-by Claude Bernard</i> 
 
- 2.  "Don't need to say please to no man for a happy tune." <br> &emsp;&emsp;&emsp; <i>-by Neil Diamond</i> 
+ 2.  "Own only what you can carry with you; know language, know countries, know people. Let your memory be your travel bag." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
 
- 3.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 3.  "It is by acts and not by ideas that people live." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 
- 4.  "There is nothing like dream to create the future. Utopia to-day, flesh and blood tomorrow." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 4.  "The ancestor of every action is a thought." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
