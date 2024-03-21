@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We can learn nothing except by going from the known to the unknown." <br> &emsp;&emsp;&emsp; <i>-by Claude Bernard</i> 
+ 1.  "Easy enough to dismiss others' problems when you had none of your own." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Own only what you can carry with you; know language, know countries, know people. Let your memory be your travel bag." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
+ 2.  "I have learned that to be with those I like is enough." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 3.  "It is by acts and not by ideas that people live." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 3.  "Just because you are blind, and unable to see my beauty doesn't mean it does not exist." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 4.  "The ancestor of every action is a thought." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Be wise with speed . A fool at forty is a fool indeed." <br> &emsp;&emsp;&emsp; <i>-by Edward Young</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
