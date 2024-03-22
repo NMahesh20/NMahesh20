@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Easy enough to dismiss others' problems when you had none of your own." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "Creativity is a drug I cannot live without." <br> &emsp;&emsp;&emsp; <i>-by Cecil B. DeMille</i> 
 
- 2.  "I have learned that to be with those I like is enough." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "Even if you're on the right track, you'll get run over if you just sit there." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
 
- 3.  "Just because you are blind, and unable to see my beauty doesn't mean it does not exist." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 3.  "Music is the wine that fills the cup of silence." <br> &emsp;&emsp;&emsp; <i>-by Robert Fripp</i> 
 
- 4.  "Be wise with speed . A fool at forty is a fool indeed." <br> &emsp;&emsp;&emsp; <i>-by Edward Young</i> 
+ 4.  "If I knew what I was so anxious about, I wouldn't be so anxious." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
