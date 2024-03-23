@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Creativity is a drug I cannot live without." <br> &emsp;&emsp;&emsp; <i>-by Cecil B. DeMille</i> 
+ 1.  "My bounce-around life had taught me that dreams were dangerous things - they look solid in your mind, but you just try to reach for them. It's like gathering clouds." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
 
- 2.  "Even if you're on the right track, you'll get run over if you just sit there." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 2.  "There is a sacredness in tears. They are not the mark of weakness, but of power." <br> &emsp;&emsp;&emsp; <i>-by Washington Irving</i> 
 
- 3.  "Music is the wine that fills the cup of silence." <br> &emsp;&emsp;&emsp; <i>-by Robert Fripp</i> 
+ 3.  "Love much. Earth has enough of bitter in it." <br> &emsp;&emsp;&emsp; <i>-by Ella Wheeler Wilcox</i> 
 
- 4.  "If I knew what I was so anxious about, I wouldn't be so anxious." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 4.  "That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
