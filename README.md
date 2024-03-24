@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My bounce-around life had taught me that dreams were dangerous things - they look solid in your mind, but you just try to reach for them. It's like gathering clouds." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 1.  "The best years of your life are the ones in which you decide your problems are your own. You don't blame them on your mother, the ecology, or the President. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
 
- 2.  "There is a sacredness in tears. They are not the mark of weakness, but of power." <br> &emsp;&emsp;&emsp; <i>-by Washington Irving</i> 
+ 2.  "Love doesn't just sit there, like a stone; it has to be made, like bread, remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Ursula K. LeGuin</i> 
 
- 3.  "Love much. Earth has enough of bitter in it." <br> &emsp;&emsp;&emsp; <i>-by Ella Wheeler Wilcox</i> 
+ 3.  "Brains, like hearts, go where they are appreciated." <br> &emsp;&emsp;&emsp; <i>-by Robert S. McNamara</i> 
 
- 4.  "That would be a good thing for them to cut on my tombstone: Wherever she went, including here, it was against her better judgment." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
