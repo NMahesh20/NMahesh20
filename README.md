@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best years of your life are the ones in which you decide your problems are your own. You don't blame them on your mother, the ecology, or the President. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
+ 1.  "You will need to find your passion. Don't give up on finding it because then all you're doing is waiting for the Reaper." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "Love doesn't just sit there, like a stone; it has to be made, like bread, remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Ursula K. LeGuin</i> 
+ 2.  "There is no joy in a life that is all information. There is no 'juice' to that kind of life. No sweetness, no color. Like trading a beautiful golden-ripe orange for a stalk of whithered broccoli." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 3.  "Brains, like hearts, go where they are appreciated." <br> &emsp;&emsp;&emsp; <i>-by Robert S. McNamara</i> 
+ 3.  "That consciousness is everything and that all things begin with a thought. That we are responsible for our own fate, we reap what we sow, we get what we give, we pull in what we put out. I know these things for sure." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
 
- 4.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
+ 4.  "Leave well - even 'pretty well' - alone: that is what I learn as I get old." <br> &emsp;&emsp;&emsp; <i>-by Edward Fitzgerald</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
