@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You will need to find your passion. Don't give up on finding it because then all you're doing is waiting for the Reaper." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "Anyone can lose a few pounds, but not everyone has the tools to stick with it." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "There is no joy in a life that is all information. There is no 'juice' to that kind of life. No sweetness, no color. Like trading a beautiful golden-ripe orange for a stalk of whithered broccoli." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 2.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
 
- 3.  "That consciousness is everything and that all things begin with a thought. That we are responsible for our own fate, we reap what we sow, we get what we give, we pull in what we put out. I know these things for sure." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
+ 3.  "We should every night call ourselves to an account: What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired?" <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Leave well - even 'pretty well' - alone: that is what I learn as I get old." <br> &emsp;&emsp;&emsp; <i>-by Edward Fitzgerald</i> 
+ 4.  "A smiling face is half the meal." <br> &emsp;&emsp;&emsp; <i>-by Latvian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
