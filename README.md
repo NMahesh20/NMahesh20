@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Anyone can lose a few pounds, but not everyone has the tools to stick with it." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
+ 2.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
 
- 3.  "We should every night call ourselves to an account: What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired?" <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "Beware of the man who won't be bothered with details." <br> &emsp;&emsp;&emsp; <i>-by William Feather</i> 
 
- 4.  "A smiling face is half the meal." <br> &emsp;&emsp;&emsp; <i>-by Latvian Proverb</i> 
+ 4.  "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
