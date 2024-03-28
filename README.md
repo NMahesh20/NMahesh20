@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 2.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
+ 2.  "Don't fall before you're pushed." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 3.  "Beware of the man who won't be bothered with details." <br> &emsp;&emsp;&emsp; <i>-by William Feather</i> 
+ 3.  "I have a right to my anger, and I don't want anybody telling me I shouldn't be, that it's not nice to be, and that something's wrong with me because I get angry." <br> &emsp;&emsp;&emsp; <i>-by Maxine Waters</i> 
 
- 4.  "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 4.  "How wonderful it is that nobody need wait a single moment before starting to improve the world." <br> &emsp;&emsp;&emsp; <i>-by Anne Frank</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
