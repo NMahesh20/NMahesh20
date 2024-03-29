@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 1.  "Do not be afraid of defeat. you are never so near victory as when defeated in a good cause" <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
 
- 2.  "Don't fall before you're pushed." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 3.  "I have a right to my anger, and I don't want anybody telling me I shouldn't be, that it's not nice to be, and that something's wrong with me because I get angry." <br> &emsp;&emsp;&emsp; <i>-by Maxine Waters</i> 
+ 3.  "Grasp the subject, the words will follow." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
 
- 4.  "How wonderful it is that nobody need wait a single moment before starting to improve the world." <br> &emsp;&emsp;&emsp; <i>-by Anne Frank</i> 
+ 4.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
