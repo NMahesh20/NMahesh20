@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Do not be afraid of defeat. you are never so near victory as when defeated in a good cause" <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "You will never be alone with a poet in your pocket." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 2.  "The things that make us safest from others make us least from ourselves." <br> &emsp;&emsp;&emsp; <i>-by Danah Boyd</i> 
 
- 3.  "Grasp the subject, the words will follow." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
+ 3.  "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 4.  "Labor to keep alive in your breast that little spark of celestial fire called conscience." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
