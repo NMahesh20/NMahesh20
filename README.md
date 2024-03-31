@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "An agreeable manner may set off handsome features, but can never alter plain ones." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "The things that make us safest from others make us least from ourselves." <br> &emsp;&emsp;&emsp; <i>-by Danah Boyd</i> 
+ 2.  "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 3.  "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "Never take the advice of someone who has not had your kind of trouble." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
 
- 4.  "Labor to keep alive in your breast that little spark of celestial fire called conscience." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 4.  "It's the possibility that when you're dead you might still go on hurting that bothers me." <br> &emsp;&emsp;&emsp; <i>-by Keri Hulme</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
