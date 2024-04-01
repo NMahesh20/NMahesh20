@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An agreeable manner may set off handsome features, but can never alter plain ones." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 2.  "But the body is deeper than the soul and its secrets inscrutable." <br> &emsp;&emsp;&emsp; <i>-by E. M. Forster</i> 
 
- 3.  "Never take the advice of someone who has not had your kind of trouble." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
+ 3.  "I never did give anybody hell. I just told the truth, and they thought it was hell." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 4.  "It's the possibility that when you're dead you might still go on hurting that bothers me." <br> &emsp;&emsp;&emsp; <i>-by Keri Hulme</i> 
+ 4.  "It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched for they are full of the truthless ideal which have been instilled into them, and each time they come in contact with the real, they are bruised and wounded." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
