@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "We would accomplish many more things if we did not think of them as impossible." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
 
- 2.  "But the body is deeper than the soul and its secrets inscrutable." <br> &emsp;&emsp;&emsp; <i>-by E. M. Forster</i> 
+ 2.  "Perfection is a road, not a destination. Every time I live, I get an education." <br> &emsp;&emsp;&emsp; <i>-by Burk Hudson</i> 
 
- 3.  "I never did give anybody hell. I just told the truth, and they thought it was hell." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 3.  "This world is given as the prize for the men in earnest; and that which is true of this world, is truer still of the world to come." <br> &emsp;&emsp;&emsp; <i>-by Frederick William Robertson</i> 
 
- 4.  "It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched for they are full of the truthless ideal which have been instilled into them, and each time they come in contact with the real, they are bruised and wounded." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Remember, that if thou marry for beauty, thou bindest thyself all thy life for that which perchance will neither last nor please thee one year; and when thou hast it, it will be to thee of no price at all; for the desire dieth when it is attained, and the affection perisheth when it is satisfied." <br> &emsp;&emsp;&emsp; <i>-by Sir Walter Raleigh</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
