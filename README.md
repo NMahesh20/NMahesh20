@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We would accomplish many more things if we did not think of them as impossible." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
+ 1.  "It's very strange when the life you never had flashes before your eyes." <br> &emsp;&emsp;&emsp; <i>-by Terri Minsky</i> 
 
- 2.  "Perfection is a road, not a destination. Every time I live, I get an education." <br> &emsp;&emsp;&emsp; <i>-by Burk Hudson</i> 
+ 2.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "This world is given as the prize for the men in earnest; and that which is true of this world, is truer still of the world to come." <br> &emsp;&emsp;&emsp; <i>-by Frederick William Robertson</i> 
+ 3.  "A discovery is said to be an accident meeting a prepared mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
 
- 4.  "Remember, that if thou marry for beauty, thou bindest thyself all thy life for that which perchance will neither last nor please thee one year; and when thou hast it, it will be to thee of no price at all; for the desire dieth when it is attained, and the affection perisheth when it is satisfied." <br> &emsp;&emsp;&emsp; <i>-by Sir Walter Raleigh</i> 
+ 4.  "Do not trust all men, but trust men of worth; the former course is silly, the latter a mark of prudence." <br> &emsp;&emsp;&emsp; <i>-by Democritus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
