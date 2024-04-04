@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's very strange when the life you never had flashes before your eyes." <br> &emsp;&emsp;&emsp; <i>-by Terri Minsky</i> 
+ 1.  "Journalism is just a gun. It's only got one bullet in it, but if you aim right, that's all you need. Aim it right and you can blow a kneecap off the world." <br> &emsp;&emsp;&emsp; <i>-by Warren Ellis</i> 
 
- 2.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "When you don't share your problems, you resent hearing the problems of other people." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "A discovery is said to be an accident meeting a prepared mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
+ 3.  "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "Do not trust all men, but trust men of worth; the former course is silly, the latter a mark of prudence." <br> &emsp;&emsp;&emsp; <i>-by Democritus</i> 
+ 4.  "The game of life is the game of boomerangs. Our thoughts, deeds and words return to us sooner or later, with astounding accuracy." <br> &emsp;&emsp;&emsp; <i>-by Florence Shinn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
