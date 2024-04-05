@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Journalism is just a gun. It's only got one bullet in it, but if you aim right, that's all you need. Aim it right and you can blow a kneecap off the world." <br> &emsp;&emsp;&emsp; <i>-by Warren Ellis</i> 
+ 1.  "People are always trying to [mess] up other people's live's by telling lies about 'em. You wanna really [mess] somebody's life up? Tell the truth about 'em. They ain't never gonna be the same." <br> &emsp;&emsp;&emsp; <i>-by Brian Buckner</i> 
 
- 2.  "When you don't share your problems, you resent hearing the problems of other people." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "You have no control over what the other guy does. You only have control over what you do." <br> &emsp;&emsp;&emsp; <i>-by A. J. Kitt</i> 
 
- 3.  "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 3.  "Be wary of the man who urges an action in which he himself incurs no risk." <br> &emsp;&emsp;&emsp; <i>-by Joaquin Setanti</i> 
 
- 4.  "The game of life is the game of boomerangs. Our thoughts, deeds and words return to us sooner or later, with astounding accuracy." <br> &emsp;&emsp;&emsp; <i>-by Florence Shinn</i> 
+ 4.  "It is bitter to lose a friend to evil, before one loses him to death." <br> &emsp;&emsp;&emsp; <i>-by Mary Renault</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
