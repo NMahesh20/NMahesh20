@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People are always trying to [mess] up other people's live's by telling lies about 'em. You wanna really [mess] somebody's life up? Tell the truth about 'em. They ain't never gonna be the same." <br> &emsp;&emsp;&emsp; <i>-by Brian Buckner</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "You have no control over what the other guy does. You only have control over what you do." <br> &emsp;&emsp;&emsp; <i>-by A. J. Kitt</i> 
+ 2.  "Goodness is the only investment that never fails." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "Be wary of the man who urges an action in which he himself incurs no risk." <br> &emsp;&emsp;&emsp; <i>-by Joaquin Setanti</i> 
+ 3.  "If you limit your choices only to what seems possible or reasonable, you disconnect yourself from what you truly want, and all that is left is a compromise." <br> &emsp;&emsp;&emsp; <i>-by Robert Fritz</i> 
 
- 4.  "It is bitter to lose a friend to evil, before one loses him to death." <br> &emsp;&emsp;&emsp; <i>-by Mary Renault</i> 
+ 4.  "The strongest principle of growth lies in human choice." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
