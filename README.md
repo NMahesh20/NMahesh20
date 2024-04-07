@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Your pasion must come from the things that fuel you from the inside. Honors and awards are nice things, but only to the extent that they regard the real respect from your peers." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "Goodness is the only investment that never fails." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "There shall be eternal summer in the grateful heart." <br> &emsp;&emsp;&emsp; <i>-by Celia Thaxter</i> 
 
- 3.  "If you limit your choices only to what seems possible or reasonable, you disconnect yourself from what you truly want, and all that is left is a compromise." <br> &emsp;&emsp;&emsp; <i>-by Robert Fritz</i> 
+ 3.  "When you meet your antagonist, do everything in a mild and agreeable manner. Let your courage be as keen, but at the same time as polished, as your sword." <br> &emsp;&emsp;&emsp; <i>-by Richard Brinsley Sheridan</i> 
 
- 4.  "The strongest principle of growth lies in human choice." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Books are the quietest and most constant of friends; they are the most accessible and wisest of counsellors, and the most patient of teachers." <br> &emsp;&emsp;&emsp; <i>-by Charles W. Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
