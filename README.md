@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In forming a bridge between body and mind, dreams may be used as a springboard from which man can leap to new realms of experience lying outside his normal state of consciousness." <br> &emsp;&emsp;&emsp; <i>-by Ann Faraday</i> 
+ 1.  "Looking forward to things is half the pleasure of them. You mayn't get the things themselves; but nothing can prevent you from having the fun of looking forward to them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "To be brave is to love someone unconditionally, without expecting anything in return. To just give. That takes courage, because we don't want to fall on our faces or leave ourselves open to hurt." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
+ 2.  "What are riches - grandeur - health itself, to the luxury of a pure conscience, the health of the soul; - and what the sufferings of poverty, disappointment, despair - to the anguish of an afflicted one!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer, is to have kept your soul alive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 3.  "The first rule of business, is never sell something you love. Otherwise, you may as well be selling your children." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 4.  "If you would be pungent, be brief; for it is with words as with sunbeams - the more they are condensed, the deeper they burn." <br> &emsp;&emsp;&emsp; <i>-by Robert Southey</i> 
+ 4.  "Nothing is so good for an ignorant man as silence; and if he was sensible of this he would not be ignorant." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
