@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Looking forward to things is half the pleasure of them. You mayn't get the things themselves; but nothing can prevent you from having the fun of looking forward to them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "I'm not afraid of facts, I welcome facts but a congeries of facts is not equivalent to an idea. This is the essential fallacy of the so-called "scientific" mind. People who mistake facts for ideas are incomplete thinkers; they are gossips." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
 
- 2.  "What are riches - grandeur - health itself, to the luxury of a pure conscience, the health of the soul; - and what the sufferings of poverty, disappointment, despair - to the anguish of an afflicted one!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
 
- 3.  "The first rule of business, is never sell something you love. Otherwise, you may as well be selling your children." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 3.  "Raise your sail one foot and you get ten feet of wind." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Nothing is so good for an ignorant man as silence; and if he was sensible of this he would not be ignorant." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
+ 4.  "Smell is a potent wizard that transports you across thousand of miles and all the years you have lived." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
