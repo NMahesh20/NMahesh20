@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm not afraid of facts, I welcome facts but a congeries of facts is not equivalent to an idea. This is the essential fallacy of the so-called "scientific" mind. People who mistake facts for ideas are incomplete thinkers; they are gossips." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
+ 1.  "Money's the same, whoever gives it to you. That was the point of money, after all: crisp and clean or wrinkled or disintegrated into quarters - a dollar was always worth a hundred cents." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
+ 2.  "The greatest conflicts are not between two people but between one person and himself." <br> &emsp;&emsp;&emsp; <i>-by Garth Brooks</i> 
 
- 3.  "Raise your sail one foot and you get ten feet of wind." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "I used to believe that marriage would diminish me, reduce my options. That you had to be someone less to live with someone else when, of course, you have to be someone more." <br> &emsp;&emsp;&emsp; <i>-by Candice Bergen</i> 
 
- 4.  "Smell is a potent wizard that transports you across thousand of miles and all the years you have lived." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "At the height of laughter, the universe is flung into a kaleidoscope of new possibilities." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
