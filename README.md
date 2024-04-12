@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Money's the same, whoever gives it to you. That was the point of money, after all: crisp and clean or wrinkled or disintegrated into quarters - a dollar was always worth a hundred cents." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "We do not believe if we do not live and work according to our belief." <br> &emsp;&emsp;&emsp; <i>-by Heidi Wills</i> 
 
- 2.  "The greatest conflicts are not between two people but between one person and himself." <br> &emsp;&emsp;&emsp; <i>-by Garth Brooks</i> 
+ 2.  "Fear does not have any special power unless you empower it by submitting to it." <br> &emsp;&emsp;&emsp; <i>-by Les Brown</i> 
 
- 3.  "I used to believe that marriage would diminish me, reduce my options. That you had to be someone less to live with someone else when, of course, you have to be someone more." <br> &emsp;&emsp;&emsp; <i>-by Candice Bergen</i> 
+ 3.  "Life is like an ever-shifting kaleidoscope - a slight change, and all patterns alter." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 4.  "At the height of laughter, the universe is flung into a kaleidoscope of new possibilities." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
+ 4.  "A hero is no braver than an ordinary man, but he is braver five minutes longer." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
