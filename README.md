@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We do not believe if we do not live and work according to our belief." <br> &emsp;&emsp;&emsp; <i>-by Heidi Wills</i> 
+ 1.  "When I was younger I thought success was something different. I thought, " When I grow up, I want to be famous. I want to be a star. I want to be in movies. When I grow up I want to see the world, drive nice cars. I want to have groupies." But my idea of success is different today. For me, the most important thing in your life is to live your life with integrity and not to give into peer pressure, to try to be something that you're not. To live your life as an honest and compassionate person. To contribute in some way." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "Fear does not have any special power unless you empower it by submitting to it." <br> &emsp;&emsp;&emsp; <i>-by Les Brown</i> 
+ 2.  "True originality consists not in a new manner but in a new vision." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
 
- 3.  "Life is like an ever-shifting kaleidoscope - a slight change, and all patterns alter." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 3.  "All that counts in life is intention." <br> &emsp;&emsp;&emsp; <i>-by Andrea Bocelli</i> 
 
- 4.  "A hero is no braver than an ordinary man, but he is braver five minutes longer." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "In a world where there is so much to be done. I felt strongly impressed that there must be something for me to do." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Dix</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
