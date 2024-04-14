@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I was younger I thought success was something different. I thought, " When I grow up, I want to be famous. I want to be a star. I want to be in movies. When I grow up I want to see the world, drive nice cars. I want to have groupies." But my idea of success is different today. For me, the most important thing in your life is to live your life with integrity and not to give into peer pressure, to try to be something that you're not. To live your life as an honest and compassionate person. To contribute in some way." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "There's an evolutionary imperative why we give a crap about our family and friends. And there's an evolutionary imperative why we don't give a crap about anybody else. If we loved all people indiscriminately, we couldn't function." <br> &emsp;&emsp;&emsp; <i>-by David Foster</i> 
 
- 2.  "True originality consists not in a new manner but in a new vision." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
+ 2.  "He who promises more than he is able to perform, is false to himself; and he who does not perform what he has promised, is a traitor to his friend." <br> &emsp;&emsp;&emsp; <i>-by George Shelley</i> 
 
- 3.  "All that counts in life is intention." <br> &emsp;&emsp;&emsp; <i>-by Andrea Bocelli</i> 
+ 3.  "Nothing amuses me more than the easy manner with which everybody settles the abundance of those who have a great deal less than themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "In a world where there is so much to be done. I felt strongly impressed that there must be something for me to do." <br> &emsp;&emsp;&emsp; <i>-by Dorothea Dix</i> 
+ 4.  "September tries its best to have us forget summer." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
