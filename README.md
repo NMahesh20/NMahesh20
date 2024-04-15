@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's an evolutionary imperative why we give a crap about our family and friends. And there's an evolutionary imperative why we don't give a crap about anybody else. If we loved all people indiscriminately, we couldn't function." <br> &emsp;&emsp;&emsp; <i>-by David Foster</i> 
+ 1.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 2.  "He who promises more than he is able to perform, is false to himself; and he who does not perform what he has promised, is a traitor to his friend." <br> &emsp;&emsp;&emsp; <i>-by George Shelley</i> 
+ 2.  "Truth is what stands the test of experience." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 3.  "Nothing amuses me more than the easy manner with which everybody settles the abundance of those who have a great deal less than themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "Generosity with strings is not generosity; It is a deal." <br> &emsp;&emsp;&emsp; <i>-by Marya Mannes</i> 
 
- 4.  "September tries its best to have us forget summer." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 4.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
