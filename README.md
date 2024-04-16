@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 1.  "If you are pained by external things, it is not they that disturb you, but your own judgment of them. And it is in your power to wipe out that judgment now." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 2.  "Truth is what stands the test of experience." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 2.  "The human tendency to regard little things as important has produced very many great things." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 3.  "Generosity with strings is not generosity; It is a deal." <br> &emsp;&emsp;&emsp; <i>-by Marya Mannes</i> 
+ 3.  "We should every night call ourselves to an account; What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired? Our vices will abort of themselves if they be brought every day to the shrift." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
+ 4.  "There is only one success - to be able to spend your life in your own way." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
