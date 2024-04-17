@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you are pained by external things, it is not they that disturb you, but your own judgment of them. And it is in your power to wipe out that judgment now." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 1.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 2.  "The human tendency to regard little things as important has produced very many great things." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 2.  "All appears to change when we change." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
 
- 3.  "We should every night call ourselves to an account; What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired? Our vices will abort of themselves if they be brought every day to the shrift." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 3.  "A college degree is not a sign that one is a finished product but an indication a person is prepared for life." <br> &emsp;&emsp;&emsp; <i>-by Reverend Edward A. Malloy</i> 
 
- 4.  "There is only one success - to be able to spend your life in your own way." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 4.  "Dwell not upon thy weariness, thy strength shall be according to the measure of thy desire." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
