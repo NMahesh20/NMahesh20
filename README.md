@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 1.  "Nothing else exists when art does." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 2.  "All appears to change when we change." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
+ 2.  "One must also accept that one has 'uncreative' moments. The more honestly one can accept that, the quicker these moments will pass." <br> &emsp;&emsp;&emsp; <i>-by Etty Hillesum</i> 
 
- 3.  "A college degree is not a sign that one is a finished product but an indication a person is prepared for life." <br> &emsp;&emsp;&emsp; <i>-by Reverend Edward A. Malloy</i> 
+ 3.  "The first step to getting the things you want out of life is this: Decide what you want." <br> &emsp;&emsp;&emsp; <i>-by Ben Stein</i> 
 
- 4.  "Dwell not upon thy weariness, thy strength shall be according to the measure of thy desire." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
+ 4.  "When you make a mistake, admit it. If you don't, you only make matters worse." <br> &emsp;&emsp;&emsp; <i>-by Ward Cleaver</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
