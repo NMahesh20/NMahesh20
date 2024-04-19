@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing else exists when art does." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 1.  "Young is the one that plunges in the future and never looks back." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
 
- 2.  "One must also accept that one has 'uncreative' moments. The more honestly one can accept that, the quicker these moments will pass." <br> &emsp;&emsp;&emsp; <i>-by Etty Hillesum</i> 
+ 2.  "Nobody, as long as he moves about among the chaotic currents of life, is without trouble." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 
- 3.  "The first step to getting the things you want out of life is this: Decide what you want." <br> &emsp;&emsp;&emsp; <i>-by Ben Stein</i> 
+ 3.  "Man is only miserable so far as he thinks himself so." <br> &emsp;&emsp;&emsp; <i>-by Jacopo Sannazaro</i> 
 
- 4.  "When you make a mistake, admit it. If you don't, you only make matters worse." <br> &emsp;&emsp;&emsp; <i>-by Ward Cleaver</i> 
+ 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
