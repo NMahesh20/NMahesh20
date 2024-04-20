@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Young is the one that plunges in the future and never looks back." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
+ 1.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
 
- 2.  "Nobody, as long as he moves about among the chaotic currents of life, is without trouble." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
+ 2.  "Never make a defense or an apology until you are accused." <br> &emsp;&emsp;&emsp; <i>-by King Charles I</i> 
 
- 3.  "Man is only miserable so far as he thinks himself so." <br> &emsp;&emsp;&emsp; <i>-by Jacopo Sannazaro</i> 
+ 3.  "You may be deceived if you trust too much, but you will live in torment if you do not trust enough." <br> &emsp;&emsp;&emsp; <i>-by Frank Crane</i> 
 
- 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
+ 4.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
