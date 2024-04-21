@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
+ 1.  "Is life worth living?/ Aye, with the best of us,/ Heights of us, depths of us - / Life is the test of us!" <br> &emsp;&emsp;&emsp; <i>-by Corinne Roosevelt Robinson</i> 
 
- 2.  "Never make a defense or an apology until you are accused." <br> &emsp;&emsp;&emsp; <i>-by King Charles I</i> 
+ 2.  "Observe your enemies, for they first find out your faults." <br> &emsp;&emsp;&emsp; <i>-by Antisthenes</i> 
 
- 3.  "You may be deceived if you trust too much, but you will live in torment if you do not trust enough." <br> &emsp;&emsp;&emsp; <i>-by Frank Crane</i> 
+ 3.  "A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration." <br> &emsp;&emsp;&emsp; <i>-by Kurt Lewin</i> 
 
- 4.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
+ 4.  "Tradition is a guide and not a jailer." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
