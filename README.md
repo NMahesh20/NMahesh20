@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Is life worth living?/ Aye, with the best of us,/ Heights of us, depths of us - / Life is the test of us!" <br> &emsp;&emsp;&emsp; <i>-by Corinne Roosevelt Robinson</i> 
+ 1.  "Change is the process by which the future invades our lives." <br> &emsp;&emsp;&emsp; <i>-by Alvin Toffler</i> 
 
- 2.  "Observe your enemies, for they first find out your faults." <br> &emsp;&emsp;&emsp; <i>-by Antisthenes</i> 
+ 2.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
 
- 3.  "A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration." <br> &emsp;&emsp;&emsp; <i>-by Kurt Lewin</i> 
+ 3.  "Good company and good discourse are the very sinews of virtue." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
 
- 4.  "Tradition is a guide and not a jailer." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "The only courage that matters is the kind that gets you from one moment to the next." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
