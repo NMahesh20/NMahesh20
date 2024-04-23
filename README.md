@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Change is the process by which the future invades our lives." <br> &emsp;&emsp;&emsp; <i>-by Alvin Toffler</i> 
+ 1.  "If you're creative, if you can think independently, if you can articulate passion, if you can override the fear of being wrong, then your company needs you now more than it ever did. And now your company can no longer afford to pretend that isn't the case." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
+ 2.  "It seems to me that people have vast potential. Most people can do extraordinary things if they have the confidence or take the risks. Yet most people don't. They sit in front of the telly and treat life as if it goes on forever." <br> &emsp;&emsp;&emsp; <i>-by Philip Adams</i> 
 
- 3.  "Good company and good discourse are the very sinews of virtue." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
+ 3.  "If you don't learn to laugh at trouble, you won't have anything to laugh at when you're old." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
 
- 4.  "The only courage that matters is the kind that gets you from one moment to the next." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 4.  "Annual income twenty pounds, annual expenditure nineteen six, result happiness. Annual income twenty pounds, annual expenditure twenty pound ought and six, result misery." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
