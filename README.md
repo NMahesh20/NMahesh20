@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you're creative, if you can think independently, if you can articulate passion, if you can override the fear of being wrong, then your company needs you now more than it ever did. And now your company can no longer afford to pretend that isn't the case." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "I have found that if you love life, life will love you back." <br> &emsp;&emsp;&emsp; <i>-by Arthur Rubinstein</i> 
 
- 2.  "It seems to me that people have vast potential. Most people can do extraordinary things if they have the confidence or take the risks. Yet most people don't. They sit in front of the telly and treat life as if it goes on forever." <br> &emsp;&emsp;&emsp; <i>-by Philip Adams</i> 
+ 2.  "Let thy speech be short, comprehending much in a few words." <br> &emsp;&emsp;&emsp; <i>-by Aprocrypha</i> 
 
- 3.  "If you don't learn to laugh at trouble, you won't have anything to laugh at when you're old." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
+ 3.  "Knowledge is power." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "Annual income twenty pounds, annual expenditure nineteen six, result happiness. Annual income twenty pounds, annual expenditure twenty pound ought and six, result misery." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and if it were possible, to speak a few reasonable words." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
