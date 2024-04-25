@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have found that if you love life, life will love you back." <br> &emsp;&emsp;&emsp; <i>-by Arthur Rubinstein</i> 
+ 1.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
 
- 2.  "Let thy speech be short, comprehending much in a few words." <br> &emsp;&emsp;&emsp; <i>-by Aprocrypha</i> 
+ 2.  "As a scientist, I am not sure anymore that life can be reduced to a class struggle, to dialectical materialism, or any set of formulas. Life is spontaneous and it is unpredictable, it is magical. I think that we have struggled so hard with the tangible that we have forgotten the intangible." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "Knowledge is power." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "Silence is a text easy to misread." <br> &emsp;&emsp;&emsp; <i>-by A. A. Attanasio</i> 
 
- 4.  "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and if it were possible, to speak a few reasonable words." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "Those who dream by day are cognizant of many things which escape those who dream only by night." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
