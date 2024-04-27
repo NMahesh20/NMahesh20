@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Complain to one who can help you." <br> &emsp;&emsp;&emsp; <i>-by Yugoslav Proverb</i> 
 
- 2.  "The face is not a secondary billboard for our internal feelings. It is an equal partner in the emotional process." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 2.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 3.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
+ 3.  "...it is as hard to do your duty when men are sneering at you as when they are shooting at you." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 4.  "When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
