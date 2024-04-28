@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Complain to one who can help you." <br> &emsp;&emsp;&emsp; <i>-by Yugoslav Proverb</i> 
+ 1.  "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 2.  "Anyone can revolt. It is more difficult silently to obey our own inner promptings, and to spend our lives finding sincere and fitting means of expression for our temperament and our gifts." <br> &emsp;&emsp;&emsp; <i>-by Georges Rouault</i> 
 
- 3.  "...it is as hard to do your duty when men are sneering at you as when they are shooting at you." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
+ 4.  "Search others for their virtues, thyself for thy vices." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
