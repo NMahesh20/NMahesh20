@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "We can only learn to love by loving." <br> &emsp;&emsp;&emsp; <i>-by Iris Murdoch</i> 
 
- 2.  "Anyone can revolt. It is more difficult silently to obey our own inner promptings, and to spend our lives finding sincere and fitting means of expression for our temperament and our gifts." <br> &emsp;&emsp;&emsp; <i>-by Georges Rouault</i> 
+ 2.  "When you have given nothing, ask for nothing." <br> &emsp;&emsp;&emsp; <i>-by Albanian Proverb</i> 
 
- 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "Take time to deliberate, but when the time for action has arrived, stop thinking and go in." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Bonaparte</i> 
 
- 4.  "Search others for their virtues, thyself for thy vices." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "To fulfill a dream, to be allowed to sweat over lonely labor, to be given the chance to create, is the meat and potatoes of life. The money is the gravy. As everyone else, I love to dunk my crust in it. But alone, it is not a diet designed to keep body and soul together." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
