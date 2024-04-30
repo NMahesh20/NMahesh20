@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We can only learn to love by loving." <br> &emsp;&emsp;&emsp; <i>-by Iris Murdoch</i> 
+ 1.  "Courage is saying, "Maybe what I'm doing isn't working; maybe I should try something else."" <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
 
- 2.  "When you have given nothing, ask for nothing." <br> &emsp;&emsp;&emsp; <i>-by Albanian Proverb</i> 
+ 2.  "Speak clearly, if you speak at all; carve every word before you let it fall." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 3.  "Take time to deliberate, but when the time for action has arrived, stop thinking and go in." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Bonaparte</i> 
+ 3.  "Be ashamed to die until you have won some victory for humanity." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
 
- 4.  "To fulfill a dream, to be allowed to sweat over lonely labor, to be given the chance to create, is the meat and potatoes of life. The money is the gravy. As everyone else, I love to dunk my crust in it. But alone, it is not a diet designed to keep body and soul together." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Flying may not be all plain sailing, but the fun of it is worth the price." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
