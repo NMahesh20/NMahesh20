@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Courage is saying, "Maybe what I'm doing isn't working; maybe I should try something else."" <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
+ 1.  "The thing that I'm always left with is this overwhelming desire for people to be rooted and the only way that they feel rooted is through another person." <br> &emsp;&emsp;&emsp; <i>-by John Allen</i> 
 
- 2.  "Speak clearly, if you speak at all; carve every word before you let it fall." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 2.  "It's always been about the experience of life and of not being passive. If something so excites my curiosty, I want to go there, be a part of whatever it is that's either pushing me or pulling me toward it. That desire for experience has made me very rich in life experience." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 3.  "Be ashamed to die until you have won some victory for humanity." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
+ 3.  "The victory of success is half won when one gains the habit of setting goals and achieving them. Even the most tedious chore will become endurable as you parade through each day convinced that every task, no matter how menial or boring, brings you closer to fulfilling your dreams." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "Flying may not be all plain sailing, but the fun of it is worth the price." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
+ 4.  "Don't laugh at a youth for his affectations; he is only trying on one face after another to find his own." <br> &emsp;&emsp;&emsp; <i>-by Logan Pearsall Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
