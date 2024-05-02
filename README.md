@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The thing that I'm always left with is this overwhelming desire for people to be rooted and the only way that they feel rooted is through another person." <br> &emsp;&emsp;&emsp; <i>-by John Allen</i> 
+ 1.  "Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
 
- 2.  "It's always been about the experience of life and of not being passive. If something so excites my curiosty, I want to go there, be a part of whatever it is that's either pushing me or pulling me toward it. That desire for experience has made me very rich in life experience." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 2.  "Work is not always required. There is such a thing as sacred idleness." <br> &emsp;&emsp;&emsp; <i>-by George MacDonald</i> 
 
- 3.  "The victory of success is half won when one gains the habit of setting goals and achieving them. Even the most tedious chore will become endurable as you parade through each day convinced that every task, no matter how menial or boring, brings you closer to fulfilling your dreams." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 3.  "Life isn't long enough for love and art." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 4.  "Don't laugh at a youth for his affectations; he is only trying on one face after another to find his own." <br> &emsp;&emsp;&emsp; <i>-by Logan Pearsall Smith</i> 
+ 4.  "Habit is habit and not to be flung out of the window by any man, but coaxed downstairs a step at a time." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
