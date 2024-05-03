@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
+ 1.  "I looked always outside of myself to see what I could make the world give me instead of looking within myself to see what was there." <br> &emsp;&emsp;&emsp; <i>-by Belle Livingstone</i> 
 
- 2.  "Work is not always required. There is such a thing as sacred idleness." <br> &emsp;&emsp;&emsp; <i>-by George MacDonald</i> 
+ 2.  "In order for people to be happy, sometimes they have to take risks. It's true these risks can put them in danger of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Meg Cabot</i> 
 
- 3.  "Life isn't long enough for love and art." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 3.  "Never tell a man you can read him through and through; most people prefer to be thought enigmas." <br> &emsp;&emsp;&emsp; <i>-by Marchioness Townsend</i> 
 
- 4.  "Habit is habit and not to be flung out of the window by any man, but coaxed downstairs a step at a time." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Make all you can, save all you can, give all you can." <br> &emsp;&emsp;&emsp; <i>-by John Wesley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
