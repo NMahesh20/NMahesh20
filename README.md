@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Peace is not a relationship of nations. It is a condition of mind brought about by a serenity of soul. Peace is not merely the absence of war. It is also a state of mind. Lasting peace can come only to peaceful people." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 1.  "While I am overwhelmingly proud of work that I, believe me, did not do on my own, I can assure you that awards have very little bearing on my own personal happiness, my own sense of well-being and purpose in the world." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
+ 2.  "If the universe is bigger and stranger than I can imagine, it's best to meet it with an empty bladder." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
 
- 3.  "It is a mistake to try to look too far ahead. The chain of destiny can only be grasped one link at a time." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "Never suffer youth to be an excuse for inadequacy, nor age and fame to be an excuse for indolence." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Haydon</i> 
 
- 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
+ 4.  "You can have it all. You just can't have it all at once." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
