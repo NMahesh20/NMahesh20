@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "While I am overwhelmingly proud of work that I, believe me, did not do on my own, I can assure you that awards have very little bearing on my own personal happiness, my own sense of well-being and purpose in the world." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "If one speaks or acts with a cruel mind, misery follows, as the cart follows the horse... If one speaks or acts with a pure mind, happiness follows, as a shadow follows its source." <br> &emsp;&emsp;&emsp; <i>-by the Dhammapada</i> 
 
- 2.  "If the universe is bigger and stranger than I can imagine, it's best to meet it with an empty bladder." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
+ 2.  "For the night was not impartial. No, the night loved some more than others, served some more than others." <br> &emsp;&emsp;&emsp; <i>-by Eudora Welty</i> 
 
- 3.  "Never suffer youth to be an excuse for inadequacy, nor age and fame to be an excuse for indolence." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Haydon</i> 
+ 3.  "Look to your health; and if you have it, praise God and value it next to conscience; for health is the second blessing that we mortals are capable of, a blessing money can't buy." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
 
- 4.  "You can have it all. You just can't have it all at once." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "Blessed are they who heal you of self-despisings. Of all services which can be done to man, I know of none more precious." <br> &emsp;&emsp;&emsp; <i>-by William Hale White</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
