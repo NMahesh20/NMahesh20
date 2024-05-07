@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If one speaks or acts with a cruel mind, misery follows, as the cart follows the horse... If one speaks or acts with a pure mind, happiness follows, as a shadow follows its source." <br> &emsp;&emsp;&emsp; <i>-by the Dhammapada</i> 
+ 1.  "Personal happiness lies in knowing that life is not a checklist of acquisition or achievement. Your qualifications are not your life." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "For the night was not impartial. No, the night loved some more than others, served some more than others." <br> &emsp;&emsp;&emsp; <i>-by Eudora Welty</i> 
+ 2.  "Maybe I wanted to hear it so badly that my ears betrayed my mind in order to secure my heart." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "Look to your health; and if you have it, praise God and value it next to conscience; for health is the second blessing that we mortals are capable of, a blessing money can't buy." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
+ 3.  "We're not talking about historical accuracy, we're talking about art. I've set in motion a geometric inevitability. If I start chiseling there, chipping here, the whole form is compromised." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
 
- 4.  "Blessed are they who heal you of self-despisings. Of all services which can be done to man, I know of none more precious." <br> &emsp;&emsp;&emsp; <i>-by William Hale White</i> 
+ 4.  "The spirit in which a thing is given determines that in which the debt is acknowledged; it's the intention, not the face-value of the gift, that's weighed." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
