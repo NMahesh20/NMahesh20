@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Personal happiness lies in knowing that life is not a checklist of acquisition or achievement. Your qualifications are not your life." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "We require from buildings, as from men, two kinds of goodness: first, the doing their practical duty well: then that they be graceful and pleasing in doing it; which last is itself another form of duty." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 
- 2.  "Maybe I wanted to hear it so badly that my ears betrayed my mind in order to secure my heart." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Make the most of yourself, for that is all there is of you." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "We're not talking about historical accuracy, we're talking about art. I've set in motion a geometric inevitability. If I start chiseling there, chipping here, the whole form is compromised." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
+ 3.  "His mother had often said, When you choose an action, you choose the consequences of that action. She had emphasized the corollary of this axiom even more vehemently: when you desired a consequence you had damned well better take the action that would create it." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "The spirit in which a thing is given determines that in which the debt is acknowledged; it's the intention, not the face-value of the gift, that's weighed." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Above all things, reverence yourself." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
