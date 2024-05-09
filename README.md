@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We require from buildings, as from men, two kinds of goodness: first, the doing their practical duty well: then that they be graceful and pleasing in doing it; which last is itself another form of duty." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 1.  "Only solitary men know the full joys of frienship. Others have their family; but to a solitary and an exile, his friends are everything." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 2.  "Make the most of yourself, for that is all there is of you." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "A gift, with a kind countenance, is a double present." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 3.  "His mother had often said, When you choose an action, you choose the consequences of that action. She had emphasized the corollary of this axiom even more vehemently: when you desired a consequence you had damned well better take the action that would create it." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Youth isn't always all it's touted to be." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "Above all things, reverence yourself." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 4.  "You ask me why I do not write something....I think one's feelings waste themselves in words, they ought all to be distilled into actions and into actions which bring results." <br> &emsp;&emsp;&emsp; <i>-by Florence Nightingale</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
