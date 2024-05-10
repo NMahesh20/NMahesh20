@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only solitary men know the full joys of frienship. Others have their family; but to a solitary and an exile, his friends are everything." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 1.  "Touch your customer, and you're halfway there." <br> &emsp;&emsp;&emsp; <i>-by Estee Lauder</i> 
 
- 2.  "A gift, with a kind countenance, is a double present." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 2.  "Getting fired is nature's way to telling you that you had the wrong job in the first place." <br> &emsp;&emsp;&emsp; <i>-by Hal Lancaster</i> 
 
- 3.  "Youth isn't always all it's touted to be." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "Believe in life! Always human beings will live and progress to greater, broader and fuller life." <br> &emsp;&emsp;&emsp; <i>-by W. E. B. Du Bois</i> 
 
- 4.  "You ask me why I do not write something....I think one's feelings waste themselves in words, they ought all to be distilled into actions and into actions which bring results." <br> &emsp;&emsp;&emsp; <i>-by Florence Nightingale</i> 
+ 4.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
