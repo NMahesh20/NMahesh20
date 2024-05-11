@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Touch your customer, and you're halfway there." <br> &emsp;&emsp;&emsp; <i>-by Estee Lauder</i> 
+ 1.  "You threaten to punch someone in the face, what do they do? They duck. You try to punch 'em in the wallet and they always open up." <br> &emsp;&emsp;&emsp; <i>-by Howard Gordon and Evan Katz</i> 
 
- 2.  "Getting fired is nature's way to telling you that you had the wrong job in the first place." <br> &emsp;&emsp;&emsp; <i>-by Hal Lancaster</i> 
+ 2.  "In a progressive country change is constant; ...change... is inevitable." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 3.  "Believe in life! Always human beings will live and progress to greater, broader and fuller life." <br> &emsp;&emsp;&emsp; <i>-by W. E. B. Du Bois</i> 
+ 3.  "Open your mouth and purse cautiously, and your stock of wealth and reputation shall, at least in repute, be great." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
 
- 4.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
+ 4.  "Desire creates the power." <br> &emsp;&emsp;&emsp; <i>-by Raymond Holliwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
