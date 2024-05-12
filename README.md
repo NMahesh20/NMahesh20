@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You threaten to punch someone in the face, what do they do? They duck. You try to punch 'em in the wallet and they always open up." <br> &emsp;&emsp;&emsp; <i>-by Howard Gordon and Evan Katz</i> 
+ 1.  "The one thing a creator can bring to the table when everybody else has all the money and power is centeredness and the ability to walk away. Never sit at a table you can't walk away from." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "In a progressive country change is constant; ...change... is inevitable." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 2.  "The weird thing about houses is that they almost always look like nothing is happening inside of them, even though they contain most of our lives." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 3.  "Open your mouth and purse cautiously, and your stock of wealth and reputation shall, at least in repute, be great." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
+ 3.  "You can learn as much - or more - from one glance at a private space as you can from hours of exposure to a public face." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 4.  "Desire creates the power." <br> &emsp;&emsp;&emsp; <i>-by Raymond Holliwell</i> 
+ 4.  "All that is necessary for the triumph of evil is that good men do nothing." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
