@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The one thing a creator can bring to the table when everybody else has all the money and power is centeredness and the ability to walk away. Never sit at a table you can't walk away from." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "No matter how far you travel or how much you run from it, can you ever really escape your past?" <br> &emsp;&emsp;&emsp; <i>-by Becky Hartman Edwards and Michael Patrick King</i> 
 
- 2.  "The weird thing about houses is that they almost always look like nothing is happening inside of them, even though they contain most of our lives." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 2.  "Those who face that which is actually before them, unburdened by the past, undistracted by the future, these are they who live, who make the best use of their lives; these are those who have found the secret of contentment." <br> &emsp;&emsp;&emsp; <i>-by Alban Goodier</i> 
 
- 3.  "You can learn as much - or more - from one glance at a private space as you can from hours of exposure to a public face." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 3.  "Summer afternoon - Summer afternoon... the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
 
- 4.  "All that is necessary for the triumph of evil is that good men do nothing." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 4.  "Never think that God's delays are God's denials. Hold on; hold fast; hold out. Patience is genius." <br> &emsp;&emsp;&emsp; <i>-by Comte de Buffon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
