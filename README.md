@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No matter how far you travel or how much you run from it, can you ever really escape your past?" <br> &emsp;&emsp;&emsp; <i>-by Becky Hartman Edwards and Michael Patrick King</i> 
+ 1.  "But in the end one needs more courage to live than to kill himself." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 2.  "Those who face that which is actually before them, unburdened by the past, undistracted by the future, these are they who live, who make the best use of their lives; these are those who have found the secret of contentment." <br> &emsp;&emsp;&emsp; <i>-by Alban Goodier</i> 
+ 2.  "Our lives begin to end the day we become silent about things that matter." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 3.  "Summer afternoon - Summer afternoon... the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
+ 3.  "The time to stop talking is when the other person nods his head affirmatively but says nothing." <br> &emsp;&emsp;&emsp; <i>-by Henry S. Haskins</i> 
 
- 4.  "Never think that God's delays are God's denials. Hold on; hold fast; hold out. Patience is genius." <br> &emsp;&emsp;&emsp; <i>-by Comte de Buffon</i> 
+ 4.  "Genius is of no country." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
