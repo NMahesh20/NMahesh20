@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But in the end one needs more courage to live than to kill himself." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "One of the joys we have in being human is in exercising our freedom to choose and to take each case as it comes to us. We are not robots who are forced into behaviors by their programming. We see things; we think about things; and we choose our course of action or beliefs appropriately. And as long as that remains true of us, we will live every day of our lives on one slippery slope or another. There is no reason to fear this." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Our lives begin to end the day we become silent about things that matter." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 2.  "When you leave college, there are thousands of people out there with the same degree you have; when you get a job, there will be thousands of people doing what you want to do for a living. But you are the only person alive who has sole custody of your life." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "The time to stop talking is when the other person nods his head affirmatively but says nothing." <br> &emsp;&emsp;&emsp; <i>-by Henry S. Haskins</i> 
+ 3.  "If my hands are fully occupied in holding on to something, I can neither give nor receive." <br> &emsp;&emsp;&emsp; <i>-by Dorothee Solle</i> 
 
- 4.  "Genius is of no country." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
+ 4.  "Riches may enable us to confer favours, but to confer them with propriety and grace requires a something that riches cannot give." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
