@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In order to be truly happy, you must live along with, and you must stand for something larger than yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
 
- 2.  "We could have bought a small yacht with what we spent on our dog an dall the things he destroyed. Then again, how many yachts wait by the door all day for your return?" <br> &emsp;&emsp;&emsp; <i>-by John Grogan</i> 
+ 2.  "Train yourself to let go of the things you fear to lose." <br> &emsp;&emsp;&emsp; <i>-by George Lucas</i> 
 
- 3.  "Good communication is as stimulating as black coffee and just as hard to sleep after." <br> &emsp;&emsp;&emsp; <i>-by Anne Morrow Lindbergh</i> 
+ 3.  "Do something. If it doesn't work, do something else. No idea is too crazy." <br> &emsp;&emsp;&emsp; <i>-by Jim Hightower</i> 
 
- 4.  "There smites nothing so sharp, nor smelleth so sour as shame." <br> &emsp;&emsp;&emsp; <i>-by William Langland</i> 
+ 4.  "A technical objection is the first refuge of a scoundrel." <br> &emsp;&emsp;&emsp; <i>-by Heywood Broun</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
