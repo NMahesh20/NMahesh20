@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
+ 1.  "Wanting to be someone you're not is a waste of the person you are." <br> &emsp;&emsp;&emsp; <i>-by Kurt Cobain</i> 
 
- 2.  "Train yourself to let go of the things you fear to lose." <br> &emsp;&emsp;&emsp; <i>-by George Lucas</i> 
+ 2.  "Words are a heavy thing...they weigh you down.  If birds talked, they couldn't fly." <br> &emsp;&emsp;&emsp; <i>-by Sy Rosen and Christian Williams</i> 
 
- 3.  "Do something. If it doesn't work, do something else. No idea is too crazy." <br> &emsp;&emsp;&emsp; <i>-by Jim Hightower</i> 
+ 3.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
 
- 4.  "A technical objection is the first refuge of a scoundrel." <br> &emsp;&emsp;&emsp; <i>-by Heywood Broun</i> 
+ 4.  "Don't waste yourself in rejection, nor bark against the bad, but chant the beauty of the good." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
