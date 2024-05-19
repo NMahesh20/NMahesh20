@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Wanting to be someone you're not is a waste of the person you are." <br> &emsp;&emsp;&emsp; <i>-by Kurt Cobain</i> 
+ 1.  "We are always the same age inside." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
 
- 2.  "Words are a heavy thing...they weigh you down.  If birds talked, they couldn't fly." <br> &emsp;&emsp;&emsp; <i>-by Sy Rosen and Christian Williams</i> 
+ 2.  "Creativity is...seeing something that doesn't exist already. You need to find out how you can bring it into being and that way be a playmate with God." <br> &emsp;&emsp;&emsp; <i>-by Michele Shea</i> 
 
- 3.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
+ 3.  "Cynicism is an unpleasant way of saying the truth." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 
- 4.  "Don't waste yourself in rejection, nor bark against the bad, but chant the beauty of the good." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "D'you call life a bad job? Never! We've had our ups and downs, we've had our struggles, we've always been poor, but it's been worth it, ay, worth it a hundred times I say when I look round at my children." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
