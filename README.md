@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are always the same age inside." <br> &emsp;&emsp;&emsp; <i>-by Gertrude Stein</i> 
+ 1.  "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet, death is the destination we all share. No one has ever escaped it, and that is how it should be, because death is very likely the single best invention of life. It's life's change agent. It clears out the old to make way for the new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Creativity is...seeing something that doesn't exist already. You need to find out how you can bring it into being and that way be a playmate with God." <br> &emsp;&emsp;&emsp; <i>-by Michele Shea</i> 
+ 2.  "By the work one knows the workmen." <br> &emsp;&emsp;&emsp; <i>-by Jean De La Fontaine</i> 
 
- 3.  "Cynicism is an unpleasant way of saying the truth." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 3.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
 
- 4.  "D'you call life a bad job? Never! We've had our ups and downs, we've had our struggles, we've always been poor, but it's been worth it, ay, worth it a hundred times I say when I look round at my children." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Laughter is by definition healthy." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
