@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Behind weight gain are the larger hurts and questions that have to be explored, probed, and understood before weight loss and maintenance is a possibility. It's a bigger issue than just calories in, calories out." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Happiness arises in a state of peace, not of tumult." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "It may make your blood boil and your mind may not be changed, but the practice of listening to opposing views is essential for effective citizenship. It is essential for our democracy." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "Anger is never without Reason, but seldom with a good One." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "Never think that you're not good enough yourself. A man should never think that. People will take you very much at your own reckoning." <br> &emsp;&emsp;&emsp; <i>-by Anthony Trollope</i> 
+ 3.  "It is our choices...that show what we truly are, far more than our abilities." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "Some days you're a bug, some days you're a windshield." <br> &emsp;&emsp;&emsp; <i>-by Price Cobb</i> 
+ 4.  "Every moment is a golden one for him who has the vision to recognize it as such." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
