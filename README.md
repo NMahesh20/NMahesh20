@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness arises in a state of peace, not of tumult." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "Fresh beauty opens one's eyes wherever it is really seen, but the very abundance and completeness of the common beauty that besets our steps prevents its being absorbed and appreciated. It is a good thing, therefore, to make short excursions now and then to the bottom of the sea among dulse and coral, or up among the clouds on mountain-tops, or in balloons, or even to creep like worms into dark holes and caverns underground, not only to learn something of what is going on in those out-of-the-way places, but to see better what the sun sees on our return to common everyday beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Anger is never without Reason, but seldom with a good One." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "The words that enlighten the soul are more precious than jewels." <br> &emsp;&emsp;&emsp; <i>-by Hazrat Inayat Khan</i> 
 
- 3.  "It is our choices...that show what we truly are, far more than our abilities." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "Quarrel not at all. No man resolved to make the most of himself can spare time for personal contention." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Every moment is a golden one for him who has the vision to recognize it as such." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 4.  "If you look at life one way, there is always cause for alarm." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Bowen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
