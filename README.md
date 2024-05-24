@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fresh beauty opens one's eyes wherever it is really seen, but the very abundance and completeness of the common beauty that besets our steps prevents its being absorbed and appreciated. It is a good thing, therefore, to make short excursions now and then to the bottom of the sea among dulse and coral, or up among the clouds on mountain-tops, or in balloons, or even to creep like worms into dark holes and caverns underground, not only to learn something of what is going on in those out-of-the-way places, but to see better what the sun sees on our return to common everyday beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "That is not what Geek means to me. We are more than the hobbies that we do or the things that we like. To me, Geek means an outsider, a rebel, a dreamer, a creator, a fighter. It's a person who dares to love something that isn't conventional." <br> &emsp;&emsp;&emsp; <i>-by Felicia Day</i> 
 
- 2.  "The words that enlighten the soul are more precious than jewels." <br> &emsp;&emsp;&emsp; <i>-by Hazrat Inayat Khan</i> 
+ 2.  "You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics." <br> &emsp;&emsp;&emsp; <i>-by Charles Bukowski</i> 
 
- 3.  "Quarrel not at all. No man resolved to make the most of himself can spare time for personal contention." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "What you don't see with your eyes, don't invent with your mouth." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 4.  "If you look at life one way, there is always cause for alarm." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Bowen</i> 
+ 4.  "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
