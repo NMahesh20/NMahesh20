@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That is not what Geek means to me. We are more than the hobbies that we do or the things that we like. To me, Geek means an outsider, a rebel, a dreamer, a creator, a fighter. It's a person who dares to love something that isn't conventional." <br> &emsp;&emsp;&emsp; <i>-by Felicia Day</i> 
+ 1.  "May your walls know joy; May every room hold laughter and every window open to great possibility." <br> &emsp;&emsp;&emsp; <i>-by Maryanne Radmacher-Hershey</i> 
 
- 2.  "You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics." <br> &emsp;&emsp;&emsp; <i>-by Charles Bukowski</i> 
+ 2.  "The secret of a good life is to have the right loyalties and hold them in the right scale of values." <br> &emsp;&emsp;&emsp; <i>-by Norman Thomas</i> 
 
- 3.  "What you don't see with your eyes, don't invent with your mouth." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 3.  "Perfect as the wing of a bird may be, it will never enable the bird to fly if unsupported by the air. Facts are the air of science. Without them a man of science can never rise." <br> &emsp;&emsp;&emsp; <i>-by Ivan Pavlov</i> 
 
- 4.  "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength." <br> &emsp;&emsp;&emsp; <i>-by Hasidic Saying</i> 
+ 4.  "Time cools, time clarifies; no mood can be maintained quite unaltered through the course of hours." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
