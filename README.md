@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "May your walls know joy; May every room hold laughter and every window open to great possibility." <br> &emsp;&emsp;&emsp; <i>-by Maryanne Radmacher-Hershey</i> 
+ 1.  "Feelings are really your GPS system for life. When your supposed to do something, or not supposed to do something, your emotional guidance system lets you know." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "The secret of a good life is to have the right loyalties and hold them in the right scale of values." <br> &emsp;&emsp;&emsp; <i>-by Norman Thomas</i> 
+ 2.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Perfect as the wing of a bird may be, it will never enable the bird to fly if unsupported by the air. Facts are the air of science. Without them a man of science can never rise." <br> &emsp;&emsp;&emsp; <i>-by Ivan Pavlov</i> 
+ 3.  "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it." <br> &emsp;&emsp;&emsp; <i>-by Starline X. Hodge</i> 
 
- 4.  "Time cools, time clarifies; no mood can be maintained quite unaltered through the course of hours." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Be you in what line of life you may, it will be amongst your misfortunes if you have not time properly to attend to pecuniary [monetary] matters. Want of attention to these matters has impeded the progress of science and of genius itself." <br> &emsp;&emsp;&emsp; <i>-by William Cobbett</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
