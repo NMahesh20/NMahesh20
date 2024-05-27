@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Feelings are really your GPS system for life. When your supposed to do something, or not supposed to do something, your emotional guidance system lets you know." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Why do we have to wait for special moments to say nice things or tell people we care about them?" <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "Forgiveness is the healing of wounds caused by another. You choose to let go of a past wrong and no longer be hurt by it. Forgiveness is a strong move to make, like turning your shoulders sideways to walk quickly on a crowded sidewalk. It's your move." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it." <br> &emsp;&emsp;&emsp; <i>-by Starline X. Hodge</i> 
+ 3.  "There is only one real deprivation, I decided this morning, and that is not to be able to give one's gifts to those one loves most." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
 
- 4.  "Be you in what line of life you may, it will be amongst your misfortunes if you have not time properly to attend to pecuniary [monetary] matters. Want of attention to these matters has impeded the progress of science and of genius itself." <br> &emsp;&emsp;&emsp; <i>-by William Cobbett</i> 
+ 4.  "The strongest man in the world is he who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
