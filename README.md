@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Why do we have to wait for special moments to say nice things or tell people we care about them?" <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Forgiveness is the healing of wounds caused by another. You choose to let go of a past wrong and no longer be hurt by it. Forgiveness is a strong move to make, like turning your shoulders sideways to walk quickly on a crowded sidewalk. It's your move." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 3.  "There is only one real deprivation, I decided this morning, and that is not to be able to give one's gifts to those one loves most." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
+ 3.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
 
- 4.  "The strongest man in the world is he who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
+ 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
