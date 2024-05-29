@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 2.  "Storms make oaks take deeper root." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 3.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
+ 3.  "History, despite its wrenching pain, cannot be unlived, however, if faced with courage, need not be lived again." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
 
- 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
+ 4.  "For today and its blessings, I owe the world an attitude of gratitude." <br> &emsp;&emsp;&emsp; <i>-by Clarence E. Hodges</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
