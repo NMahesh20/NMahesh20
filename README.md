@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 2.  "Storms make oaks take deeper root." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 2.  "People always call it luck when you've acted more sensibly than they have." <br> &emsp;&emsp;&emsp; <i>-by Anne Tyler</i> 
 
- 3.  "History, despite its wrenching pain, cannot be unlived, however, if faced with courage, need not be lived again." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
+ 3.  "Achievement is largely the product of steadily raising one's levels of aspiration and expectation." <br> &emsp;&emsp;&emsp; <i>-by Jack Nicklaus</i> 
 
- 4.  "For today and its blessings, I owe the world an attitude of gratitude." <br> &emsp;&emsp;&emsp; <i>-by Clarence E. Hodges</i> 
+ 4.  "The crowd gives the leader new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
