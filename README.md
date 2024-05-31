@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 1.  "I am not afraid of the pen, or the scaffold, or the sword. I will tell the truth wherever I please." <br> &emsp;&emsp;&emsp; <i>-by Mother Jones</i> 
 
- 2.  "People always call it luck when you've acted more sensibly than they have." <br> &emsp;&emsp;&emsp; <i>-by Anne Tyler</i> 
+ 2.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 3.  "Achievement is largely the product of steadily raising one's levels of aspiration and expectation." <br> &emsp;&emsp;&emsp; <i>-by Jack Nicklaus</i> 
+ 3.  "Good order is the foundation of all things." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 
- 4.  "The crowd gives the leader new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
+ 4.  "We shall find peace. We shall hear the angels, we shall see the sky sparkling with diamonds." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
