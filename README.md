@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I am not afraid of the pen, or the scaffold, or the sword. I will tell the truth wherever I please." <br> &emsp;&emsp;&emsp; <i>-by Mother Jones</i> 
+ 1.  "Being a celebrity has taught me to hide, but being an actor has opened my soul." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 2.  "Who knew that dog saliva can mend a broken heart?" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
 
- 3.  "Good order is the foundation of all things." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 3.  "Failures are finger posts on the road to achievement." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
 
- 4.  "We shall find peace. We shall hear the angels, we shall see the sky sparkling with diamonds." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
+ 4.  "Let us, then be up and doing,/ With a heart for any fate;/ Still achieving, still pursuing,/ Learn to labour and to wait." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
