@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Being a celebrity has taught me to hide, but being an actor has opened my soul." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "Aspiring to a small business that does what it does very well is a noble pursuit." <br> &emsp;&emsp;&emsp; <i>-by Narenda Rocherolle</i> 
 
- 2.  "Who knew that dog saliva can mend a broken heart?" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
+ 2.  "There are people whom one loves immediately and forever. Even to know they are alive in the world with one is quite enough." <br> &emsp;&emsp;&emsp; <i>-by Nancy Spain</i> 
 
- 3.  "Failures are finger posts on the road to achievement." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
+ 3.  "Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
 
- 4.  "Let us, then be up and doing,/ With a heart for any fate;/ Still achieving, still pursuing,/ Learn to labour and to wait." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "Always be nice to people on the way up; because you'll meet the same people on the way down." <br> &emsp;&emsp;&emsp; <i>-by Wilson Mizner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
