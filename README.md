@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Aspiring to a small business that does what it does very well is a noble pursuit." <br> &emsp;&emsp;&emsp; <i>-by Narenda Rocherolle</i> 
+ 1.  "Passion kept one fully in the present, so that time became a series of mutually exclusive 'nows.'" <br> &emsp;&emsp;&emsp; <i>-by Sue Halpern</i> 
 
- 2.  "There are people whom one loves immediately and forever. Even to know they are alive in the world with one is quite enough." <br> &emsp;&emsp;&emsp; <i>-by Nancy Spain</i> 
+ 2.  "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 3.  "Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
+ 3.  "Always imitate the behavior of the winners when you lose." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "Always be nice to people on the way up; because you'll meet the same people on the way down." <br> &emsp;&emsp;&emsp; <i>-by Wilson Mizner</i> 
+ 4.  "If indeed you must be candid, be candid beautifully." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
