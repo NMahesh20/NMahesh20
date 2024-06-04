@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Passion kept one fully in the present, so that time became a series of mutually exclusive 'nows.'" <br> &emsp;&emsp;&emsp; <i>-by Sue Halpern</i> 
+ 1.  "Most men's awareness doesn't extend past their dinner plates." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 2.  "Question how much freedom your path affords you. Be utterly ruthless about it./ It's your freedom that will get you to where you want to go." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Always imitate the behavior of the winners when you lose." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "True love brings up everything - you're allowing a mirror to be held up to you daily." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
 
- 4.  "If indeed you must be candid, be candid beautifully." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "Examine what is said, not him who speaks." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
