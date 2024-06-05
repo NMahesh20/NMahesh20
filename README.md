@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Most men's awareness doesn't extend past their dinner plates." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Question how much freedom your path affords you. Be utterly ruthless about it./ It's your freedom that will get you to where you want to go." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "You must learn to face the fact, always, that you choose to do what you do, and that everything you do affects not only you but others." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 3.  "True love brings up everything - you're allowing a mirror to be held up to you daily." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
+ 3.  "In the modern world of business, it is useless to be a creative original thinker unless you can also sell what you create. Management cannot be expected to recognize a good idea unless it is presented to them by a good salesman." <br> &emsp;&emsp;&emsp; <i>-by David M. Ogilvy</i> 
 
- 4.  "Examine what is said, not him who speaks." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
+ 4.  "Never give advice unless asked." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
