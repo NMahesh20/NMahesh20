@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "To think about your life is to create it. You have to take ownership of where you are right now and know where you want to go before you can get there. Keep collecting evidence for your success. You can believe it, and you can be it." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "You must learn to face the fact, always, that you choose to do what you do, and that everything you do affects not only you but others." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 2.  "We all self-conscious. I'm just the first to admit it." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
 
- 3.  "In the modern world of business, it is useless to be a creative original thinker unless you can also sell what you create. Management cannot be expected to recognize a good idea unless it is presented to them by a good salesman." <br> &emsp;&emsp;&emsp; <i>-by David M. Ogilvy</i> 
+ 3.  "Marvelous Truth, confront us at every turn, in every guise." <br> &emsp;&emsp;&emsp; <i>-by Denise Levertov</i> 
 
- 4.  "Never give advice unless asked." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
+ 4.  "I have enjoyed greatly the second blooming that comes when you finish the life of the emotions and of personal relations; and suddenly find - at the age of fifty, say - that a whole new life has opened before you, filled with things you can think about, study, or read about...It is as if a fresh sap of ideas and thoughts was rising in you." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
