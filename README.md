@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Those who seek consolation in existing churches often pay for their peace of mind with a tacit agreement to ignore a great deal of what is known about the way the world works." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "Success only hurts the first time." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "There is no wisdom without love." <br> &emsp;&emsp;&emsp; <i>-by N. Sri Ram</i> 
+ 2.  "She was conscious that the things she did were the things she had always wanted to do." <br> &emsp;&emsp;&emsp; <i>-by Zelda Fitzgerald</i> 
 
- 3.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
+ 3.  "Nobody will believe in you unless you believe in yourself." <br> &emsp;&emsp;&emsp; <i>-by Liberace</i> 
 
- 4.  "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
+ 4.  "Animals are such agreeable friends - they ask no questions, they pass no criticisms." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
