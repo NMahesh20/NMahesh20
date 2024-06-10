@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success only hurts the first time." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "She was conscious that the things she did were the things she had always wanted to do." <br> &emsp;&emsp;&emsp; <i>-by Zelda Fitzgerald</i> 
+ 2.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
 
- 3.  "Nobody will believe in you unless you believe in yourself." <br> &emsp;&emsp;&emsp; <i>-by Liberace</i> 
+ 3.  "The happiness of your life depends upon the quality of your thoughts, therefore guard accordingly; and take care that you entertain no notions unsuitable to virtue, and reasonable nature." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 4.  "Animals are such agreeable friends - they ask no questions, they pass no criticisms." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Millions of words are written annually purporting to tell how to beat the races, whereas the best possible advice on the subject is found in the three monosyllables: 'Do not try.'" <br> &emsp;&emsp;&emsp; <i>-by Dan Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
