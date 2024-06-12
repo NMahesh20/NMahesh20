@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Obsessions and fixations are not really my field. All I know, when the mind really grabs hold of something, look out." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
+ 1.  "When you're doing the work you're meant to do, it feels right and every day is a bonus, regardless of what you're getting paid." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Even on the highest throne in the world, we are still sitting on our ass." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
 
- 3.  "When we are planning for posterity, we ought to remember that virtue is not hereditary." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 3.  "We all carry around so much pain in our hearts. Love and pain and beauty. They all seem to go together like one little tidy confusing package. It's a messy business, life. It's hard to figure--full of surprises. Some good. Some bad." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
+ 4.  "She knows what is the best purpose of education: not to be frightened by the best but to treat it as part of daily life." <br> &emsp;&emsp;&emsp; <i>-by John Mason Brown</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
