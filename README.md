@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you're doing the work you're meant to do, it feels right and every day is a bonus, regardless of what you're getting paid." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Any government is potentially the worst client in the world you could ever possibly want to have." <br> &emsp;&emsp;&emsp; <i>-by Thomas Heatherwick</i> 
 
- 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
+ 2.  "Leadership is based on inspiration, not domination; on cooperation, not intimidation." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Wood</i> 
 
- 3.  "We all carry around so much pain in our hearts. Love and pain and beauty. They all seem to go together like one little tidy confusing package. It's a messy business, life. It's hard to figure--full of surprises. Some good. Some bad." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 3.  "I'm a great believer in luck, and I find the harder I work the more I have of it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 4.  "She knows what is the best purpose of education: not to be frightened by the best but to treat it as part of daily life." <br> &emsp;&emsp;&emsp; <i>-by John Mason Brown</i> 
+ 4.  "In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
