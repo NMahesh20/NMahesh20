@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Any government is potentially the worst client in the world you could ever possibly want to have." <br> &emsp;&emsp;&emsp; <i>-by Thomas Heatherwick</i> 
+ 1.  "We are most alive when we're in love." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
 
- 2.  "Leadership is based on inspiration, not domination; on cooperation, not intimidation." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Wood</i> 
+ 2.  "It is not enough to do good; one must do it the right way." <br> &emsp;&emsp;&emsp; <i>-by John Viscount Morley</i> 
 
- 3.  "I'm a great believer in luck, and I find the harder I work the more I have of it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 3.  "Mistrust the man who finds everything good, the man who finds everything evil and still more the man who is indifferent to everything." <br> &emsp;&emsp;&emsp; <i>-by Johann K. Lavater</i> 
 
- 4.  "In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Doubt 'til thou canst doubt no more...doubt is thought and thought is life. Systems which end doubt are devices for drugging thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Guerard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
