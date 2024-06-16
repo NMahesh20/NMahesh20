@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are most alive when we're in love." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 1.  "Nothing in life is promised except death." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
 
- 2.  "It is not enough to do good; one must do it the right way." <br> &emsp;&emsp;&emsp; <i>-by John Viscount Morley</i> 
+ 2.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
 
- 3.  "Mistrust the man who finds everything good, the man who finds everything evil and still more the man who is indifferent to everything." <br> &emsp;&emsp;&emsp; <i>-by Johann K. Lavater</i> 
+ 3.  "There is no old age. There is, as there always was, just you." <br> &emsp;&emsp;&emsp; <i>-by Carol Matthau</i> 
 
- 4.  "Doubt 'til thou canst doubt no more...doubt is thought and thought is life. Systems which end doubt are devices for drugging thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Guerard</i> 
+ 4.  "Money is like a sixth sense without which you cannot make a complete use of the other five." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
