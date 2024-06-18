@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing in life is promised except death." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 1.  "I'm the least confident person in so many ways. But I believed that if somebody gave me the chance to tell a story, I would tell a story [well enough] that the person who gave me the chance would get their money back." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
+ 2.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
 
- 3.  "There is no old age. There is, as there always was, just you." <br> &emsp;&emsp;&emsp; <i>-by Carol Matthau</i> 
+ 3.  "Cherish your own emotions and never undervalue them." <br> &emsp;&emsp;&emsp; <i>-by Robert Henri</i> 
 
- 4.  "Money is like a sixth sense without which you cannot make a complete use of the other five." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Every man is the architect of his own fortune." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
