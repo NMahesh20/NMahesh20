@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm the least confident person in so many ways. But I believed that if somebody gave me the chance to tell a story, I would tell a story [well enough] that the person who gave me the chance would get their money back." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "Leadership and learning are indispensable to each other." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 2.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
+ 2.  "I have a simple philosophy. Fill what's empty. Empty what's full. And scratch where it itches." <br> &emsp;&emsp;&emsp; <i>-by Alice Roosevelt Longworth</i> 
 
- 3.  "Cherish your own emotions and never undervalue them." <br> &emsp;&emsp;&emsp; <i>-by Robert Henri</i> 
+ 3.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
 
- 4.  "Every man is the architect of his own fortune." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
+ 4.  "I simply cannot understand the passion that some people have for making themselves thoroughly uncomfortable and then boasting about it afterwards." <br> &emsp;&emsp;&emsp; <i>-by Patricia Moyes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
