@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Leadership and learning are indispensable to each other." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 1.  "Summer afternoon-summer afternoon; to me those have always been the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
 
- 2.  "I have a simple philosophy. Fill what's empty. Empty what's full. And scratch where it itches." <br> &emsp;&emsp;&emsp; <i>-by Alice Roosevelt Longworth</i> 
+ 2.  "Happiness comes more from loving than being loved; and often when our affection seems wounded it is only our vanity bleeding. To love, and to be hurt often, and to love again - this is the brave and happy life." <br> &emsp;&emsp;&emsp; <i>-by J. E. Buchrose</i> 
 
- 3.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
+ 3.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 4.  "I simply cannot understand the passion that some people have for making themselves thoroughly uncomfortable and then boasting about it afterwards." <br> &emsp;&emsp;&emsp; <i>-by Patricia Moyes</i> 
+ 4.  "Whenever you are asked if you can do a job, tell 'em, 'Certainly I can!' Then get busy and find out how to do it." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
