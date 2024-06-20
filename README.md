@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Summer afternoon-summer afternoon; to me those have always been the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
+ 1.  "Even with the best of maps and instruments, we can never fully chart our journeys." <br> &emsp;&emsp;&emsp; <i>-by Gail Pool</i> 
 
- 2.  "Happiness comes more from loving than being loved; and often when our affection seems wounded it is only our vanity bleeding. To love, and to be hurt often, and to love again - this is the brave and happy life." <br> &emsp;&emsp;&emsp; <i>-by J. E. Buchrose</i> 
+ 2.  "I live in company with a body, a silent companion, exacting and eternal." <br> &emsp;&emsp;&emsp; <i>-by Eugene Delacroix</i> 
 
- 3.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 3.  "The most important work you and I will ever do will be within the walls of our own homes." <br> &emsp;&emsp;&emsp; <i>-by Harold B. Lee</i> 
 
- 4.  "Whenever you are asked if you can do a job, tell 'em, 'Certainly I can!' Then get busy and find out how to do it." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 4.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
