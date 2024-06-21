@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Even with the best of maps and instruments, we can never fully chart our journeys." <br> &emsp;&emsp;&emsp; <i>-by Gail Pool</i> 
+ 1.  "It doesn't matter if you win or lose in the big, scary jungle of the real world. Winners and losers... Enemies and allies... We don't live in a comic book! This is the real deal." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "I live in company with a body, a silent companion, exacting and eternal." <br> &emsp;&emsp;&emsp; <i>-by Eugene Delacroix</i> 
+ 2.  "Beware of the young doctor and the old barber." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "The most important work you and I will ever do will be within the walls of our own homes." <br> &emsp;&emsp;&emsp; <i>-by Harold B. Lee</i> 
+ 3.  "One must be poor to know the luxury of giving." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 
- 4.  "Trouble is part of your life, and if you don't share it, you don't give the person who loves you a chance to love you enough." <br> &emsp;&emsp;&emsp; <i>-by Dinah Shore</i> 
+ 4.  "Her grandmother, as she gets older, is not fading but rather becoming more concentrated." <br> &emsp;&emsp;&emsp; <i>-by Paulette Bates Alden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
