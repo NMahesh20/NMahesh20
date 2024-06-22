@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It doesn't matter if you win or lose in the big, scary jungle of the real world. Winners and losers... Enemies and allies... We don't live in a comic book! This is the real deal." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Whatever you do, do it to the purpose; do it thoroughly, not superficially. Go to the bottom of things. Any thing half done, or half known, is in my mind, neither done nor known at all. Nay, worse, for it often misleads." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 2.  "Beware of the young doctor and the old barber." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 3.  "One must be poor to know the luxury of giving." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 3.  "You must lose a fly to catch a trout." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 4.  "Her grandmother, as she gets older, is not fading but rather becoming more concentrated." <br> &emsp;&emsp;&emsp; <i>-by Paulette Bates Alden</i> 
+ 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
