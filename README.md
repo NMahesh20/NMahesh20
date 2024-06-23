@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you do, do it to the purpose; do it thoroughly, not superficially. Go to the bottom of things. Any thing half done, or half known, is in my mind, neither done nor known at all. Nay, worse, for it often misleads." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 1.  "Every day holds the possibility of a miracle." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth David</i> 
 
- 2.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
+ 2.  "Dare to be yourself." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 3.  "You must lose a fly to catch a trout." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 3.  "When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 
- 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
+ 4.  "Stoop and you'll be stepped on; stand tall and you'll be shot at." <br> &emsp;&emsp;&emsp; <i>-by Carlos A. Urbizo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
