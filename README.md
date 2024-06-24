@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every day holds the possibility of a miracle." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth David</i> 
+ 1.  "Because he has never forgiven himself any fault, he can forgive no one else's." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
 
- 2.  "Dare to be yourself." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 2.  "In many cases, the more you try to compete, the less competitive you actually are." <br> &emsp;&emsp;&emsp; <i>-by Kathy Sierra</i> 
 
- 3.  "When you travel, remember that a foreign country is not designed to make you comfortable. It is designed to make its own people comfortable." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 3.  "With age come the inner, the higher life. Who would be forever young, to dwell always in externals?" <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 
- 4.  "Stoop and you'll be stepped on; stand tall and you'll be shot at." <br> &emsp;&emsp;&emsp; <i>-by Carlos A. Urbizo</i> 
+ 4.  "If you're afraid to let someone else see your weakness, take heart: Nobody's perfect. Besides, your attempts to hide your flaws don't work as well as you think they do." <br> &emsp;&emsp;&emsp; <i>-by Julie Morgenstern</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
