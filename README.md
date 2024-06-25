@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Because he has never forgiven himself any fault, he can forgive no one else's." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
 
- 2.  "In many cases, the more you try to compete, the less competitive you actually are." <br> &emsp;&emsp;&emsp; <i>-by Kathy Sierra</i> 
+ 2.  "It's just human. We all have the jungle inside of us. We all have wants and needs and desires, strange as they may seem. If you stop to think about it, we're all pretty creative, cooking up all these fantasies. it's like a kind of poetry." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "With age come the inner, the higher life. Who would be forever young, to dwell always in externals?" <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 3.  "The true mystery of the world is the visible, not the invisible." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 
- 4.  "If you're afraid to let someone else see your weakness, take heart: Nobody's perfect. Besides, your attempts to hide your flaws don't work as well as you think they do." <br> &emsp;&emsp;&emsp; <i>-by Julie Morgenstern</i> 
+ 4.  "Know how to listen, and you will profit even from those who talk badly." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
