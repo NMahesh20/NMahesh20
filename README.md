@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
+ 1.  "I'd rather look ridiculous when everybody else does than plain and sensible all by myself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "It's just human. We all have the jungle inside of us. We all have wants and needs and desires, strange as they may seem. If you stop to think about it, we're all pretty creative, cooking up all these fantasies. it's like a kind of poetry." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "Avoidance is a great tool to get away from food in my face all day long." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 3.  "The true mystery of the world is the visible, not the invisible." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 3.  "A successful marriage requires falling in love many times, always with the same person." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 
- 4.  "Know how to listen, and you will profit even from those who talk badly." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 4.  "Trouble is only opportunity in work clothes." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
