@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'd rather look ridiculous when everybody else does than plain and sensible all by myself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Perhaps the most important use of money - It saves time. Life is so short, and there's so much to do, one can't afford to waste a minute; and just think how much you waste, for instance, in walking from place to place instead of going by bus and in going by bus instead of by taxi." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Avoidance is a great tool to get away from food in my face all day long." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 2.  "The bird of paradise alights only upon the hand that does not grasp." <br> &emsp;&emsp;&emsp; <i>-by John Berry</i> 
 
- 3.  "A successful marriage requires falling in love many times, always with the same person." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
 
- 4.  "Trouble is only opportunity in work clothes." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
+ 4.  "Silence is one of the great arts of conversation, as allowed by Cicero himself, who says, 'there is not only an art, but an eloquence in it.' A well bred woman may easily and effectually promote the most useful and elegant conversation without speaking a word. The modes of speech are scarcely more variable than the modes of silence." <br> &emsp;&emsp;&emsp; <i>-by Tom Blair</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
