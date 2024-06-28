@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Perhaps the most important use of money - It saves time. Life is so short, and there's so much to do, one can't afford to waste a minute; and just think how much you waste, for instance, in walking from place to place instead of going by bus and in going by bus instead of by taxi." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "To imagine the unimaginable is the highest use of the imagination." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
 
- 2.  "The bird of paradise alights only upon the hand that does not grasp." <br> &emsp;&emsp;&emsp; <i>-by John Berry</i> 
+ 2.  "So divinely is the world organized that every one of us, in our place and time, is in balance with everything else." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
+ 3.  "Understand that the right to choose your own path is a sacred privilege. Use it. Dwell in possiblity." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Silence is one of the great arts of conversation, as allowed by Cicero himself, who says, 'there is not only an art, but an eloquence in it.' A well bred woman may easily and effectually promote the most useful and elegant conversation without speaking a word. The modes of speech are scarcely more variable than the modes of silence." <br> &emsp;&emsp;&emsp; <i>-by Tom Blair</i> 
+ 4.  "Take calculated risks. That is quite different from being rash." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
