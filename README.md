@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To imagine the unimaginable is the highest use of the imagination." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
+ 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 2.  "So divinely is the world organized that every one of us, in our place and time, is in balance with everything else." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 2.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 3.  "Understand that the right to choose your own path is a sacred privilege. Use it. Dwell in possiblity." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
 
- 4.  "Take calculated risks. That is quite different from being rash." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
+ 4.  "So much is a man worth as he esteems himself." <br> &emsp;&emsp;&emsp; <i>-by Francois Rabelais</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
