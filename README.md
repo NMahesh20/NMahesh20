@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "The greater man the greater courtesy." <br> &emsp;&emsp;&emsp; <i>-by Alfred Lord Tennyson</i> 
 
- 2.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 2.  "But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her. Something must and will happen to throw a hero in her way." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
+ 3.  "If you can't have faith in what is held up to you for faith, you must find things to believe in yourself, for a life without faith in something is too narrow a space to live." <br> &emsp;&emsp;&emsp; <i>-by George E. Woodberry</i> 
 
- 4.  "So much is a man worth as he esteems himself." <br> &emsp;&emsp;&emsp; <i>-by Francois Rabelais</i> 
+ 4.  "If hunger makes you irritable, better eat and be pleasant." <br> &emsp;&emsp;&emsp; <i>-by Sefer Hasidim</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
