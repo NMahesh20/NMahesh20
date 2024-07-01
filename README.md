@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The greater man the greater courtesy." <br> &emsp;&emsp;&emsp; <i>-by Alfred Lord Tennyson</i> 
+ 1.  "Don't do what you want. Do what you don't want. Do what you're trained not to want. Do the things that scare you the most." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her. Something must and will happen to throw a hero in her way." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 3.  "If you can't have faith in what is held up to you for faith, you must find things to believe in yourself, for a life without faith in something is too narrow a space to live." <br> &emsp;&emsp;&emsp; <i>-by George E. Woodberry</i> 
+ 3.  "Memory is a giggling sprite and will not be tamed. She takes flight the moment the present becomes the past." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "If hunger makes you irritable, better eat and be pleasant." <br> &emsp;&emsp;&emsp; <i>-by Sefer Hasidim</i> 
+ 4.  "A good home must be made, not bought." <br> &emsp;&emsp;&emsp; <i>-by Joyce Maynard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
