@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "God loved the birds and invented trees. Man loved the birds and invented cages." <br> &emsp;&emsp;&emsp; <i>-by Jacques Deval</i> 
+ 1.  "Any time and energy you spend hating and being angry at your ex will ultimately take a toll on you without effecting any positive changes in your ex or your relationship." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 2.  "So, let us not be blind to our differences - but let us also direct attention to our common interests and to the means by which those differences can be resolved." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 3.  "One man may hit the mark, another blunder; but heed not these distinctions. Only from the alliance of the one, working with and through the other, are great things born." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
+ 3.  "Look at what your idea of success would be. The more that you take in external motivators, the more it reduces your ultimate satisfaction because it doesn't come from inside." <br> &emsp;&emsp;&emsp; <i>-by Chris Messina</i> 
 
- 4.  "If you would marry suitably, marry your equal." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
+ 4.  "One must desire something to be alive." <br> &emsp;&emsp;&emsp; <i>-by Margaret Deland</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
