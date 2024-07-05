@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Any time and energy you spend hating and being angry at your ex will ultimately take a toll on you without effecting any positive changes in your ex or your relationship." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "We learn and grow and are transformed not so much by what we do but by why and how we do it." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 2.  "So, let us not be blind to our differences - but let us also direct attention to our common interests and to the means by which those differences can be resolved." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 2.  "I don't want to sound Pollyannaish, but I hope that out of a tragedy like this something good will come. I hope we understand we're one family." <br> &emsp;&emsp;&emsp; <i>-by Madeleine Albright</i> 
 
- 3.  "Look at what your idea of success would be. The more that you take in external motivators, the more it reduces your ultimate satisfaction because it doesn't come from inside." <br> &emsp;&emsp;&emsp; <i>-by Chris Messina</i> 
+ 3.  "You have to have confidence in your ability, and then be tough enough to follow through." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
 
- 4.  "One must desire something to be alive." <br> &emsp;&emsp;&emsp; <i>-by Margaret Deland</i> 
+ 4.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
