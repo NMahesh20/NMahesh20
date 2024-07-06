@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We learn and grow and are transformed not so much by what we do but by why and how we do it." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 1.  "The size of your audience doesn't matter. What's important is that your audience is listening." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "I don't want to sound Pollyannaish, but I hope that out of a tragedy like this something good will come. I hope we understand we're one family." <br> &emsp;&emsp;&emsp; <i>-by Madeleine Albright</i> 
+ 2.  "Avoid having your ego so close to your position that when your position falls, your ego goes with it." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
 
- 3.  "You have to have confidence in your ability, and then be tough enough to follow through." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
+ 3.  "What lies behind us and what lies before us are tiny matters compared to what lies within us." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "Nothing is as certain as that the vices of leisure are gotten rid of by being busy." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
