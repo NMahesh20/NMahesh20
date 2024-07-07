@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The size of your audience doesn't matter. What's important is that your audience is listening." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "Without tenderness, a man is uninteresting." <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
 
- 2.  "Avoid having your ego so close to your position that when your position falls, your ego goes with it." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 2.  "The real voyage of discovery consists not in seeking new landscapes but in having new eyes." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
 
- 3.  "What lies behind us and what lies before us are tiny matters compared to what lies within us." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
 
- 4.  "Nothing is as certain as that the vices of leisure are gotten rid of by being busy." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "It's odd that you can get so anesthetized by your own pain or your own problem that you don't quite fully share the hell of someone close to you." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
