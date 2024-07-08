@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Without tenderness, a man is uninteresting." <br> &emsp;&emsp;&emsp; <i>-by Marlene Dietrich</i> 
+ 1.  "Please write again soon. Though my own life is filled with activity, letters encourage momentary escape into others lives and I come back to my own with greater contentment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
 
- 2.  "The real voyage of discovery consists not in seeking new landscapes but in having new eyes." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 2.  "What is most beautiful in virile men is something feminine; what is most beautiful in feminine women is something masculine." <br> &emsp;&emsp;&emsp; <i>-by Susan Sontag</i> 
 
- 3.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
+ 3.  "I've arrived at this outermost edge of my life by my own actions. Where I am is thoroughly unacceptable. Therefore, I must stop doing what I've been doing." <br> &emsp;&emsp;&emsp; <i>-by Alice Koller</i> 
 
- 4.  "It's odd that you can get so anesthetized by your own pain or your own problem that you don't quite fully share the hell of someone close to you." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
+ 4.  "Appetite, with an opinion of attaining, is called hope; the same, without such opinion, despair." <br> &emsp;&emsp;&emsp; <i>-by Thomas Hobbes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
