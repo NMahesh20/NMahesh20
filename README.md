@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Please write again soon. Though my own life is filled with activity, letters encourage momentary escape into others lives and I come back to my own with greater contentment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 2.  "What is most beautiful in virile men is something feminine; what is most beautiful in feminine women is something masculine." <br> &emsp;&emsp;&emsp; <i>-by Susan Sontag</i> 
+ 2.  "I love drugs, but I hate hangovers, and the hatred of the hangover wins by a landslide every time." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "I've arrived at this outermost edge of my life by my own actions. Where I am is thoroughly unacceptable. Therefore, I must stop doing what I've been doing." <br> &emsp;&emsp;&emsp; <i>-by Alice Koller</i> 
+ 3.  "May your service of love a beautiful thing; want nothing else, fear nothing else and let love be free to become what love truly is." <br> &emsp;&emsp;&emsp; <i>-by Hadewijch of Antwerp</i> 
 
- 4.  "Appetite, with an opinion of attaining, is called hope; the same, without such opinion, despair." <br> &emsp;&emsp;&emsp; <i>-by Thomas Hobbes</i> 
+ 4.  "I'm glad I don't have to explain to a man from Mars why each day I set fire to dozens of little pieces of paper, and then put them in my mouth." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
