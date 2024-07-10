@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "I love drugs, but I hate hangovers, and the hatred of the hangover wins by a landslide every time." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 3.  "May your service of love a beautiful thing; want nothing else, fear nothing else and let love be free to become what love truly is." <br> &emsp;&emsp;&emsp; <i>-by Hadewijch of Antwerp</i> 
+ 3.  "Nothing is as far away as one minute ago." <br> &emsp;&emsp;&emsp; <i>-by Jim Bishop</i> 
 
- 4.  "I'm glad I don't have to explain to a man from Mars why each day I set fire to dozens of little pieces of paper, and then put them in my mouth." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 4.  "We should manage our fortunes as we do our health - enjoy it when good, be patient when it is bad, and never apply violent remedies except in an extreme necessity." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
