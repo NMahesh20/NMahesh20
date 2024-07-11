@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "Life is difficult and complicated and beyond anyone's total control, and the humility to know that will enable you to survive its vicissitudes." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 2.  "Life is a risk." <br> &emsp;&emsp;&emsp; <i>-by Diane Von Furstenberg</i> 
 
- 3.  "Nothing is as far away as one minute ago." <br> &emsp;&emsp;&emsp; <i>-by Jim Bishop</i> 
+ 3.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
 
- 4.  "We should manage our fortunes as we do our health - enjoy it when good, be patient when it is bad, and never apply violent remedies except in an extreme necessity." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 4.  "It is no profit to have learned well, if you neglect to do well." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
