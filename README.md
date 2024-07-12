@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is difficult and complicated and beyond anyone's total control, and the humility to know that will enable you to survive its vicissitudes." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "A little Madness in the Spring Is wholesome even for the King." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
 
- 2.  "Life is a risk." <br> &emsp;&emsp;&emsp; <i>-by Diane Von Furstenberg</i> 
+ 2.  "It is better to suffer wrong than to do it, and happier to be sometimes cheated than not to trust." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 3.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
+ 3.  "When you play, play hard; when you work, don't play at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 4.  "It is no profit to have learned well, if you neglect to do well." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Abraham Heschel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
