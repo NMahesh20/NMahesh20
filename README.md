@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A little Madness in the Spring Is wholesome even for the King." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "It is better to suffer wrong than to do it, and happier to be sometimes cheated than not to trust." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 2.  "Ask not what the world needs. Ask what makes you come alive... then go do it. Because what the world needs is people who have come alive." <br> &emsp;&emsp;&emsp; <i>-by Howard Thurman</i> 
 
- 3.  "When you play, play hard; when you work, don't play at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 3.  "Painting is just another way of keeping a diary." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
 
- 4.  "Self-respect is the fruit of discipline; the sense of dignity grows with the ability to say no to oneself." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Abraham Heschel</i> 
+ 4.  "Whoever gossips to you will gossip about you." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
