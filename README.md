@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "The thing about chameleoning your way through life is that it gets to where nothing is real." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Ask not what the world needs. Ask what makes you come alive... then go do it. Because what the world needs is people who have come alive." <br> &emsp;&emsp;&emsp; <i>-by Howard Thurman</i> 
+ 2.  "I am here and you will know that I am the best and will hear me." <br> &emsp;&emsp;&emsp; <i>-by Leontyne Price</i> 
 
- 3.  "Painting is just another way of keeping a diary." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
+ 3.  "My life is the story of a man who always wants to carry too much. My spiritual quest is the painful process of learning to let go of things not essential." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "Whoever gossips to you will gossip about you." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 4.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
