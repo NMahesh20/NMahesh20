@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The thing about chameleoning your way through life is that it gets to where nothing is real." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "There are so many different ways lives work out, so many stories, and every one of them is precious: full of joy and heartbreak, and a fair amount of situation comedy." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 
- 2.  "I am here and you will know that I am the best and will hear me." <br> &emsp;&emsp;&emsp; <i>-by Leontyne Price</i> 
+ 2.  "I've grown to realize the joy that comes from little victories is preferable to the fun that comes from ease and the pursuit of pleasure." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "My life is the story of a man who always wants to carry too much. My spiritual quest is the painful process of learning to let go of things not essential." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 4.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 4.  "Do not throw the arrow which will return against you." <br> &emsp;&emsp;&emsp; <i>-by Kurdish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
