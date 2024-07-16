@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are so many different ways lives work out, so many stories, and every one of them is precious: full of joy and heartbreak, and a fair amount of situation comedy." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 1.  "I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "I've grown to realize the joy that comes from little victories is preferable to the fun that comes from ease and the pursuit of pleasure." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "Who is wise? He that learns from every One./ Who is powerful? He that governs his Passions./ Who is rich? He that is content./ Who is that? Nobody./" <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 3.  "I've learned that you can't have everything and do everything at the same time." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Do not throw the arrow which will return against you." <br> &emsp;&emsp;&emsp; <i>-by Kurdish Proverb</i> 
+ 4.  "The best effect of fine persons is felt after we have left their presence." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
