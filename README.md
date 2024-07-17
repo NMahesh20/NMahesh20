@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "It's takin' whatever comes your way, the good AND the bad, that give life flavor. It's all the stuff rolled together that makes life worth livin'." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Who is wise? He that learns from every One./ Who is powerful? He that governs his Passions./ Who is rich? He that is content./ Who is that? Nobody./" <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "What I dream of is an art of balance." <br> &emsp;&emsp;&emsp; <i>-by Henri Matisse</i> 
 
- 3.  "I've learned that you can't have everything and do everything at the same time." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Just because you love someone doesn't mean you have to be involved with them. Love is not a bandage to cover wounds." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 4.  "The best effect of fine persons is felt after we have left their presence." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "I cannot live without books." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
