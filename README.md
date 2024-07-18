@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's takin' whatever comes your way, the good AND the bad, that give life flavor. It's all the stuff rolled together that makes life worth livin'." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Traditions are the guideposts driven deep in our subconscious minds. The most powerful ones are those we can't even describe, aren't even aware of." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 2.  "What I dream of is an art of balance." <br> &emsp;&emsp;&emsp; <i>-by Henri Matisse</i> 
+ 2.  "What we truly and earnestly aspire to be, that in some sense, we are. The mere aspiration, by changing the frame of the mind, for the moment realizes itself." <br> &emsp;&emsp;&emsp; <i>-by Anna Jameson</i> 
 
- 3.  "Just because you love someone doesn't mean you have to be involved with them. Love is not a bandage to cover wounds." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 3.  "Resolve to edge in a little reading every day, if it is but a single sentence. If you gain fifteen minutes a day, it will make itself felt at the end of the year." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
 
- 4.  "I cannot live without books." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 4.  "The great secret of power is never to will to do more than you can accomplish." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
