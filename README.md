@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Traditions are the guideposts driven deep in our subconscious minds. The most powerful ones are those we can't even describe, aren't even aware of." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 1.  "It gets a lot easier to deal with life's curveballs when you're not hiding under layers of fat." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "What we truly and earnestly aspire to be, that in some sense, we are. The mere aspiration, by changing the frame of the mind, for the moment realizes itself." <br> &emsp;&emsp;&emsp; <i>-by Anna Jameson</i> 
+ 2.  "Acceptance is not a state of passivity or inaction. I am not saying you can't change the world, right wrongs, or replace evil with good. Acceptance is, in fact, the first step to successful action. If you don't fully accept a situation precisely the way it is, you will have difficulty changing it. Moreover, if you don't fully accept the situation, you will never really know if the situation should be changed." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Resolve to edge in a little reading every day, if it is but a single sentence. If you gain fifteen minutes a day, it will make itself felt at the end of the year." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
+ 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "The great secret of power is never to will to do more than you can accomplish." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
+ 4.  "A good name, like good will, is got by many actions and lost by one." <br> &emsp;&emsp;&emsp; <i>-by Lord Jeffery</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
