@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It gets a lot easier to deal with life's curveballs when you're not hiding under layers of fat." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
 
- 2.  "Acceptance is not a state of passivity or inaction. I am not saying you can't change the world, right wrongs, or replace evil with good. Acceptance is, in fact, the first step to successful action. If you don't fully accept a situation precisely the way it is, you will have difficulty changing it. Moreover, if you don't fully accept the situation, you will never really know if the situation should be changed." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "Sometimes the clearest mirrors come from those who are outside looking in." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
 
- 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "There's this big pie in show business, and you physically can't eat the whole pie. If you give everybody a slice of pie, you will still have more than enough. The real trick is not to try to get the whole pie, but to keep the biggest slice." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
 
- 4.  "A good name, like good will, is got by many actions and lost by one." <br> &emsp;&emsp;&emsp; <i>-by Lord Jeffery</i> 
+ 4.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
