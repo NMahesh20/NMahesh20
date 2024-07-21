@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
+ 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "Sometimes the clearest mirrors come from those who are outside looking in." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
+ 2.  "What very mysterious things days were. Sometimes they fly by, and other times they seem to last forever, yet they are all exactly twenty-four hours. There's quite a lot we don't know about them." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
 
- 3.  "There's this big pie in show business, and you physically can't eat the whole pie. If you give everybody a slice of pie, you will still have more than enough. The real trick is not to try to get the whole pie, but to keep the biggest slice." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
+ 3.  "To win without risk is to triumph without glory." <br> &emsp;&emsp;&emsp; <i>-by Pierre Corneille</i> 
 
- 4.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 4.  "Do not wait for the last judgment. It takes place every day." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
