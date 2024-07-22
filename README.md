@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Matthew Oliphant</i> 
 
- 2.  "What very mysterious things days were. Sometimes they fly by, and other times they seem to last forever, yet they are all exactly twenty-four hours. There's quite a lot we don't know about them." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 2.  "I can't criticize what I don't understand. If you want to call this art, you've got the benefit of all my doubts." <br> &emsp;&emsp;&emsp; <i>-by Charles Rosin</i> 
 
- 3.  "To win without risk is to triumph without glory." <br> &emsp;&emsp;&emsp; <i>-by Pierre Corneille</i> 
+ 3.  "You cannot run away from a weakness; you must sometimes fight it out or perish. And if that be so, why not now, and where you stand?" <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 4.  "Do not wait for the last judgment. It takes place every day." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 4.  "You cannot depend on your eyes when your imagination is out of focus." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
