@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Help others get ahead. You will always stand taller with someone else on your shoulders." <br> &emsp;&emsp;&emsp; <i>-by Bob Moawad</i> 
+ 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "A man travels the world over in search of what he needs and returns home to find it." <br> &emsp;&emsp;&emsp; <i>-by George Moore</i> 
+ 2.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
 
- 3.  "Be rich to yourself and poor to your friends." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
+ 3.  "Giving is a necessity sometimes... more urgent, indeed, than having." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
 
- 4.  "Vegetarianism is harmless enough, though it is apt to fill a man with wind and self-righteousness." <br> &emsp;&emsp;&emsp; <i>-by Sir Robert Hutchinson</i> 
+ 4.  "Do not employ handsome servants." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
