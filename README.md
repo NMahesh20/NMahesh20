@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Good ideas are not adopted automatically. They must be driven into practice with courageous patience." <br> &emsp;&emsp;&emsp; <i>-by Hyman Rickover</i> 
 
- 2.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
+ 2.  "The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing." <br> &emsp;&emsp;&emsp; <i>-by Eric Berne</i> 
 
- 3.  "Giving is a necessity sometimes... more urgent, indeed, than having." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
+ 3.  "While the fates permit, live happily; life speeds on with hurried step, and with winged days the wheel of the headlong year is turned." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 4.  "Do not employ handsome servants." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "We call them dumb animals, and so they are, for they cannot tell us how they feel, but they do not suffer less because they have no words." <br> &emsp;&emsp;&emsp; <i>-by Anna Sewell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
