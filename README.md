@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have to fight them daily, like fleas, those many small worries about the morrow, for they sap our energies." <br> &emsp;&emsp;&emsp; <i>-by Etty Hillesum</i> 
+ 1.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "There are two ways of spreading light: to be the candle or the mirror that reflects it." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
+ 2.  "The past with its pleasures, its rewards, its foolishness, it punishments, is there for each of us forever, and it should be." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 
- 3.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
+ 3.  "In summer, the song sings itself." <br> &emsp;&emsp;&emsp; <i>-by William Carlos Williams</i> 
 
- 4.  "If a man does not keep pace with his companions, perhaps it is because he hears a different drummer. Let him step to the music which he hears, however measured or far away." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Real success is finding your lifework in the work that you love." <br> &emsp;&emsp;&emsp; <i>-by David McCullough</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
