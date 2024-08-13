@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "I was always looking outside myself for strength and confidence, but it comes from within. It is there all the time." <br> &emsp;&emsp;&emsp; <i>-by Anna Freud</i> 
 
- 2.  "The past with its pleasures, its rewards, its foolishness, it punishments, is there for each of us forever, and it should be." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 2.  "I'd rather work with someone who's good at their job but doesn't like me, than someone who likes me but is a ninny." <br> &emsp;&emsp;&emsp; <i>-by Sam Donaldson</i> 
 
- 3.  "In summer, the song sings itself." <br> &emsp;&emsp;&emsp; <i>-by William Carlos Williams</i> 
+ 3.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
 
- 4.  "Real success is finding your lifework in the work that you love." <br> &emsp;&emsp;&emsp; <i>-by David McCullough</i> 
+ 4.  "He that respects himself is safe from others. He wears a coat of mail that none can pierce." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
