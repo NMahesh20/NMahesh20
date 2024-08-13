@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I was always looking outside myself for strength and confidence, but it comes from within. It is there all the time." <br> &emsp;&emsp;&emsp; <i>-by Anna Freud</i> 
+ 1.  "Hysteria is only possible with an audience." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "I'd rather work with someone who's good at their job but doesn't like me, than someone who likes me but is a ninny." <br> &emsp;&emsp;&emsp; <i>-by Sam Donaldson</i> 
+ 2.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
 
- 3.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
+ 3.  "Noble life demands a noble architecture for noble uses of noble men. Lack of culture means what it has always meant: ignoble civilization and therefore imminent downfall." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "He that respects himself is safe from others. He wears a coat of mail that none can pierce." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "To be able to fill leisure intelligently is the last product of civilization." <br> &emsp;&emsp;&emsp; <i>-by Arnold Toynbee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
