@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Hysteria is only possible with an audience." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "I take it that what all men are really after is some form or perhaps only some formula of peace." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
 
- 2.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
+ 2.  "The modern rule is that every woman should be her own chaperon." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
 
- 3.  "Noble life demands a noble architecture for noble uses of noble men. Lack of culture means what it has always meant: ignoble civilization and therefore imminent downfall." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 3.  "Many of life's failures are people who did not realize how close they were to success when they gave up." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 
- 4.  "To be able to fill leisure intelligently is the last product of civilization." <br> &emsp;&emsp;&emsp; <i>-by Arnold Toynbee</i> 
+ 4.  "Nobody can give you freedom. Nobody can give you equality or justice or anything. If you're a man, you take it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
