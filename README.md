@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I take it that what all men are really after is some form or perhaps only some formula of peace." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
+ 1.  "You can either hold yourself up to the unrealistic standards of others, or ignore them and concentrate on being happy with yourself as you are." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 2.  "The modern rule is that every woman should be her own chaperon." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
+ 2.  "You must have a room, or a certain hour or so a day, where you don't know what was in the newspapers that morning... a place where you can simply experience and bring forth what you are and what you might be." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
 
- 3.  "Many of life's failures are people who did not realize how close they were to success when they gave up." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 3.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
 
- 4.  "Nobody can give you freedom. Nobody can give you equality or justice or anything. If you're a man, you take it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 4.  "Never despair; but if you do, work on in despair." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
