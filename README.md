@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That is what marriage really means: helping one another to reach the full status of being persons, responsible and autonomous beings who do not run away from life." <br> &emsp;&emsp;&emsp; <i>-by Paul Tournier</i> 
+ 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "America is a vast conspiracy to make you happy." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 2.  "Nothing is permanent in this wicked world - not even our troubles." <br> &emsp;&emsp;&emsp; <i>-by Charlie Chaplin</i> 
 
- 3.  "We must learn to live together as brothers or perish together as fools." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 3.  "Total absence of humor renders life impossible." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 
- 4.  "To love deeply in one direction makes us more loving in all others." <br> &emsp;&emsp;&emsp; <i>-by Anne-Sophie Swetchine</i> 
+ 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
