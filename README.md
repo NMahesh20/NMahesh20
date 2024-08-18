@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "You've got to find what you love and that is as true for work as it is for lovers. Your work is going to fill a large part of your life and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you've found it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Nothing is permanent in this wicked world - not even our troubles." <br> &emsp;&emsp;&emsp; <i>-by Charlie Chaplin</i> 
+ 2.  "I don't wear a watch. How do I know my time? I find that someone will always tell me." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 3.  "Total absence of humor renders life impossible." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 3.  "I always wanted a happy ending... Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle and end. Life is about not knowing, having to change, taking the moment and making the best of it without knowing what's going to happen next. Delicious ambiguity." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
 
- 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 4.  "I've come to believe that each of us has a personal calling that's as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
