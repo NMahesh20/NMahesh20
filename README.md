@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You've got to find what you love and that is as true for work as it is for lovers. Your work is going to fill a large part of your life and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you've found it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "Acts of sacrifice and decency without regard to what's in it for you create ripple effects. Ones that lift up families and communities, that spread opportunity and boost our economy." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "I don't wear a watch. How do I know my time? I find that someone will always tell me." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 2.  "Don't sacrifice your political convictions for the convenience of the hour." <br> &emsp;&emsp;&emsp; <i>-by Edward M. Kennedy</i> 
 
- 3.  "I always wanted a happy ending... Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle and end. Life is about not knowing, having to change, taking the moment and making the best of it without knowing what's going to happen next. Delicious ambiguity." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
+ 3.  "Fall seven times, stand up eight." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
 
- 4.  "I've come to believe that each of us has a personal calling that's as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "It is bitter to lose a friend to evil, before one loses him to death." <br> &emsp;&emsp;&emsp; <i>-by Mary Renault</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
