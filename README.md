@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Michael Hainey</i> 
+ 1.  "Many people despise wealth, but few know how to give it away." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
 
- 2.  "We change who we are to fit the exogenous of our time, and not just strategically or to our own advantage, sometimes sympathetically without our even knowing it for the betterment of the whole group." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 2.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
 
- 3.  "An idea isn't worth that much. It's the execution of the idea that has value. If you can't convince one other person that this is something to devote your life to, then it's not worth it." <br> &emsp;&emsp;&emsp; <i>-by Joel Spolsky</i> 
+ 3.  "Education is the ability to listen to almost anything without losing your temper or your self-confidence." <br> &emsp;&emsp;&emsp; <i>-by Robert Frost</i> 
 
- 4.  "Like anyone else, there are days I feel beautiful and days I don't, and when I don't, I do something about it." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Tiegs</i> 
+ 4.  "We simply rob ourselves when we make presents to the dead." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
