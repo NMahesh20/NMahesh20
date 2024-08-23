@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Many people despise wealth, but few know how to give it away." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 1.  "The most profound statements are often said in silence." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 2.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 2.  "Art may make a suit of clothes: but nature must produce a man. " <br> &emsp;&emsp;&emsp; <i>-by David Hume</i> 
 
- 3.  "Education is the ability to listen to almost anything without losing your temper or your self-confidence." <br> &emsp;&emsp;&emsp; <i>-by Robert Frost</i> 
+ 3.  "It is better to sleep on things beforehand than lie awake about them afterward." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 
- 4.  "We simply rob ourselves when we make presents to the dead." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "The only factor becoming scarce in a world of abundance is human attention." <br> &emsp;&emsp;&emsp; <i>-by Kevin Kelly</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
