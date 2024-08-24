@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The most profound statements are often said in silence." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 1.  "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it." <br> &emsp;&emsp;&emsp; <i>-by Phillip C. McGraw</i> 
 
- 2.  "Art may make a suit of clothes: but nature must produce a man. " <br> &emsp;&emsp;&emsp; <i>-by David Hume</i> 
+ 2.  "Always forgive your enemies; nothing annoys them so much." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 
- 3.  "It is better to sleep on things beforehand than lie awake about them afterward." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 3.  "The secret of being boring is to say everything." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 
- 4.  "The only factor becoming scarce in a world of abundance is human attention." <br> &emsp;&emsp;&emsp; <i>-by Kevin Kelly</i> 
+ 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
