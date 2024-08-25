@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it." <br> &emsp;&emsp;&emsp; <i>-by Phillip C. McGraw</i> 
+ 1.  "When you get to the end of your rope, tie a knot and hang on." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "Always forgive your enemies; nothing annoys them so much." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 2.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 3.  "The secret of being boring is to say everything." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 3.  "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding. Hold this picture tenaciously. Never permit it to fade. Your mind will seek to develop the picture...Do not build up obstacles in your imagination." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 
- 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
+ 4.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
