@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you get to the end of your rope, tie a knot and hang on." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "Everything that I understand, I understand only because I love." <br> &emsp;&emsp;&emsp; <i>-by Leo Tolstoy</i> 
 
- 2.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 2.  "Well done is better than well said." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 3.  "Formulate and stamp indelibly on your mind a mental picture of yourself as succeeding. Hold this picture tenaciously. Never permit it to fade. Your mind will seek to develop the picture...Do not build up obstacles in your imagination." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
+ 3.  "Whatever you are by nature, keep to it; never desert your line of talent. Be what nature intended you for and you will succeed." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 4.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "Blessed is he who has found his work; let him ask no other blessedness." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
