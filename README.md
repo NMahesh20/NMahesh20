@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything that I understand, I understand only because I love." <br> &emsp;&emsp;&emsp; <i>-by Leo Tolstoy</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Well done is better than well said." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "We should every night call ourselves to an account: What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired?" <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 3.  "Whatever you are by nature, keep to it; never desert your line of talent. Be what nature intended you for and you will succeed." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 3.  "Remember that nobody will ever get ahead of you as long as he is kicking you in the seat of the pants." <br> &emsp;&emsp;&emsp; <i>-by Walter Winchell</i> 
 
- 4.  "Blessed is he who has found his work; let him ask no other blessedness." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
+ 4.  "We all have the extraordinary coded within us, waiting to be released." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
