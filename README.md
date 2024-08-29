@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Even the most dangerous look less threatening when they are dead." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "If I wrote what I really think, I would be so sad all the time. We create to fill a gap - not just to avoid the idea of dying, it's to fill some particular gap in ourselves." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Convinced myself, I seek not to convince." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 2.  "You know, I think that if parents would spend less time worrying about what their kids watch on TV and more time worrying about what's going on in their kids' lives, this world would be a much better place." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "The great aim of education is not knowledge but action." <br> &emsp;&emsp;&emsp; <i>-by Herbert Spencer</i> 
+ 3.  "The greatest pleasure in life is doing what people say you cannot do." <br> &emsp;&emsp;&emsp; <i>-by Walter Bagehot</i> 
 
- 4.  "It is a mistake to regard age as a downhill grade toward dissolution. The reverse is true. As one grows older, one climbs with surprising strides." <br> &emsp;&emsp;&emsp; <i>-by George Sand</i> 
+ 4.  "Happiness: a good bank account, a good cook and a good digestion." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
