@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Sugar</i> 
+ 1.  "Undoubtedly, we become what we envisage." <br> &emsp;&emsp;&emsp; <i>-by Claude M. Bristol</i> 
 
- 2.  "If we can connect in some tiny way with a human that doesn't agree with us, then maybe we won't blow up the planet." <br> &emsp;&emsp;&emsp; <i>-by Nancy White</i> 
+ 2.  "We're a sentimental people. We like a few kind words better than millions of dollars given in a humiliating way." <br> &emsp;&emsp;&emsp; <i>-by Gamal Abdel Nasser</i> 
 
- 3.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 3.  "The Chinese use two brush strokes to write the word 'crisis.' One brush stroke stands for danger; the other for opportunity. In a crisis, be aware of the danger - but recognize the opportunity." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 4.  "Management is nothing more than motivating other people." <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
+ 4.  "Purchase not friends by gifts; when thou ceasest to give, such will cease to love." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
