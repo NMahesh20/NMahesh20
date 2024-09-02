@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you fear most has no power - it is your fear that has the power." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "The more you know, the less you need." <br> &emsp;&emsp;&emsp; <i>-by Aboriginal Saying</i> 
 
- 2.  "The guy who takes a chance, who walks the line between the known and unknown, who is unafraid of failure, will succeed." <br> &emsp;&emsp;&emsp; <i>-by Gordon Parks</i> 
+ 2.  "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
 
- 3.  "The spread of evil is the symptom of a vacuum. whenever evil wins, it is only by default: by the moral failure of those who evade the fact that there can be no compromise on basic principles." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 3.  "Learning to ignore things is one of the great paths to inner peace." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 4.  "The camera makes everyone a tourist in other people's reality, and eventually in one's own." <br> &emsp;&emsp;&emsp; <i>-by Susan Sontag</i> 
+ 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
