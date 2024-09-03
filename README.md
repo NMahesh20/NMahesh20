@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The more you know, the less you need." <br> &emsp;&emsp;&emsp; <i>-by Aboriginal Saying</i> 
+ 1.  "If we choose only to expose ourselves to opinions and viewpoints that are in line to our own, we become more polarized, more set in our own ways. It will only reinforce and deepen the political divides in our country. But if we choose to actively seek out information that challenges our assumptions and beliefs, perhaps we can begin to understand where the people who disagree with us are coming from." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
+ 2.  "I have never thought of writing as hard work, but I have worked hard to find a voice." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 3.  "Learning to ignore things is one of the great paths to inner peace." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 3.  "All God does is watch us and kill us when we get boring. We must never, ever be boring." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 4.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
