@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If we choose only to expose ourselves to opinions and viewpoints that are in line to our own, we become more polarized, more set in our own ways. It will only reinforce and deepen the political divides in our country. But if we choose to actively seek out information that challenges our assumptions and beliefs, perhaps we can begin to understand where the people who disagree with us are coming from." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Looks are part of business. A businessman should never stand out more than his customers. His mannerisms, his clothes, everything about him... Moderation is the key." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "I have never thought of writing as hard work, but I have worked hard to find a voice." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
 
- 3.  "All God does is watch us and kill us when we get boring. We must never, ever be boring." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 3.  "A problem is a chance for you to do your best." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
 
- 4.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 4.  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
