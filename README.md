@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Looks are part of business. A businessman should never stand out more than his customers. His mannerisms, his clothes, everything about him... Moderation is the key." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Knowledge is the only instrument of production that is not subject to diminishing returns." <br> &emsp;&emsp;&emsp; <i>-by John Clarke</i> 
 
- 2.  "Today is the day in which to express your noblest qualities of mind and heart, to do at least one worthy thing which you have long postponed." <br> &emsp;&emsp;&emsp; <i>-by Grenville Kleiser</i> 
+ 2.  "The only way to last a really long time is to build something useful enough that people will want to keep it going after you die, and to cultivate a sense of ownership in other people. In short: make good shit and give it away as fast as you can." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 3.  "A problem is a chance for you to do your best." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
+ 3.  "I think we're having fun. I think our customers really like our products. And we're always trying to do better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 4.  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "You never know till you try to reach them how accessible men are; but you must approach each man by the right door." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
