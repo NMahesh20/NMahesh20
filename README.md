@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Knowledge is the only instrument of production that is not subject to diminishing returns." <br> &emsp;&emsp;&emsp; <i>-by John Clarke</i> 
+ 1.  "We didn't think much in the air corps of a fellow who wangled a cushy job out of his C.O. by buttering him up. It was hard for me to believe that God thought much of a man who tried to wangle salvation by fulsome flattery. I should have thought the worship most pleasing to him was to do your best according to your lights." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "The only way to last a really long time is to build something useful enough that people will want to keep it going after you die, and to cultivate a sense of ownership in other people. In short: make good shit and give it away as fast as you can." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 2.  "Knowledge speaks, but wisdom listens." <br> &emsp;&emsp;&emsp; <i>-by Jimi Hendrix</i> 
 
- 3.  "I think we're having fun. I think our customers really like our products. And we're always trying to do better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "Power never takes a back step - only in the face of more power." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 4.  "You never know till you try to reach them how accessible men are; but you must approach each man by the right door." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 4.  "Exercise ferments the humors, casts them into their proper channels, throws off redundancies, and helps nature in those secret distributions, without which the body cannot subsist in its vigor, nor the soul act with cheerfulness." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
