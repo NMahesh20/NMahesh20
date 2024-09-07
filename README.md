@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We didn't think much in the air corps of a fellow who wangled a cushy job out of his C.O. by buttering him up. It was hard for me to believe that God thought much of a man who tried to wangle salvation by fulsome flattery. I should have thought the worship most pleasing to him was to do your best according to your lights." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Happy or unhappy, families are all mysterious." <br> &emsp;&emsp;&emsp; <i>-by Gloria Steinem</i> 
 
- 2.  "Knowledge speaks, but wisdom listens." <br> &emsp;&emsp;&emsp; <i>-by Jimi Hendrix</i> 
+ 2.  "Hold a book in your hand and you're a pilgrim at the gates of a new city." <br> &emsp;&emsp;&emsp; <i>-by Anne Michaels</i> 
 
- 3.  "Power never takes a back step - only in the face of more power." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 3.  "We live in a time of transition, an uneasy era which is likely to endure for the rest of this century. During the period we may be tempted to abandon some of the time-honored principles and commitments which have been proven during the difficult times of past generations. We must never yield to this temptation. Our American values are not luxuries, but necessities - not the salt in our bread, but the bread itself." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Carter</i> 
 
- 4.  "Exercise ferments the humors, casts them into their proper channels, throws off redundancies, and helps nature in those secret distributions, without which the body cannot subsist in its vigor, nor the soul act with cheerfulness." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 4.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
