@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happy or unhappy, families are all mysterious." <br> &emsp;&emsp;&emsp; <i>-by Gloria Steinem</i> 
+ 1.  "What does it matter how one comes by the truth so long as one pounces upon it and lives by it?" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 2.  "Hold a book in your hand and you're a pilgrim at the gates of a new city." <br> &emsp;&emsp;&emsp; <i>-by Anne Michaels</i> 
+ 2.  "Give not over thy soul to sorrow; and afflict not thyself in thy own counsel. Gladness of heart is the life of man and the joyfulness of man is length of days." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
 
- 3.  "We live in a time of transition, an uneasy era which is likely to endure for the rest of this century. During the period we may be tempted to abandon some of the time-honored principles and commitments which have been proven during the difficult times of past generations. We must never yield to this temptation. Our American values are not luxuries, but necessities - not the salt in our bread, but the bread itself." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Carter</i> 
+ 3.  "Intuition isn't the enemy, but the ally, of reason." <br> &emsp;&emsp;&emsp; <i>-by John Kord Lagemann</i> 
 
- 4.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
+ 4.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
