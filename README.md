@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What does it matter how one comes by the truth so long as one pounces upon it and lives by it?" <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 1.  "The more passions and desires one has, the more ways one has of being happy." <br> &emsp;&emsp;&emsp; <i>-by Charlotte-Catherine</i> 
 
- 2.  "Give not over thy soul to sorrow; and afflict not thyself in thy own counsel. Gladness of heart is the life of man and the joyfulness of man is length of days." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
+ 2.  "The perfection of art is to conceal art." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
 
- 3.  "Intuition isn't the enemy, but the ally, of reason." <br> &emsp;&emsp;&emsp; <i>-by John Kord Lagemann</i> 
+ 3.  "Carry the battle to them. Don't let them bring it to you. Put them on the defensive. And don't ever apologize for anything." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 4.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 4.  "Go often to the house of thy friend; for weeds soon choke up the unused path." <br> &emsp;&emsp;&emsp; <i>-by Scandinavian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
