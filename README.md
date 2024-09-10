@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The more passions and desires one has, the more ways one has of being happy." <br> &emsp;&emsp;&emsp; <i>-by Charlotte-Catherine</i> 
+ 1.  "Life is an adventure in forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
 
- 2.  "The perfection of art is to conceal art." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
+ 2.  "If you make it plain you like people, it's hard for them to resist liking you back." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Carry the battle to them. Don't let them bring it to you. Put them on the defensive. And don't ever apologize for anything." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 3.  "You miss 100 percent of the shots you never take." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
 
- 4.  "Go often to the house of thy friend; for weeds soon choke up the unused path." <br> &emsp;&emsp;&emsp; <i>-by Scandinavian Proverb</i> 
+ 4.  "Do what you feel in your heart to be right - for you'll be criticized anyway. You'll be damned if you do, and damned if you don't." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
