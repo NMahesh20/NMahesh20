@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is an adventure in forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
+ 1.  "I have very strong feelings about how you lead your life. You always look ahead, you never look back." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 2.  "If you make it plain you like people, it's hard for them to resist liking you back." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Peace is not a relationship of nations. It is a condition of mind brought about by a serenity of soul. Peace is not merely the absence of war. It is also a state of mind. Lasting peace can come only to peaceful people." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 3.  "You miss 100 percent of the shots you never take." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
+ 3.  "Better shun the bait, than struggle in the snare." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
 
- 4.  "Do what you feel in your heart to be right - for you'll be criticized anyway. You'll be damned if you do, and damned if you don't." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 4.  "We succeed only as we identify in life, or in war, or in anything else, a single overriding objective, and make all other considerations bend to that one objective." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
