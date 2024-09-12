@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have very strong feelings about how you lead your life. You always look ahead, you never look back." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "None of us is as smart as all of us." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "Peace is not a relationship of nations. It is a condition of mind brought about by a serenity of soul. Peace is not merely the absence of war. It is also a state of mind. Lasting peace can come only to peaceful people." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 2.  "You might as well fall flat on your face as lean over too far backward." <br> &emsp;&emsp;&emsp; <i>-by James Thurber</i> 
 
- 3.  "Better shun the bait, than struggle in the snare." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
+ 3.  "We cannot swing up on a rope that is attached only to our own belt." <br> &emsp;&emsp;&emsp; <i>-by William Ernest Hocking</i> 
 
- 4.  "We succeed only as we identify in life, or in war, or in anything else, a single overriding objective, and make all other considerations bend to that one objective." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 4.  "Oppression can only survive through silence." <br> &emsp;&emsp;&emsp; <i>-by Carmen de Monteflores</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
