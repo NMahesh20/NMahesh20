@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "None of us is as smart as all of us." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "If you find serenity and happiness, some people may be jealous. Be happy anyway." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 2.  "You might as well fall flat on your face as lean over too far backward." <br> &emsp;&emsp;&emsp; <i>-by James Thurber</i> 
+ 2.  "Silence is golden when you can't think of a good answer." <br> &emsp;&emsp;&emsp; <i>-by Muhammad Ali</i> 
 
- 3.  "We cannot swing up on a rope that is attached only to our own belt." <br> &emsp;&emsp;&emsp; <i>-by William Ernest Hocking</i> 
+ 3.  "A loving person lives in a loving world. A hostile person lives in a hostile world. Everyone you meet is your mirror." <br> &emsp;&emsp;&emsp; <i>-by Ken Keyes Jr.</i> 
 
- 4.  "Oppression can only survive through silence." <br> &emsp;&emsp;&emsp; <i>-by Carmen de Monteflores</i> 
+ 4.  "Put duties aside at least an hour before bed and perform soothing, quiet activities that will help you relax." <br> &emsp;&emsp;&emsp; <i>-by Dianne Hales</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
