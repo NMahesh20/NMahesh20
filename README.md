@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you find serenity and happiness, some people may be jealous. Be happy anyway." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 1.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Silence is golden when you can't think of a good answer." <br> &emsp;&emsp;&emsp; <i>-by Muhammad Ali</i> 
+ 2.  "Keeping your body healthy is an expression of gratitude to the whole cosmos - the trees, the clouds, everything." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 3.  "A loving person lives in a loving world. A hostile person lives in a hostile world. Everyone you meet is your mirror." <br> &emsp;&emsp;&emsp; <i>-by Ken Keyes Jr.</i> 
+ 3.  "Beware lest in your anxiety to avoid war you obtain a master." <br> &emsp;&emsp;&emsp; <i>-by Demosthenes</i> 
 
- 4.  "Put duties aside at least an hour before bed and perform soothing, quiet activities that will help you relax." <br> &emsp;&emsp;&emsp; <i>-by Dianne Hales</i> 
+ 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
