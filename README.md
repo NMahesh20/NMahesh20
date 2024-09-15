@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "An appeaser is one who feeds a crocodile, hoping it will eat him last." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 2.  "Keeping your body healthy is an expression of gratitude to the whole cosmos - the trees, the clouds, everything." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 2.  "Resentment is anger directed at others--at what they did or did not do." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Beware lest in your anxiety to avoid war you obtain a master." <br> &emsp;&emsp;&emsp; <i>-by Demosthenes</i> 
+ 3.  "You can't choose the ways in which you'll be tested." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "A good marriage is one which allows for change and growth in the individuals and in the way they express their love." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
