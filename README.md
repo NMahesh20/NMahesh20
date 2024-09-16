@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An appeaser is one who feeds a crocodile, hoping it will eat him last." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 1.  "Seek freedom and become captive of your desires, seek discipline and find your liberty." <br> &emsp;&emsp;&emsp; <i>-by Frank Herbert</i> 
 
- 2.  "Resentment is anger directed at others--at what they did or did not do." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 2.  "Realize deeply that the present moment is all you ever have." <br> &emsp;&emsp;&emsp; <i>-by Eckhart Tolle</i> 
 
- 3.  "You can't choose the ways in which you'll be tested." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 3.  "If you wish success in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother and hope your guardian genius." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 4.  "A good marriage is one which allows for change and growth in the individuals and in the way they express their love." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 4.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
