@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Seek freedom and become captive of your desires, seek discipline and find your liberty." <br> &emsp;&emsp;&emsp; <i>-by Frank Herbert</i> 
+ 1.  "The trouble with lies was that once started, the fiction had to be continued, and it was hard always to be remembering details that you had made up upon the spur of the moment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Realize deeply that the present moment is all you ever have." <br> &emsp;&emsp;&emsp; <i>-by Eckhart Tolle</i> 
+ 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "If you wish success in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother and hope your guardian genius." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 3.  "Do not weep; do not wax indignant. Understand." <br> &emsp;&emsp;&emsp; <i>-by Baruch Spinoza</i> 
 
- 4.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
+ 4.  "Make your life a mission - not an intermission." <br> &emsp;&emsp;&emsp; <i>-by Arnold Glasgow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
