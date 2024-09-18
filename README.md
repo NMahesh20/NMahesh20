@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The trouble with lies was that once started, the fiction had to be continued, and it was hard always to be remembering details that you had made up upon the spur of the moment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "You will need to find your passion. Don't give up on finding it because then all you're doing is waiting for the Reaper." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Do not weep; do not wax indignant. Understand." <br> &emsp;&emsp;&emsp; <i>-by Baruch Spinoza</i> 
+ 3.  "Wit makes its own welcome, and levels all distinctions. No dignity, no learning, no force of character, can make any stand against good wit." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Make your life a mission - not an intermission." <br> &emsp;&emsp;&emsp; <i>-by Arnold Glasgow</i> 
+ 4.  "No matter how lonely you get or how many birth announcements you receive, the trick is not to get frightened. There's nothing wrong with being alone." <br> &emsp;&emsp;&emsp; <i>-by Wendy Wasserstein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
