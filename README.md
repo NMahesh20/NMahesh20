@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You will need to find your passion. Don't give up on finding it because then all you're doing is waiting for the Reaper." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "One of the common causes of serious difficulty takes the form of parental self-discovery. The newly adopted child brings out submerged feelings or behavior in his parents that make them dislike themselves. This can be such a severe blow to their self- esteem that they must eradicate the cause of their distress. Sometimes the only way that parents are able to do that is by returning the child." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
 
- 2.  "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 3.  "Wit makes its own welcome, and levels all distinctions. No dignity, no learning, no force of character, can make any stand against good wit." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go but where they ought to be." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
 
- 4.  "No matter how lonely you get or how many birth announcements you receive, the trick is not to get frightened. There's nothing wrong with being alone." <br> &emsp;&emsp;&emsp; <i>-by Wendy Wasserstein</i> 
+ 4.  "You can get everything in life you want if you will just help enough other people get what they want." <br> &emsp;&emsp;&emsp; <i>-by Zig Ziglar</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
