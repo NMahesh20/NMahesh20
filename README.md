@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One of the common causes of serious difficulty takes the form of parental self-discovery. The newly adopted child brings out submerged feelings or behavior in his parents that make them dislike themselves. This can be such a severe blow to their self- esteem that they must eradicate the cause of their distress. Sometimes the only way that parents are able to do that is by returning the child." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
+ 1.  "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet, death is the destination we all share. No one has ever escaped it, and that is how it should be, because death is very likely the single best invention of life. It's life's change agent. It clears out the old to make way for the new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 2.  "One kind word can warm three winter months." <br> &emsp;&emsp;&emsp; <i>-by Japanese proverb</i> 
 
- 3.  "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go but where they ought to be." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
+ 3.  "It is when power is wedded to chronic fear that it becomes formidable." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 4.  "You can get everything in life you want if you will just help enough other people get what they want." <br> &emsp;&emsp;&emsp; <i>-by Zig Ziglar</i> 
+ 4.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
