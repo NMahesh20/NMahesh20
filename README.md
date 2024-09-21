@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet, death is the destination we all share. No one has ever escaped it, and that is how it should be, because death is very likely the single best invention of life. It's life's change agent. It clears out the old to make way for the new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "Time present and time past are both perhaps present in time future and time future contained in time past. If all time is eternally present all time is unredeemable." <br> &emsp;&emsp;&emsp; <i>-by Swatch</i> 
 
- 2.  "One kind word can warm three winter months." <br> &emsp;&emsp;&emsp; <i>-by Japanese proverb</i> 
+ 2.  "When you want to believe in something, you also have to believe in everything that's necessary for believing in it." <br> &emsp;&emsp;&emsp; <i>-by Ugo Betti</i> 
 
- 3.  "It is when power is wedded to chronic fear that it becomes formidable." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 3.  "One thing I've learned in all these years is not to make love when you really don't feel it; there's probably nothing worse you can do to yourself than that." <br> &emsp;&emsp;&emsp; <i>-by Norman Mailer</i> 
 
- 4.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
+ 4.  "Mid pleasures and palaces though we may roam, / Be it ever so humble, there's no place like home." <br> &emsp;&emsp;&emsp; <i>-by John Howard Payne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
