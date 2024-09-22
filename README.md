@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Time present and time past are both perhaps present in time future and time future contained in time past. If all time is eternally present all time is unredeemable." <br> &emsp;&emsp;&emsp; <i>-by Swatch</i> 
+ 1.  "The best way to try to motivate somebody is by being direct with them. To be honest with them. Lies are never the right way to get your message across." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 2.  "When you want to believe in something, you also have to believe in everything that's necessary for believing in it." <br> &emsp;&emsp;&emsp; <i>-by Ugo Betti</i> 
+ 2.  "No matter how old you are, there's always something good to look forward to." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 3.  "One thing I've learned in all these years is not to make love when you really don't feel it; there's probably nothing worse you can do to yourself than that." <br> &emsp;&emsp;&emsp; <i>-by Norman Mailer</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "Mid pleasures and palaces though we may roam, / Be it ever so humble, there's no place like home." <br> &emsp;&emsp;&emsp; <i>-by John Howard Payne</i> 
+ 4.  "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you." <br> &emsp;&emsp;&emsp; <i>-by Carl Sandburg</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
