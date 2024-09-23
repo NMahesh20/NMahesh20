@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best way to try to motivate somebody is by being direct with them. To be honest with them. Lies are never the right way to get your message across." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 1.  "Employ thy time well, if thou meanest to get leisure." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 2.  "No matter how old you are, there's always something good to look forward to." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 2.  "When you are not practicing, remember, someone somewhere is practicing, and when you meet him he will win." <br> &emsp;&emsp;&emsp; <i>-by Ed Macauley</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "The only cure for grief is action." <br> &emsp;&emsp;&emsp; <i>-by George Henry Lewes</i> 
 
- 4.  "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you." <br> &emsp;&emsp;&emsp; <i>-by Carl Sandburg</i> 
+ 4.  "Every human being on this earth is born with a tragedy, and it isn't original sin. He's born with the tragedy that he has to grow up. That he has to leave the nest, the security, and go out to do battle. He has to lose everything that is lovely and fight for a new loveliness of his own making, and it's a tragedy. A lot of people don't have the courage to do it." <br> &emsp;&emsp;&emsp; <i>-by Helen Hayes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
