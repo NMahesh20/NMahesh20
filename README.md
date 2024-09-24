@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Employ thy time well, if thou meanest to get leisure." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 1.  "He that would make his own liberty secure, must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach to himself." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 
- 2.  "When you are not practicing, remember, someone somewhere is practicing, and when you meet him he will win." <br> &emsp;&emsp;&emsp; <i>-by Ed Macauley</i> 
+ 2.  "Associate with well-mannered persons and your manners will improve. Run around with decent folk and your own decent instincts will be strengthened." <br> &emsp;&emsp;&emsp; <i>-by Stanley Walker</i> 
 
- 3.  "The only cure for grief is action." <br> &emsp;&emsp;&emsp; <i>-by George Henry Lewes</i> 
+ 3.  "Never criticize a man until you've walked a mile in his moccasins." <br> &emsp;&emsp;&emsp; <i>-by Native American Proverb</i> 
 
- 4.  "Every human being on this earth is born with a tragedy, and it isn't original sin. He's born with the tragedy that he has to grow up. That he has to leave the nest, the security, and go out to do battle. He has to lose everything that is lovely and fight for a new loveliness of his own making, and it's a tragedy. A lot of people don't have the courage to do it." <br> &emsp;&emsp;&emsp; <i>-by Helen Hayes</i> 
+ 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
