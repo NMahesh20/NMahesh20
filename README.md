@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "He that would make his own liberty secure, must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach to himself." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 1.  "The policy of being too cautious is the greatest risk of all." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 2.  "Associate with well-mannered persons and your manners will improve. Run around with decent folk and your own decent instincts will be strengthened." <br> &emsp;&emsp;&emsp; <i>-by Stanley Walker</i> 
+ 2.  "'Never put off until tomorrow what you can do today.' Under the influence of this pestilent morality, I am forever letting tomorrow's work slop backwards into today's, and doing painfully and nervously today what I could do quickly and easily tomorrow." <br> &emsp;&emsp;&emsp; <i>-by J. A. Spender</i> 
 
- 3.  "Never criticize a man until you've walked a mile in his moccasins." <br> &emsp;&emsp;&emsp; <i>-by Native American Proverb</i> 
+ 3.  "Take hold lightly; let go lightly. This is one of the great secrets of felicity in love." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "The scornful nostril and the high head gather not the odors that lie on the track of truth." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Without discipline, there's no life at all." <br> &emsp;&emsp;&emsp; <i>-by Katharine Hepburn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
