@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The policy of being too cautious is the greatest risk of all." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 1.  "Thankfully, beauty is easier to remove than apply, and a swipe of demaquillage in the right direction and you are you once again." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "'Never put off until tomorrow what you can do today.' Under the influence of this pestilent morality, I am forever letting tomorrow's work slop backwards into today's, and doing painfully and nervously today what I could do quickly and easily tomorrow." <br> &emsp;&emsp;&emsp; <i>-by J. A. Spender</i> 
+ 2.  "I know of only one bird - the parrot - that talks; and it can't fly very high." <br> &emsp;&emsp;&emsp; <i>-by Wilbur Wright</i> 
 
- 3.  "Take hold lightly; let go lightly. This is one of the great secrets of felicity in love." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "The palest ink is better than the best memory." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Without discipline, there's no life at all." <br> &emsp;&emsp;&emsp; <i>-by Katharine Hepburn</i> 
+ 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
