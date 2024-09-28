@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A mind set in its ways is wasted. Don't do it." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "Everything that irritates us about others can lead us to a better understanding of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 
- 2.  "A dog is the greatest gift a parent can give a child. OK, a good education, then a dog." <br> &emsp;&emsp;&emsp; <i>-by John Grogan</i> 
+ 2.  "When I step into this library, I cannot understand why I ever step out of it." <br> &emsp;&emsp;&emsp; <i>-by Marie de Sevigne</i> 
 
- 3.  "I still need more healthy rest in order to work at my best. My health is the main capital I have and I want to administer it intelligently." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
+ 3.  "Propriety was a rigid master, but one that must be obeyed if one wanted to keep a sterling reputation." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 4.  "Always bear in mind that your own resolution to succeed is more important than any one thing." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
