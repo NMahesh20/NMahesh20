@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything that irritates us about others can lead us to a better understanding of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
+ 1.  "Good manners are just a way of showing other people that we have respect for them." <br> &emsp;&emsp;&emsp; <i>-by Bill Kelly</i> 
 
- 2.  "When I step into this library, I cannot understand why I ever step out of it." <br> &emsp;&emsp;&emsp; <i>-by Marie de Sevigne</i> 
+ 2.  "The art of leadership is saying no, not yes. It is very easy to say yes." <br> &emsp;&emsp;&emsp; <i>-by Tony Blair</i> 
 
- 3.  "Propriety was a rigid master, but one that must be obeyed if one wanted to keep a sterling reputation." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "I have learned not to worry about love; but to honor its coming with all my heart." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 4.  "Always bear in mind that your own resolution to succeed is more important than any one thing." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "If you think you can win, you can win. Faith is necessary to victory." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
