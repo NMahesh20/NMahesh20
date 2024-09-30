@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good manners are just a way of showing other people that we have respect for them." <br> &emsp;&emsp;&emsp; <i>-by Bill Kelly</i> 
+ 1.  "Loving yourself means caring enough to make the hard decisions in your life." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The art of leadership is saying no, not yes. It is very easy to say yes." <br> &emsp;&emsp;&emsp; <i>-by Tony Blair</i> 
+ 2.  "One's first book, kiss, home run, is always the best." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 
- 3.  "I have learned not to worry about love; but to honor its coming with all my heart." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
+ 3.  "Don't live in a town where there are no doctors." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 4.  "If you think you can win, you can win. Faith is necessary to victory." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
+ 4.  "For the things we have to learn before we can do them, we learn by doing them." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
