@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Loving yourself means caring enough to make the hard decisions in your life." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Innovation distinguishes between a leader and a follower." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "One's first book, kiss, home run, is always the best." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 2.  "If any thing is sacred the human body is sacred." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 3.  "Don't live in a town where there are no doctors." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 3.  "She is a friend of my mind... The pieces I am, she gather them and give them back to me in all the right order." <br> &emsp;&emsp;&emsp; <i>-by Toni Morrison</i> 
 
- 4.  "For the things we have to learn before we can do them, we learn by doing them." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "To will is to select a goal, determine a course of action that will bring one to that goal, and then hold to that action till the goal is reached. The key is action." <br> &emsp;&emsp;&emsp; <i>-by Michael Hanson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
