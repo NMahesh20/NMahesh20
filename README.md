@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Innovation distinguishes between a leader and a follower." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "He that will not sail until all dangers are over, will never put to sea." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 2.  "If any thing is sacred the human body is sacred." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "The summit of happiness is reached when a person is ready to be what he is." <br> &emsp;&emsp;&emsp; <i>-by Desiderius Erasmus</i> 
 
- 3.  "She is a friend of my mind... The pieces I am, she gather them and give them back to me in all the right order." <br> &emsp;&emsp;&emsp; <i>-by Toni Morrison</i> 
+ 3.  "Prefer loss to the wealth of dishonest gain; the former vexes you for a time; the latter will bring you lasting remorse." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
 
- 4.  "To will is to select a goal, determine a course of action that will bring one to that goal, and then hold to that action till the goal is reached. The key is action." <br> &emsp;&emsp;&emsp; <i>-by Michael Hanson</i> 
+ 4.  "It is better to be hated for what you are than to be loved for what you are not." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
