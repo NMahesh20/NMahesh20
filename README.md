@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "He that will not sail until all dangers are over, will never put to sea." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 1.  "All my possessions for a moment of time." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
 
- 2.  "The summit of happiness is reached when a person is ready to be what he is." <br> &emsp;&emsp;&emsp; <i>-by Desiderius Erasmus</i> 
+ 2.  "Our lives improve only when we take chances - and the first and most difficult risk we can take is to be honest with ourselves." <br> &emsp;&emsp;&emsp; <i>-by Walter Anderson</i> 
 
- 3.  "Prefer loss to the wealth of dishonest gain; the former vexes you for a time; the latter will bring you lasting remorse." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
+ 3.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 
- 4.  "It is better to be hated for what you are than to be loved for what you are not." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 4.  "In the attitude of silence the soul finds the path in a clearer light, and what is elusive and deceptive resolves itself into crystal clearness. Our life is a long and arduous quest after Truth." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
