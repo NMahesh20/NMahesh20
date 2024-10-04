@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All my possessions for a moment of time." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
+ 1.  "People age even when you're not looking." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Our lives improve only when we take chances - and the first and most difficult risk we can take is to be honest with ourselves." <br> &emsp;&emsp;&emsp; <i>-by Walter Anderson</i> 
+ 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
 
- 3.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
+ 3.  "...happiness gives us the energy which is the basis of health." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
 
- 4.  "In the attitude of silence the soul finds the path in a clearer light, and what is elusive and deceptive resolves itself into crystal clearness. Our life is a long and arduous quest after Truth." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
