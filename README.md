@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People age even when you're not looking." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "People say to me so often, 'Jane how can you be so peaceful when everywhere around you people want books signed, people are asking these questions and yet you seem peaceful,' and I always answer that it is the peace of the forest that I carry inside." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "The moment of victory is much too short to live for that and nothing else." <br> &emsp;&emsp;&emsp; <i>-by Martina Navratilova</i> 
+ 2.  "To be in love Is to touch with a lighter hand. In yourself you stretch, you are well." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
 
- 3.  "...happiness gives us the energy which is the basis of health." <br> &emsp;&emsp;&emsp; <i>-by Henri-Fr�d�ric Amiel</i> 
+ 3.  "Write down the advice of him who loves you, though you like it not at present." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 4.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
+ 4.  "Life is a moderately good play with a badly written third act." <br> &emsp;&emsp;&emsp; <i>-by Truman Capote</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
