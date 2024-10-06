@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People say to me so often, 'Jane how can you be so peaceful when everywhere around you people want books signed, people are asking these questions and yet you seem peaceful,' and I always answer that it is the peace of the forest that I carry inside." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "When you write things down, they sometimes take you places you hadn't planned." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
 
- 2.  "To be in love Is to touch with a lighter hand. In yourself you stretch, you are well." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
+ 2.  "There is no greater joy nor greater reward than to make a fundamental difference in someone's life." <br> &emsp;&emsp;&emsp; <i>-by Sister Mary Rose McGeady</i> 
 
- 3.  "Write down the advice of him who loves you, though you like it not at present." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 3.  "A discovery is said to be an accident meeting a prepared mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
 
- 4.  "Life is a moderately good play with a badly written third act." <br> &emsp;&emsp;&emsp; <i>-by Truman Capote</i> 
+ 4.  "To be without some of the things you want is an indispensable part of happiness." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
