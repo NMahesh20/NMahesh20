@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you write things down, they sometimes take you places you hadn't planned." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 1.  "Talent is nothing but a prolonged period of attention and shortened period of mental assimilation." <br> &emsp;&emsp;&emsp; <i>-by Konstantin Stanislavsky</i> 
 
- 2.  "There is no greater joy nor greater reward than to make a fundamental difference in someone's life." <br> &emsp;&emsp;&emsp; <i>-by Sister Mary Rose McGeady</i> 
+ 2.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
 
- 3.  "A discovery is said to be an accident meeting a prepared mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
+ 3.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 4.  "To be without some of the things you want is an indispensable part of happiness." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
+ 4.  "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life." <br> &emsp;&emsp;&emsp; <i>-by Dr. David M. Burns</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
