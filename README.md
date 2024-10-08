@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Talent is nothing but a prolonged period of attention and shortened period of mental assimilation." <br> &emsp;&emsp;&emsp; <i>-by Konstantin Stanislavsky</i> 
+ 1.  "There's such a difference between saying a thing yourself and hearing other people say it. You may know a thing is so, but you can't help hoping other people don't quite think it is." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 2.  "The first rule of life is to reveal nothing, to be exceptionally cautious in what you say, in whatever company you may find yourself. If you have a secret, you have only to whisper it to your dearest friend with the strictest injunction that it will go no further, and within half a day the story is all over town, and when you do make what would seem to be a perfectly sensible remark, you will find it reported in the most grotesque form, thus incurring no end of criticism to rebound upon you." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 3.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Mitch Albom</i> 
 
- 4.  "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life." <br> &emsp;&emsp;&emsp; <i>-by Dr. David M. Burns</i> 
+ 4.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
