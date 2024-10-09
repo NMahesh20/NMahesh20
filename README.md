@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's such a difference between saying a thing yourself and hearing other people say it. You may know a thing is so, but you can't help hoping other people don't quite think it is." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "You go to movies to see people you love suffer - that's why you go to the movies. You don't go to see a movie about a guy who already knows he has a wonderful life." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "The first rule of life is to reveal nothing, to be exceptionally cautious in what you say, in whatever company you may find yourself. If you have a secret, you have only to whisper it to your dearest friend with the strictest injunction that it will go no further, and within half a day the story is all over town, and when you do make what would seem to be a perfectly sensible remark, you will find it reported in the most grotesque form, thus incurring no end of criticism to rebound upon you." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "It's a toss-up when you decide to leave the beaten track. Many are called, but few are chosen." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 3.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Mitch Albom</i> 
+ 3.  "Everything is connected... no one thing can change by itself." <br> &emsp;&emsp;&emsp; <i>-by Paul Hawken</i> 
 
- 4.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 4.  "Pain is inevitable; suffering is optional." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
