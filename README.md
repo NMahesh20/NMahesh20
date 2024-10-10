@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You go to movies to see people you love suffer - that's why you go to the movies. You don't go to see a movie about a guy who already knows he has a wonderful life." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
 
- 2.  "It's a toss-up when you decide to leave the beaten track. Many are called, but few are chosen." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 2.  "...it is as hard to do your duty when men are sneering at you as when they are shooting at you." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 3.  "Everything is connected... no one thing can change by itself." <br> &emsp;&emsp;&emsp; <i>-by Paul Hawken</i> 
+ 3.  "Natural ability without education has more often attained to glory and virtue than education without natural ability." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 
- 4.  "Pain is inevitable; suffering is optional." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 4.  "I've never known any trouble that an hour's reading didn't assuage." <br> &emsp;&emsp;&emsp; <i>-by Charles De Secondat</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
