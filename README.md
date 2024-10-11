@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
+ 1.  "Indifference and neglect often do much more damage than outright dislike." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "...it is as hard to do your duty when men are sneering at you as when they are shooting at you." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 2.  "It's also helpful to realize that this very body that we have, that's sitting right here right now... with its aches and it pleasures... is exactly what we need to be fully human, fully awake, fully alive." <br> &emsp;&emsp;&emsp; <i>-by Pema Chodron</i> 
 
- 3.  "Natural ability without education has more often attained to glory and virtue than education without natural ability." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 3.  "Only I can change my life. No one can do it for me." <br> &emsp;&emsp;&emsp; <i>-by Carol Burnett</i> 
 
- 4.  "I've never known any trouble that an hour's reading didn't assuage." <br> &emsp;&emsp;&emsp; <i>-by Charles De Secondat</i> 
+ 4.  "The great thing in this world is not so much where you stand, as in what direction you are moving." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
