@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Indifference and neglect often do much more damage than outright dislike." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "It's also helpful to realize that this very body that we have, that's sitting right here right now... with its aches and it pleasures... is exactly what we need to be fully human, fully awake, fully alive." <br> &emsp;&emsp;&emsp; <i>-by Pema Chodron</i> 
+ 2.  "He who undervalues himself is justly undervalued by others." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
 
- 3.  "Only I can change my life. No one can do it for me." <br> &emsp;&emsp;&emsp; <i>-by Carol Burnett</i> 
+ 3.  "If you ask what is the single most important key to longevity, I would have to say it is avoiding worry, stress and tension. And if you didn't ask me, I'd still have to say it." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
 
- 4.  "The great thing in this world is not so much where you stand, as in what direction you are moving." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 4.  "We should every night call ourselves to an account; What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired? Our vices will abort of themselves if they be brought every day to the shrift." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
