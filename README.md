@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "I stand in awe of my body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "He who undervalues himself is justly undervalued by others." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
+ 2.  "Seize opportunity by the beard, for it is bald behind." <br> &emsp;&emsp;&emsp; <i>-by Bulgarian Proverb</i> 
 
- 3.  "If you ask what is the single most important key to longevity, I would have to say it is avoiding worry, stress and tension. And if you didn't ask me, I'd still have to say it." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
+ 3.  "Part of the secret of success in life is to eat what you like and let the food fight it out inside." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "We should every night call ourselves to an account; What infirmity have I mastered today? What passions opposed? What temptation resisted? What virtue acquired? Our vices will abort of themselves if they be brought every day to the shrift." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Truth is the only safe ground to stand on." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
