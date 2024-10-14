@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I stand in awe of my body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "Holding onto anger is like grasping onto a hot coal with the intent of throwing it at someone else. You are the one who gets burned." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 2.  "Seize opportunity by the beard, for it is bald behind." <br> &emsp;&emsp;&emsp; <i>-by Bulgarian Proverb</i> 
+ 2.  "One cannot fix one's eyes on the commonest natural production without finding food for a rambling fancy." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "Part of the secret of success in life is to eat what you like and let the food fight it out inside." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Truth is the only safe ground to stand on." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 4.  "Never take the advice of someone who has not had your kind of trouble." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
