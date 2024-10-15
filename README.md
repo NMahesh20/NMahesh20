@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Holding onto anger is like grasping onto a hot coal with the intent of throwing it at someone else. You are the one who gets burned." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
+ 1.  "It's noble to want to confess, but if the results are just damage and pain, that's not noble. It's selfish." <br> &emsp;&emsp;&emsp; <i>-by Carol Green</i> 
 
- 2.  "One cannot fix one's eyes on the commonest natural production without finding food for a rambling fancy." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Virtue and taste are nearly the same, for virtue is little more than active taste, and the most delicate affections of each combine in real love." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "It is useless to attempt to reason a man out of a thing he was never reasoned into." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 
- 4.  "Never take the advice of someone who has not had your kind of trouble." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
+ 4.  "Think of all the beauty still left around you and be happy." <br> &emsp;&emsp;&emsp; <i>-by Anne Frank</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
