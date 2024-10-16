@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's noble to want to confess, but if the results are just damage and pain, that's not noble. It's selfish." <br> &emsp;&emsp;&emsp; <i>-by Carol Green</i> 
+ 1.  "Gaining control over your health and well-being is one of those times in your life that you get to be completely selfish and not feel bad about it. If you want to meet your goals, you have to make it about you. You have to make it work for you and you alone. Anything less is a setup for failure." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Virtue and taste are nearly the same, for virtue is little more than active taste, and the most delicate affections of each combine in real love." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "It's not about vein' mad at everything. It's about bein' REALLY mad at the right stuff." <br> &emsp;&emsp;&emsp; <i>-by Ice T.</i> 
 
- 3.  "It is useless to attempt to reason a man out of a thing he was never reasoned into." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 3.  "The only way most people recognize their limits is by trespassing on them." <br> &emsp;&emsp;&emsp; <i>-by Tom Morris</i> 
 
- 4.  "Think of all the beauty still left around you and be happy." <br> &emsp;&emsp;&emsp; <i>-by Anne Frank</i> 
+ 4.  "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and if it were possible, to speak a few reasonable words." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
