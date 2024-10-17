@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Gaining control over your health and well-being is one of those times in your life that you get to be completely selfish and not feel bad about it. If you want to meet your goals, you have to make it about you. You have to make it work for you and you alone. Anything less is a setup for failure." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Acting like someone you're not is exactly what it takes to realize you're capable of more than you ever knew." <br> &emsp;&emsp;&emsp; <i>-by Rob Sheridan</i> 
 
- 2.  "It's not about vein' mad at everything. It's about bein' REALLY mad at the right stuff." <br> &emsp;&emsp;&emsp; <i>-by Ice T.</i> 
+ 2.  "Innovation has nothing to do with how many R&D dollars you have. When Apple came up with the Mac, IBM was spending at least 100 times more on R&D. It's not about money. It's about the people you have, how you're led, and how much you get it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "The only way most people recognize their limits is by trespassing on them." <br> &emsp;&emsp;&emsp; <i>-by Tom Morris</i> 
+ 3.  "You can only perceive real beauty in a person as they get older." <br> &emsp;&emsp;&emsp; <i>-by Anouk Aimee</i> 
 
- 4.  "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and if it were possible, to speak a few reasonable words." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "The longer I live the more beautiful life becomes." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
