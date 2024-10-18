@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Acting like someone you're not is exactly what it takes to realize you're capable of more than you ever knew." <br> &emsp;&emsp;&emsp; <i>-by Rob Sheridan</i> 
+ 1.  "There's some things that people don't admit because they don't like the way it sounds." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
 
- 2.  "Innovation has nothing to do with how many R&D dollars you have. When Apple came up with the Mac, IBM was spending at least 100 times more on R&D. It's not about money. It's about the people you have, how you're led, and how much you get it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "The bars of West Hollywood and New York are awash with people throwing their lives away in the desperate hope of finding a shortcut, any shortcut. And a lot of them aren't even young anymore; their B-plans having been washed away by Vodka & Tonics years ago./ Meanwhile their competition is at home, working their asses off." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "You can only perceive real beauty in a person as they get older." <br> &emsp;&emsp;&emsp; <i>-by Anouk Aimee</i> 
+ 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 4.  "The longer I live the more beautiful life becomes." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 4.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
