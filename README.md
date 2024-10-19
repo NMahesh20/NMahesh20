@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's some things that people don't admit because they don't like the way it sounds." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 1.  "Once you can laugh at your own weaknesses, you can move forward. Comedy breaks down walls. It opens up people. If you're good, you can fill up those openings with something positive. Maybe... combat some of the ugliness in the world." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
 
- 2.  "The bars of West Hollywood and New York are awash with people throwing their lives away in the desperate hope of finding a shortcut, any shortcut. And a lot of them aren't even young anymore; their B-plans having been washed away by Vodka & Tonics years ago./ Meanwhile their competition is at home, working their asses off." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
 
- 3.  "" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 3.  "If you wish me to weep, you must mourn first yourself." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 4.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 4.  "Works of imagination should be written in very plain language; the more purely imaginative they are the more necessary it is to be plain." <br> &emsp;&emsp;&emsp; <i>-by Samuel Taylor Coleridge</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
