@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Once you can laugh at your own weaknesses, you can move forward. Comedy breaks down walls. It opens up people. If you're good, you can fill up those openings with something positive. Maybe... combat some of the ugliness in the world." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
+ 1.  "One of the joys we have in being human is in exercising our freedom to choose and to take each case as it comes to us. We are not robots who are forced into behaviors by their programming. We see things; we think about things; and we choose our course of action or beliefs appropriately. And as long as that remains true of us, we will live every day of our lives on one slippery slope or another. There is no reason to fear this." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
+ 2.  "Is love supposed to last throughout all time, or is it like trains changing at random stops. If I loved her, how could I leave her? If I felt that way then, how come I don't feel anything now?" <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 3.  "If you wish me to weep, you must mourn first yourself." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 3.  "The price of greatness is responsibility." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "Works of imagination should be written in very plain language; the more purely imaginative they are the more necessary it is to be plain." <br> &emsp;&emsp;&emsp; <i>-by Samuel Taylor Coleridge</i> 
+ 4.  "Opportunity is missed by most people because it is dressed in overalls and looks like work." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
