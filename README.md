@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Noela Evans</i> 
+ 1.  "You never know how a horse will pull until you hook him up to a heavy load." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
 
- 2.  "A friend is a second self." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 2.  "You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you." <br> &emsp;&emsp;&emsp; <i>-by James Lane Allen</i> 
 
- 3.  "All that counts in life is intention." <br> &emsp;&emsp;&emsp; <i>-by Andrea Bocelli</i> 
+ 3.  "He who endeavors to serve, to benefit, and improve the world, is like a swimmer, who struggles against a rapid current, in a river lashed into angry waves by the winds. Often they roar over his head, often they beat him back and baffle him. Most men yield to the stress of the current... Only here and there the stout, strong heart and vigorous arms struggle on toward ultimate success." <br> &emsp;&emsp;&emsp; <i>-by Albert Pike</i> 
 
- 4.  "I don't think necessity is the mother of invention - invention, in my opinion, arises directly from idleness, possibly also from laziness. To save oneself trouble." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 4.  "Leave each one his touch of folly; it helps to lighten life's burden which, if he could see himself as he is, might be too heavy to carry." <br> &emsp;&emsp;&emsp; <i>-by John Lancaster Spalding</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
