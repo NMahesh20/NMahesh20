@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You never know how a horse will pull until you hook him up to a heavy load." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
+ 1.  "You learn more quickly under the guidance of experienced teachers. You waste a lot of time going down blind alleys if you have no one to lead you." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "You are today where your thoughts have brought you; you will be tomorrow where your thoughts take you." <br> &emsp;&emsp;&emsp; <i>-by James Lane Allen</i> 
+ 2.  "What you do, the way you think, makes you beautiful." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "He who endeavors to serve, to benefit, and improve the world, is like a swimmer, who struggles against a rapid current, in a river lashed into angry waves by the winds. Often they roar over his head, often they beat him back and baffle him. Most men yield to the stress of the current... Only here and there the stout, strong heart and vigorous arms struggle on toward ultimate success." <br> &emsp;&emsp;&emsp; <i>-by Albert Pike</i> 
+ 3.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 4.  "Leave each one his touch of folly; it helps to lighten life's burden which, if he could see himself as he is, might be too heavy to carry." <br> &emsp;&emsp;&emsp; <i>-by John Lancaster Spalding</i> 
+ 4.  "Think not those faithful who praise all thy words and actions; but those who kindly reprove thy faults." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
