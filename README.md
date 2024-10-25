@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "I have found that it don't really matter if you're brought up fine or rough, but that it helps to have someone to spill your sorrows to." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 2.  "To want to be what one can be is purpose in life." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
+ 2.  "Abundance is, in large part, an attitude." <br> &emsp;&emsp;&emsp; <i>-by Sue Patton Thoele</i> 
 
- 3.  "It is only by following your deepest instinct that you can lead a rich life, and if you let your fear of consequence prevent you from following your deepest instinct, then your life will be safe, expedient and thin." <br> &emsp;&emsp;&emsp; <i>-by Katharine Butler Hathaway</i> 
+ 3.  "Youth isn't always all it's touted to be." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "Man's main task in life is to give birth to himself, to become what he potentially is." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
+ 4.  "Dost thou love life? Then do not squander time, for that's the stuff life is made of." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
