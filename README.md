@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have found that it don't really matter if you're brought up fine or rough, but that it helps to have someone to spill your sorrows to." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 1.  "Your best shot at happiness, self-worth and personal satisfaction - the things that constitute real success - is not in earning as much as you can but in performing as well as you can something that you consider worthwhile." <br> &emsp;&emsp;&emsp; <i>-by William Raspberry</i> 
 
- 2.  "Abundance is, in large part, an attitude." <br> &emsp;&emsp;&emsp; <i>-by Sue Patton Thoele</i> 
+ 2.  "I've grown certain that the root of all fear is that we've been forced to deny who we are." <br> &emsp;&emsp;&emsp; <i>-by Frances Moore Lappe</i> 
 
- 3.  "Youth isn't always all it's touted to be." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "I said to myself, I have things in my head that are not like what anyone has taught me - shapes and ideas so near to me - so natural to my way of being and thinking that it hasn't occurred to me to put them down. I decided to start anew, to strip away what I had been taught." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
 
- 4.  "Dost thou love life? Then do not squander time, for that's the stuff life is made of." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Never feel self-pity, the most destructive emotion there is. How awful to be caught up in the terrible squirrel cage of self." <br> &emsp;&emsp;&emsp; <i>-by Millicent Fenwick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
