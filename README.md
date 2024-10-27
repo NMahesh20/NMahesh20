@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your best shot at happiness, self-worth and personal satisfaction - the things that constitute real success - is not in earning as much as you can but in performing as well as you can something that you consider worthwhile." <br> &emsp;&emsp;&emsp; <i>-by William Raspberry</i> 
+ 1.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "I've grown certain that the root of all fear is that we've been forced to deny who we are." <br> &emsp;&emsp;&emsp; <i>-by Frances Moore Lappe</i> 
+ 2.  "I've always thought that a big laugh is a really loud noise from the soul saying, "Ain't that the truth."" <br> &emsp;&emsp;&emsp; <i>-by Quincy Jones</i> 
 
- 3.  "I said to myself, I have things in my head that are not like what anyone has taught me - shapes and ideas so near to me - so natural to my way of being and thinking that it hasn't occurred to me to put them down. I decided to start anew, to strip away what I had been taught." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
+ 3.  "To sway an audience, you must watch them as you speak." <br> &emsp;&emsp;&emsp; <i>-by C. Kent Wright</i> 
 
- 4.  "Never feel self-pity, the most destructive emotion there is. How awful to be caught up in the terrible squirrel cage of self." <br> &emsp;&emsp;&emsp; <i>-by Millicent Fenwick</i> 
+ 4.  "What you don't see with your eyes, don't invent with your mouth." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
