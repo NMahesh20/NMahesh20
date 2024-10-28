@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Hearing voices no one else can hear isn't a good sign, even in the wizarding world." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "Use soft words and hard arguments." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 2.  "I've always thought that a big laugh is a really loud noise from the soul saying, "Ain't that the truth."" <br> &emsp;&emsp;&emsp; <i>-by Quincy Jones</i> 
+ 2.  "Endeavor to be always patient of the faults and imperfections of others for thou has many faults and imperfections of thine own that require forbearance. If thou are not able to make thyself that which thou wishest, how canst thou expect to mold another in conformity to thy will?" <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 3.  "To sway an audience, you must watch them as you speak." <br> &emsp;&emsp;&emsp; <i>-by C. Kent Wright</i> 
+ 3.  "It is necessary to try to surpass oneself always; this occupation ought to last as long as life." <br> &emsp;&emsp;&emsp; <i>-by Queen Christina</i> 
 
- 4.  "What you don't see with your eyes, don't invent with your mouth." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
