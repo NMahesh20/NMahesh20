@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Use soft words and hard arguments." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Endeavor to be always patient of the faults and imperfections of others for thou has many faults and imperfections of thine own that require forbearance. If thou are not able to make thyself that which thou wishest, how canst thou expect to mold another in conformity to thy will?" <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 2.  "Your whole life people tell you to do what you love. But if you gotta do something else to pay the bills, you don't automatically have to be miserable." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 3.  "It is necessary to try to surpass oneself always; this occupation ought to last as long as life." <br> &emsp;&emsp;&emsp; <i>-by Queen Christina</i> 
+ 3.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
 
- 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "We read frequently if unknowingly, in quest of a mind more original than our own." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
