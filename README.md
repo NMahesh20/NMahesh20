@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Live always in the best company when you read." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 2.  "Your whole life people tell you to do what you love. But if you gotta do something else to pay the bills, you don't automatically have to be miserable." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 2.  "Many men can make a fortune but very few can build a family." <br> &emsp;&emsp;&emsp; <i>-by J. S. Bryan</i> 
 
- 3.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
+ 3.  "Beware so long as you live, of judging people by appearances." <br> &emsp;&emsp;&emsp; <i>-by La Fontaine</i> 
 
- 4.  "We read frequently if unknowingly, in quest of a mind more original than our own." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
+ 4.  "What you do speaks so loud that I cannot hear what you say." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
