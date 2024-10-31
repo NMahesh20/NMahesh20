@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Live always in the best company when you read." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 1.  "Every good product I've ever seen is because a group of people cared deeply about making something wonderful that they and their friends wanted. They wanted to use it themselves." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Many men can make a fortune but very few can build a family." <br> &emsp;&emsp;&emsp; <i>-by J. S. Bryan</i> 
+ 2.  "We lie the loudest when we lie to ourselves." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 3.  "Beware so long as you live, of judging people by appearances." <br> &emsp;&emsp;&emsp; <i>-by La Fontaine</i> 
+ 3.  "Soar, eat ether, see what has never been seen; depart, be lost, but climb." <br> &emsp;&emsp;&emsp; <i>-by Edna St. Vincent Millay</i> 
 
- 4.  "What you do speaks so loud that I cannot hear what you say." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "But pain... seems to me an insufficient reason not to embrace life. Being dead is quite painless. Pain, like time, is going to come on regardless. Question is, what glorious moments can you win from life in addition to the pain?" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
