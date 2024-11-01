@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every good product I've ever seen is because a group of people cared deeply about making something wonderful that they and their friends wanted. They wanted to use it themselves." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "You're supposed to trust friends. You have no reason to be his friend? That is part of the pleasure of friendship: trusting without absolute evidence and then being rewarded for that trust." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "We lie the loudest when we lie to ourselves." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 2.  "The secret of all success is to know how to deny yourself. Prove that you can control yourself, and you are an educated man; and without this all other education is good for nothing." <br> &emsp;&emsp;&emsp; <i>-by R. D. Hitchcock</i> 
 
- 3.  "Soar, eat ether, see what has never been seen; depart, be lost, but climb." <br> &emsp;&emsp;&emsp; <i>-by Edna St. Vincent Millay</i> 
+ 3.  "Before we set our hearts too much upon anything, let us examine how happy those are who already possess it." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
 
- 4.  "But pain... seems to me an insufficient reason not to embrace life. Being dead is quite painless. Pain, like time, is going to come on regardless. Question is, what glorious moments can you win from life in addition to the pain?" <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "I cannot pretend to feel impartial about colours. I rejoice with the brilliant ones and am genuinely sorry for the poor browns." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
