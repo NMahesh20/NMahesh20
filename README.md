@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You're supposed to trust friends. You have no reason to be his friend? That is part of the pleasure of friendship: trusting without absolute evidence and then being rewarded for that trust." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "If you can't be funny, be interesting." <br> &emsp;&emsp;&emsp; <i>-by Harold Ross</i> 
 
- 2.  "The secret of all success is to know how to deny yourself. Prove that you can control yourself, and you are an educated man; and without this all other education is good for nothing." <br> &emsp;&emsp;&emsp; <i>-by R. D. Hitchcock</i> 
+ 2.  "If you cannot get rid of the family skeleton, you may as well make it dance." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 3.  "Before we set our hearts too much upon anything, let us examine how happy those are who already possess it." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 3.  "Don't let us make imaginary evils, when you know we have so many real ones to encounter." <br> &emsp;&emsp;&emsp; <i>-by Oliver Goldsmith</i> 
 
- 4.  "I cannot pretend to feel impartial about colours. I rejoice with the brilliant ones and am genuinely sorry for the poor browns." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 4.  "You will do foolish things, but do them with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
