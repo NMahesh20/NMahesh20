@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you can't be funny, be interesting." <br> &emsp;&emsp;&emsp; <i>-by Harold Ross</i> 
+ 1.  "Follow your passion. Stay true to yourself. Never follow someone else's path unless you're in the woods and you're lost and you see a path. By all means, you should follow that." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "If you cannot get rid of the family skeleton, you may as well make it dance." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 2.  "Friends, in my experience, are like ladies' fashions. They come and go with the seasons, and are rarely of such stout stuff as bears repeated wearing." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 3.  "Don't let us make imaginary evils, when you know we have so many real ones to encounter." <br> &emsp;&emsp;&emsp; <i>-by Oliver Goldsmith</i> 
+ 3.  "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Gilman</i> 
 
- 4.  "You will do foolish things, but do them with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "For the night was not impartial. No, the night loved some more than others, served some more than others." <br> &emsp;&emsp;&emsp; <i>-by Eudora Welty</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
