@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Follow your passion. Stay true to yourself. Never follow someone else's path unless you're in the woods and you're lost and you see a path. By all means, you should follow that." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "I know that our bodies were made to thrive only in pure air, and the scenes in which pure air is found. There is not a "fragment" in all nature, for every relative fragment of one thing is a full harmonious unit in itself." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Friends, in my experience, are like ladies' fashions. They come and go with the seasons, and are rarely of such stout stuff as bears repeated wearing." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 2.  "The law is not so much carved in stone as it is written in water, flowing in and out with the tide." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 3.  "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Gilman</i> 
+ 3.  "I catnap now and then, but I think while I nap, so it's not a waste of time." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
 
- 4.  "For the night was not impartial. No, the night loved some more than others, served some more than others." <br> &emsp;&emsp;&emsp; <i>-by Eudora Welty</i> 
+ 4.  "Half the money I spend on advertising is wasted; the trouble is I don't know which half." <br> &emsp;&emsp;&emsp; <i>-by John Wanamaker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
