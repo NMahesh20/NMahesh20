@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know that our bodies were made to thrive only in pure air, and the scenes in which pure air is found. There is not a "fragment" in all nature, for every relative fragment of one thing is a full harmonious unit in itself." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "Everyone has talent. What is rare is the courage to follow the talent to the dark places where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 2.  "The law is not so much carved in stone as it is written in water, flowing in and out with the tide." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
+ 2.  "When you really trust someone, you have to be okay with not understanding some things." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "I catnap now and then, but I think while I nap, so it's not a waste of time." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
+ 3.  "Every time you state what you want or believe, you're the first to hear it. It's a message to both you and others about what you think is possible. Don't put a ceiling on yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Half the money I spend on advertising is wasted; the trouble is I don't know which half." <br> &emsp;&emsp;&emsp; <i>-by John Wanamaker</i> 
+ 4.  "Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity." <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
