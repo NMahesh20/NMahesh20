@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everyone has talent. What is rare is the courage to follow the talent to the dark places where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 1.  "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable." <br> &emsp;&emsp;&emsp; <i>-by Christopher Reeve</i> 
 
- 2.  "When you really trust someone, you have to be okay with not understanding some things." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow." <br> &emsp;&emsp;&emsp; <i>-by Robert H. Goddard</i> 
 
- 3.  "Every time you state what you want or believe, you're the first to hear it. It's a message to both you and others about what you think is possible. Don't put a ceiling on yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "The discovery of a new dish does more for human happiness than the discovery of a new star." <br> &emsp;&emsp;&emsp; <i>-by Anthelme Brillat-Savarin</i> 
 
- 4.  "Let me tell you the secret that has led me to my goal. My strength lies solely in my tenacity." <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
+ 4.  "If people only knew how hard I work to gain my mastery, it wouldn't seem so wonderful at all." <br> &emsp;&emsp;&emsp; <i>-by Michelangelo Buonarroti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
