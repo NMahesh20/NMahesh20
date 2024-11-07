@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable." <br> &emsp;&emsp;&emsp; <i>-by Christopher Reeve</i> 
+ 1.  "Any ordinary favor we do for someone or any compassionate reaching out may seem to be going nowhere at first, but may be planting a seed we can't see right now. Sometimes we need to just do the best we can and then trust in an unfolding we can't design or ordain." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 2.  "It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow." <br> &emsp;&emsp;&emsp; <i>-by Robert H. Goddard</i> 
+ 2.  "There shall be eternal summer in the grateful heart." <br> &emsp;&emsp;&emsp; <i>-by Celia Thaxter</i> 
 
- 3.  "The discovery of a new dish does more for human happiness than the discovery of a new star." <br> &emsp;&emsp;&emsp; <i>-by Anthelme Brillat-Savarin</i> 
+ 3.  "Live neither in the past nor in the future, but let each day's work absorb your entire energies, and satisfy your widest ambition." <br> &emsp;&emsp;&emsp; <i>-by Sir William Osler</i> 
 
- 4.  "If people only knew how hard I work to gain my mastery, it wouldn't seem so wonderful at all." <br> &emsp;&emsp;&emsp; <i>-by Michelangelo Buonarroti</i> 
+ 4.  "The secret of joy in work is contained in one word - excellence. To know how to do something well is to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
