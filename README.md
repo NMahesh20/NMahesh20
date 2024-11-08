@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Any ordinary favor we do for someone or any compassionate reaching out may seem to be going nowhere at first, but may be planting a seed we can't see right now. Sometimes we need to just do the best we can and then trust in an unfolding we can't design or ordain." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 1.  "Love flies, runs, and rejoices; it is free and nothing can hold it back." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 2.  "There shall be eternal summer in the grateful heart." <br> &emsp;&emsp;&emsp; <i>-by Celia Thaxter</i> 
+ 2.  "My wish is to ride the tempest, tame the waves, kill the sharks. I will not resign myself..." <br> &emsp;&emsp;&emsp; <i>-by Trieu Thi Trinh</i> 
 
- 3.  "Live neither in the past nor in the future, but let each day's work absorb your entire energies, and satisfy your widest ambition." <br> &emsp;&emsp;&emsp; <i>-by Sir William Osler</i> 
+ 3.  "If you are out to describe the truth, leave elegance to the tailor." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "The secret of joy in work is contained in one word - excellence. To know how to do something well is to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 4.  "I have a problem about being nearly sixty: I keep waking up in the morning and thinking I'm thirty-one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
