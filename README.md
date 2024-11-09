@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Love flies, runs, and rejoices; it is free and nothing can hold it back." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 1.  "The only way not to think about money is to have a great deal of it." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
 
- 2.  "My wish is to ride the tempest, tame the waves, kill the sharks. I will not resign myself..." <br> &emsp;&emsp;&emsp; <i>-by Trieu Thi Trinh</i> 
+ 2.  "When the heart speaks, the mind finds it indecent to object." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
 
- 3.  "If you are out to describe the truth, leave elegance to the tailor." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "The reward for conformity was that everyone liked you except yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
 
- 4.  "I have a problem about being nearly sixty: I keep waking up in the morning and thinking I'm thirty-one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
+ 4.  "Every man is the architect of his own fortune." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
