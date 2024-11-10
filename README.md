@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only way not to think about money is to have a great deal of it." <br> &emsp;&emsp;&emsp; <i>-by Edith Wharton</i> 
+ 1.  "What makes the engine go? Desire, desire, desire." <br> &emsp;&emsp;&emsp; <i>-by Stanley Kunitz</i> 
 
- 2.  "When the heart speaks, the mind finds it indecent to object." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
+ 2.  "No matter how much pressure you feel at work, if you could find ways to relax for at least five minutes every hour, you'd be more productive." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
 
- 3.  "The reward for conformity was that everyone liked you except yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
+ 3.  "Sitting at the table doesn't make you a diner, unless you eat some of what's on that plate. Being here in America doesn't make you an American. Being born here in America doesn't make you an American." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 4.  "Every man is the architect of his own fortune." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
+ 4.  "Nothing, of course, begins at the time you think it did." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
