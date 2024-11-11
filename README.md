@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What makes the engine go? Desire, desire, desire." <br> &emsp;&emsp;&emsp; <i>-by Stanley Kunitz</i> 
+ 1.  "The only limit to our realization of tomorrow will be our doubts of today. Let us move forward with strong and active faith." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "No matter how much pressure you feel at work, if you could find ways to relax for at least five minutes every hour, you'd be more productive." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
+ 2.  "Regard your good name as the richest jewel you can possibly be possessed of - for credit is like fire; when once you have kindled it you may easily preserve it, but if you once extinguish it, you will find it an arduous task to rekindle it again. The way to gain a good reputation is to endeavor to be what you desire to appear." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 3.  "Sitting at the table doesn't make you a diner, unless you eat some of what's on that plate. Being here in America doesn't make you an American. Being born here in America doesn't make you an American." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 3.  "To gain that which is worth having, it may be necessary to lose everything else." <br> &emsp;&emsp;&emsp; <i>-by Burnadette Devlin</i> 
 
- 4.  "Nothing, of course, begins at the time you think it did." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 4.  "Courage is the price that Life exacts for granting peace." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
