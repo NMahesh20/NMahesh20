@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You pile up enough tomorrows and you'll be left with nothing but a bunch of empty yesterdays. I don't know about you, but I'd like to make today worth remembering." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
+ 1.  "Death likes it when you play hard to get." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Better fare hard with good men than feast it with bad." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 2.  "Genius begins great works; labor alone finishes them." <br> &emsp;&emsp;&emsp; <i>-by Joseph Joubert</i> 
 
- 3.  "The charity that hastens to proclaim its good deeds, ceases to be charity, and is only pride and ostentation." <br> &emsp;&emsp;&emsp; <i>-by William Hutton</i> 
+ 3.  "Luck is the residue of design." <br> &emsp;&emsp;&emsp; <i>-by Branch Rickey</i> 
 
- 4.  "A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration." <br> &emsp;&emsp;&emsp; <i>-by Kurt Lewin</i> 
+ 4.  "Most powerful is he who has himself in his own power." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
