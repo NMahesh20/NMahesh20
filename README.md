@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Death likes it when you play hard to get." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "Keep playing games. Make time to play games with your friends and family, because it's surprisingly heartbreaking to wipe a thin layer of dust off a game you love, before you put it back on the shelf because the real world is calling you." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "Genius begins great works; labor alone finishes them." <br> &emsp;&emsp;&emsp; <i>-by Joseph Joubert</i> 
+ 2.  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 
- 3.  "Luck is the residue of design." <br> &emsp;&emsp;&emsp; <i>-by Branch Rickey</i> 
+ 3.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
 
- 4.  "Most powerful is he who has himself in his own power." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "It is wise to apply the oil of refined politeness to the mechanisms of friendship." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
