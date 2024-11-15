@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep playing games. Make time to play games with your friends and family, because it's surprisingly heartbreaking to wipe a thin layer of dust off a game you love, before you put it back on the shelf because the real world is calling you." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
 
- 2.  "The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 2.  "Do something. If it doesn't work, do something else. No idea is too crazy." <br> &emsp;&emsp;&emsp; <i>-by Jim Hightower</i> 
 
- 3.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
+ 3.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 
- 4.  "It is wise to apply the oil of refined politeness to the mechanisms of friendship." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
