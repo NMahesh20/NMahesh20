@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 1.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
 
- 2.  "Do something. If it doesn't work, do something else. No idea is too crazy." <br> &emsp;&emsp;&emsp; <i>-by Jim Hightower</i> 
+ 2.  "Sometimes love will pick you up by the short hairs...and jerk the heck out of you." <br> &emsp;&emsp;&emsp; <i>-by Denise Dobbs</i> 
 
- 3.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 3.  "Things are only impossible until they're not." <br> &emsp;&emsp;&emsp; <i>-by Jean-Luc Picard</i> 
 
- 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
+ 4.  "Our feelings are our most genuine paths to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Audre Lorde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
