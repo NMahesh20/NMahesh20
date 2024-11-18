@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Three failures denote uncommon strength. A weakling has not enough grit to fail thrice." <br> &emsp;&emsp;&emsp; <i>-by Minna Thomas Antrim</i> 
+ 1.  "The greatest justice in life is that your vision and looks tend to go simultaneously." <br> &emsp;&emsp;&emsp; <i>-by Kevin Bacon</i> 
 
- 2.  "Trust one who has gone through it." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
+ 2.  "Everything has its wonders, even darkness and silence, and I learn whatever state I am in, therin to be content." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 3.  "If a free society cannot help the many who are poor, it cannot save the few who are rich." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "There are two ways of exerting one's strength: one is pushing down, the other is pulling up." <br> &emsp;&emsp;&emsp; <i>-by Booker T. Washington</i> 
 
- 4.  "Never think that God's delays are God's denials. Hold on; hold fast; hold out. Patience is genius." <br> &emsp;&emsp;&emsp; <i>-by Comte de Buffon</i> 
+ 4.  "Self-respect is the cornerstone of all virtue." <br> &emsp;&emsp;&emsp; <i>-by John Herschel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
