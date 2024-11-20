@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good food ends with good talk." <br> &emsp;&emsp;&emsp; <i>-by Geoffrey Neighor</i> 
+ 1.  "The leaders we revere and the businesses that last are generally not the result of a narrow pursuit of popularity or personal advancement, but of devotion to some bigger purpose. That's the hallmark of real success. The other trapping of success might be the by product of this larger mission, but it can't be the central thing." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
+ 2.  "I have not yet met with a sorrow that could not be borne, nor with one who's passing did not leave me stronger." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
 
- 3.  "Deeds, not stones, are the true monuments of the great." <br> &emsp;&emsp;&emsp; <i>-by John L. Motley</i> 
+ 3.  "Wonder is what sets us apart from other life forms. No other species wonders about the meaning of existence or the complexity of the universe or themselves." <br> &emsp;&emsp;&emsp; <i>-by Herbert W. Boyer</i> 
 
- 4.  "It's so easy to be wicked without knowing it, isn't it?" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 4.  "Make hunger thy sauce, as a medicine for health." <br> &emsp;&emsp;&emsp; <i>-by Thomas Tusser</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
