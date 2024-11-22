@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Let us develop the resources of our land, call forth our powers, build up its institutions, promote all its great interests, and see whether we also, in our day and generation, may not perform something worthy to be remembered." <br> &emsp;&emsp;&emsp; <i>-by Daniel Webster</i> 
+ 1.  "Never underestimate the determination of a kid who is time rich and cash poor." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
 
- 2.  "Be on the alert to recognize your prime at whatever time of your life it may occur." <br> &emsp;&emsp;&emsp; <i>-by Muriel Spark</i> 
+ 2.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "Far and away the best prize that life offers is the chance to work hard at work worth doing." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 3.  "The old ways are dead. And you need people around you who concur./ That means hanging out more with the creative people, the freaks, the real visionaries, than you're already doing. Thinking more about what their needs are, and responding accordingly. Avoid the dullards; avoid the folk who play it safe. They can't help you any more. Their stability model no longer offers that much stability. They are extinct, they are extinction." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 4.  "Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything." <br> &emsp;&emsp;&emsp; <i>-by George Lois</i> 
+ 4.  "One picture is worth a thousand words." <br> &emsp;&emsp;&emsp; <i>-by Fred R. Barnard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
