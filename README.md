@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nobody has things just as he would like them. The thing to do is to make a success with what material I have. It is a sheer waste of time and soulpower to imagine what I would do if things were different. They are not different." <br> &emsp;&emsp;&emsp; <i>-by Dr. Frank Crane</i> 
+ 1.  "We inhereit from our ancestors gifts so often taken for granted... Each of us contains within... this inheritance of soul. We are links between the ages, containing past and present expectations, sacred memories and future promise." <br> &emsp;&emsp;&emsp; <i>-by Edward Sellner</i> 
 
- 2.  "We shall show mercy, but we shall not ask for it." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 2.  "Associate yourself with men of good quality if you esteem your own reputation, for 'tis better to be alone than in bad company." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 3.  "Anger as soon as fed is dead- / 'Tis starving makes it fat." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 3.  "It has never been my object to record my dreams, just to realize them." <br> &emsp;&emsp;&emsp; <i>-by Man Ray</i> 
 
- 4.  "We don't get offered crises, they arrive." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
+ 4.  "Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passion, they cannot alter the state of facts and evidence." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
