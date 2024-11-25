@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We inhereit from our ancestors gifts so often taken for granted... Each of us contains within... this inheritance of soul. We are links between the ages, containing past and present expectations, sacred memories and future promise." <br> &emsp;&emsp;&emsp; <i>-by Edward Sellner</i> 
+ 1.  "Here and there, human nature may be great in times of trial; but generally speaking, it is its weakness and not its strength that appears in a sick chamber: it is selfishness and impatience rather than generosity and fortitude, that one hears of. There is so little real friendship in the world! and unfortunately, there are so many who forget to think seriously till it is almost too late." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Associate yourself with men of good quality if you esteem your own reputation, for 'tis better to be alone than in bad company." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 2.  "Never regret something that once made you smile." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
 
- 3.  "It has never been my object to record my dreams, just to realize them." <br> &emsp;&emsp;&emsp; <i>-by Man Ray</i> 
+ 3.  "It is the unknown we fear when we look upon death and darkness, nothing more." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passion, they cannot alter the state of facts and evidence." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 4.  "Family isn't about whose blood you have. It's about who you care about." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
