@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Here and there, human nature may be great in times of trial; but generally speaking, it is its weakness and not its strength that appears in a sick chamber: it is selfishness and impatience rather than generosity and fortitude, that one hears of. There is so little real friendship in the world! and unfortunately, there are so many who forget to think seriously till it is almost too late." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "We bear the world and we make it... There was never a great man who had not a great mother - it is hardly an exaggeration." <br> &emsp;&emsp;&emsp; <i>-by Olive Schreiner</i> 
 
- 2.  "Never regret something that once made you smile." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
+ 2.  "Use your imagination not to scare yourself to death but to inspire yourself to life." <br> &emsp;&emsp;&emsp; <i>-by Adele Brookman</i> 
 
- 3.  "It is the unknown we fear when we look upon death and darkness, nothing more." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time." <br> &emsp;&emsp;&emsp; <i>-by Shimon Peres</i> 
 
- 4.  "Family isn't about whose blood you have. It's about who you care about." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 4.  "Guard well within yourself that treasure, kindness. Know how to give without hesitation, how to lose without regret, how to acquire without meanness." <br> &emsp;&emsp;&emsp; <i>-by George Sand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
