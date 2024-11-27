@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We bear the world and we make it... There was never a great man who had not a great mother - it is hardly an exaggeration." <br> &emsp;&emsp;&emsp; <i>-by Olive Schreiner</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "Use your imagination not to scare yourself to death but to inspire yourself to life." <br> &emsp;&emsp;&emsp; <i>-by Adele Brookman</i> 
+ 2.  "Sometimes when you look back on a situation, you realize it wasn't all you thought it was. A beautiful girl walked into your life. You fell in love. Or did you? Maybe it was only a childish infatuation, or maybe just a brief moment of vanity." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 3.  "If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time." <br> &emsp;&emsp;&emsp; <i>-by Shimon Peres</i> 
+ 3.  "How helpless we are, like netted birds, when we are caught by desire!" <br> &emsp;&emsp;&emsp; <i>-by Belva Plain</i> 
 
- 4.  "Guard well within yourself that treasure, kindness. Know how to give without hesitation, how to lose without regret, how to acquire without meanness." <br> &emsp;&emsp;&emsp; <i>-by George Sand</i> 
+ 4.  "He who would travel happily must travel light." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
