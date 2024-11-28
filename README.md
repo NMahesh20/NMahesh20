@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "You can take from every experience what it has to offer you. And you cannot be defeated if you just keep taking one breath followed by another." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Sometimes when you look back on a situation, you realize it wasn't all you thought it was. A beautiful girl walked into your life. You fell in love. Or did you? Maybe it was only a childish infatuation, or maybe just a brief moment of vanity." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 2.  "There is only one real deprivation, I decided this morning, and that is not to be able to give one's gifts to those one loves most." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
 
- 3.  "How helpless we are, like netted birds, when we are caught by desire!" <br> &emsp;&emsp;&emsp; <i>-by Belva Plain</i> 
+ 3.  "If our early lessons of acceptance were as successful as our early lessons of anger, how much happier we would all be." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 4.  "He who would travel happily must travel light." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
+ 4.  "While one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior." <br> &emsp;&emsp;&emsp; <i>-by Henry C. Link</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
