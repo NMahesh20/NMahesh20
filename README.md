@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can take from every experience what it has to offer you. And you cannot be defeated if you just keep taking one breath followed by another." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
 
- 2.  "There is only one real deprivation, I decided this morning, and that is not to be able to give one's gifts to those one loves most." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
+ 2.  "To the soul, there is hardly anything more healing than friendship." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 3.  "If our early lessons of acceptance were as successful as our early lessons of anger, how much happier we would all be." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 3.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
 
- 4.  "While one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior." <br> &emsp;&emsp;&emsp; <i>-by Henry C. Link</i> 
+ 4.  "War is not its own end, except in some catastrophic slide into absolute damnation. It's peace that's wanted. Some better peace than the one you started with." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
