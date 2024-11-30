@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 1.  "Nor do not saw the air too much with your hand, thus, but use all gently. For in the very torrent, tempest, and as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 2.  "To the soul, there is hardly anything more healing than friendship." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
+ 2.  "Do not speak of repulsive matters at table." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
 
- 3.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
+ 3.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 4.  "War is not its own end, except in some catastrophic slide into absolute damnation. It's peace that's wanted. Some better peace than the one you started with." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
