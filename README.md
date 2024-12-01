@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nor do not saw the air too much with your hand, thus, but use all gently. For in the very torrent, tempest, and as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 1.  "I didn't mind getting old when I was young. It's the being old now that's getting to me." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
 
- 2.  "Do not speak of repulsive matters at table." <br> &emsp;&emsp;&emsp; <i>-by Amy Vanderbilt</i> 
+ 2.  "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 3.  "I have never been especially impressed by the heroics of people who are convinced they are about to change the world. I am more awed by those who struggle to make one small difference after another." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
