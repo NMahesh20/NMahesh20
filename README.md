@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I didn't mind getting old when I was young. It's the being old now that's getting to me." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
+ 1.  "Part of being a Master is learning how to sing in nobody else's voice but your own." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "If we are to learn to improve the quality of the decisions we make, we need to accept the mysterious nature of our snap judgments." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 3.  "I have never been especially impressed by the heroics of people who are convinced they are about to change the world. I am more awed by those who struggle to make one small difference after another." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 3.  "Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go... And a time to prepare to pick up the pieces when it's all over." <br> &emsp;&emsp;&emsp; <i>-by Gloria Naylor</i> 
 
- 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 4.  "Painting is an attempt to come to terms with life. There are as many solutions as there are human beings." <br> &emsp;&emsp;&emsp; <i>-by George Tooker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
