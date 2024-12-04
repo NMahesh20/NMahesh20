@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every time you spend money, you're casting a vote for the kind of world you want." <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
+ 1.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 2.  "Make money your god and it will plague you like the devil." <br> &emsp;&emsp;&emsp; <i>-by Henry Fielding</i> 
+ 2.  "Live well. It is the greatest revenge." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
 
- 3.  "Genius is of no country." <br> &emsp;&emsp;&emsp; <i>-by Charles Churchill</i> 
+ 3.  "True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked." <br> &emsp;&emsp;&emsp; <i>-by Erich Segal</i> 
 
- 4.  "It's the possibility that when you're dead you might still go on hurting that bothers me." <br> &emsp;&emsp;&emsp; <i>-by Keri Hulme</i> 
+ 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
