@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 1.  "One cannot find peace in work or in pleasure, in the world or in a convent, but only in one's soul." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Live well. It is the greatest revenge." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked." <br> &emsp;&emsp;&emsp; <i>-by Erich Segal</i> 
+ 3.  "We are rich only through what we give, and poor only through what we refuse." <br> &emsp;&emsp;&emsp; <i>-by Anne-Sophie Swetchine</i> 
 
- 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
+ 4.  "Those who cannot remember the past are condemned to repeat it." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
