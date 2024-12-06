@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One cannot find peace in work or in pleasure, in the world or in a convent, but only in one's soul." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "We feel in one world, we think and name in another. Between the two we can set up a system of references, but we cannot fill in the gap." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
 
- 3.  "We are rich only through what we give, and poor only through what we refuse." <br> &emsp;&emsp;&emsp; <i>-by Anne-Sophie Swetchine</i> 
+ 3.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
 
- 4.  "Those who cannot remember the past are condemned to repeat it." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 4.  "I'm struck by the insidious, computer-driven tendency to take things out of the domain of muscular activity and put them into the domain of mental activity. The transfer is not paying off. Sure, muscles are unreliable, but they represent several million years of accumulated finesse." <br> &emsp;&emsp;&emsp; <i>-by Brian Eno</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
