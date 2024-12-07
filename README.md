@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We feel in one world, we think and name in another. Between the two we can set up a system of references, but we cannot fill in the gap." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 1.  "Your world is made of your memories, and your memories are given to you by your world. The whispering voice of happenstance is always in our ears. 'This is the world. This is the way things are. Look. Pay attention. Remember.'" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
+ 2.  "Our obligations to our country never cease but with our lives." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 3.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
+ 3.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
 
- 4.  "I'm struck by the insidious, computer-driven tendency to take things out of the domain of muscular activity and put them into the domain of mental activity. The transfer is not paying off. Sure, muscles are unreliable, but they represent several million years of accumulated finesse." <br> &emsp;&emsp;&emsp; <i>-by Brian Eno</i> 
+ 4.  "As long as you derive inner help and comfort from anything, keep it." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
