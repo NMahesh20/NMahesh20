@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your world is made of your memories, and your memories are given to you by your world. The whispering voice of happenstance is always in our ears. 'This is the world. This is the way things are. Look. Pay attention. Remember.'" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "In order to be truly happy, you must live along with, and you must stand for something larger than yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Our obligations to our country never cease but with our lives." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 2.  "It's a shallow life that doesn't give a person a few scars." <br> &emsp;&emsp;&emsp; <i>-by Garrison Keillor</i> 
 
- 3.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
+ 3.  "A love of tradition has never weakened a nation, indeed it has strengthened nations in their hour of peril; but the new view must come, the world must roll forward." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "As long as you derive inner help and comfort from anything, keep it." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "Some books are to be tasted, others to be swallowed, and some few to be chewed and digested: that is, some books are to be read only in parts, others to be read, but not curiously, and some few to be read wholly, and with diligence and attention." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
