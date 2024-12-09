@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In order to be truly happy, you must live along with, and you must stand for something larger than yourself." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Humor is a rubber sword - it allows you to make a point without drawing blood." <br> &emsp;&emsp;&emsp; <i>-by Mary Hirsch</i> 
 
- 2.  "It's a shallow life that doesn't give a person a few scars." <br> &emsp;&emsp;&emsp; <i>-by Garrison Keillor</i> 
+ 2.  "You can only cure retail but you can prevent wholesale." <br> &emsp;&emsp;&emsp; <i>-by Brock Chisholm</i> 
 
- 3.  "A love of tradition has never weakened a nation, indeed it has strengthened nations in their hour of peril; but the new view must come, the world must roll forward." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "Never be a cynic, even a gentle one. Never help out a sneer, even at the devil." <br> &emsp;&emsp;&emsp; <i>-by Vachel Lindsay</i> 
 
- 4.  "Some books are to be tasted, others to be swallowed, and some few to be chewed and digested: that is, some books are to be read only in parts, others to be read, but not curiously, and some few to be read wholly, and with diligence and attention." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "Nature is just enough; but men and women must comprehend and accept her suggestions." <br> &emsp;&emsp;&emsp; <i>-by Antoinette Brown Blackwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
