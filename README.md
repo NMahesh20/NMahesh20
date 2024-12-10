@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Humor is a rubber sword - it allows you to make a point without drawing blood." <br> &emsp;&emsp;&emsp; <i>-by Mary Hirsch</i> 
+ 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
 
- 2.  "You can only cure retail but you can prevent wholesale." <br> &emsp;&emsp;&emsp; <i>-by Brock Chisholm</i> 
+ 2.  "Calendars are for careful people, not passionate ones." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
 
- 3.  "Never be a cynic, even a gentle one. Never help out a sneer, even at the devil." <br> &emsp;&emsp;&emsp; <i>-by Vachel Lindsay</i> 
+ 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 
- 4.  "Nature is just enough; but men and women must comprehend and accept her suggestions." <br> &emsp;&emsp;&emsp; <i>-by Antoinette Brown Blackwell</i> 
+ 4.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
