@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
+ 1.  "The point is that no matter what your feelings are, your children will be better off if you make them your central focus and work diligently at keeping the parenting relationship civil and cooperative." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Calendars are for careful people, not passionate ones." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
+ 2.  "We laugh a lot. That's for sure. Sure beats the alternative, doesn't it?" <br> &emsp;&emsp;&emsp; <i>-by Betty White</i> 
 
- 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 3.  "If we discover a desire within us that nothing in this world can satisfy, also we should begin to wonder if perhaps we were created for another world." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
 
- 4.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
+ 4.  "It is wonderful how quickly you get used to things, even the most astonishing." <br> &emsp;&emsp;&emsp; <i>-by Edith Nesbitt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
