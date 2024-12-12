@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The point is that no matter what your feelings are, your children will be better off if you make them your central focus and work diligently at keeping the parenting relationship civil and cooperative." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Do not listen to those who weep and complain, for their disease is contagious." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "We laugh a lot. That's for sure. Sure beats the alternative, doesn't it?" <br> &emsp;&emsp;&emsp; <i>-by Betty White</i> 
+ 2.  "Never deprive someone of hope; it might be all they have." <br> &emsp;&emsp;&emsp; <i>-by H. Jackson Brown Jr.</i> 
 
- 3.  "If we discover a desire within us that nothing in this world can satisfy, also we should begin to wonder if perhaps we were created for another world." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
+ 3.  "I used to believe that marriage would diminish me, reduce my options. That you had to be someone less to live with someone else when, of course, you have to be someone more." <br> &emsp;&emsp;&emsp; <i>-by Candice Bergen</i> 
 
- 4.  "It is wonderful how quickly you get used to things, even the most astonishing." <br> &emsp;&emsp;&emsp; <i>-by Edith Nesbitt</i> 
+ 4.  "He felt about books as doctors feel about medicines, or managers about plays - cynical, but hopeful." <br> &emsp;&emsp;&emsp; <i>-by Dame Rose Macaulay</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
