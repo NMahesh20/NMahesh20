@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is always so much talk about the sins of the fathers, but it is the sins of the mothers that are the most difficult to avoid repeating." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 1.  "Life is full of surprises and and serendipity. Being open to unexpected turns in the road is an important part of success. If you try to plan every step, you may miss those wonderful twists and turns. Just find your next adventure-do it well, enjoy it-and then, not now, think about what comes next." <br> &emsp;&emsp;&emsp; <i>-by Condoleeza Rice</i> 
 
- 2.  "Until you make peace with who you are, you'll never be content with what you have." <br> &emsp;&emsp;&emsp; <i>-by Doris Mortman</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 3.  "You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 3.  "Poor is the man whose pleasures depend on the permission of another." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
 
- 4.  "Generosity is giving more than you can, and pride is taking less than you need." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "A hobby a day keeps the doldrums away." <br> &emsp;&emsp;&emsp; <i>-by Phyllis Mcginley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
