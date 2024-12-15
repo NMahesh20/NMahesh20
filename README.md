@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is full of surprises and and serendipity. Being open to unexpected turns in the road is an important part of success. If you try to plan every step, you may miss those wonderful twists and turns. Just find your next adventure-do it well, enjoy it-and then, not now, think about what comes next." <br> &emsp;&emsp;&emsp; <i>-by Condoleeza Rice</i> 
+ 1.  "Pleasure is an important component of the quality of life, but by itself it does not bring happiness. Pleasure helps to maintain order, but by itself cannot create a new order in consciousness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 2.  "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 
- 3.  "Poor is the man whose pleasures depend on the permission of another." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
+ 3.  "You better live your best and act your best and think your best today, for today is the sure preparation for tomorrow and all the other tomorrows that follow." <br> &emsp;&emsp;&emsp; <i>-by Harriet Martineau</i> 
 
- 4.  "A hobby a day keeps the doldrums away." <br> &emsp;&emsp;&emsp; <i>-by Phyllis Mcginley</i> 
+ 4.  "Anger makes dull men witty, but it keeps them poor." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
