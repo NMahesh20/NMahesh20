@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Self-importance is our greatest enemy. Think about it - what weakens us is feeling offended by the deeds and misdeeds of our fellowmen. Our self-importance requires that we spend most of our lives offended by someone." <br> &emsp;&emsp;&emsp; <i>-by Carlos Castaneda</i> 
 
- 2.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
+ 2.  "We are most alive when we're in love." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
 
- 3.  "The greatest minds are capable of the greatest vices as well as of the greatest virtues." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "Man's main task is to give birth to himself." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
 
- 4.  "Patience serves as a protection against wrongs as clothes do against cold. For if you put on more clothes as the cold increases, it will have no power to hurt you. So in like manner you must grow in patience when you meet with great wrongs, and they will then be powerless to vex your mind." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
+ 4.  "As I see it, every day you do one of two things: build health or produce disease in yourself." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
