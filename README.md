@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Self-importance is our greatest enemy. Think about it - what weakens us is feeling offended by the deeds and misdeeds of our fellowmen. Our self-importance requires that we spend most of our lives offended by someone." <br> &emsp;&emsp;&emsp; <i>-by Carlos Castaneda</i> 
+ 1.  "Really listening and suspending one's own judgment is necessary in order to understand other people on their own terms... This is a process that requires trust and builds trust." <br> &emsp;&emsp;&emsp; <i>-by Mary Field Belenky</i> 
 
- 2.  "We are most alive when we're in love." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 2.  "Maybe the greatest challenge now is to find a way to keep independence while also committing ourselves to the ties that bind people, families, and ultimately societies together." <br> &emsp;&emsp;&emsp; <i>-by Jane O'Reilly</i> 
 
- 3.  "Man's main task is to give birth to himself." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
+ 3.  "Years ago my mother said to me, 'In this world, Elwood, you must be oh so smart or oh so pleasant.' For years I was smart. I recommend pleasant." <br> &emsp;&emsp;&emsp; <i>-by Mary Chase</i> 
 
- 4.  "As I see it, every day you do one of two things: build health or produce disease in yourself." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 4.  "When you wish to instruct, be brief; that men's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
