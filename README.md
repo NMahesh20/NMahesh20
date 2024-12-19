@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Really listening and suspending one's own judgment is necessary in order to understand other people on their own terms... This is a process that requires trust and builds trust." <br> &emsp;&emsp;&emsp; <i>-by Mary Field Belenky</i> 
+ 1.  "In the end, I decide that the mark we've left on each other is the color and shape of love. That the unfinished business between us. Because love, love is never finished. It circles and circles, the memories out of order and not always complete." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
 
- 2.  "Maybe the greatest challenge now is to find a way to keep independence while also committing ourselves to the ties that bind people, families, and ultimately societies together." <br> &emsp;&emsp;&emsp; <i>-by Jane O'Reilly</i> 
+ 2.  "We're here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
 
- 3.  "Years ago my mother said to me, 'In this world, Elwood, you must be oh so smart or oh so pleasant.' For years I was smart. I recommend pleasant." <br> &emsp;&emsp;&emsp; <i>-by Mary Chase</i> 
+ 3.  "Victory attained by violence is tantamount to a defeat, for it is momentary." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 4.  "When you wish to instruct, be brief; that men's minds take in quickly what you say, learn its lesson, and retain it faithfully. Every word that is unnecessary only pours over the side of a brimming mind." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 4.  "The only man who is really free is the one who can turn down an invitation to dinner without giving an excuse." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
