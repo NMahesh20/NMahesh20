@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In the end, I decide that the mark we've left on each other is the color and shape of love. That the unfinished business between us. Because love, love is never finished. It circles and circles, the memories out of order and not always complete." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
+ 1.  "If you wait for tomorrow, tomorrow comes. If you don't wait for tomorrow, tomorrow comes." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 2.  "We're here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
+ 2.  "A good listener is not only popular everywhere, but after a while he gets to know something." <br> &emsp;&emsp;&emsp; <i>-by Wilson Mizner</i> 
 
- 3.  "Victory attained by violence is tantamount to a defeat, for it is momentary." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "To become acquainted with kindness one must be prepared to learn new things and feel new feelings. Kindness is more than a philosophy of the mind. It is a philosophy of the spirit." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Furey</i> 
 
- 4.  "The only man who is really free is the one who can turn down an invitation to dinner without giving an excuse." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 4.  "Depend not on fortune, but on conduct." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
