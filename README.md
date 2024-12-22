@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you understand that your feelings are triggered by what you think about an event and not by the event itself, you gain a measure of control. Although you cannot control the things (events) that happen to you, or change your feelings (after all, you feel the way you feel), you can change your thoughts. A change in thoughts often radically alters your feelings." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Sometimes it seems like God is difficult to find and impossibly far away. We get so caught up in our small daily duties and irritations that they become the only things that we can focus on. What we forget is that God's love and beauty are all around us, every day, if only we would take the time to look up and see them." <br> &emsp;&emsp;&emsp; <i>-by Matthias</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Francis Ford Coppola</i> 
+ 2.  "It's very hard to take yourself too seriously when you look at the world from outer space." <br> &emsp;&emsp;&emsp; <i>-by Thomas K. Mattingly II</i> 
 
- 3.  "You need only claim the event of your life to make yourself yours. When you truly possess all you have been and done, which may take some time, you are fierce with reality." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
+ 3.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
 
- 4.  "Whosoever is delighted in solitude is either a wild beast or a god." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "The body is a sacred garment." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
