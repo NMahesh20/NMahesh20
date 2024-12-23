@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes it seems like God is difficult to find and impossibly far away. We get so caught up in our small daily duties and irritations that they become the only things that we can focus on. What we forget is that God's love and beauty are all around us, every day, if only we would take the time to look up and see them." <br> &emsp;&emsp;&emsp; <i>-by Matthias</i> 
+ 1.  "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "It's very hard to take yourself too seriously when you look at the world from outer space." <br> &emsp;&emsp;&emsp; <i>-by Thomas K. Mattingly II</i> 
+ 2.  "Truth has beauty, power and necessity." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Ashton-Warner</i> 
 
- 3.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
+ 3.  "If hunger makes you irritable, better eat and be pleasant." <br> &emsp;&emsp;&emsp; <i>-by Sefer Hasidim</i> 
 
- 4.  "The body is a sacred garment." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
+ 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
