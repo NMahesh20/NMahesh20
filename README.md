@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "Much talking is the cause of danger. Silence is the means of avoiding misfortune. The talkative parrot is shut up in a cage. Other birds, without speech, fly freely about." <br> &emsp;&emsp;&emsp; <i>-by Saskya Pandita</i> 
 
- 2.  "Truth has beauty, power and necessity." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Ashton-Warner</i> 
+ 2.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
 
- 3.  "If hunger makes you irritable, better eat and be pleasant." <br> &emsp;&emsp;&emsp; <i>-by Sefer Hasidim</i> 
+ 3.  "He enjoys true leisure who has time to improve his soul's estate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 4.  "People fail forward to success." <br> &emsp;&emsp;&emsp; <i>-by Mary Kay Ash</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
