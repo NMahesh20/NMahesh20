@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Much talking is the cause of danger. Silence is the means of avoiding misfortune. The talkative parrot is shut up in a cage. Other birds, without speech, fly freely about." <br> &emsp;&emsp;&emsp; <i>-by Saskya Pandita</i> 
+ 1.  "The best years of your life are the ones in which you decide your problems are your own. You don't blame them on your mother, the ecology, or the President. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
 
- 2.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
+ 2.  "The enthusiasm of a woman's love is even beyond the biographer's." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "He enjoys true leisure who has time to improve his soul's estate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "We could never learn to be brave and patient, if there were only joy in the world." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 4.  "People fail forward to success." <br> &emsp;&emsp;&emsp; <i>-by Mary Kay Ash</i> 
+ 4.  "A sound mind in a sound body is a short but full description of a happy state in this world." <br> &emsp;&emsp;&emsp; <i>-by John Locke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
