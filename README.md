@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best years of your life are the ones in which you decide your problems are your own. You don't blame them on your mother, the ecology, or the President. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
+ 1.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 2.  "The enthusiasm of a woman's love is even beyond the biographer's." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 3.  "We could never learn to be brave and patient, if there were only joy in the world." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 3.  "Do not, for one repulse, forego the purpose that you resolved to effect." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "A sound mind in a sound body is a short but full description of a happy state in this world." <br> &emsp;&emsp;&emsp; <i>-by John Locke</i> 
+ 4.  "Oh sleep! It is a gentle thing, / Beloved from pole to pole." <br> &emsp;&emsp;&emsp; <i>-by Samuel Taylor Coleridge</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
