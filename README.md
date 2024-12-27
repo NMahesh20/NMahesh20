@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 1.  "Fresh clean sheets are one of life's small joys." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 2.  "It's no accident that the church and the graveyard stand side by side. The city of the dead sleeps encircled by the city of the living." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "Do not, for one repulse, forego the purpose that you resolved to effect." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "You cannot run away from a weakness; you must sometimes fight it out or perish. And if that be so, why not now, and where you stand?" <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 4.  "Oh sleep! It is a gentle thing, / Beloved from pole to pole." <br> &emsp;&emsp;&emsp; <i>-by Samuel Taylor Coleridge</i> 
+ 4.  "We can learn much from wise words, little from wisecracks, and less from wise guys." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
