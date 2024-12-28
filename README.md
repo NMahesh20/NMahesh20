@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fresh clean sheets are one of life's small joys." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "You never can see into someone else's marriage." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 
- 2.  "It's no accident that the church and the graveyard stand side by side. The city of the dead sleeps encircled by the city of the living." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "Never trust anything that can think for itself if you can't see where it keeps its brain." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "You cannot run away from a weakness; you must sometimes fight it out or perish. And if that be so, why not now, and where you stand?" <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 3.  "The body is an instrument, the mind its function, the witness and reward of its operation." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 
- 4.  "We can learn much from wise words, little from wisecracks, and less from wise guys." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 4.  "Mistakes, obviously, show us what needs improving. Without mistakes, how would we know what we had to work on?" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
