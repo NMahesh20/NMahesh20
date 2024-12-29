@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You never can see into someone else's marriage." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 1.  "I am here for a purpose and that purpose is to grow into a mountain, not to shrink to a grain of sand. Henceforth will I apply ALL my efforts to become the highest mountain of all and I will strain my potential until it cries for mercy." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "Never trust anything that can think for itself if you can't see where it keeps its brain." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "All people want is someone to listen." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "The body is an instrument, the mind its function, the witness and reward of its operation." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 3.  "Be to her virtues very kind. Be to her faults a little blind." <br> &emsp;&emsp;&emsp; <i>-by Matthew Prior</i> 
 
- 4.  "Mistakes, obviously, show us what needs improving. Without mistakes, how would we know what we had to work on?" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 4.  "One never notices what has been done; one can only see what remains to be done." <br> &emsp;&emsp;&emsp; <i>-by Marie Curie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
