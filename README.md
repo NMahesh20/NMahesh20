@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I am here for a purpose and that purpose is to grow into a mountain, not to shrink to a grain of sand. Henceforth will I apply ALL my efforts to become the highest mountain of all and I will strain my potential until it cries for mercy." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "Only two things you ignore: things that aren't important and things you wish weren't important, and wishing never works." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "All people want is someone to listen." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "In the field of observation, chance favors only the prepared mind. " <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
 
- 3.  "Be to her virtues very kind. Be to her faults a little blind." <br> &emsp;&emsp;&emsp; <i>-by Matthew Prior</i> 
+ 3.  "Each success only buys an admission ticket to a more difficult problem." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
 
- 4.  "One never notices what has been done; one can only see what remains to be done." <br> &emsp;&emsp;&emsp; <i>-by Marie Curie</i> 
+ 4.  "Don't be sweet, lest you be eaten up; don't be bitter, lest you be spewed out." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
