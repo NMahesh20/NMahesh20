@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only two things you ignore: things that aren't important and things you wish weren't important, and wishing never works." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "You must dare to disassociate yourself from those who would delay your journey... Leave, depart, if not physically, then mentally. Go your own way, quietly, undramatically, and venture toward trueness at last." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
 
- 2.  "In the field of observation, chance favors only the prepared mind. " <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
+ 2.  "People without an internalized symbolic system can all too easily become captives of the media." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "Each success only buys an admission ticket to a more difficult problem." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
+ 3.  "You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics." <br> &emsp;&emsp;&emsp; <i>-by Charles Bukowski</i> 
 
- 4.  "Don't be sweet, lest you be eaten up; don't be bitter, lest you be spewed out." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "And when it rains on your parade, look up rather than down. Without the rain, there would be no rainbow." <br> &emsp;&emsp;&emsp; <i>-by Jerry Chin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
