@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You must dare to disassociate yourself from those who would delay your journey... Leave, depart, if not physically, then mentally. Go your own way, quietly, undramatically, and venture toward trueness at last." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
+ 1.  "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 
- 2.  "People without an internalized symbolic system can all too easily become captives of the media." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
 
- 3.  "You begin saving the world by saving one man at a time; all else is grandiose romanticism or politics." <br> &emsp;&emsp;&emsp; <i>-by Charles Bukowski</i> 
+ 3.  "Don't join the book burners. Don't think you're going to conceal faults by concealing evidence that they ever existed. Don't be afraid to go in your library and read every book..." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 4.  "And when it rains on your parade, look up rather than down. Without the rain, there would be no rainbow." <br> &emsp;&emsp;&emsp; <i>-by Jerry Chin</i> 
+ 4.  "Why not go out on a limb? Isn't that where the fruit is?" <br> &emsp;&emsp;&emsp; <i>-by Frank Scully</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
