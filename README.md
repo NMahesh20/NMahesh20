@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have made my world and it is a much better world than I ever saw outside." <br> &emsp;&emsp;&emsp; <i>-by Louise Nevelson</i> 
+ 1.  "Sometimes creativity is a compulsion, not an ambition." <br> &emsp;&emsp;&emsp; <i>-by Ed Norton</i> 
 
- 2.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
+ 2.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
 
- 3.  "The reward of a thing well done is to have done it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Cease to ask what the morrow will bring forth. And set down as gain each day that Fortune grants." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 4.  "I can't think of any sorrow in the world that a hot bath wouldn't help, just a little bit." <br> &emsp;&emsp;&emsp; <i>-by Susan Glaspell</i> 
+ 4.  "That is what learning is. You suddenly understand something you've understood all your life, but in a new way." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
