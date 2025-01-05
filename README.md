@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Somebody once said that beauty is the passport to success, but it's not a passport. It's a visa and it expires." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Mosley and Nicholas Rossiter</i> 
+ 1.  "Success is a lousy teacher. It seduces smart people into thinking they can't lose." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Sonia Taitz</i> 
+ 2.  "Get not your friends by bare compliments, but by giving them sensible tokens of your love." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 3.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 3.  "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 4.  "Her grandmother, as she gets older, is not fading but rather becoming more concentrated." <br> &emsp;&emsp;&emsp; <i>-by Paulette Bates Alden</i> 
+ 4.  "Men are wise in proportion, not to their experience, but to their capacity for experience." <br> &emsp;&emsp;&emsp; <i>-by James Boswell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
