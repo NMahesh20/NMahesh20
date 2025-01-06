@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success is a lousy teacher. It seduces smart people into thinking they can't lose." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
+ 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Get not your friends by bare compliments, but by giving them sensible tokens of your love." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 2.  "We made a solemn vow not to take any job outside of show business. We borrowed money from parents and friends, rather than take that lethal job waiting tables. This forced us to take any job offered to us. Anything. We once did a show in the middle of the Benjamin Franklin Parkway in Philadelphia as part of a fashion show on a hot July night while all around our stage, a race-riot was fully underway. That's how serious we were about our vow." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 3.  "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "Charity sees the need not the cause." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
 
- 4.  "Men are wise in proportion, not to their experience, but to their capacity for experience." <br> &emsp;&emsp;&emsp; <i>-by James Boswell</i> 
+ 4.  "Art enables us to find ourselves and lose ourselves at the same time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
