@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "The only time I ever really suffered in body or mind, the only time that I ever fancied myself unwell, or had any ideas of danger, was the winter that I passed by myself. As long as we could be together, nothing ever ailed me, and I never met with the smallest inconvenience." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "We made a solemn vow not to take any job outside of show business. We borrowed money from parents and friends, rather than take that lethal job waiting tables. This forced us to take any job offered to us. Anything. We once did a show in the middle of the Benjamin Franklin Parkway in Philadelphia as part of a fashion show on a hot July night while all around our stage, a race-riot was fully underway. That's how serious we were about our vow." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 2.  "Some cupid kills with arrows, some with traps." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 3.  "Charity sees the need not the cause." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
+ 3.  "So divinely is the world organized that every one of us, in our place and time, is in balance with everything else." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "Art enables us to find ourselves and lose ourselves at the same time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
+ 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
