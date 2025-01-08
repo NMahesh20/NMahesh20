@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only time I ever really suffered in body or mind, the only time that I ever fancied myself unwell, or had any ideas of danger, was the winter that I passed by myself. As long as we could be together, nothing ever ailed me, and I never met with the smallest inconvenience." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Einstein said God doesn't play dice with the universe, but I don't know--maybe not as a whole, but I think he gets a pretty big kick out of messing in peoples' back yards." <br> &emsp;&emsp;&emsp; <i>-by Dennis Koenig and Jordan Budde</i> 
 
- 2.  "Some cupid kills with arrows, some with traps." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 2.  "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 3.  "So divinely is the world organized that every one of us, in our place and time, is in balance with everything else." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "Laziness is nothing more than the habit of resting before you get tired." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 
- 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
+ 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
