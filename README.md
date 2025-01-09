@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Einstein said God doesn't play dice with the universe, but I don't know--maybe not as a whole, but I think he gets a pretty big kick out of messing in peoples' back yards." <br> &emsp;&emsp;&emsp; <i>-by Dennis Koenig and Jordan Budde</i> 
+ 1.  "There is an expiry date on blaming your parents for steering you in the wrong direction. The moment you are old enough to take the wheel, the responsibility lies with you." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 2.  "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "Laziness is nothing more than the habit of resting before you get tired." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 3.  "The only comfort comes in thinking about how nice it was to know them, and how nice it was to brush against goodness for a season." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "She did not talk to people as if they were strange hard shells she had to crack open to get inside. She talked as if she were already in the shell. In their very shell." <br> &emsp;&emsp;&emsp; <i>-by Marita Bonner</i> 
+ 4.  "Everything I did in my life that was worthwhile I caught hell for." <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
