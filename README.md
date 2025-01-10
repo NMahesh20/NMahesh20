@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is an expiry date on blaming your parents for steering you in the wrong direction. The moment you are old enough to take the wheel, the responsibility lies with you." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
 
- 2.  "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
 
- 3.  "The only comfort comes in thinking about how nice it was to know them, and how nice it was to brush against goodness for a season." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 4.  "Everything I did in my life that was worthwhile I caught hell for." <br> &emsp;&emsp;&emsp; <i>-by Earl Warren</i> 
+ 4.  "When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
