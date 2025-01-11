@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
+ 1.  "The best years of your life are the ones in which you decide your problems are your own.You do not blame them on your mother, the ecology, or the president. You realize that you control your own destiny." <br> &emsp;&emsp;&emsp; <i>-by Albert Ellis</i> 
 
- 2.  "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
+ 2.  "You can't jump down the stairs in one leap, however much you might wish to, and you even more surely can't jump up it, but one step and then the next and there you are, at the top or the bottom and not a bit out of breath or discomposed." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 3.  "For all that has been, thanks. For all that will be, yes." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 
- 4.  "When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 4.  "Learning to love yourself is the greatest love of all." <br> &emsp;&emsp;&emsp; <i>-by Michael Masser and Linda Creed</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
