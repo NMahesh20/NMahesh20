@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. None of Nature's landscapes are ugly so long as they are wild." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Art suffers the moment other people start paying for it. The more you need the money, the more people will tell you what to do. The less control you will have. The more bullshit you will have to swallow. The less joy it will bring. Know this and plan accordingly." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "If you would marry suitably, marry your equal." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
 
- 3.  "You must pray that the way be long, full of adventures and experiences." <br> &emsp;&emsp;&emsp; <i>-by Constantine Peter Cavafy</i> 
+ 3.  "[Spring is] when life's alive in everything." <br> &emsp;&emsp;&emsp; <i>-by Christina Rossetti</i> 
 
- 4.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "Autumn is the bite of the harvest apple." <br> &emsp;&emsp;&emsp; <i>-by Christina Petrowsky</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
