@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep close to Nature's heart... and break clear away, once in awhile, and climb a mountain or spend a week in the woods. Wash your spirit clean. None of Nature's landscapes are ugly so long as they are wild." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "I cannot believe that the inscrutable universe turns on an axis of suffering; surely the strange beauty of the world must somewhere rest on pure joy!" <br> &emsp;&emsp;&emsp; <i>-by Louise Bogan</i> 
 
- 2.  "If you would marry suitably, marry your equal." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
+ 2.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 
- 3.  "[Spring is] when life's alive in everything." <br> &emsp;&emsp;&emsp; <i>-by Christina Rossetti</i> 
+ 3.  "Count not him among your friends who will retail your privacies to the world." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "Autumn is the bite of the harvest apple." <br> &emsp;&emsp;&emsp; <i>-by Christina Petrowsky</i> 
+ 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
