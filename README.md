@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I cannot believe that the inscrutable universe turns on an axis of suffering; surely the strange beauty of the world must somewhere rest on pure joy!" <br> &emsp;&emsp;&emsp; <i>-by Louise Bogan</i> 
+ 1.  "Who knew that dog saliva can mend a broken heart?" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
 
- 2.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 2.  "Life is a great big canvas; throw all the paint on it you can." <br> &emsp;&emsp;&emsp; <i>-by Danny Kaye</i> 
 
- 3.  "Count not him among your friends who will retail your privacies to the world." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "Be not slow to visit the sick." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
 
- 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 4.  "You can't build a reputation on what you are going to do." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
