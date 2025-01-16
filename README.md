@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Who knew that dog saliva can mend a broken heart?" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
+ 1.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 2.  "Life is a great big canvas; throw all the paint on it you can." <br> &emsp;&emsp;&emsp; <i>-by Danny Kaye</i> 
+ 2.  "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others." <br> &emsp;&emsp;&emsp; <i>-by Nelson Mandela</i> 
 
- 3.  "Be not slow to visit the sick." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
+ 3.  "Let us have a care not to disclose our hearts to those who shut up theirs against us." <br> &emsp;&emsp;&emsp; <i>-by Francis Beaumont</i> 
 
- 4.  "You can't build a reputation on what you are going to do." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
+ 4.  "Houses are built to live in, not to look on; therefore, let use be preferred before uniformity, except where both may be had." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
