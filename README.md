@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 1.  "The most boring thing in the entire world is nudity. The second most boring thing is honesty." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others." <br> &emsp;&emsp;&emsp; <i>-by Nelson Mandela</i> 
+ 2.  "Insist on yourself; never imitate... Every great man is unique." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "Let us have a care not to disclose our hearts to those who shut up theirs against us." <br> &emsp;&emsp;&emsp; <i>-by Francis Beaumont</i> 
+ 3.  "The heart has its reasons which reason knows nothing of." <br> &emsp;&emsp;&emsp; <i>-by Blaise Pascal</i> 
 
- 4.  "Houses are built to live in, not to look on; therefore, let use be preferred before uniformity, except where both may be had." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "A torn jacket is soon mended; but hard words bruise the heart of a child." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
