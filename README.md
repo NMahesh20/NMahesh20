@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The most boring thing in the entire world is nudity. The second most boring thing is honesty." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "Besides the noble art of getting things done, there is a nobler art of leaving things undone. The wisdom of life consists in the elimination of nonessentials." <br> &emsp;&emsp;&emsp; <i>-by Lin Yutang</i> 
 
- 2.  "Insist on yourself; never imitate... Every great man is unique." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "Only the hand that erases can write the true thing." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
 
- 3.  "The heart has its reasons which reason knows nothing of." <br> &emsp;&emsp;&emsp; <i>-by Blaise Pascal</i> 
+ 3.  "I believe that if it were left to artists to choose their own labels, most would choose none." <br> &emsp;&emsp;&emsp; <i>-by Ben Shahn</i> 
 
- 4.  "A torn jacket is soon mended; but hard words bruise the heart of a child." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "It's a funny thing about life; if you refuse to accept anything but the best, you very often get it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
