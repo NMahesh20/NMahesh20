@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Besides the noble art of getting things done, there is a nobler art of leaving things undone. The wisdom of life consists in the elimination of nonessentials." <br> &emsp;&emsp;&emsp; <i>-by Lin Yutang</i> 
+ 1.  "A true man never frets about his place in the world, but just slides into it by the gravitation of his nature, and swings there as easily as a star." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
 
- 2.  "Only the hand that erases can write the true thing." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
+ 2.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 3.  "I believe that if it were left to artists to choose their own labels, most would choose none." <br> &emsp;&emsp;&emsp; <i>-by Ben Shahn</i> 
+ 3.  "The physician can bury his mistakes, but the architect can only advise his client to plant vines - so they should go as far as possible from home to build their first buildings." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "It's a funny thing about life; if you refuse to accept anything but the best, you very often get it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
