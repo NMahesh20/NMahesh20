@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A true man never frets about his place in the world, but just slides into it by the gravitation of his nature, and swings there as easily as a star." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
+ 1.  "I live in the present due to the constraints of the Space-Time Continuum." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
 
- 2.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 2.  "Read at least one book a month. This is self-serving, obviously. It's a proven fact that people who read buy more books than people who don't read. In truth, I wish you'd read ten books a month, or at least buy that many." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 3.  "The physician can bury his mistakes, but the architect can only advise his client to plant vines - so they should go as far as possible from home to build their first buildings." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 3.  "If you would be wealthy, think of saving as well as getting." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "No one can build his security upon the nobleness of another person." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 4.  "Examine what is said, not him who speaks." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
