@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I live in the present due to the constraints of the Space-Time Continuum." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "Nobody sees a flower - really - it is so small it takes time - we haven't time - and to see takes time, like to have a friend takes time." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
 
- 2.  "Read at least one book a month. This is self-serving, obviously. It's a proven fact that people who read buy more books than people who don't read. In truth, I wish you'd read ten books a month, or at least buy that many." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 2.  "When you relinquish the desire to control your future, you can have more happiness." <br> &emsp;&emsp;&emsp; <i>-by Nicole Kidman</i> 
 
- 3.  "If you would be wealthy, think of saving as well as getting." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 4.  "Examine what is said, not him who speaks." <br> &emsp;&emsp;&emsp; <i>-by Arab Proverb</i> 
+ 4.  "In reality, serendipity accounts for one percent of the blessings we receive in life, work and love. The other 99 percent is due to our efforts." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
