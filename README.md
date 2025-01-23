@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "I tasted too what was called the sweet of revenge - but it was transient, it expired even with the object, that provoked it." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "We all have a few failures under our belt. It's what makes us ready for the successes." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "Good writing takes more than just time; it wants your best moments and the best of you." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "One single grateful thought raised to heaven is the most perfect prayer." <br> &emsp;&emsp;&emsp; <i>-by G. E. Lessing</i> 
+ 3.  "Beware the pull on your heartstrings -- it's often the pursestrings that are actually being reached for." <br> &emsp;&emsp;&emsp; <i>-by Barbara Mikkelson</i> 
 
- 4.  "Everything that is really great and inspiring is created by the individual who can labor in freedom." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 4.  "The farther behind I leave the past, the closer I am to forging my own character." <br> &emsp;&emsp;&emsp; <i>-by Isabelle Eberhardt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
