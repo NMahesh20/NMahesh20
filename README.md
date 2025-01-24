@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I tasted too what was called the sweet of revenge - but it was transient, it expired even with the object, that provoked it." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
 
- 2.  "Good writing takes more than just time; it wants your best moments and the best of you." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "Never pretend to a love which you do not actually feel, for love is not ours to command." <br> &emsp;&emsp;&emsp; <i>-by Alan Watts</i> 
 
- 3.  "Beware the pull on your heartstrings -- it's often the pursestrings that are actually being reached for." <br> &emsp;&emsp;&emsp; <i>-by Barbara Mikkelson</i> 
+ 3.  "It is by acts and not by ideas that people live." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 
- 4.  "The farther behind I leave the past, the closer I am to forging my own character." <br> &emsp;&emsp;&emsp; <i>-by Isabelle Eberhardt</i> 
+ 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
