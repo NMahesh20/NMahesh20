@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
+ 1.  "Sometimes you can't see yourself clearly until you see yourself through the eyes of others." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "Never pretend to a love which you do not actually feel, for love is not ours to command." <br> &emsp;&emsp;&emsp; <i>-by Alan Watts</i> 
+ 2.  "The truth is the kindest thing we can give folks in the end." <br> &emsp;&emsp;&emsp; <i>-by Harriet Beecher Stowe</i> 
 
- 3.  "It is by acts and not by ideas that people live." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 3.  "Always do right. This will gratify some people and astonish the rest." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
+ 4.  "'Taint't worthwhile to wear a day all out before it comes." <br> &emsp;&emsp;&emsp; <i>-by Sarah Orne Jewett</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
