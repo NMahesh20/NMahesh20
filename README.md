@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes you can't see yourself clearly until you see yourself through the eyes of others." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "Two men look out through the same bars: One sees the mud and one the stars." <br> &emsp;&emsp;&emsp; <i>-by Frederick Langbridge</i> 
 
- 2.  "The truth is the kindest thing we can give folks in the end." <br> &emsp;&emsp;&emsp; <i>-by Harriet Beecher Stowe</i> 
+ 2.  "You cannot live a perfect day without doing something for someone who will never be able to repay you." <br> &emsp;&emsp;&emsp; <i>-by John Wooden</i> 
 
- 3.  "Always do right. This will gratify some people and astonish the rest." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "Poetry should please by a fine excess and not by singularity. It should strike the reader as a wording of his own highest thoughts, and appear almost as a remembrance." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
 
- 4.  "'Taint't worthwhile to wear a day all out before it comes." <br> &emsp;&emsp;&emsp; <i>-by Sarah Orne Jewett</i> 
+ 4.  "Our houses are such unwieldy property that we are often imprisoned rather than housed in them." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
