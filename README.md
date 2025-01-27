@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Two men look out through the same bars: One sees the mud and one the stars." <br> &emsp;&emsp;&emsp; <i>-by Frederick Langbridge</i> 
+ 1.  "Every individual matters. Every individual has a role to play. Every individual makes a difference." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "You cannot live a perfect day without doing something for someone who will never be able to repay you." <br> &emsp;&emsp;&emsp; <i>-by John Wooden</i> 
+ 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "Poetry should please by a fine excess and not by singularity. It should strike the reader as a wording of his own highest thoughts, and appear almost as a remembrance." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
+ 3.  "You've got to be original, because if you're like someone else, what do they need you for?" <br> &emsp;&emsp;&emsp; <i>-by Bernadette Peters</i> 
 
- 4.  "Our houses are such unwieldy property that we are often imprisoned rather than housed in them." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "If you want to catch something, running after it isn't always the best way." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
