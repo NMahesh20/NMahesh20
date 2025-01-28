@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every individual matters. Every individual has a role to play. Every individual makes a difference." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "If you want change, you have to make it. If we want progress we have to drive it." <br> &emsp;&emsp;&emsp; <i>-by Susan Rice</i> 
 
- 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Technical term is narcissism. You can't believe everything is your fault unless you also believe you're all powerful." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
 
- 3.  "You've got to be original, because if you're like someone else, what do they need you for?" <br> &emsp;&emsp;&emsp; <i>-by Bernadette Peters</i> 
+ 3.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
 
- 4.  "If you want to catch something, running after it isn't always the best way." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "The ability to focus attention on important things is a defining characteristic of intelligence." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Shiller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
