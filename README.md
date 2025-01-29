@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you want change, you have to make it. If we want progress we have to drive it." <br> &emsp;&emsp;&emsp; <i>-by Susan Rice</i> 
+ 1.  "I'm the least confident person in so many ways. But I believed that if somebody gave me the chance to tell a story, I would tell a story [well enough] that the person who gave me the chance would get their money back." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Technical term is narcissism. You can't believe everything is your fault unless you also believe you're all powerful." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
+ 2.  "I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 3.  "The beginning is always today." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
+ 3.  "Fasting and natural diet, though essentially unknown [in today's U.S.] as a therapy, should be the first treatment when someone discovers that she or he has a medical problem. It should not be applied only to the most advanced cases, as is present practice. Whether the patient has a cardiac condition, hypertension, autoimmune disease, fibroids, or asthma, he or she must be informed that fasting and natural, plant-based diets are a viable alternative to conventional therapy, and an effective one. The time may come when not offering this substantially more effective nutritional approach will be considered malpractice." <br> &emsp;&emsp;&emsp; <i>-by Joel Fuhrman, M.D.</i> 
 
- 4.  "The ability to focus attention on important things is a defining characteristic of intelligence." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Shiller</i> 
+ 4.  "Slow down and enjoy life. It's not only the scenery you miss by going too fast - you also miss the sense of where you are going and why." <br> &emsp;&emsp;&emsp; <i>-by Eddie Cantor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
