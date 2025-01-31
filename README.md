@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is all very well, when the pen flows, but then there are the dark days when imagination deserts one, and it is an effort to put anything down on paper. That little you have achieved stares at you at the end of the day, and you know the next morning you will have to scrape it down and start again." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "To use fear as the friend it is, we must retrain and reprogram ourselves...We must persistently and convincingly tell ourselves that the fear is here--with its gift of energy and heightened awareness--so we can do our best and learn the most in the new situation." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 2.  "A person's abilities are tested best when defending rather than attacking." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "Walking is the best possible exercise. Habituate yourself to walk very far." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 3.  "The bow cannot always stand bent, nor can human frailty subsist without some lawful recreation." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 3.  "The greatest good you can do for another is not just share your riches, but to reveal to him his own." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 4.  "Everything has got a moral if you can only find it." <br> &emsp;&emsp;&emsp; <i>-by Lewis Carroll</i> 
+ 4.  "[The body is] a marvelous machine...a chemical laboratory, a power-house. Every movement, voluntary or involuntary, full of secrets and marvels!" <br> &emsp;&emsp;&emsp; <i>-by Theodor Herzl</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
