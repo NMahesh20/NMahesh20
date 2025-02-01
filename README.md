@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To use fear as the friend it is, we must retrain and reprogram ourselves...We must persistently and convincingly tell ourselves that the fear is here--with its gift of energy and heightened awareness--so we can do our best and learn the most in the new situation." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 1.  "No great improvements in the lot of mankind are possible until a great change takes place in the fundamental constitution of their modes of thought." <br> &emsp;&emsp;&emsp; <i>-by John Stuart Mill</i> 
 
- 2.  "Walking is the best possible exercise. Habituate yourself to walk very far." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 2.  "You can make those promises with just as much passion the second time around. Such is the regenerative power of the human heart." <br> &emsp;&emsp;&emsp; <i>-by Marion Wink</i> 
 
- 3.  "The greatest good you can do for another is not just share your riches, but to reveal to him his own." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 3.  "If you would thoroughly know anything, teach it to others." <br> &emsp;&emsp;&emsp; <i>-by Tryon Edwards</i> 
 
- 4.  "[The body is] a marvelous machine...a chemical laboratory, a power-house. Every movement, voluntary or involuntary, full of secrets and marvels!" <br> &emsp;&emsp;&emsp; <i>-by Theodor Herzl</i> 
+ 4.  "Every creator painfully experiences the chasm between his inner vision and its ultimate expression." <br> &emsp;&emsp;&emsp; <i>-by Isaac Bashevis Singer</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
