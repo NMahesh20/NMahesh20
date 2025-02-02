@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No great improvements in the lot of mankind are possible until a great change takes place in the fundamental constitution of their modes of thought." <br> &emsp;&emsp;&emsp; <i>-by John Stuart Mill</i> 
+ 1.  "You ought to expect better of people. It encourages you to be a better person yourself." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 2.  "You can make those promises with just as much passion the second time around. Such is the regenerative power of the human heart." <br> &emsp;&emsp;&emsp; <i>-by Marion Wink</i> 
+ 2.  "I like the night. Without the dark, we'd never see the stars." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
 
- 3.  "If you would thoroughly know anything, teach it to others." <br> &emsp;&emsp;&emsp; <i>-by Tryon Edwards</i> 
+ 3.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 
- 4.  "Every creator painfully experiences the chasm between his inner vision and its ultimate expression." <br> &emsp;&emsp;&emsp; <i>-by Isaac Bashevis Singer</i> 
+ 4.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
