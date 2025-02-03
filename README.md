@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You ought to expect better of people. It encourages you to be a better person yourself." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Tom Hanks</i> 
 
- 2.  "I like the night. Without the dark, we'd never see the stars." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
+ 2.  "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 3.  "The important thing is this: to be able at any moment to sacrifice what we are for what we could become." <br> &emsp;&emsp;&emsp; <i>-by Charles Du Bos</i> 
 
- 4.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
+ 4.  "For the sense of smell, almost more than any other, has the power to recall memories and it is a pity that you use it so little." <br> &emsp;&emsp;&emsp; <i>-by Rachel Carson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
