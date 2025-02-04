@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Tom Hanks</i> 
+ 1.  "In every aspect of our lives, we are always asking ourselves, How am I of value? What is my worth? Yet I believe that worthiness is our birthright." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best." <br> &emsp;&emsp;&emsp; <i>-by Margaret Thatcher</i> 
 
- 3.  "The important thing is this: to be able at any moment to sacrifice what we are for what we could become." <br> &emsp;&emsp;&emsp; <i>-by Charles Du Bos</i> 
+ 3.  "The world is wide, and I will not waste my life in friction when it could be turned into momentum." <br> &emsp;&emsp;&emsp; <i>-by Frances Willard</i> 
 
- 4.  "For the sense of smell, almost more than any other, has the power to recall memories and it is a pity that you use it so little." <br> &emsp;&emsp;&emsp; <i>-by Rachel Carson</i> 
+ 4.  "When your work speaks for itself, don't interrupt." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
