@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A house that does not have one worn, comfy chair in it is soulless." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
+ 1.  "There is no joy in a life that is all information. There is no 'juice' to that kind of life. No sweetness, no color. Like trading a beautiful golden-ripe orange for a stalk of whithered broccoli." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 2.  "The most decisive actions of our life - I mean those that are most likely to decide the whole course of our future - are, more often than not, unconsidered." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Matthew Oliphant</i> 
 
- 3.  "Integrity combined with faithfulness is a powerful force and worthy of great respect." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "When you point your finger at someone, three fingers are pointing back at you." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "I've always followed my father's advice: he told me, first to always keep my word and, second, to never insult anybody unintentionally. If I insult you, you can be goddamn sure I intend to. And, third, he told me not to go around looking for trouble." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 4.  "Love all, trust a few. Do wrong to none." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
