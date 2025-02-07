@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no joy in a life that is all information. There is no 'juice' to that kind of life. No sweetness, no color. Like trading a beautiful golden-ripe orange for a stalk of whithered broccoli." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 1.  "The greatest conflicts are not between two people but between one person and himself." <br> &emsp;&emsp;&emsp; <i>-by Garth Brooks</i> 
 
- 2.  "" <br> &emsp;&emsp;&emsp; <i>-by Matthew Oliphant</i> 
+ 2.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
 
- 3.  "When you point your finger at someone, three fingers are pointing back at you." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "Winter is on my head, but eternal spring is in my heart." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "Love all, trust a few. Do wrong to none." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "Fear is the tax that conscience pays to guilt." <br> &emsp;&emsp;&emsp; <i>-by George Sewell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
