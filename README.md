@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The greatest conflicts are not between two people but between one person and himself." <br> &emsp;&emsp;&emsp; <i>-by Garth Brooks</i> 
+ 1.  "A persuadable temper might sometimes be as much in favour of happiness as a very resolute character." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
+ 2.  "Fitness - If it came in a bottle, everybody would have a great body." <br> &emsp;&emsp;&emsp; <i>-by Cher</i> 
 
- 3.  "Winter is on my head, but eternal spring is in my heart." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "All God does is watch us and kill us when we get boring. We must never, ever be boring." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 4.  "Fear is the tax that conscience pays to guilt." <br> &emsp;&emsp;&emsp; <i>-by George Sewell</i> 
+ 4.  "There is no difficulty that enough love will not conquer; no disease that enough love will not heal; no door that enough love will not open." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
