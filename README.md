@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A persuadable temper might sometimes be as much in favour of happiness as a very resolute character." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Greatness is more than potential. It is the execution of that potential. Beyond the raw talent. You need the appropriate training. You need the discipline. You need the inspiration. You need the drive." <br> &emsp;&emsp;&emsp; <i>-by Eric A. Burns</i> 
 
- 2.  "Fitness - If it came in a bottle, everybody would have a great body." <br> &emsp;&emsp;&emsp; <i>-by Cher</i> 
+ 2.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 3.  "All God does is watch us and kill us when we get boring. We must never, ever be boring." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 3.  "Books are the quietest and most constant of friends; they are the most accessible and wisest of counsellors, and the most patient of teachers." <br> &emsp;&emsp;&emsp; <i>-by Charles W. Eliot</i> 
 
- 4.  "There is no difficulty that enough love will not conquer; no disease that enough love will not heal; no door that enough love will not open." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
+ 4.  "Every artist dips his brush in his own soul, and paints his own nature into his pictures." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
