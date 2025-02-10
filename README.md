@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Greatness is more than potential. It is the execution of that potential. Beyond the raw talent. You need the appropriate training. You need the discipline. You need the inspiration. You need the drive." <br> &emsp;&emsp;&emsp; <i>-by Eric A. Burns</i> 
+ 1.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 2.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 2.  "All sanity depends on this: that it should be a delight to feel heat strike the skin, a delight to stand upright, knowing the bones are moving easily under the flesh." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 
- 3.  "Books are the quietest and most constant of friends; they are the most accessible and wisest of counsellors, and the most patient of teachers." <br> &emsp;&emsp;&emsp; <i>-by Charles W. Eliot</i> 
+ 3.  "In order to be irreplaceable one must always be different." <br> &emsp;&emsp;&emsp; <i>-by Coco Chanel</i> 
 
- 4.  "Every artist dips his brush in his own soul, and paints his own nature into his pictures." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 4.  "The crowd gives the leader new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
