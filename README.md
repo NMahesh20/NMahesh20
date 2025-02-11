@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 1.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
 
- 2.  "All sanity depends on this: that it should be a delight to feel heat strike the skin, a delight to stand upright, knowing the bones are moving easily under the flesh." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 2.  "Silent gratitude isn't much use to anyone." <br> &emsp;&emsp;&emsp; <i>-by Gladys Bronwyn Stern</i> 
 
- 3.  "In order to be irreplaceable one must always be different." <br> &emsp;&emsp;&emsp; <i>-by Coco Chanel</i> 
+ 3.  "Only as you do know yourself can your brain serve you as a sharp and efficient tool. Know your own failings, passions, and prejudices so you can separate them from what you see." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
 
- 4.  "The crowd gives the leader new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
+ 4.  "Choose the life that is most useful, and habit will make it the most agreeable." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
