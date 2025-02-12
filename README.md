@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
+ 1.  "I always wanted a happy ending... Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle and end. Life is about not knowing, having to change, taking the moment and making the best of it without knowing what's going to happen next. Delicious ambiguity." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
 
- 2.  "Silent gratitude isn't much use to anyone." <br> &emsp;&emsp;&emsp; <i>-by Gladys Bronwyn Stern</i> 
+ 2.  "Buy on the rumor; sell on the news." <br> &emsp;&emsp;&emsp; <i>-by Wall Street Proverb</i> 
 
- 3.  "Only as you do know yourself can your brain serve you as a sharp and efficient tool. Know your own failings, passions, and prejudices so you can separate them from what you see." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
+ 3.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
 
- 4.  "Choose the life that is most useful, and habit will make it the most agreeable." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
