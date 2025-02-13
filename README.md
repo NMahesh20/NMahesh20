@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I always wanted a happy ending... Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle and end. Life is about not knowing, having to change, taking the moment and making the best of it without knowing what's going to happen next. Delicious ambiguity." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
+ 1.  "It gets a lot easier to deal with life's curveballs when you're not hiding under layers of fat." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Buy on the rumor; sell on the news." <br> &emsp;&emsp;&emsp; <i>-by Wall Street Proverb</i> 
+ 2.  "The moment a man stops dreaming is the moment he petrifies inside..." <br> &emsp;&emsp;&emsp; <i>-by Roger Ebert</i> 
 
- 3.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
+ 3.  "Repetition does not transform a lie into a truth." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 4.  "When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough." <br> &emsp;&emsp;&emsp; <i>-by Maurice Maeterlinck</i> 
+ 4.  "He who receives a benefit should never forget it; he who bestow should never remember it." <br> &emsp;&emsp;&emsp; <i>-by Pierre Charron</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
