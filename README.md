@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It gets a lot easier to deal with life's curveballs when you're not hiding under layers of fat." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "The moment a man stops dreaming is the moment he petrifies inside..." <br> &emsp;&emsp;&emsp; <i>-by Roger Ebert</i> 
+ 2.  "Well, spring sprang. We've had our state of grace and our little gift of sanctioned madness, courtesy of Mother Nature. Thanks, Gaia. Much obliged. I guess it's time to get back to that daily routine of living we like to call normal." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
 
- 3.  "Repetition does not transform a lie into a truth." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 3.  "Don't take the bull by the horns, take him by the tail; then you can let go when you want to." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 4.  "He who receives a benefit should never forget it; he who bestow should never remember it." <br> &emsp;&emsp;&emsp; <i>-by Pierre Charron</i> 
+ 4.  "Tears may be dried up, but the heart - never." <br> &emsp;&emsp;&emsp; <i>-by Marguerite de Valois</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
