@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think the best evenings are when we have messages, things that make us think, but we can also laugh and enjoy each other's company." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "The art of art, the glory of expression and the sunshine of the light of letters, is simplicity." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 2.  "The need of man to wholly realize himself is the only fixed star." <br> &emsp;&emsp;&emsp; <i>-by Arthur Miller</i> 
+ 2.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
 
- 3.  "When you appeal to force, there's one thing you must never do - lose." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 3.  "If you don't run your own life, somebody else will." <br> &emsp;&emsp;&emsp; <i>-by John Atkinson</i> 
 
- 4.  "The way you define yourself as a writer is that you write every time you have a free minute. If you didn't behave that way you would never do anything." <br> &emsp;&emsp;&emsp; <i>-by John Irving</i> 
+ 4.  "It's easier to put on slippers than to carpet the whole world." <br> &emsp;&emsp;&emsp; <i>-by Al Franken</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
