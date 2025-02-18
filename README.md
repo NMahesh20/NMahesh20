@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The art of art, the glory of expression and the sunshine of the light of letters, is simplicity." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 1.  "Moments of kindness and reconciliation are worth having, even if the parting has to come sooner or later." <br> &emsp;&emsp;&emsp; <i>-by Alice Munro</i> 
 
- 2.  "Whenever I hear, 'It can't be done,' I know I'm close to success." <br> &emsp;&emsp;&emsp; <i>-by Michael Flatley</i> 
+ 2.  "If any one faculty of our nature may be called more wonderful than the rest, I do think it is memory. There seems something more speakingly incomprehensible in the powers, the failures, the inequalities of memory, than in any other of our intelligences. The memory is sometimes so retentive, so serviceable, so obedient; at others, so bewildered and so weak; and at others again, so tyrannic, so beyond control! We are, to be sure, a miracle every way; but our powers of recollecting and of forgetting do seem peculiarly past finding out." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "If you don't run your own life, somebody else will." <br> &emsp;&emsp;&emsp; <i>-by John Atkinson</i> 
+ 3.  "A woman can forgive a man for the harm he does her...but she can never forgive him for the sacrifices he makes on her account." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 4.  "It's easier to put on slippers than to carpet the whole world." <br> &emsp;&emsp;&emsp; <i>-by Al Franken</i> 
+ 4.  "Because I have loved life, I shall have no sorrow to die." <br> &emsp;&emsp;&emsp; <i>-by Amelia Burr</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
