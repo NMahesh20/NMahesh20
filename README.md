@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Moments of kindness and reconciliation are worth having, even if the parting has to come sooner or later." <br> &emsp;&emsp;&emsp; <i>-by Alice Munro</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "If any one faculty of our nature may be called more wonderful than the rest, I do think it is memory. There seems something more speakingly incomprehensible in the powers, the failures, the inequalities of memory, than in any other of our intelligences. The memory is sometimes so retentive, so serviceable, so obedient; at others, so bewildered and so weak; and at others again, so tyrannic, so beyond control! We are, to be sure, a miracle every way; but our powers of recollecting and of forgetting do seem peculiarly past finding out." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "You risk tears if you let yourself be tamed." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exup�ry</i> 
 
- 3.  "A woman can forgive a man for the harm he does her...but she can never forgive him for the sacrifices he makes on her account." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 3.  "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 4.  "Because I have loved life, I shall have no sorrow to die." <br> &emsp;&emsp;&emsp; <i>-by Amelia Burr</i> 
+ 4.  "Certainly, travel is more than the seeing of sights; it is a change that goes on, deep and permanent, in the ideas of living." <br> &emsp;&emsp;&emsp; <i>-by Miriam Beard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
