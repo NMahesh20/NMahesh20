@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "However beautiful the strategy, you should occasionally look at the results." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 1.  "When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "I want to believe in intelligent design, and hence I am suspicious of anything that seems to confirm my desire to believe." <br> &emsp;&emsp;&emsp; <i>-by James Lileks</i> 
+ 2.  "When in doubt, tell the truth." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 3.  "If grass can grow through cement, love can find you at every time in your life." <br> &emsp;&emsp;&emsp; <i>-by Cher</i> 
+ 3.  "Intuition isn't the enemy, but the ally, of reason." <br> &emsp;&emsp;&emsp; <i>-by John Kord Lagemann</i> 
 
- 4.  "Nature magically suits a man to his fortunes, by making them the fruit of his character." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Difficulties strengthen the mind, as labor does the body." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
