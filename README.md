@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we contemplate the whole globe as one great dewdrop, striped and dotted with continents and islands, flying through space with other stars all singing and shining together as one, the whole universe appears as an infinite storm of beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "There are some men who lift the age they inhabit, till all men walk on higher ground in that lifetime." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Anderson</i> 
 
- 2.  "When in doubt, tell the truth." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 2.  "It's wonderful what we can do if we're always doing." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 3.  "Intuition isn't the enemy, but the ally, of reason." <br> &emsp;&emsp;&emsp; <i>-by John Kord Lagemann</i> 
+ 3.  "All I can say about life is, Oh God, enjoy it!" <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
 
- 4.  "Difficulties strengthen the mind, as labor does the body." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
