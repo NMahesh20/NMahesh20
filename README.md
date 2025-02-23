@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are some men who lift the age they inhabit, till all men walk on higher ground in that lifetime." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Anderson</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "It's wonderful what we can do if we're always doing." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 2.  "Like anyone else, there are days I feel beautiful and days I don't, and when I don't, I do something about it." <br> &emsp;&emsp;&emsp; <i>-by Cheryl Tiegs</i> 
 
- 3.  "All I can say about life is, Oh God, enjoy it!" <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
+ 3.  "Our bodies communicate to us clearly and specifically, if we are willing to listen to them." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
 
- 4.  "My philosophy is that not only are you responsible for your life, but doing the best at this moment puts you in the best place for the next moment." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 4.  "Don't laugh at a youth for his affectations; he is only trying on one face after another to find his own." <br> &emsp;&emsp;&emsp; <i>-by Logan Pearsall Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
