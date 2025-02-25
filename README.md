@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Buy the ticket take the Ride" <br> &emsp;&emsp;&emsp; <i>-by Hunter S. Thompson</i> 
+ 1.  "Admit that your own private Mount Everest exists. That is half the battle." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "History, despite its wrenching pain, cannot be unlived, however, if faced with courage, need not be lived again." <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
+ 2.  "People are people, messy and mutable, combining differently with one another from day to day - even hour to hour." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
 
- 3.  "It is well to give when asked but it is better to give unasked, through understanding." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 3.  "Ah, music. A magic beyond all we do here!" <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 4.  "The best way to realize the pleasure of feeling rich is to live in a smaller house than your means would entitle you to have." <br> &emsp;&emsp;&emsp; <i>-by Edward Clarke</i> 
+ 4.  "Obtain from yourself all that makes complaining useless. No longer implore from others what you yourself can obtain." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
