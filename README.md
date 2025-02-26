@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Admit that your own private Mount Everest exists. That is half the battle." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "I have seen flowers come in stony places/ And kind things done by men with ugly faces/ And the gold cup won by the worst horse at the races,/ So I trust too." <br> &emsp;&emsp;&emsp; <i>-by John Masefield</i> 
 
- 2.  "People are people, messy and mutable, combining differently with one another from day to day - even hour to hour." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
+ 2.  "Acquire inner peace and a multitude will find their salvation near you." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck Doherty</i> 
 
- 3.  "Ah, music. A magic beyond all we do here!" <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 3.  "Don't fall before you're pushed." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
 
- 4.  "Obtain from yourself all that makes complaining useless. No longer implore from others what you yourself can obtain." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 4.  "I believe in God, only I spell it Nature." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
