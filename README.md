@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have seen flowers come in stony places/ And kind things done by men with ugly faces/ And the gold cup won by the worst horse at the races,/ So I trust too." <br> &emsp;&emsp;&emsp; <i>-by John Masefield</i> 
+ 1.  "Sometimes ya gotta do stuff 'cause it's expected of ya, not 'cause of anything else." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "Acquire inner peace and a multitude will find their salvation near you." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck Doherty</i> 
+ 2.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
 
- 3.  "Don't fall before you're pushed." <br> &emsp;&emsp;&emsp; <i>-by English Proverb</i> 
+ 3.  "They can conquer who believe they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
 
- 4.  "I believe in God, only I spell it Nature." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 4.  "Gratitude is not only the greatest of virtues, but the parent of all others." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
