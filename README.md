@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes ya gotta do stuff 'cause it's expected of ya, not 'cause of anything else." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "There ain't no free lunches in this country. And don't go spending your whole life commiserating that you got raw deals. You've got to say, 'I think that if I keep working at this and want it bad enough I can have it.'" <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
 
- 2.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
+ 2.  "The family is changing not disappearing. We have to broaden our understanding of it, look for the new metaphors." <br> &emsp;&emsp;&emsp; <i>-by Mary Catherine Bateson</i> 
 
- 3.  "They can conquer who believe they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
+ 3.  "I think of a hero as someone who understands the degree of responsibility that comes with his freedom." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
 
- 4.  "Gratitude is not only the greatest of virtues, but the parent of all others." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 4.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
