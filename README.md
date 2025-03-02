@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There ain't no free lunches in this country. And don't go spending your whole life commiserating that you got raw deals. You've got to say, 'I think that if I keep working at this and want it bad enough I can have it.'" <br> &emsp;&emsp;&emsp; <i>-by Lee Iacocca</i> 
+ 1.  "Our main business is not to see what lies dimly at a distance but to do what lies clearly at hand." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 
- 2.  "The family is changing not disappearing. We have to broaden our understanding of it, look for the new metaphors." <br> &emsp;&emsp;&emsp; <i>-by Mary Catherine Bateson</i> 
+ 2.  "Learning to live in the present moment is part of the path of joy." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
 
- 3.  "I think of a hero as someone who understands the degree of responsibility that comes with his freedom." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
+ 3.  "It is certainly desirable to be well descended, but the glory belongs to our ancestors." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 
- 4.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 4.  "We only do well the things we like doing." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
