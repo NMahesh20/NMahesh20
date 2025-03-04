@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That was the worst part about having cancer, sometimes: The physical evidence of disease separates you from other people." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "" <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "A leader takes people where they want to go. A great leader takes people where they don't necessarily want to go but where they ought to be." <br> &emsp;&emsp;&emsp; <i>-by Rosalynn Carter</i> 
+ 2.  "When I step into this library, I cannot understand why I ever step out of it." <br> &emsp;&emsp;&emsp; <i>-by Marie de Sevigne</i> 
 
- 3.  "Learn to see in another's calamity the ills which you should avoid." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "This isn't good or bad. It's just the way of things. Nothing stays the same." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "Photographers do this for a living, every single day -- they point their lenses toward every single corner of our world and somehow make the mundane mesmerizing through their artistic eye. It's all a matter of being aware of your surroundings and realizing that there are some really amazing and interesting things to look at, even if it may just be something so simple as a wall being covered up by paint." <br> &emsp;&emsp;&emsp; <i>-by Ward Jenkins</i> 
+ 4.  "Is love supposed to last throughout all time, or is it like trains changing at random stops. If I loved her, how could I leave her? If I felt that way then, how come I don't feel anything now?" <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
