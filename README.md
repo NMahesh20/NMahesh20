@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I hate to hear you talking so like a fine gentleman, and as if women were all fine ladies, instead of rational creatures." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Be courteous to all, but intimate with few; and let those few be well tried before you give them your confidence." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 2.  "You must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 2.  "Though I am grateful for the blessings of wealth, it hasn't changed who I am. My feet are still on the ground. I'm just wearing better shoes." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Retribution often means that we eventually do to ourselves what we have done unto others." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 3.  "One's first book, kiss, home run, is always the best." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 
- 4.  "Courage is fear that has said its prayers." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Bernard</i> 
+ 4.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
