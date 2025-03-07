@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Be courteous to all, but intimate with few; and let those few be well tried before you give them your confidence." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 1.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 2.  "Though I am grateful for the blessings of wealth, it hasn't changed who I am. My feet are still on the ground. I'm just wearing better shoes." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Refuse to be ill. Never tell people you are ill; never own it to yourself. Illness is one of those things which a man should resist on principle." <br> &emsp;&emsp;&emsp; <i>-by Edward Bulwer-Lytton</i> 
 
- 3.  "One's first book, kiss, home run, is always the best." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 3.  "Never be entirely idle; but either be reading, or writing, or praying or meditating or endeavoring something for the public good." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 4.  "Politeness and consideration for others is like investing pennies and getting dollars back." <br> &emsp;&emsp;&emsp; <i>-by Thomas Sowell</i> 
+ 4.  "You don't have to cook fancy or complicated masterpieces - just good food from fresh ingredients." <br> &emsp;&emsp;&emsp; <i>-by Julia Child</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
