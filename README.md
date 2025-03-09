@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The older I get, the greater power I seem to have to help the world; I am like a snowball - the further I am rolled, the more I gain." <br> &emsp;&emsp;&emsp; <i>-by Susan B. Anthony</i> 
+ 1.  "When we try to pick out anything by itself, we find it hitched to everything else in the Universe." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Better to rely on one powerful king than on many little princes." <br> &emsp;&emsp;&emsp; <i>-by Jean de La Fontaine</i> 
+ 2.  "What is right for one couple is wrong for another. I would say that there are many more important factors to a happy marriage." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "There is one piece of advice, in a life of study, which I think no one will object to; and that is, every now and then to be completely idle - to do nothing at all." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 3.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
 
- 4.  "Strong lives are motivated by dynamic purposes." <br> &emsp;&emsp;&emsp; <i>-by Kenneth Hildebrand</i> 
+ 4.  "It has all been very interesting." <br> &emsp;&emsp;&emsp; <i>-by Lady Mary Wortley Montagu</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
