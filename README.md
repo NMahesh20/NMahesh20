@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we try to pick out anything by itself, we find it hitched to everything else in the Universe." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "I have failed many times, and that's why I am a success." <br> &emsp;&emsp;&emsp; <i>-by Michael Jordan</i> 
 
- 2.  "What is right for one couple is wrong for another. I would say that there are many more important factors to a happy marriage." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "Mach-S, the speed at which stress can't keep up, is simply forward motion. But it has to be self- propelled. Note that people in cars are still stressed." <br> &emsp;&emsp;&emsp; <i>-by Jef Mallett</i> 
 
- 3.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
+ 3.  "I am not an adventurer by choice but by fate." <br> &emsp;&emsp;&emsp; <i>-by Vincent van Gogh</i> 
 
- 4.  "It has all been very interesting." <br> &emsp;&emsp;&emsp; <i>-by Lady Mary Wortley Montagu</i> 
+ 4.  "People who ask our advice almost never take it. Yet we should never refuse to give it, upon request, for it often helps us to see our own way more clearly." <br> &emsp;&emsp;&emsp; <i>-by Brendan Francis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
