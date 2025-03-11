@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have failed many times, and that's why I am a success." <br> &emsp;&emsp;&emsp; <i>-by Michael Jordan</i> 
+ 1.  "A man ought to work. That's what he's here for. That's how he contributes to the welfare of the community." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Mach-S, the speed at which stress can't keep up, is simply forward motion. But it has to be self- propelled. Note that people in cars are still stressed." <br> &emsp;&emsp;&emsp; <i>-by Jef Mallett</i> 
+ 2.  "When real people fall down in life, they get right back up and keep on walking." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 3.  "I am not an adventurer by choice but by fate." <br> &emsp;&emsp;&emsp; <i>-by Vincent van Gogh</i> 
+ 3.  "It is only in adventure that some people succeed in knowing themselves - in finding themselves." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "People who ask our advice almost never take it. Yet we should never refuse to give it, upon request, for it often helps us to see our own way more clearly." <br> &emsp;&emsp;&emsp; <i>-by Brendan Francis</i> 
+ 4.  "A college degree is not a sign that one is a finished product but an indication a person is prepared for life." <br> &emsp;&emsp;&emsp; <i>-by Reverend Edward A. Malloy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
