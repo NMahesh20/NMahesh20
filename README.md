@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A man ought to work. That's what he's here for. That's how he contributes to the welfare of the community." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Most people are good. They may not be saints, but they are good." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Wales</i> 
 
- 2.  "When real people fall down in life, they get right back up and keep on walking." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 2.  "The thing to remember is that that the future comes one day at a time." <br> &emsp;&emsp;&emsp; <i>-by Dean Acheson</i> 
 
- 3.  "It is only in adventure that some people succeed in knowing themselves - in finding themselves." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "Wisdom is knowing what to do next; virtue is doing it." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
 
- 4.  "A college degree is not a sign that one is a finished product but an indication a person is prepared for life." <br> &emsp;&emsp;&emsp; <i>-by Reverend Edward A. Malloy</i> 
+ 4.  "Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crackpot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost." <br> &emsp;&emsp;&emsp; <i>-by Thomas J. Watson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
