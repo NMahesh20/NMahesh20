@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Most people are good. They may not be saints, but they are good." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Wales</i> 
+ 1.  "A man that don't believe in destiny don't need to know what his destiny is." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "The thing to remember is that that the future comes one day at a time." <br> &emsp;&emsp;&emsp; <i>-by Dean Acheson</i> 
+ 2.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "Wisdom is knowing what to do next; virtue is doing it." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
+ 3.  "Every day we do things, we are things that have to do with peace. If we are aware of our life..., our way of looking at things, we will know how to make peace right in the moment, we are alive." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 4.  "Follow the path of the unsafe, independent thinker. Expose your ideas to the dangers of controversy. Speak your mind and fear less the label of 'crackpot' than the stigma of conformity. And on issues that seem important to you, stand up and be counted at any cost." <br> &emsp;&emsp;&emsp; <i>-by Thomas J. Watson</i> 
+ 4.  "Anonymity is the truest expression of altruism." <br> &emsp;&emsp;&emsp; <i>-by Eric Gibson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
