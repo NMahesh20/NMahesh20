@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A man that don't believe in destiny don't need to know what his destiny is." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "That's just the way things go. We meet people, get to know them and then they get up and leave us behind." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "I’m searching through all that has ever been hoped, in praise of what can never be known." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Every day we do things, we are things that have to do with peace. If we are aware of our life..., our way of looking at things, we will know how to make peace right in the moment, we are alive." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 3.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
 
- 4.  "Anonymity is the truest expression of altruism." <br> &emsp;&emsp;&emsp; <i>-by Eric Gibson</i> 
+ 4.  "Wear the old coat and buy the new book." <br> &emsp;&emsp;&emsp; <i>-by Austin Phelps</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
