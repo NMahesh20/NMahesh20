@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's just the way things go. We meet people, get to know them and then they get up and leave us behind." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "What is the point of being alive if you don’t at least try to do something remarkable?" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "I’m searching through all that has ever been hoped, in praise of what can never be known." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "The right things to do are those that keep our violence in abeyance; the wrong things are those that bring it to the fore." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 3.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
+ 3.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 
- 4.  "Wear the old coat and buy the new book." <br> &emsp;&emsp;&emsp; <i>-by Austin Phelps</i> 
+ 4.  "Mama exhorted her children at every opportunity to 'jump at de sun.' We might not land on the sun, but at least we would get off the ground." <br> &emsp;&emsp;&emsp; <i>-by Zora Neale Hurston</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
