@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What is the point of being alive if you don’t at least try to do something remarkable?" <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Don't give advice. It will come back and bite you in the [butt]. Don't take anyone's advice. So, my advice to you is to be true to yourself and everything will be fine." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "The right things to do are those that keep our violence in abeyance; the wrong things are those that bring it to the fore." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 2.  "Worry is a misuse of imagination." <br> &emsp;&emsp;&emsp; <i>-by Dan Zadra</i> 
 
- 3.  "The Argument from Intimidation is a confession of intellectual impotence." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 3.  "The family is the country of the heart." <br> &emsp;&emsp;&emsp; <i>-by Giuseppe Mazzini</i> 
 
- 4.  "Mama exhorted her children at every opportunity to 'jump at de sun.' We might not land on the sun, but at least we would get off the ground." <br> &emsp;&emsp;&emsp; <i>-by Zora Neale Hurston</i> 
+ 4.  "They can do all because they think they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
