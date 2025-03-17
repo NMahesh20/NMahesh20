@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't give advice. It will come back and bite you in the [butt]. Don't take anyone's advice. So, my advice to you is to be true to yourself and everything will be fine." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "I'd rather look ridiculous when everybody else does than plain and sensible all by myself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Worry is a misuse of imagination." <br> &emsp;&emsp;&emsp; <i>-by Dan Zadra</i> 
+ 2.  "Love is the big booming beat which covers up the noise of hate." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "The family is the country of the heart." <br> &emsp;&emsp;&emsp; <i>-by Giuseppe Mazzini</i> 
+ 3.  "To avoid criticism do nothing, say nothing, be nothing." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 
- 4.  "They can do all because they think they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
+ 4.  "Working in the garden...gives me a profound feeling of inner peace." <br> &emsp;&emsp;&emsp; <i>-by Ruth Stout</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
