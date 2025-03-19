@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you don't make mistakes, you're not working on hard enough problems. And that's a big mistake." <br> &emsp;&emsp;&emsp; <i>-by Frank Wilczek</i> 
+ 1.  "Do not be afraid of defeat. you are never so near victory as when defeated in a good cause" <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
 
- 2.  "Words calculated to catch everyone may catch no one." <br> &emsp;&emsp;&emsp; <i>-by Adlai E. Stevenson Jr.</i> 
+ 2.  "A little drama wins more friends than boring." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "To love is to receive a glimpse of heaven." <br> &emsp;&emsp;&emsp; <i>-by Karen Sunde</i> 
+ 3.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
 
- 4.  "I know of no more encouraging fact than the unquestioned ability of a man to elevate his life by conscious endeavor." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
