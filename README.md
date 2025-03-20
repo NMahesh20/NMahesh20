@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Do not be afraid of defeat. you are never so near victory as when defeated in a good cause" <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 1.  "If we choose only to expose ourselves to opinions and viewpoints that are in line to our own, we become more polarized, more set in our own ways. It will only reinforce and deepen the political divides in our country. But if we choose to actively seek out information that challenges our assumptions and beliefs, perhaps we can begin to understand where the people who disagree with us are coming from." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "A little drama wins more friends than boring." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 2.  "What has a man's face to do with his character? Can a man of good character help having a disagreeable face?" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
+ 3.  "If you want peace, stop fighting. If you want peace of mind, stop fighting with your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 4.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
+ 4.  "It is hard to fight an enemy who has outposts in your head." <br> &emsp;&emsp;&emsp; <i>-by Sally Kempton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
