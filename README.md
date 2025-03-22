@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you would be pungent, be brief; for it is with words as with sunbeams - the more they are condensed, the deeper they burn." <br> &emsp;&emsp;&emsp; <i>-by Robert Southey</i> 
+ 1.  "Even on the most exalted throne in the world we are only sitting on our own bottom." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 2.  "Just think of the tragedy of teaching children not to doubt." <br> &emsp;&emsp;&emsp; <i>-by Clarence Darrow</i> 
+ 2.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 3.  "In every power, of which taste is the foundation, excellence is pretty fairly divided between the sexes." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "If my hands are fully occupied in holding on to something, I can neither give nor receive." <br> &emsp;&emsp;&emsp; <i>-by Dorothee Solle</i> 
 
- 4.  "My favorite thing is to go where I've never been." <br> &emsp;&emsp;&emsp; <i>-by Diane Arbus</i> 
+ 4.  "Rich gifts wax poor when givers prove unkind." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
