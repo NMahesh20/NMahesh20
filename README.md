@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Forever is composed of nows." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 1.  "Allowing children to fight their own battles is one of the hardest parenting skills to learn." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "If suffer we must, let's suffer on the heights." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 2.  "It is healthier to see the good points of others than to analyze our own bad ones." <br> &emsp;&emsp;&emsp; <i>-by Francoise Sagan</i> 
 
- 3.  "Preach not to others what they should eat, but eat as becomes you, and be silent." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 3.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 4.  "I used to dread getting older because I thought I would not be able to do all the things I wanted to do, but now that I am older I find that I don't want to do them." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
+ 4.  "Cynicism is not realistic and tough. It's unrealistic and kind of cowardly because it means you don't have to try." <br> &emsp;&emsp;&emsp; <i>-by Peggy Noonan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
