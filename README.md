@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Allowing children to fight their own battles is one of the hardest parenting skills to learn." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Each person has an ideal, a hope, a dream which represents the soul. We must give to it the warmth of love, the light of understanding and the essence of encouragement." <br> &emsp;&emsp;&emsp; <i>-by Colby Dorr Dam</i> 
 
- 2.  "It is healthier to see the good points of others than to analyze our own bad ones." <br> &emsp;&emsp;&emsp; <i>-by Francoise Sagan</i> 
+ 2.  "Don't be afraid to take a big step if one is indicated. You can't cross a chasm in two small jumps." <br> &emsp;&emsp;&emsp; <i>-by David Lloyd George</i> 
 
- 3.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 3.  "We make a living by what we get, we make a life by what we give." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "Cynicism is not realistic and tough. It's unrealistic and kind of cowardly because it means you don't have to try." <br> &emsp;&emsp;&emsp; <i>-by Peggy Noonan</i> 
+ 4.  "Ambition often puts men upon doing the meanest offices; so climbing is performed in the same posture with creeping." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
