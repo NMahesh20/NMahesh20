@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I honestly don't know how you live without having a cat inside your house. It's like having a little living piece of art that is also very warm and soft." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "Avoidance is a great tool to get away from food in my face all day long." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Perpetual optimism is a force multiplier." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 2.  "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 3.  "Imagination is more important than knowledge..." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "Resolve to be thyself: and know, that he who finds himself, loses his misery." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 4.  "Temptation rarely comes in working hours. It is in their leisure time that men are made or marred." <br> &emsp;&emsp;&emsp; <i>-by W. N. Taylor</i> 
+ 4.  "Silence is more musical than any song." <br> &emsp;&emsp;&emsp; <i>-by Christina Rossetti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
