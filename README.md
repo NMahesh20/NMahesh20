@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Avoidance is a great tool to get away from food in my face all day long." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "There ain't no such thing as wrong food." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 
- 2.  "Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars... Hate cannot drive out hate: only love can do that." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 2.  "Try to put your happiness before anyone else's, because you may never have done so in your entire life, if you really think about it, if you are really honest with yourself." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "Resolve to be thyself: and know, that he who finds himself, loses his misery." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 3.  "Far better it is to dare mighty things, to win glorious triumphs even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much because they live in the gray twilight that knows neither victory nor defeat." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 4.  "Silence is more musical than any song." <br> &emsp;&emsp;&emsp; <i>-by Christina Rossetti</i> 
+ 4.  "We forfeit three-fourths of ourselves in order to be like other people." <br> &emsp;&emsp;&emsp; <i>-by Arthur Schopenhauer</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
