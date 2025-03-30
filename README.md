@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There ain't no such thing as wrong food." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 1.  "It is very difficult to know people and I don't think one can ever really know any but one's own countrymen. For men and women are not only themselves; they are also the region in which they are born, the city apartment or the farm in which they learnt to walk, the games they played as children, the old wives' tales they overheard, the food they ate, the schools they attended, the sports they followed, the poets they read, and the God they believed in. It is all these things that have made them what they are, and these are the things that you can't come to know by hearsay, you can only know them if you have lived them." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Try to put your happiness before anyone else's, because you may never have done so in your entire life, if you really think about it, if you are really honest with yourself." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
 
- 3.  "Far better it is to dare mighty things, to win glorious triumphs even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much because they live in the gray twilight that knows neither victory nor defeat." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 3.  "When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "We forfeit three-fourths of ourselves in order to be like other people." <br> &emsp;&emsp;&emsp; <i>-by Arthur Schopenhauer</i> 
+ 4.  "If you can give your son or daughter only one gift, let it be enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Bruce Barton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
