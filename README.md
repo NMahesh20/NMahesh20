@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is very difficult to know people and I don't think one can ever really know any but one's own countrymen. For men and women are not only themselves; they are also the region in which they are born, the city apartment or the farm in which they learnt to walk, the games they played as children, the old wives' tales they overheard, the food they ate, the schools they attended, the sports they followed, the poets they read, and the God they believed in. It is all these things that have made them what they are, and these are the things that you can't come to know by hearsay, you can only know them if you have lived them." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Adversity does teach who your real friends are." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 2.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
+ 2.  "Many people think that if they were only in some other place, or had some other job, they would be happy. Well, that is doubtful. So get as much happiness out of what you are doing as you can and don't put off being happy until some future date." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 3.  "When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "Everyone is a prisoner of his own experiences. No one can eliminate prejudices - just recognize them." <br> &emsp;&emsp;&emsp; <i>-by Edward R. Murrow</i> 
 
- 4.  "If you can give your son or daughter only one gift, let it be enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Bruce Barton</i> 
+ 4.  "Tomatoes and oregano make it Italian; wine and tarragon make it French. Sour cream makes it Russian; lemon and cinnamon make it Greek. Soy sauce makes it Chinese; garlic makes it good." <br> &emsp;&emsp;&emsp; <i>-by Alice May Brock</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
