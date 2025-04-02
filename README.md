@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We buy our way out of jail but we can't buy freedom,/ We buy a lot of clothes when we don't really need them,/ Things we buy to cover up what's inside." <br> &emsp;&emsp;&emsp; <i>-by Kanye West</i> 
+ 1.  "Nothing happens to any thing which that thing is not made by nature to bear." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 2.  "Character - the willingness to accept responsibility for one's own life - is the source from which self respect springs." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 2.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
 
- 3.  "Rumor travels faster, but it don't stay put as long as truth." <br> &emsp;&emsp;&emsp; <i>-by Will Rogers</i> 
+ 3.  "Remember that happiness is a way of travel - not a destination." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Goodman</i> 
 
- 4.  "...it is as hard to do your duty when men are sneering at you as when they are shooting at you." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 4.  "I consider being ill as one of the great pleasures of life, provided one is not too ill." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
