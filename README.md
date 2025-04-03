@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing happens to any thing which that thing is not made by nature to bear." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 1.  "The mind's first step to self-awareness must be through the body." <br> &emsp;&emsp;&emsp; <i>-by George Sheehan</i> 
 
- 2.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
+ 2.  "It is easier to get forgiveness than permission." <br> &emsp;&emsp;&emsp; <i>-by Stuart's Law of Retroaction</i> 
 
- 3.  "Remember that happiness is a way of travel - not a destination." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Goodman</i> 
+ 3.  "I bid him look into the lives of men as though into a mirror, and from others to take an example for himself." <br> &emsp;&emsp;&emsp; <i>-by Terence</i> 
 
- 4.  "I consider being ill as one of the great pleasures of life, provided one is not too ill." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
+ 4.  "Do not consider painful what is good for you." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
