@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The mind's first step to self-awareness must be through the body." <br> &emsp;&emsp;&emsp; <i>-by George Sheehan</i> 
+ 1.  "Good manners are just a way of showing other people that we have respect for them." <br> &emsp;&emsp;&emsp; <i>-by Bill Kelly</i> 
 
- 2.  "It is easier to get forgiveness than permission." <br> &emsp;&emsp;&emsp; <i>-by Stuart's Law of Retroaction</i> 
+ 2.  "There is no old age. There is, as there always was, just you." <br> &emsp;&emsp;&emsp; <i>-by Carol Matthau</i> 
 
- 3.  "I bid him look into the lives of men as though into a mirror, and from others to take an example for himself." <br> &emsp;&emsp;&emsp; <i>-by Terence</i> 
+ 3.  "It's never too late to be who you might have been." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 
- 4.  "Do not consider painful what is good for you." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
+ 4.  "A friend is a second self." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
