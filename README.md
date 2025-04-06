@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Reading is no substitute for action." <br> &emsp;&emsp;&emsp; <i>-by Colleen Wainwright</i> 
+ 1.  "When a quiet man is moved to passion, it seems the very earth will shake." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 2.  "Hope doesn't come from calculating whether the good news is winning out over the bad. It's simply a choice to take action." <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
+ 2.  "He can make me love something just by showing me the energy with which he loves it." <br> &emsp;&emsp;&emsp; <i>-by Heather Armstrong</i> 
 
- 3.  "I know God will not give me anything I can't handle. I just wish that He didn't trust me so much." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 3.  "When something that honest is said it usually needs a few minutes of silence to dissipate." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
 
- 4.  "Under all speech that is good for anything there lies a silence that is better. Silence is deep as Eternity; speech is shallow as Time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
+ 4.  "You will find that the mere resolve not to be useless, and the honest desire to help other people, will, in the quickest and delicatest ways, improve yourself." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
