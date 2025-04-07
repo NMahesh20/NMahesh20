@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When a quiet man is moved to passion, it seems the very earth will shake." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 1.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "He can make me love something just by showing me the energy with which he loves it." <br> &emsp;&emsp;&emsp; <i>-by Heather Armstrong</i> 
+ 2.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 
- 3.  "When something that honest is said it usually needs a few minutes of silence to dissipate." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
+ 3.  "Mortal lovers must not try to remain at the first step; for lasting passion is the dream of a harlot and from it we wake in despair." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
 
- 4.  "You will find that the mere resolve not to be useless, and the honest desire to help other people, will, in the quickest and delicatest ways, improve yourself." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "Facing it, always facing it, that's the way to get through. Face it." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
