@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Family connexions were always worth preserving, good company always worth seeking." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 2.  "Let us develop the resources of our land, call forth our powers, build up its institutions, promote all its great interests, and see whether we also, in our day and generation, may not perform something worthy to be remembered." <br> &emsp;&emsp;&emsp; <i>-by Daniel Webster</i> 
 
- 3.  "Mortal lovers must not try to remain at the first step; for lasting passion is the dream of a harlot and from it we wake in despair." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
+ 3.  "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 4.  "Facing it, always facing it, that's the way to get through. Face it." <br> &emsp;&emsp;&emsp; <i>-by Joseph Conrad</i> 
+ 4.  "When you drink the water, remember the spring." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
