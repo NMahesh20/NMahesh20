@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Family connexions were always worth preserving, good company always worth seeking." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Empathy is at the heart of the actor's art." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "Let us develop the resources of our land, call forth our powers, build up its institutions, promote all its great interests, and see whether we also, in our day and generation, may not perform something worthy to be remembered." <br> &emsp;&emsp;&emsp; <i>-by Daniel Webster</i> 
+ 2.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 3.  "There is no Them, there is only Us. Some of Us think this or some of Us think that, but we're all Us." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 4.  "When you drink the water, remember the spring." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "Seek not happiness too greedily, and be not fearful of happiness." <br> &emsp;&emsp;&emsp; <i>-by Lao-tzu</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
