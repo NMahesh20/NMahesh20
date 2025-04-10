@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Empathy is at the heart of the actor's art." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "If you really want to do something, you do it. You don't save it for a sound bite." <br> &emsp;&emsp;&emsp; <i>-by Liz Friedman</i> 
 
- 2.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "Neither enemy faces, nor the mothers that love them, come to mind when one is thinking of nothing but endeavouring to survive. Philosophising about war is useless under fire." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
 
- 3.  "There is no Them, there is only Us. Some of Us think this or some of Us think that, but we're all Us." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 3.  "Part of being a Master is learning how to sing in nobody else's voice but your own." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 4.  "Seek not happiness too greedily, and be not fearful of happiness." <br> &emsp;&emsp;&emsp; <i>-by Lao-tzu</i> 
+ 4.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
