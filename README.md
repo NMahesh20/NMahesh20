@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you really want to do something, you do it. You don't save it for a sound bite." <br> &emsp;&emsp;&emsp; <i>-by Liz Friedman</i> 
+ 1.  "Never let the fear of failure be an excuse for not trying. Society tells us that to fail is the most terrible thing in the world, but I know it isn't. Failure is part of what makes us human." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
 
- 2.  "Neither enemy faces, nor the mothers that love them, come to mind when one is thinking of nothing but endeavouring to survive. Philosophising about war is useless under fire." <br> &emsp;&emsp;&emsp; <i>-by Linda Berdoll</i> 
+ 2.  "We cannot fail to win unless we fail to try." <br> &emsp;&emsp;&emsp; <i>-by Tom Clancy</i> 
 
- 3.  "Part of being a Master is learning how to sing in nobody else's voice but your own." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 3.  "The past is finished. There is nothing to be gained by going over it. Whatever it gave us in the experiences it brought us was something we had to know." <br> &emsp;&emsp;&emsp; <i>-by Rebecca Beard</i> 
 
- 4.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 4.  "Each handicap is like a hurdle in a steeplechase, and when you ride up to it, if you throw your heart over, the horse will go along, too." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Bixby</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
