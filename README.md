@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Confidence is 10% hard work and 90% delusion." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
+ 1.  "Life is a reciprocal exchange. To move forward, you have to give back." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "I guess we'd be living in a boring, perfect world if everybody wished everybody else well." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
+ 2.  "[Addiction's] not about placating the bad dog - it's about feeding the good dog. You still have to feed the bad dog, but only enough so that the ASPCA doesn't bring you up on charges." <br> &emsp;&emsp;&emsp; <i>-by Robert Downey Jr.</i> 
 
- 3.  "The words 'I am...' are potent words; be careful what you hitch them to. The thing you're claiming has a way of reaching back and claiming you." <br> &emsp;&emsp;&emsp; <i>-by A. L. Kitselman</i> 
+ 3.  "A mother is not a person to lean on but a person to make leaning unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Dorothy C. Fisher</i> 
 
- 4.  "Fall seven times, stand up eight." <br> &emsp;&emsp;&emsp; <i>-by Japanese Proverb</i> 
+ 4.  "Miracles: You do not have to look for them. They are there, 24-7, beaming like radio waves all around you. Put up the antenna, turn up the volume - snap... crackle... this just in, every person you talk to is a chance to change the world..." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
