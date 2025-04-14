@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is a reciprocal exchange. To move forward, you have to give back." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Talent and intelligence never yet inoculated anyone against the caprice of the fates." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "[Addiction's] not about placating the bad dog - it's about feeding the good dog. You still have to feed the bad dog, but only enough so that the ASPCA doesn't bring you up on charges." <br> &emsp;&emsp;&emsp; <i>-by Robert Downey Jr.</i> 
+ 2.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 3.  "A mother is not a person to lean on but a person to make leaning unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Dorothy C. Fisher</i> 
+ 3.  "If someone offers you a gift, and you decline to accept it, the other person still owns that gift. The same is true of insults and verbal attacks." <br> &emsp;&emsp;&emsp; <i>-by Steve Pavlina</i> 
 
- 4.  "Miracles: You do not have to look for them. They are there, 24-7, beaming like radio waves all around you. Put up the antenna, turn up the volume - snap... crackle... this just in, every person you talk to is a chance to change the world..." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 4.  "Leadership is based on inspiration, not domination; on cooperation, not intimidation." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Wood</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
