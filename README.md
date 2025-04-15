@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Talent and intelligence never yet inoculated anyone against the caprice of the fates." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "For myself I am an optimist - it does not seem to be much use being anything else." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 2.  "For me, it's that I contributed, ... That I'm on this planet doing some good and making people happy. That's to me the most important thing, that my hour of television is positive and upbeat and an antidote for all the negative stuff going on in life." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 2.  "Chase after truth like hell and you'll free yourself, even though you never touch its coat-tails." <br> &emsp;&emsp;&emsp; <i>-by Clarence Darrow</i> 
 
- 3.  "If someone offers you a gift, and you decline to accept it, the other person still owns that gift. The same is true of insults and verbal attacks." <br> &emsp;&emsp;&emsp; <i>-by Steve Pavlina</i> 
+ 3.  "Own only what you can carry with you; know language, know countries, know people. Let your memory be your travel bag." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
 
- 4.  "Leadership is based on inspiration, not domination; on cooperation, not intimidation." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Wood</i> 
+ 4.  "Most powerful is he who has himself in his own power." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
