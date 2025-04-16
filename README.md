@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For myself I am an optimist - it does not seem to be much use being anything else." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 1.  "When a dog runs at you, whistle for him." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "Chase after truth like hell and you'll free yourself, even though you never touch its coat-tails." <br> &emsp;&emsp;&emsp; <i>-by Clarence Darrow</i> 
+ 2.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
 
- 3.  "Own only what you can carry with you; know language, know countries, know people. Let your memory be your travel bag." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
+ 3.  "So you see, imagination needs moodling - long, inefficient, happy idling, dawdling and puttering." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
 
- 4.  "Most powerful is he who has himself in his own power." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Give me the splendid silent sun with all his beams full-dazzling." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
