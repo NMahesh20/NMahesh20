@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When a dog runs at you, whistle for him." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "'Where and how can I make this meal better for me?' I asked myself that question before every meal—especially in the beginning." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "My future starts when I wake up every morning... Every day I find something creative to do with my life." <br> &emsp;&emsp;&emsp; <i>-by Miles Davis</i> 
+ 2.  "Obsessions and fixations are not really my field. All I know, when the mind really grabs hold of something, look out." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
 
- 3.  "So you see, imagination needs moodling - long, inefficient, happy idling, dawdling and puttering." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
+ 3.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
 
- 4.  "Give me the splendid silent sun with all his beams full-dazzling." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "I don't believe in intuition. When you get sudden flashes of perception, it is just the brain working faster than usual. But you've been getting ready to know it for a long time, and when it comes, you feel you've known it always." <br> &emsp;&emsp;&emsp; <i>-by Katherine Anne Porter</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
