@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "'Where and how can I make this meal better for me?' I asked myself that question before every meal—especially in the beginning." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Don't live in a town where there are no doctors." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 2.  "Obsessions and fixations are not really my field. All I know, when the mind really grabs hold of something, look out." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
+ 2.  "If you aren't fired with enthusiasm, you will be fired with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
 
- 3.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
+ 3.  "Destiny is no matter of chance. It is a matter of choice. It is not a thing to be waited for, it is a thing to be achieved." <br> &emsp;&emsp;&emsp; <i>-by William Jennings Bryan</i> 
 
- 4.  "I don't believe in intuition. When you get sudden flashes of perception, it is just the brain working faster than usual. But you've been getting ready to know it for a long time, and when it comes, you feel you've known it always." <br> &emsp;&emsp;&emsp; <i>-by Katherine Anne Porter</i> 
+ 4.  "For the night was not impartial. No, the night loved some more than others, served some more than others." <br> &emsp;&emsp;&emsp; <i>-by Eudora Welty</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
