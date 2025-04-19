@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't live in a town where there are no doctors." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 1.  "The urge to make art or contemplate philosophy does not go away when you are sick. Those urges just become transfigured by illness." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "If you aren't fired with enthusiasm, you will be fired with enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
+ 2.  "Anything you could ever want or be you already have and are." <br> &emsp;&emsp;&emsp; <i>-by David Russell</i> 
 
- 3.  "Destiny is no matter of chance. It is a matter of choice. It is not a thing to be waited for, it is a thing to be achieved." <br> &emsp;&emsp;&emsp; <i>-by William Jennings Bryan</i> 
+ 3.  "There are some things you learn best in calm, and some in storm." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 4.  "For the night was not impartial. No, the night loved some more than others, served some more than others." <br> &emsp;&emsp;&emsp; <i>-by Eudora Welty</i> 
+ 4.  "I simply cannot understand the passion that some people have for making themselves thoroughly uncomfortable and then boasting about it afterwards." <br> &emsp;&emsp;&emsp; <i>-by Patricia Moyes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
