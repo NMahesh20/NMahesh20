@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The urge to make art or contemplate philosophy does not go away when you are sick. Those urges just become transfigured by illness." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Getting enough sleep can be just as important as working out." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Anything you could ever want or be you already have and are." <br> &emsp;&emsp;&emsp; <i>-by David Russell</i> 
+ 2.  "Great people and great athletes realize early in their lives their destiny, and accept it. Even if they do not consciously realize the how, the where, the what." <br> &emsp;&emsp;&emsp; <i>-by Percy Cerutty</i> 
 
- 3.  "There are some things you learn best in calm, and some in storm." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 3.  "You don't need fancy highbrow traditions or money to really learn. You just need people with the desire to better themselves." <br> &emsp;&emsp;&emsp; <i>-by Adam Cooper and Bill Collage</i> 
 
- 4.  "I simply cannot understand the passion that some people have for making themselves thoroughly uncomfortable and then boasting about it afterwards." <br> &emsp;&emsp;&emsp; <i>-by Patricia Moyes</i> 
+ 4.  "Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
