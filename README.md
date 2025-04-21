@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Getting enough sleep can be just as important as working out." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "An old house with its windows gone always makes me think of something dead with its eyes picked out." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Great people and great athletes realize early in their lives their destiny, and accept it. Even if they do not consciously realize the how, the where, the what." <br> &emsp;&emsp;&emsp; <i>-by Percy Cerutty</i> 
+ 2.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "You don't need fancy highbrow traditions or money to really learn. You just need people with the desire to better themselves." <br> &emsp;&emsp;&emsp; <i>-by Adam Cooper and Bill Collage</i> 
+ 3.  "Death is more universal than life; everyone dies but not everyone lives." <br> &emsp;&emsp;&emsp; <i>-by A. Sachs</i> 
 
- 4.  "Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
+ 4.  "Flying may not be all plain sailing, but the fun of it is worth the price." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
