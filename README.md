@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "An old house with its windows gone always makes me think of something dead with its eyes picked out." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "If I've learned one thing in the 14 years I've been a full-time cartoonist, it's that you can not let anyone else define your professionalism. It has to be a personal ethos to which you adhere despite third party influence or acceptance. The old measuring sticks for professionalism are going away and now more than ever it's time for independent creatives to set the bar. Set it high." <br> &emsp;&emsp;&emsp; <i>-by Scott R. Kurtz</i> 
 
- 2.  "Some relationships start with fights... But, usually only in romantic comedies. Life's not the movies." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "Your world is made of your memories, and your memories are given to you by your world. The whispering voice of happenstance is always in our ears. 'This is the world. This is the way things are. Look. Pay attention. Remember.'" <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Death is more universal than life; everyone dies but not everyone lives." <br> &emsp;&emsp;&emsp; <i>-by A. Sachs</i> 
+ 3.  "A person who forgoes the use of his symbolic skills is never really free." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 4.  "Flying may not be all plain sailing, but the fun of it is worth the price." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
+ 4.  "Peace is not a relationship of nations. It is a condition of mind brought about by a serenity of soul. Peace is not merely the absence of war. It is also a state of mind. Lasting peace can come only to peaceful people." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
