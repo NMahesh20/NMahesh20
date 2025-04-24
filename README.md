@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All important persons have about them someone in a subordinate position who has their ear. These dependents are very susceptible to slights, and, when they are not treated as they think they should be, will by well-directed shafts, constantly repeated, poison the minds of their patrons against those who have provoked their animosity. It is well to keep in with them." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "There are an awful lot of scientists today who believe that before very long we shall have unraveled all the secrets of the universe. There will be no puzzles anymore. To me it'd be really, really tragic because I think one of the most exciting things is this feeling of mystery, feeling of awe, the feeling of looking at a little live thing and being amazed by it and how its emerged through these hundreds of years of evolution and there it is and it is perfect and why." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 2.  "[S]he refused to be bored chiefly because she wasn’t boring." <br> &emsp;&emsp;&emsp; <i>-by Zelda Fitzgerald</i> 
 
- 3.  "The heads of strong old age are beautiful beyond all grace of youth." <br> &emsp;&emsp;&emsp; <i>-by Robinson Jeffers</i> 
+ 3.  "How little a thing can make us happy when we feel that we have earned it." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "Ideals are like stars: you will not succeed in touching them with your hands, but like the seafaring man on the ocean desert of waters, you choose them as your guides, and following them, you reach your destiny." <br> &emsp;&emsp;&emsp; <i>-by Carl Schurz</i> 
+ 4.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
