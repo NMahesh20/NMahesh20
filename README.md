@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are an awful lot of scientists today who believe that before very long we shall have unraveled all the secrets of the universe. There will be no puzzles anymore. To me it'd be really, really tragic because I think one of the most exciting things is this feeling of mystery, feeling of awe, the feeling of looking at a little live thing and being amazed by it and how its emerged through these hundreds of years of evolution and there it is and it is perfect and why." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "No matter how far you travel or how much you run from it, can you ever really escape your past?" <br> &emsp;&emsp;&emsp; <i>-by Becky Hartman Edwards and Michael Patrick King</i> 
 
- 2.  "[S]he refused to be bored chiefly because she wasn’t boring." <br> &emsp;&emsp;&emsp; <i>-by Zelda Fitzgerald</i> 
+ 2.  "Learn as much by writing as by reading." <br> &emsp;&emsp;&emsp; <i>-by Lord Acton</i> 
 
- 3.  "How little a thing can make us happy when we feel that we have earned it." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "The happiest is the person who suffers the least pain; the most miserable who enjoys the least pleasure." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
 
- 4.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
+ 4.  "Hail to you gods, on that day of the great reckoning. Behold me, I have come to you, without sin, without guilt, without evil, without a witness against me, without one whom I have wronged. I am one pure of mouth, pure of hands." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Dead</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
