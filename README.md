@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you think, be sure it is what you think; whatever you want, be sure that is what you want; whatever you feel, be sure that is what you feel." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 1.  "We all have the power to choose how we are going to handle every situation we are faced with throughout our lives. We are in control of the decision we make whether it’s about work, relationships, parenting, or our health." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "I've grown certain that the root of all fear is that we've been forced to deny who we are." <br> &emsp;&emsp;&emsp; <i>-by Frances Moore Lappe</i> 
+ 2.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 3.  "A man who doesn't trust himself can never truly trust anyone else." <br> &emsp;&emsp;&emsp; <i>-by Cardinal de Retz</i> 
+ 3.  "Never stand begging for that which you have the power to earn." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
 
- 4.  "You can't do anything about the length of your life, but you can do something about its width and depth." <br> &emsp;&emsp;&emsp; <i>-by Evan Esar</i> 
+ 4.  "Eighty percent of success is showing up." <br> &emsp;&emsp;&emsp; <i>-by Woody Allen</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
