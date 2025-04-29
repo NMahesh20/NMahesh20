@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all have the power to choose how we are going to handle every situation we are faced with throughout our lives. We are in control of the decision we make whether it’s about work, relationships, parenting, or our health." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "This time, like all times, is a very good one, if we but know what to do with it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 2.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 2.  "The game of life is the game of boomerangs. Our thoughts, deeds and words return to us sooner or later, with astounding accuracy." <br> &emsp;&emsp;&emsp; <i>-by Florence Shinn</i> 
 
- 3.  "Never stand begging for that which you have the power to earn." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 3.  "You have to be careful who you let define your good." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "Eighty percent of success is showing up." <br> &emsp;&emsp;&emsp; <i>-by Woody Allen</i> 
+ 4.  "Mistakes, obviously, show us what needs improving. Without mistakes, how would we know what we had to work on?" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
