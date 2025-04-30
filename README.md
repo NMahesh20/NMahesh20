@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "This time, like all times, is a very good one, if we but know what to do with it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 1.  "...myopia. He was nearsighted. The future lay before him, inevitable but invisible." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "The game of life is the game of boomerangs. Our thoughts, deeds and words return to us sooner or later, with astounding accuracy." <br> &emsp;&emsp;&emsp; <i>-by Florence Shinn</i> 
+ 2.  "I'm not judging people, I'm judging their actions. It's the same type of distinction that I try to apply to myself, to judge, but not be judgmental." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 3.  "You have to be careful who you let define your good." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "I believe that [everyone] is the keeper of a dream - and by tuning into one another's secret hopes, we can become better friends, better partners, better parents, and better lovers." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Mistakes, obviously, show us what needs improving. Without mistakes, how would we know what we had to work on?" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 4.  "Everything that irritates us about others can lead us to an understanding of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
