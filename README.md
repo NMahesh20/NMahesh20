@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One remembers horrors, I think, for the rest of one's life, but memories do not always remain so sharp, and with time, and new circumstance, do not affect us so powerfully." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 2.  "Turns out if you never lie, there's always someone mad at you." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 2.  "The art of dining well is no slight art, the pleasure not a slight pleasure." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 3.  "The human tendency to regard little things as important has produced very many great things." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 3.  "Anger is a signal, and one worth listening to." <br> &emsp;&emsp;&emsp; <i>-by Harriet Lerner</i> 
 
- 4.  "We can only learn to love by loving." <br> &emsp;&emsp;&emsp; <i>-by Iris Murdoch</i> 
+ 4.  "Courage is the price that Life exacts for granting peace." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
