@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Language most shews a man: Speak, that I may see thee." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 1.  "We lie the loudest when we lie to ourselves." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 2.  "The art of dining well is no slight art, the pleasure not a slight pleasure." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 2.  "You can either hold yourself up to the unrealistic standards of others, or ignore them and concentrate on being happy with yourself as you are." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 3.  "Anger is a signal, and one worth listening to." <br> &emsp;&emsp;&emsp; <i>-by Harriet Lerner</i> 
+ 3.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 
- 4.  "Courage is the price that Life exacts for granting peace." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
+ 4.  "I think people that have a brother or sister don't realize how lucky they are. Sure, they fight a lot, but to know that there's always somebody there, somebody that's family." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
