@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We lie the loudest when we lie to ourselves." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 1.  "There's only so much you can do, but if somebody doesn't give you a chance there is nothing you can do." <br> &emsp;&emsp;&emsp; <i>-by Charlize Theron</i> 
 
- 2.  "You can either hold yourself up to the unrealistic standards of others, or ignore them and concentrate on being happy with yourself as you are." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 2.  "In order for people to be happy, sometimes they have to take risks. It's true these risks can put them in danger of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Meg Cabot</i> 
 
- 3.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 3.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
 
- 4.  "I think people that have a brother or sister don't realize how lucky they are. Sure, they fight a lot, but to know that there's always somebody there, somebody that's family." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 4.  "Worries go down better with soup than without." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
