@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's only so much you can do, but if somebody doesn't give you a chance there is nothing you can do." <br> &emsp;&emsp;&emsp; <i>-by Charlize Theron</i> 
+ 1.  "There is a lot more to life than just struggling to make money." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 2.  "In order for people to be happy, sometimes they have to take risks. It's true these risks can put them in danger of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Meg Cabot</i> 
+ 2.  "We are all born with wonderful gifts. We use these gifts to express ourselves, to amuse, to strengthen, and to communicate. We begin as children to explore and develop our talents, often unaware that we are unique, that not everyone can do what we're doing!" <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 3.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
+ 3.  "Call no man foe, but never love a stranger." <br> &emsp;&emsp;&emsp; <i>-by Stella Benson</i> 
 
- 4.  "Worries go down better with soup than without." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "Get not your friends by bare compliments, but by giving them sensible tokens of your love." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
