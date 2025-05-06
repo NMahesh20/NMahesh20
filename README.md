@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is a lot more to life than just struggling to make money." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "I paint self-portraits because I am so often alone, because I am the person I know best." <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
 
- 2.  "We are all born with wonderful gifts. We use these gifts to express ourselves, to amuse, to strengthen, and to communicate. We begin as children to explore and develop our talents, often unaware that we are unique, that not everyone can do what we're doing!" <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 2.  "The great thing about a computer notebook is that no matter how much you stuff into it, it doesn't get bigger or heavier." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
 
- 3.  "Call no man foe, but never love a stranger." <br> &emsp;&emsp;&emsp; <i>-by Stella Benson</i> 
+ 3.  "Beware of the man who won't be bothered with details." <br> &emsp;&emsp;&emsp; <i>-by William Feather</i> 
 
- 4.  "Get not your friends by bare compliments, but by giving them sensible tokens of your love." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 4.  "When you have loved as she has loved, you grow old beautifully." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
