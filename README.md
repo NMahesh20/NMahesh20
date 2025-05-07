@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I paint self-portraits because I am so often alone, because I am the person I know best." <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
+ 1.  "A single day is enough to make us a little larger." <br> &emsp;&emsp;&emsp; <i>-by Paul Klee</i> 
 
- 2.  "The great thing about a computer notebook is that no matter how much you stuff into it, it doesn't get bigger or heavier." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
+ 2.  "I have never been hurt by anything I didn't say." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
 
- 3.  "Beware of the man who won't be bothered with details." <br> &emsp;&emsp;&emsp; <i>-by William Feather</i> 
+ 3.  "Experience teaches slowly and at the cost of mistakes." <br> &emsp;&emsp;&emsp; <i>-by James A. Froude</i> 
 
- 4.  "When you have loved as she has loved, you grow old beautifully." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Real success is finding your lifework in the work that you love." <br> &emsp;&emsp;&emsp; <i>-by David McCullough</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
