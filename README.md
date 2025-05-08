@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A single day is enough to make us a little larger." <br> &emsp;&emsp;&emsp; <i>-by Paul Klee</i> 
+ 1.  "Sometimes, a person who likes your work and a person who don’t will show up within milliseconds of each other to let you know how they feel. One does not need to cancel out the other, positively or negatively; if you’re proud of the work, and you enjoyed the work, that is what’s important." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "I have never been hurt by anything I didn't say." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
+ 2.  "Making excuses is not going to get me any closer to my goals." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 3.  "Experience teaches slowly and at the cost of mistakes." <br> &emsp;&emsp;&emsp; <i>-by James A. Froude</i> 
+ 3.  "It's all knowing what to start with. If you start in the right place and follow all the steps, you will get to the right end." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
 
- 4.  "Real success is finding your lifework in the work that you love." <br> &emsp;&emsp;&emsp; <i>-by David McCullough</i> 
+ 4.  "A harbor, even if it is a little harbor, is a good thing... It takes something from the world, and has something to give in return." <br> &emsp;&emsp;&emsp; <i>-by Sarah Orne Jewett</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
