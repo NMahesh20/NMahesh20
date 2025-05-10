@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes love will pick you up by the short hairs...and jerk the heck out of you." <br> &emsp;&emsp;&emsp; <i>-by Denise Dobbs</i> 
+ 1.  "It is ever so much easier to be good if your clothes are fashionable." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
+ 2.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
 
- 3.  "Search others for their virtues, thyself for thy vices." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "Keep true to the dreams of thy youth." <br> &emsp;&emsp;&emsp; <i>-by Friedrich von Schiller</i> 
 
- 4.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "I reached for sleep and drew it round me like a blanket muffling pain and thought together in the merciful dark." <br> &emsp;&emsp;&emsp; <i>-by Mary Stewart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
