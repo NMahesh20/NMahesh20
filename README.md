@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is ever so much easier to be good if your clothes are fashionable." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Success is really about being ready for the good opportunities that come before you. It's not to have a detailed plan of everything that you're going to do. You can't plan innovation or inspiration, but you can be ready for it, and when you see it, you can jump on it." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
+ 2.  "To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer, is to have kept your soul alive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 3.  "Keep true to the dreams of thy youth." <br> &emsp;&emsp;&emsp; <i>-by Friedrich von Schiller</i> 
+ 3.  "Leadership and learning are indispensable to each other." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 4.  "I reached for sleep and drew it round me like a blanket muffling pain and thought together in the merciful dark." <br> &emsp;&emsp;&emsp; <i>-by Mary Stewart</i> 
+ 4.  "Through all the world there goes one long cry from the heart of the artist: Give me leave to do my utmost." <br> &emsp;&emsp;&emsp; <i>-by Isak Dineson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
