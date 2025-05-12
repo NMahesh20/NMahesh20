@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success is really about being ready for the good opportunities that come before you. It's not to have a detailed plan of everything that you're going to do. You can't plan innovation or inspiration, but you can be ready for it, and when you see it, you can jump on it." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "There is only one you... Don't you dare change just because you're outnumbered!" <br> &emsp;&emsp;&emsp; <i>-by Charles Swindoll</i> 
 
- 2.  "To know what you prefer instead of humbly saying Amen to what the world tells you you ought to prefer, is to have kept your soul alive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 2.  "Truth is tough. It will not break, like a bubble, at a touch; nay, you may kick it about all day like a football, and it will be round and full at evening." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 3.  "Leadership and learning are indispensable to each other." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "Hares can gambol over the body of a dead lion." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "Through all the world there goes one long cry from the heart of the artist: Give me leave to do my utmost." <br> &emsp;&emsp;&emsp; <i>-by Isak Dineson</i> 
+ 4.  "Laughter is inner jogging." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
