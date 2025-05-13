@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is only one you... Don't you dare change just because you're outnumbered!" <br> &emsp;&emsp;&emsp; <i>-by Charles Swindoll</i> 
+ 1.  "Part of being a hero is knowing when you don't need to be one anymore." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
 
- 2.  "Truth is tough. It will not break, like a bubble, at a touch; nay, you may kick it about all day like a football, and it will be round and full at evening." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 2.  "But the life that no longer trust another human being and no longer forms ties to the political community is not a human life any longer." <br> &emsp;&emsp;&emsp; <i>-by Martha Nussbaum</i> 
 
- 3.  "Hares can gambol over the body of a dead lion." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "Death is the enemy. I spent 10 years of my life singlemindedly studying, practicing, fighting hand to hand in close quarters to defeat the enemy, to send him back bloodied and humble and I am not going to roll over and surrender." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 4.  "Laughter is inner jogging." <br> &emsp;&emsp;&emsp; <i>-by Norman Cousins</i> 
+ 4.  "Just the knowledge that a good book is awaiting one at the end of a long day makes that day happier." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
