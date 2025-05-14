@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Part of being a hero is knowing when you don't need to be one anymore." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
+ 1.  "If we discover a desire within us that nothing in this world can satisfy, also we should begin to wonder if perhaps we were created for another world." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
 
- 2.  "But the life that no longer trust another human being and no longer forms ties to the political community is not a human life any longer." <br> &emsp;&emsp;&emsp; <i>-by Martha Nussbaum</i> 
+ 2.  "I began to have an idea of my life, not as the slow shaping of achievement to fit my preconceived purposes, but as the gradual discovery and growth of a purpose which I did not know." <br> &emsp;&emsp;&emsp; <i>-by Joanna Field</i> 
 
- 3.  "Death is the enemy. I spent 10 years of my life singlemindedly studying, practicing, fighting hand to hand in close quarters to defeat the enemy, to send him back bloodied and humble and I am not going to roll over and surrender." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 3.  "Passion kept one fully in the present, so that time became a series of mutually exclusive 'nows.'" <br> &emsp;&emsp;&emsp; <i>-by Sue Halpern</i> 
 
- 4.  "Just the knowledge that a good book is awaiting one at the end of a long day makes that day happier." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
+ 4.  "Convinced myself, I seek not to convince." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
