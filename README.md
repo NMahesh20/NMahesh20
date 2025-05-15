@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If we discover a desire within us that nothing in this world can satisfy, also we should begin to wonder if perhaps we were created for another world." <br> &emsp;&emsp;&emsp; <i>-by C. S. Lewis</i> 
+ 1.  "You cannot be really first-rate at your work if your work is all you are." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 2.  "I began to have an idea of my life, not as the slow shaping of achievement to fit my preconceived purposes, but as the gradual discovery and growth of a purpose which I did not know." <br> &emsp;&emsp;&emsp; <i>-by Joanna Field</i> 
+ 2.  "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 3.  "Passion kept one fully in the present, so that time became a series of mutually exclusive 'nows.'" <br> &emsp;&emsp;&emsp; <i>-by Sue Halpern</i> 
+ 3.  "Men for the sake of getting a living forget to live." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
 
- 4.  "Convinced myself, I seek not to convince." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 4.  "Oh sleep! It is a gentle thing, / Beloved from pole to pole." <br> &emsp;&emsp;&emsp; <i>-by Samuel Taylor Coleridge</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
