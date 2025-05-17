@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The shortest route to getting things done is just do it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "We al have family disfunction. It's why we're successful, to fill that hole." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
 
- 2.  "Success is a journey, not a destination. The doing is often more important than the outcome." <br> &emsp;&emsp;&emsp; <i>-by Arthur Ashe</i> 
+ 2.  "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you." <br> &emsp;&emsp;&emsp; <i>-by Diana Spencer</i> 
 
- 3.  "Trust yourself. Think for yourself. Act for yourself. Speak for yourself. Be yourself. Imitation is suicide." <br> &emsp;&emsp;&emsp; <i>-by Marva Collins</i> 
+ 3.  "Before you do anything, think. If you do something to try and impress someone, to be loved, accepted or even to get someone's attention, stop and think. So many people are busy trying to create an image, they die in the process." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
 
- 4.  "When all is said and done, the weather and love are the two elements about which one can never be sure." <br> &emsp;&emsp;&emsp; <i>-by Alice Hoffman</i> 
+ 4.  "Never criticize a man until you've walked a mile in his moccasins." <br> &emsp;&emsp;&emsp; <i>-by Native American Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
