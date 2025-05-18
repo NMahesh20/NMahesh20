@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We al have family disfunction. It's why we're successful, to fill that hole." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
+ 1.  "Trade your secrets and become who you are." <br> &emsp;&emsp;&emsp; <i>-by Frank Warren</i> 
 
- 2.  "Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you." <br> &emsp;&emsp;&emsp; <i>-by Diana Spencer</i> 
+ 2.  "We can be sure that the greatest hope for maintaining equilibrium in the face of any situation rests within ourselves." <br> &emsp;&emsp;&emsp; <i>-by Francis J. Braceland</i> 
 
- 3.  "Before you do anything, think. If you do something to try and impress someone, to be loved, accepted or even to get someone's attention, stop and think. So many people are busy trying to create an image, they die in the process." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
+ 3.  "If all the year were playing holidays; To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "Never criticize a man until you've walked a mile in his moccasins." <br> &emsp;&emsp;&emsp; <i>-by Native American Proverb</i> 
+ 4.  "Of all the self-fulfilling prophecies in our culture, the assumption that aging means decline and poor health is probably the deadliest." <br> &emsp;&emsp;&emsp; <i>-by Marilyn Ferguson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
