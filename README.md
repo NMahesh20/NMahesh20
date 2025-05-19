@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Trade your secrets and become who you are." <br> &emsp;&emsp;&emsp; <i>-by Frank Warren</i> 
+ 1.  "I would rather be right and die than be wrong and kill." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 2.  "We can be sure that the greatest hope for maintaining equilibrium in the face of any situation rests within ourselves." <br> &emsp;&emsp;&emsp; <i>-by Francis J. Braceland</i> 
+ 2.  "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 3.  "If all the year were playing holidays; To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "Content thyself to be obscurely good. When vice prevails, and impious men bear sway, the post of honor is a private station." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 4.  "Of all the self-fulfilling prophecies in our culture, the assumption that aging means decline and poor health is probably the deadliest." <br> &emsp;&emsp;&emsp; <i>-by Marilyn Ferguson</i> 
+ 4.  "Therefore search and see if there is not some place where you may invest your humanity." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
