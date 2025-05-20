@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I would rather be right and die than be wrong and kill." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 1.  "Every good product I've ever seen is because a group of people cared deeply about making something wonderful that they and their friends wanted. They wanted to use it themselves." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
+ 2.  "Take your life in your own hands and what happens? A terrible thing: no one to blame." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 3.  "Content thyself to be obscurely good. When vice prevails, and impious men bear sway, the post of honor is a private station." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 3.  "Seek not, my soul, the life of the immortals; but enjoy to the full the resources that are within thy reach." <br> &emsp;&emsp;&emsp; <i>-by Pindar</i> 
 
- 4.  "Therefore search and see if there is not some place where you may invest your humanity." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
+ 4.  "To be able to fill leisure intelligently is the last product of civilization." <br> &emsp;&emsp;&emsp; <i>-by Arnold Toynbee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
