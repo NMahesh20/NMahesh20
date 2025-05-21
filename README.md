@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every good product I've ever seen is because a group of people cared deeply about making something wonderful that they and their friends wanted. They wanted to use it themselves." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "To flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Take your life in your own hands and what happens? A terrible thing: no one to blame." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 2.  "Maybe coming clean is the ultimate selfish act. A way to absolve yourself by hurting someone who doesn't deserve to be hurt." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
 
- 3.  "Seek not, my soul, the life of the immortals; but enjoy to the full the resources that are within thy reach." <br> &emsp;&emsp;&emsp; <i>-by Pindar</i> 
+ 3.  "Science arose from poetry--when times change the two can meet again on a higher level as friends." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "To be able to fill leisure intelligently is the last product of civilization." <br> &emsp;&emsp;&emsp; <i>-by Arnold Toynbee</i> 
+ 4.  "Nothing is too small to know, and nothing is too big to attempt." <br> &emsp;&emsp;&emsp; <i>-by William Van Horne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
