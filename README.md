@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
 
- 2.  "Maybe coming clean is the ultimate selfish act. A way to absolve yourself by hurting someone who doesn't deserve to be hurt." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 2.  "Part of understanding the creative urge is understanding that it's primal. Wanting to change the world is not a noble calling, it's a primal calling." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Science arose from poetry--when times change the two can meet again on a higher level as friends." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "I've always tried to go a step past wherever people expected me to end up." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
 
- 4.  "Nothing is too small to know, and nothing is too big to attempt." <br> &emsp;&emsp;&emsp; <i>-by William Van Horne</i> 
+ 4.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
