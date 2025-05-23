@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You do your best work if you do a job that makes you happy." <br> &emsp;&emsp;&emsp; <i>-by Bob Ross</i> 
+ 1.  "Touch your customer, and you're halfway there." <br> &emsp;&emsp;&emsp; <i>-by Estee Lauder</i> 
 
- 2.  "Part of understanding the creative urge is understanding that it's primal. Wanting to change the world is not a noble calling, it's a primal calling." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "You must dare to disassociate yourself from those who would delay your journey... Leave, depart, if not physically, then mentally. Go your own way, quietly, undramatically, and venture toward trueness at last." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
 
- 3.  "I've always tried to go a step past wherever people expected me to end up." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
+ 3.  "I feel like a tiny bird with a big song!" <br> &emsp;&emsp;&emsp; <i>-by Jerry Van Amerongen</i> 
 
- 4.  "Enjoy present pleasures in such a way as not to injure future ones." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "He who would travel happily must travel light." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
