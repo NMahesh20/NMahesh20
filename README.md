@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Touch your customer, and you're halfway there." <br> &emsp;&emsp;&emsp; <i>-by Estee Lauder</i> 
+ 1.  "Every instance of heartbreak can teach us powerful lessons about creating the kind of love we really want." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 2.  "You must dare to disassociate yourself from those who would delay your journey... Leave, depart, if not physically, then mentally. Go your own way, quietly, undramatically, and venture toward trueness at last." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
+ 2.  "When you are not practicing, remember, someone somewhere is practicing, and when you meet him he will win." <br> &emsp;&emsp;&emsp; <i>-by Ed Macauley</i> 
 
- 3.  "I feel like a tiny bird with a big song!" <br> &emsp;&emsp;&emsp; <i>-by Jerry Van Amerongen</i> 
+ 3.  "There is only one success - to be able to spend your life in your own way." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 
- 4.  "He who would travel happily must travel light." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
+ 4.  "Give all to love; obey thy heart." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
