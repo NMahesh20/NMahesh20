@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every instance of heartbreak can teach us powerful lessons about creating the kind of love we really want." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 1.  "Stubbornness is also determination. It's simply a matter of shifting from "won't power" to "will power."" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 2.  "When you are not practicing, remember, someone somewhere is practicing, and when you meet him he will win." <br> &emsp;&emsp;&emsp; <i>-by Ed Macauley</i> 
+ 2.  "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "There is only one success - to be able to spend your life in your own way." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 3.  "Put yourself on view. This brings your talents to light." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 
- 4.  "Give all to love; obey thy heart." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "The great thing about getting older is that you don't lose all the other ages you've been." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
