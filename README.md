@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Stubbornness is also determination. It's simply a matter of shifting from "won't power" to "will power."" <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 1.  "In the end, I decide that the mark we've left on each other is the color and shape of love. That the unfinished business between us. Because love, love is never finished. It circles and circles, the memories out of order and not always complete." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
 
- 2.  "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "It's not your painting anymore. It stopped being your painting the moment that you finished it." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 3.  "Put yourself on view. This brings your talents to light." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 3.  "Toughness doesn't have to come in a pinstriped suit." <br> &emsp;&emsp;&emsp; <i>-by Senator Dianne Feinstein</i> 
 
- 4.  "The great thing about getting older is that you don't lose all the other ages you've been." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
+ 4.  "Call on God, but row away from the rocks." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
