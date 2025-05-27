@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In the end, I decide that the mark we've left on each other is the color and shape of love. That the unfinished business between us. Because love, love is never finished. It circles and circles, the memories out of order and not always complete." <br> &emsp;&emsp;&emsp; <i>-by Sara Zarr</i> 
+ 1.  "There are so many different ways lives work out, so many stories, and every one of them is precious: full of joy and heartbreak, and a fair amount of situation comedy." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 
- 2.  "It's not your painting anymore. It stopped being your painting the moment that you finished it." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
+ 2.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Toughness doesn't have to come in a pinstriped suit." <br> &emsp;&emsp;&emsp; <i>-by Senator Dianne Feinstein</i> 
+ 3.  "Try not to become a man of success but rather to become a man of value." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "Call on God, but row away from the rocks." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
+ 4.  "When you hire people that are smarter than you are, you prove you are smarter than they are." <br> &emsp;&emsp;&emsp; <i>-by R. H. Grant</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
