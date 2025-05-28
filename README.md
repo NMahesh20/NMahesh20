@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are so many different ways lives work out, so many stories, and every one of them is precious: full of joy and heartbreak, and a fair amount of situation comedy." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 1.  "It doesn't matter if people are interested. It's about you taking your stuff and shouting out into the void." <br> &emsp;&emsp;&emsp; <i>-by Jadelr and Cristina Cordova</i> 
 
- 2.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "I am going to concentrate on what's important in life. I'm going to strive everyday to be a kind and generous and loving person. I'm going to keep death right here, so that anytime I even think about getting angry at you or anybody else, I'll see death and I'll remember." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "Try not to become a man of success but rather to become a man of value." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "True luck consists not in holding the best of the cards at the table; luckiest is he who knows just when to rise and go home." <br> &emsp;&emsp;&emsp; <i>-by John Hay</i> 
 
- 4.  "When you hire people that are smarter than you are, you prove you are smarter than they are." <br> &emsp;&emsp;&emsp; <i>-by R. H. Grant</i> 
+ 4.  "Man is the artificer of his own happiness." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
