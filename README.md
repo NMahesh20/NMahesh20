@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It doesn't matter if people are interested. It's about you taking your stuff and shouting out into the void." <br> &emsp;&emsp;&emsp; <i>-by Jadelr and Cristina Cordova</i> 
+ 1.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 2.  "I am going to concentrate on what's important in life. I'm going to strive everyday to be a kind and generous and loving person. I'm going to keep death right here, so that anytime I even think about getting angry at you or anybody else, I'll see death and I'll remember." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "The best mirror is an old friend." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 3.  "True luck consists not in holding the best of the cards at the table; luckiest is he who knows just when to rise and go home." <br> &emsp;&emsp;&emsp; <i>-by John Hay</i> 
+ 3.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
 
- 4.  "Man is the artificer of his own happiness." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Don't spend time beating on a wall, hoping to transform it into a door." <br> &emsp;&emsp;&emsp; <i>-by Dr. Laura Schlessinger</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
