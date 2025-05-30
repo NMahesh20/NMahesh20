@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 1.  "I decided not to let my past rule my future so I decided to change my present in order to open up my future." <br> &emsp;&emsp;&emsp; <i>-by Dr. Ana M Guzman</i> 
 
- 2.  "The best mirror is an old friend." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 2.  "Happiness depends upon ourselves." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 3.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
+ 3.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
 
- 4.  "Don't spend time beating on a wall, hoping to transform it into a door." <br> &emsp;&emsp;&emsp; <i>-by Dr. Laura Schlessinger</i> 
+ 4.  "It is better to wear out than to rust out." <br> &emsp;&emsp;&emsp; <i>-by Bishop Richard Cumberland</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
