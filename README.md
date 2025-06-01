@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It makes you feel very virtuous when you forgive people, doesn't it?" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Maybe I wanted to hear it so badly that my ears betrayed my mind in order to secure my heart." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "We laugh a lot. That's for sure. Sure beats the alternative, doesn't it?" <br> &emsp;&emsp;&emsp; <i>-by Betty White</i> 
+ 2.  "In the right light, at the right time, everything is extraordinary." <br> &emsp;&emsp;&emsp; <i>-by Aaron Rose</i> 
 
- 3.  "Almost everything: all external expectations, all pride all fear of embarrassment or failure. These tings just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "Good people are good because they've come to wisdom through failure." <br> &emsp;&emsp;&emsp; <i>-by William Saroyan</i> 
 
- 4.  "Even the wisest counsel is useless when it is unheeded." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 4.  "Generosity is giving more than you can, and pride is taking less than you need." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
