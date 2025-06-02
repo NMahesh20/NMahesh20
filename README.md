@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Maybe I wanted to hear it so badly that my ears betrayed my mind in order to secure my heart." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "To achieve great things we must live as though we were never going to die." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
 
- 2.  "In the right light, at the right time, everything is extraordinary." <br> &emsp;&emsp;&emsp; <i>-by Aaron Rose</i> 
+ 2.  "The married are those who have taken the terrible risk of intimacy and, having taken it, know life without intimacy to be impossible." <br> &emsp;&emsp;&emsp; <i>-by Carolyn Heilbrun</i> 
 
- 3.  "Good people are good because they've come to wisdom through failure." <br> &emsp;&emsp;&emsp; <i>-by William Saroyan</i> 
+ 3.  "The true traveler is he who goes on foot, and even then, he sits down a lot of the time." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 
- 4.  "Generosity is giving more than you can, and pride is taking less than you need." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
