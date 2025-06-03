@@ -22,13 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To achieve great things we must live as though we were never going to die." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
+ 1.  "And since, in our passage through this world, painful circumstances occur more frequently than pleasing ones, and since our sense of evil is, I fear, more acute than our sense of good, we become the victims of our feelings, unless we can in some degree command them." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "The married are those who have taken the terrible risk of intimacy and, having taken it, know life without intimacy to be impossible." <br> &emsp;&emsp;&emsp; <i>-by Carolyn Heilbrun</i> 
+ 2.  "Every moment of one's existence one is growing into more or retreating into less." <br> &emsp;&emsp;&emsp; <i>-by Norman Mailer</i> 
 
- 3.  "The true traveler is he who goes on foot, and even then, he sits down a lot of the time." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 3.  "In peace there's nothing so becomes a man/
+As modest stillness and humility;/
+But when the blast of war blows in our ears,/
+Then imitate the action of the tiger:/
+Stiffen the sinews, summon up the blood." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "After silence, that which comes nearest to expressing the inexpressible is music." <br> &emsp;&emsp;&emsp; <i>-by Aldous Huxley</i> 
+ 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
