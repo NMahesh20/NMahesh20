@@ -22,17 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "And since, in our passage through this world, painful circumstances occur more frequently than pleasing ones, and since our sense of evil is, I fear, more acute than our sense of good, we become the victims of our feelings, unless we can in some degree command them." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "I think that little by little I'll be able to solve my problems and survive." <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
 
- 2.  "Every moment of one's existence one is growing into more or retreating into less." <br> &emsp;&emsp;&emsp; <i>-by Norman Mailer</i> 
+ 2.  "The first precept was never to accept a thing as true until I knew it as such without a single doubt." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 3.  "In peace there's nothing so becomes a man/
-As modest stillness and humility;/
-But when the blast of war blows in our ears,/
-Then imitate the action of the tiger:/
-Stiffen the sinews, summon up the blood." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "Never discourage anyone...who continually makes progress, no matter how slow." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 
- 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 4.  "The only way to get rid of a temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
