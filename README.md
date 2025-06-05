@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think that little by little I'll be able to solve my problems and survive." <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
+ 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The first precept was never to accept a thing as true until I knew it as such without a single doubt." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 2.  "How you matter is defined by the things that matter to you. You matter as much as the things that matter to you do." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 3.  "Never discourage anyone...who continually makes progress, no matter how slow." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 3.  "If you're here for four more years or four more weeks, you're here right now. I think when you're somewhere, you ought to be there. It's not about how long you stay in a place, it's about what you do while you're there, and when you go, is that place any better for your having been there?" <br> &emsp;&emsp;&emsp; <i>-by Karen Hall and Jerry Stahl</i> 
 
- 4.  "The only way to get rid of a temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 4.  "You must have a room, or a certain hour or so a day, where you don't know what was in the newspapers that morning... a place where you can simply experience and bring forth what you are and what you might be." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
