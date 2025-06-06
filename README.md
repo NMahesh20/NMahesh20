@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "The aim of flattery is to soothe and encourage us by assuring us of the truth of an opinion we have already formed about ourselves." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
 
- 2.  "How you matter is defined by the things that matter to you. You matter as much as the things that matter to you do." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 2.  "The artist is a receptacle for emotions that come from all over the place: from the sky, from the earth, from a scrap of paper, from a passing shape..." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
 
- 3.  "If you're here for four more years or four more weeks, you're here right now. I think when you're somewhere, you ought to be there. It's not about how long you stay in a place, it's about what you do while you're there, and when you go, is that place any better for your having been there?" <br> &emsp;&emsp;&emsp; <i>-by Karen Hall and Jerry Stahl</i> 
+ 3.  "Real joy comes not from ease or riches or from the praise of men, but from doing something worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Sir Wilfred Grenfell</i> 
 
- 4.  "You must have a room, or a certain hour or so a day, where you don't know what was in the newspapers that morning... a place where you can simply experience and bring forth what you are and what you might be." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
+ 4.  "The weak can never forgive. Forgiveness is the attribute of the strong." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
