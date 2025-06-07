@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The aim of flattery is to soothe and encourage us by assuring us of the truth of an opinion we have already formed about ourselves." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
+ 1.  "When a problem can’t be solved, an attitude of acceptance makes room in your mind and heart for solutions to the problems that do need to be solved." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "The artist is a receptacle for emotions that come from all over the place: from the sky, from the earth, from a scrap of paper, from a passing shape..." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
+ 2.  "Hope is only the love of life." <br> &emsp;&emsp;&emsp; <i>-by Henri-Frédéric Amiel</i> 
 
- 3.  "Real joy comes not from ease or riches or from the praise of men, but from doing something worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Sir Wilfred Grenfell</i> 
+ 3.  "Don't discuss yourself, for you are bound to lose; if you belittle yourself, you are believed; if you praise yourself, you are disbelieved." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 4.  "The weak can never forgive. Forgiveness is the attribute of the strong." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "I celebrate myself, and sing myself." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
