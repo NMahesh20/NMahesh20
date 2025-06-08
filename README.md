@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When a problem can’t be solved, an attitude of acceptance makes room in your mind and heart for solutions to the problems that do need to be solved." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Good men must be affectionate men." <br> &emsp;&emsp;&emsp; <i>-by Samuel Richardson</i> 
 
- 2.  "Hope is only the love of life." <br> &emsp;&emsp;&emsp; <i>-by Henri-Frédéric Amiel</i> 
+ 2.  "But be, as you have been, my happiness..." <br> &emsp;&emsp;&emsp; <i>-by Randall Jarrell</i> 
 
- 3.  "Don't discuss yourself, for you are bound to lose; if you belittle yourself, you are believed; if you praise yourself, you are disbelieved." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 3.  "Be gentle with the young." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
 
- 4.  "I celebrate myself, and sing myself." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "The best armor is to keep out of range." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
