@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good men must be affectionate men." <br> &emsp;&emsp;&emsp; <i>-by Samuel Richardson</i> 
+ 1.  "Children might or might not be a blessing, but to create them and then fail them was surely damnation." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 2.  "But be, as you have been, my happiness..." <br> &emsp;&emsp;&emsp; <i>-by Randall Jarrell</i> 
+ 2.  "We're a sentimental people. We like a few kind words better than millions of dollars given in a humiliating way." <br> &emsp;&emsp;&emsp; <i>-by Gamal Abdel Nasser</i> 
 
- 3.  "Be gentle with the young." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
+ 3.  "Always remember others may hate you but those who hate you don't win unless you hate them. And then you destroy yourself." <br> &emsp;&emsp;&emsp; <i>-by Richard M. Nixon</i> 
 
- 4.  "The best armor is to keep out of range." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
+ 4.  "The farther behind I leave the past, the closer I am to forging my own character." <br> &emsp;&emsp;&emsp; <i>-by Isabelle Eberhardt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
