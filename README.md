@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Children might or might not be a blessing, but to create them and then fail them was surely damnation." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 1.  "Fresh beauty opens one's eyes wherever it is really seen, but the very abundance and completeness of the common beauty that besets our steps prevents its being absorbed and appreciated. It is a good thing, therefore, to make short excursions now and then to the bottom of the sea among dulse and coral, or up among the clouds on mountain-tops, or in balloons, or even to creep like worms into dark holes and caverns underground, not only to learn something of what is going on in those out-of-the-way places, but to see better what the sun sees on our return to common everyday beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "We're a sentimental people. We like a few kind words better than millions of dollars given in a humiliating way." <br> &emsp;&emsp;&emsp; <i>-by Gamal Abdel Nasser</i> 
+ 2.  "Happiness is not a station you arrive at, but a manner of traveling." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
 
- 3.  "Always remember others may hate you but those who hate you don't win unless you hate them. And then you destroy yourself." <br> &emsp;&emsp;&emsp; <i>-by Richard M. Nixon</i> 
+ 3.  "Depend not on fortune, but on conduct." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "The farther behind I leave the past, the closer I am to forging my own character." <br> &emsp;&emsp;&emsp; <i>-by Isabelle Eberhardt</i> 
+ 4.  "I have a problem about being nearly sixty: I keep waking up in the morning and thinking I'm thirty-one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
