@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fresh beauty opens one's eyes wherever it is really seen, but the very abundance and completeness of the common beauty that besets our steps prevents its being absorbed and appreciated. It is a good thing, therefore, to make short excursions now and then to the bottom of the sea among dulse and coral, or up among the clouds on mountain-tops, or in balloons, or even to creep like worms into dark holes and caverns underground, not only to learn something of what is going on in those out-of-the-way places, but to see better what the sun sees on our return to common everyday beauty." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "Abnormal is so common, it's practically normal." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
 
- 2.  "Happiness is not a station you arrive at, but a manner of traveling." <br> &emsp;&emsp;&emsp; <i>-by Margaret Lee Runbeck</i> 
+ 2.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "Depend not on fortune, but on conduct." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "Years ago my mother said to me, 'In this world, Elwood, you must be oh so smart or oh so pleasant.' For years I was smart. I recommend pleasant." <br> &emsp;&emsp;&emsp; <i>-by Mary Chase</i> 
 
- 4.  "I have a problem about being nearly sixty: I keep waking up in the morning and thinking I'm thirty-one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
+ 4.  "Truth is the only safe ground to stand on." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
