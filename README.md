@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Abnormal is so common, it's practically normal." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
+ 1.  "Those who flee temptation generally leave a forwarding address." <br> &emsp;&emsp;&emsp; <i>-by Lane Olinghouse</i> 
 
- 2.  "When a miracle happens, even if not to you, its nature is to naturally expand. You can almost feel the warmth on your face." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
 
- 3.  "Years ago my mother said to me, 'In this world, Elwood, you must be oh so smart or oh so pleasant.' For years I was smart. I recommend pleasant." <br> &emsp;&emsp;&emsp; <i>-by Mary Chase</i> 
+ 3.  "Each painting has its own way of evolving...When the painting is finished, the subject reaveals itself." <br> &emsp;&emsp;&emsp; <i>-by William Baziotes</i> 
 
- 4.  "Truth is the only safe ground to stand on." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 4.  "Don't part with your illusions. When they are gone you may still exist, but you have ceased to live." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
