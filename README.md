@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Those who flee temptation generally leave a forwarding address." <br> &emsp;&emsp;&emsp; <i>-by Lane Olinghouse</i> 
+ 1.  "The least I can do is speak out for those who cannot speak for themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
+ 2.  "When you don't share your problems, you resent hearing the problems of other people." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "Each painting has its own way of evolving...When the painting is finished, the subject reaveals itself." <br> &emsp;&emsp;&emsp; <i>-by William Baziotes</i> 
+ 3.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
 
- 4.  "Don't part with your illusions. When they are gone you may still exist, but you have ceased to live." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "Don't try to solve serious matters in the middle of the night." <br> &emsp;&emsp;&emsp; <i>-by Philip K. Dick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
