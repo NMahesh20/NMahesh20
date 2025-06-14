@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The least I can do is speak out for those who cannot speak for themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "When you don't share your problems, you resent hearing the problems of other people." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "You cannot be mad at somebody who makes you laugh - it's as simple as that." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
 
- 3.  "There is but one temple in the universe and that is the body of man." <br> &emsp;&emsp;&emsp; <i>-by Novalis</i> 
+ 3.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 4.  "Don't try to solve serious matters in the middle of the night." <br> &emsp;&emsp;&emsp; <i>-by Philip K. Dick</i> 
+ 4.  "There is no revenge so complete as forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
