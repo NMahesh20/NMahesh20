@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "Stop seeing the obstacles you face as reasons why you can't do something. See them as a reason why you can. And celebrate your accomplishments on a daily basis." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "You cannot be mad at somebody who makes you laugh - it's as simple as that." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
+ 2.  "A runners creed: I will win; if I cannot win, I shall be second; if I cannot be second, I shall be third; if I cannot place at all, I shall still do my best." <br> &emsp;&emsp;&emsp; <i>-by Ken Doherty</i> 
 
- 3.  "Truth sits upon the lips of dying men." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 3.  "Nothing in the world can take the place of Persistence.  Talent will not; nothing is more common than unsuccessful men with talent.  Genius will not; unrewarded genius is almost a proverb.  Education will not; the world is full of educated derelicts.  Persistence and determination alone are omnipotent. The slogan 'Press On' has solved and always will solve the problems of the human race." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
 
- 4.  "There is no revenge so complete as forgiveness." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 4.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
