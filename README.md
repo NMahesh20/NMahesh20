@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Stop seeing the obstacles you face as reasons why you can't do something. See them as a reason why you can. And celebrate your accomplishments on a daily basis." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "The only way most people recognize their limits is by trespassing on them." <br> &emsp;&emsp;&emsp; <i>-by Tom Morris</i> 
 
- 2.  "A runners creed: I will win; if I cannot win, I shall be second; if I cannot be second, I shall be third; if I cannot place at all, I shall still do my best." <br> &emsp;&emsp;&emsp; <i>-by Ken Doherty</i> 
+ 2.  "When you reach for the stars you may not quite get one, but you won't come up with a handful of mud either." <br> &emsp;&emsp;&emsp; <i>-by Leo Burnett</i> 
 
- 3.  "Nothing in the world can take the place of Persistence.  Talent will not; nothing is more common than unsuccessful men with talent.  Genius will not; unrewarded genius is almost a proverb.  Education will not; the world is full of educated derelicts.  Persistence and determination alone are omnipotent. The slogan 'Press On' has solved and always will solve the problems of the human race." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
+ 3.  "There is no law of progress. Our future is in our own hands, to make or to mar. It will be an uphill fight to the end, and would we have it otherwise? Let no one suppose that evolution will ever exempt us from struggles. 'You forget,' said the Devil, with a chuckle, 'that I have been evolving too.'" <br> &emsp;&emsp;&emsp; <i>-by William Ralph Inge</i> 
 
- 4.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "If you greatly desire something, have the guts to stake everything on obtaining it." <br> &emsp;&emsp;&emsp; <i>-by Brendan Francis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
