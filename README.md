@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only way most people recognize their limits is by trespassing on them." <br> &emsp;&emsp;&emsp; <i>-by Tom Morris</i> 
+ 1.  "Good habits, which bring our lower passions and appetites under automatic control, leave our natures free to explore the larger experiences of life." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
 
- 2.  "When you reach for the stars you may not quite get one, but you won't come up with a handful of mud either." <br> &emsp;&emsp;&emsp; <i>-by Leo Burnett</i> 
+ 2.  "Everybody has difficult years, but a lot of times the difficult years end up being the greatest years of your whole entire life, if you survive them." <br> &emsp;&emsp;&emsp; <i>-by Brittany Murphy</i> 
 
- 3.  "There is no law of progress. Our future is in our own hands, to make or to mar. It will be an uphill fight to the end, and would we have it otherwise? Let no one suppose that evolution will ever exempt us from struggles. 'You forget,' said the Devil, with a chuckle, 'that I have been evolving too.'" <br> &emsp;&emsp;&emsp; <i>-by William Ralph Inge</i> 
+ 3.  "Joy is not in things; it is in us." <br> &emsp;&emsp;&emsp; <i>-by Richard Wagner</i> 
 
- 4.  "If you greatly desire something, have the guts to stake everything on obtaining it." <br> &emsp;&emsp;&emsp; <i>-by Brendan Francis</i> 
+ 4.  "[Memory is] a man's real possession...In nothing else is he rich, in nothing else is he poor." <br> &emsp;&emsp;&emsp; <i>-by Alexander Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
