@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good habits, which bring our lower passions and appetites under automatic control, leave our natures free to explore the larger experiences of life." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
+ 1.  "You miss 100 percent of the shots you never take." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
 
- 2.  "Everybody has difficult years, but a lot of times the difficult years end up being the greatest years of your whole entire life, if you survive them." <br> &emsp;&emsp;&emsp; <i>-by Brittany Murphy</i> 
+ 2.  "Be not so bigoted to any custom as to worship it at the expense of truth." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
 
- 3.  "Joy is not in things; it is in us." <br> &emsp;&emsp;&emsp; <i>-by Richard Wagner</i> 
+ 3.  "Use what talents you possess: the woods would be very silent if no birds sang there except those that sang best." <br> &emsp;&emsp;&emsp; <i>-by Henry Van Dyke</i> 
 
- 4.  "[Memory is] a man's real possession...In nothing else is he rich, in nothing else is he poor." <br> &emsp;&emsp;&emsp; <i>-by Alexander Smith</i> 
+ 4.  "Self-confidence is the first requisite to great undertakings." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
