@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You miss 100 percent of the shots you never take." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
+ 1.  "When we are unhurried and wise, we perceive that only great and worthy things have any permanent and absolute existence, that petty fears and petty pleasures are but the shadow of the reality." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "Be not so bigoted to any custom as to worship it at the expense of truth." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
+ 2.  "All growth is a leap in the dark, a spontaneous unpremeditated act without the benefit of experience." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "Use what talents you possess: the woods would be very silent if no birds sang there except those that sang best." <br> &emsp;&emsp;&emsp; <i>-by Henry Van Dyke</i> 
+ 3.  "For all that has been, thanks. For all that will be, yes." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 
- 4.  "Self-confidence is the first requisite to great undertakings." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 4.  "Life's greatest happiness is to be convinced we are loved." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
