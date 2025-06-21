@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 1.  "The courage to be is the courage to accept oneself, in spite of being unacceptable." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
 
- 2.  "The only limit to our realization of tomorrow will be our doubts of today. Let us move forward with strong and active faith." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 2.  "If the only prayer you ever say in your whole life is "thank you," that would suffice." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
 
- 3.  "You can't help someone get up a hill without getting closer to the top yourself." <br> &emsp;&emsp;&emsp; <i>-by H. Norman Schwarzkopf</i> 
+ 3.  "Where so many hours have been spent in convincing myself that I am right, is there not some reason to fear I may be wrong?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "If you have knowledge, let others light their candles at it." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fuller</i> 
+ 4.  "I have long since come to believe that people never mean half of what they say, and that it is best to disregard their talk and judge only their actions." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Day</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
