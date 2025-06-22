@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The courage to be is the courage to accept oneself, in spite of being unacceptable." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
+ 1.  "What children take from us, they give…We become people who feel more deeply, question more deeply, hurt more deeply, and love more deeply." <br> &emsp;&emsp;&emsp; <i>-by Sonia Taitz</i> 
 
- 2.  "If the only prayer you ever say in your whole life is "thank you," that would suffice." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
+ 2.  "Reading well is one of the great pleasures that solitude can afford you." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
 
- 3.  "Where so many hours have been spent in convincing myself that I am right, is there not some reason to fear I may be wrong?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "I have long since come to believe that people never mean half of what they say, and that it is best to disregard their talk and judge only their actions." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Day</i> 
+ 4.  "Nothing, of course, begins at the time you think it did." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
