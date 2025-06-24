@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I was thinking about the universe wanting to be noticed, and how I had to notice it as best I could. I felt that I owed a debt to the universe that only my attention could repay, and also that I owed a debt to everybody who didn’t get to be a person anymore and everyone who hadn’t gotten to be a person yet." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 2.  "Trees were so rare in that country, and they had to make such a hard fight to grow, that we used to feel anxious about them, and visit them as if they were persons. It must have been the scarcity of detail in that tawny landscape that made detail so precious." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 2.  "Live well. It is the greatest revenge." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
 
- 3.  "A duty dodged is like a debt unpaid; it is only deferred, and we must come back and settle the account at last." <br> &emsp;&emsp;&emsp; <i>-by Joseph F. Newton</i> 
+ 3.  "It is not advisable, James, to venture unsolicited opinions. You should spare yourself the embarrassing discovery of their exact value to your listener." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 
- 4.  "Our remedies oft in ourselves do lie." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "Advice is what we ask for when we already know the answer but wish we didn't." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
