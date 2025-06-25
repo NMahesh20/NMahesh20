@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 1.  "I wanted change and excitement and to shoot off in all directions myself, like the colored arrows from a Fourth of July rocket." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Plath</i> 
 
- 2.  "Live well. It is the greatest revenge." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
+ 2.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 3.  "It is not advisable, James, to venture unsolicited opinions. You should spare yourself the embarrassing discovery of their exact value to your listener." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 3.  "Man is what he believes." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
 
- 4.  "Advice is what we ask for when we already know the answer but wish we didn't." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 4.  "Oppression can only survive through silence." <br> &emsp;&emsp;&emsp; <i>-by Carmen de Monteflores</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
