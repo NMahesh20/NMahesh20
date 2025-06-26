@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I wanted change and excitement and to shoot off in all directions myself, like the colored arrows from a Fourth of July rocket." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Plath</i> 
+ 1.  "By learning to discover and value our ordinariness, we nurture a friendliness toward ourselves and the world that is the essence of a healthy soul." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 2.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 2.  "Food is our common ground, a universal experience." <br> &emsp;&emsp;&emsp; <i>-by James Beard</i> 
 
- 3.  "Man is what he believes." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
+ 3.  "Love cannot survive if you just give it scraps of yourself, scraps of your time, scraps of your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Mary O'Hara</i> 
 
- 4.  "Oppression can only survive through silence." <br> &emsp;&emsp;&emsp; <i>-by Carmen de Monteflores</i> 
+ 4.  "Accept what people offer. Drink their milkshakes. Take their love." <br> &emsp;&emsp;&emsp; <i>-by Wally Lamb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
