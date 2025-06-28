@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Without the capacity to provide its own information, the mind drifts into randomness." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "The time is now, the place is here. Stay in the present. You can do nothing to change the past, and the future will never come exactly as you plan or hope for." <br> &emsp;&emsp;&emsp; <i>-by Dan Millman</i> 
 
- 2.  "Those little nimble musicians of the air, that warble forth their curious ditties, with which nature hath furnished them to the shame of art." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
+ 2.  "I am not dying, not anymore than any of us are at any moment. We run, hopefully as fast as we can, and then everyone must stop. We can only choose how we handle the race." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "A gift, with a kind countenance, is a double present." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 3.  "What you cannot enforce, do not command." <br> &emsp;&emsp;&emsp; <i>-by Sophocles</i> 
 
- 4.  "Nothing astonishes men so much as common sense and plain dealing." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Enjoy your own life without comparing it with that of another." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Condorcet</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
