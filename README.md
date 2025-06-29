@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The time is now, the place is here. Stay in the present. You can do nothing to change the past, and the future will never come exactly as you plan or hope for." <br> &emsp;&emsp;&emsp; <i>-by Dan Millman</i> 
+ 1.  "There is some comfort in dying surrounded by one's children." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "I am not dying, not anymore than any of us are at any moment. We run, hopefully as fast as we can, and then everyone must stop. We can only choose how we handle the race." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "Nothing of me is original. I am the combined effort of everybody I've ever known." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "What you cannot enforce, do not command." <br> &emsp;&emsp;&emsp; <i>-by Sophocles</i> 
+ 3.  "If you do not tell the truth about yourself you cannot tell it about other people." <br> &emsp;&emsp;&emsp; <i>-by Virginia Woolf</i> 
 
- 4.  "Enjoy your own life without comparing it with that of another." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Condorcet</i> 
+ 4.  "If we attend continually and promptly to the little that we can do, we shall ere long be surprised to find how little remains that we cannot do." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
