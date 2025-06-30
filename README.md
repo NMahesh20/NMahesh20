@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is some comfort in dying surrounded by one's children." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "The person who knows one thing and does it better than anyone else, even if it only be the art of raising lentils, receives the crown he merits. If he raises all his energy to that end, he is a benefactor of mankind and its rewarded as such." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "Nothing of me is original. I am the combined effort of everybody I've ever known." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "What we play is life." <br> &emsp;&emsp;&emsp; <i>-by Louis Armstrong</i> 
 
- 3.  "If you do not tell the truth about yourself you cannot tell it about other people." <br> &emsp;&emsp;&emsp; <i>-by Virginia Woolf</i> 
+ 3.  "Having once decided to achieve a certain task, achieve it at all costs of tedium and distaste. The gain in self-confidence of having accomplished a tiresome labor is immense." <br> &emsp;&emsp;&emsp; <i>-by Arnold Bennett</i> 
 
- 4.  "If we attend continually and promptly to the little that we can do, we shall ere long be surprised to find how little remains that we cannot do." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
+ 4.  "Let me advise thee not to talk of thyself as being old. There is something in Mind Cure, after all, and if thee continually talks of thyself as being old, thee may perhaps bring on some of the infirmities of age. At least I would not risk it if I were thee." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
