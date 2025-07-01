@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The person who knows one thing and does it better than anyone else, even if it only be the art of raising lentils, receives the crown he merits. If he raises all his energy to that end, he is a benefactor of mankind and its rewarded as such." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "No synonym for God is so perfect as Beauty. Whether as seen carving the lines of the mountains with glaciers, or gathering matter into stars, or planning the movements of water, or gardening - still all is Beauty!" <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "What we play is life." <br> &emsp;&emsp;&emsp; <i>-by Louis Armstrong</i> 
+ 2.  "Death is only going to happen to you once; I don't want to miss it." <br> &emsp;&emsp;&emsp; <i>-by Jim Morrison</i> 
 
- 3.  "Having once decided to achieve a certain task, achieve it at all costs of tedium and distaste. The gain in self-confidence of having accomplished a tiresome labor is immense." <br> &emsp;&emsp;&emsp; <i>-by Arnold Bennett</i> 
+ 3.  "Everybody likes to go their own way--to choose their own time and manner of devotion." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "Let me advise thee not to talk of thyself as being old. There is something in Mind Cure, after all, and if thee continually talks of thyself as being old, thee may perhaps bring on some of the infirmities of age. At least I would not risk it if I were thee." <br> &emsp;&emsp;&emsp; <i>-by Hannah Whitall Smith</i> 
+ 4.  "To lengthen thy life, lessen thy meals." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
