@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No synonym for God is so perfect as Beauty. Whether as seen carving the lines of the mountains with glaciers, or gathering matter into stars, or planning the movements of water, or gardening - still all is Beauty!" <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "The first duty of love is to listen." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
 
- 2.  "Death is only going to happen to you once; I don't want to miss it." <br> &emsp;&emsp;&emsp; <i>-by Jim Morrison</i> 
+ 2.  "Living is having ups and downs and sharing them with friends." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "Everybody likes to go their own way--to choose their own time and manner of devotion." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "We all need to have a creative outlet - a window, a space - so we don't lose track of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Norman Fischer</i> 
 
- 4.  "To lengthen thy life, lessen thy meals." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
