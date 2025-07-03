@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The first duty of love is to listen." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
+ 1.  "Learning to ignore things is one of the great paths to inner peace." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 2.  "Living is having ups and downs and sharing them with friends." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 2.  "Be substantially great in thyself, and more than thou appearest unto others." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 3.  "We all need to have a creative outlet - a window, a space - so we don't lose track of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Norman Fischer</i> 
+ 3.  "Never get angry. Never make a threat. Reason with people." <br> &emsp;&emsp;&emsp; <i>-by Mario Puzo</i> 
 
- 4.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "Better be despised for too anxious apprehensions, than ruined by too confident security." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
