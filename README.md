@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Learning to ignore things is one of the great paths to inner peace." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 1.  "A problem isn’t a problem until it actually happens." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "Be substantially great in thyself, and more than thou appearest unto others." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 2.  "The happiness of your life depends upon the quality of your thoughts, therefore guard accordingly; and take care that you entertain no notions unsuitable to virtue, and reasonable nature." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 3.  "Never get angry. Never make a threat. Reason with people." <br> &emsp;&emsp;&emsp; <i>-by Mario Puzo</i> 
+ 3.  "A man is too apt to forget that in this world he cannot have everything. A choice is all that is left him." <br> &emsp;&emsp;&emsp; <i>-by H. Mathews</i> 
 
- 4.  "Better be despised for too anxious apprehensions, than ruined by too confident security." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 4.  "I have enjoyed greatly the second blooming that comes when you finish the life of the emotions and of personal relations; and suddenly find - at the age of fifty, say - that a whole new life has opened before you, filled with things you can think about, study, or read about...It is as if a fresh sap of ideas and thoughts was rising in you." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
