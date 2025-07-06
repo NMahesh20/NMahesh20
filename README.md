@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Envy can be a positive motivator. Let it inspire you to work harder for what you want." <br> &emsp;&emsp;&emsp; <i>-by Robert Bringle</i> 
+ 1.  "There's something fundamental you have to understand about yourself before you can change your life for good." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
+ 2.  "There's some things that people don't admit because they don't like the way it sounds." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
 
- 3.  "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
+ 3.  "The last temptation is the greatest treason: to do the right deed for the wrong reason." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 
- 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
