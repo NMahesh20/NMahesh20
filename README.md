@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's something fundamental you have to understand about yourself before you can change your life for good." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Everyone has a doctor in him or her; we just have to help it in its work. The natural healing force within each one of us is the greatest force in getting well. Our food should be our medicine. Our medicine should be our food. But to eat when you are sick, is to feed your sickness." <br> &emsp;&emsp;&emsp; <i>-by Hippocrates</i> 
 
- 2.  "There's some things that people don't admit because they don't like the way it sounds." <br> &emsp;&emsp;&emsp; <i>-by Cindy Chupack</i> 
+ 2.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 
- 3.  "The last temptation is the greatest treason: to do the right deed for the wrong reason." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 3.  "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
 
- 4.  "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort." <br> &emsp;&emsp;&emsp; <i>-by Charles Dickens</i> 
+ 4.  "Hold a picture of yourself long and steadily enough in your mind's eye, and you will be drawn toward it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
