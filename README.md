@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everyone has a doctor in him or her; we just have to help it in its work. The natural healing force within each one of us is the greatest force in getting well. Our food should be our medicine. Our medicine should be our food. But to eat when you are sick, is to feed your sickness." <br> &emsp;&emsp;&emsp; <i>-by Hippocrates</i> 
+ 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
 
- 2.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 2.  "Part of being creative is learning how to protect your freedom. That includes freedom from avarice." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom." <br> &emsp;&emsp;&emsp; <i>-by Bertrand Russell</i> 
+ 3.  "The inner fire is the most important thing mankind possesses." <br> &emsp;&emsp;&emsp; <i>-by Edith Sodergran</i> 
 
- 4.  "Hold a picture of yourself long and steadily enough in your mind's eye, and you will be drawn toward it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
+ 4.  "What saves a man is to take a step. Then another step. It is always the same step, but you have to take it." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
