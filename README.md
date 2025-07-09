@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For one person who dreams of making fifty thousand pounds, a hundred people dream of being left fifty thousand pounds." <br> &emsp;&emsp;&emsp; <i>-by A. A. Milne</i> 
+ 1.  "There is no joy in a life that is all information. There is no 'juice' to that kind of life. No sweetness, no color. Like trading a beautiful golden-ripe orange for a stalk of whithered broccoli." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 2.  "Part of being creative is learning how to protect your freedom. That includes freedom from avarice." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "Regret for wasted time is more wasted time." <br> &emsp;&emsp;&emsp; <i>-by Mason Cooley</i> 
 
- 3.  "The inner fire is the most important thing mankind possesses." <br> &emsp;&emsp;&emsp; <i>-by Edith Sodergran</i> 
+ 3.  "Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 4.  "What saves a man is to take a step. Then another step. It is always the same step, but you have to take it." <br> &emsp;&emsp;&emsp; <i>-by Antoine de Saint-Exupery</i> 
+ 4.  "It's a funny thing about life; if you refuse to accept anything but the best, you very often get it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
