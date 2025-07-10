@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no joy in a life that is all information. There is no 'juice' to that kind of life. No sweetness, no color. Like trading a beautiful golden-ripe orange for a stalk of whithered broccoli." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 1.  "However beautiful the strategy, you should occasionally look at the results." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 2.  "Regret for wasted time is more wasted time." <br> &emsp;&emsp;&emsp; <i>-by Mason Cooley</i> 
+ 2.  "He who endeavors to serve, to benefit, and improve the world, is like a swimmer, who struggles against a rapid current, in a river lashed into angry waves by the winds. Often they roar over his head, often they beat him back and baffle him. Most men yield to the stress of the current... Only here and there the stout, strong heart and vigorous arms struggle on toward ultimate success." <br> &emsp;&emsp;&emsp; <i>-by Albert Pike</i> 
 
- 3.  "Any transition serious enough to alter your definition of self will require not just small adjustments in your way of living and thinking but a full-on metamorphosis." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 3.  "Your first appearance, he said to me, is the gauge by which you will be measured; try to manage that you may go beyond yourself in after times, but beware of ever doing less." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
 
- 4.  "It's a funny thing about life; if you refuse to accept anything but the best, you very often get it." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "[Common sense] is the best sense I know of." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
