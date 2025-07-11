@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "However beautiful the strategy, you should occasionally look at the results." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 1.  "Being a celebrity has taught me to hide, but being an actor has opened my soul." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "He who endeavors to serve, to benefit, and improve the world, is like a swimmer, who struggles against a rapid current, in a river lashed into angry waves by the winds. Often they roar over his head, often they beat him back and baffle him. Most men yield to the stress of the current... Only here and there the stout, strong heart and vigorous arms struggle on toward ultimate success." <br> &emsp;&emsp;&emsp; <i>-by Albert Pike</i> 
+ 2.  "There's no easy way out. If there were, I would have bought it. And believe me, it would be one of my favorite things!" <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Your first appearance, he said to me, is the gauge by which you will be measured; try to manage that you may go beyond yourself in after times, but beware of ever doing less." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
+ 3.  "I cannot think well of a man who sports with any woman's feelings; and there may often be a great deal more suffered than a stander-by can judge of." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "[Common sense] is the best sense I know of." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 4.  "Science may have found a cure for most evils; but it has found no remedy for the worst of them all - the apathy of human beings." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
