@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Being a celebrity has taught me to hide, but being an actor has opened my soul." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 
- 2.  "There's no easy way out. If there were, I would have bought it. And believe me, it would be one of my favorite things!" <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Remember when life's path is steep to keep your mind even." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 3.  "I cannot think well of a man who sports with any woman's feelings; and there may often be a great deal more suffered than a stander-by can judge of." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "Never lose sight of this important truth, that no one can be truly great until he has gained a knowledge of himself, a knowledge which can only be acquired by occasional retirement." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
 
- 4.  "Science may have found a cure for most evils; but it has found no remedy for the worst of them all - the apathy of human beings." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "Every human being on this earth is born with a tragedy, and it isn't original sin. He's born with the tragedy that he has to grow up. That he has to leave the nest, the security, and go out to do battle. He has to lose everything that is lovely and fight for a new loveliness of his own making, and it's a tragedy. A lot of people don't have the courage to do it." <br> &emsp;&emsp;&emsp; <i>-by Helen Hayes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
