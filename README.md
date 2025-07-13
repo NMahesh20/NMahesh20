@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The creation of something new is not accomplished by the intellect but by the play instinct acting from inner necessity. The creative mind plays with the objects it loves." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
+ 1.  "When I was young, my ambition was to be one of the people who made a difference in this world. My hope still is to leave the world a little bit better for my having been here. It's a wonderful life and I love it." <br> &emsp;&emsp;&emsp; <i>-by Jim Henson</i> 
 
- 2.  "Remember when life's path is steep to keep your mind even." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 2.  "The summit of happiness is reached when a person is ready to be what he is." <br> &emsp;&emsp;&emsp; <i>-by Desiderius Erasmus</i> 
 
- 3.  "Never lose sight of this important truth, that no one can be truly great until he has gained a knowledge of himself, a knowledge which can only be acquired by occasional retirement." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
+ 3.  "The arts must be considered an essential element of education... They are tools for living life reflectively, joyfully and with the ability to shape the future." <br> &emsp;&emsp;&emsp; <i>-by Shirley Trusty Corey</i> 
 
- 4.  "Every human being on this earth is born with a tragedy, and it isn't original sin. He's born with the tragedy that he has to grow up. That he has to leave the nest, the security, and go out to do battle. He has to lose everything that is lovely and fight for a new loveliness of his own making, and it's a tragedy. A lot of people don't have the courage to do it." <br> &emsp;&emsp;&emsp; <i>-by Helen Hayes</i> 
+ 4.  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
