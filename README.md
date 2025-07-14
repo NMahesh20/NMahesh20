@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I was young, my ambition was to be one of the people who made a difference in this world. My hope still is to leave the world a little bit better for my having been here. It's a wonderful life and I love it." <br> &emsp;&emsp;&emsp; <i>-by Jim Henson</i> 
+ 1.  "Gaining control over your health and well-being is one of those times in your life that you get to be completely selfish and not feel bad about it. If you want to meet your goals, you have to make it about you. You have to make it work for you and you alone. Anything less is a setup for failure." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The summit of happiness is reached when a person is ready to be what he is." <br> &emsp;&emsp;&emsp; <i>-by Desiderius Erasmus</i> 
+ 2.  "I have learned to love that which is meant to harm me, so that I can stand in the way of those who are less strong. I can take the bullets for those who aren't able to." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "The arts must be considered an essential element of education... They are tools for living life reflectively, joyfully and with the ability to shape the future." <br> &emsp;&emsp;&emsp; <i>-by Shirley Trusty Corey</i> 
+ 3.  "The way you overcome shyness is to become so wrapped up in something that you forget to be afraid." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
 
- 4.  "We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 4.  "After all it is those who have a deep and real inner life who are best able to deal with the irritating details of outer life." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
