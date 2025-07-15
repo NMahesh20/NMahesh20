@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Gaining control over your health and well-being is one of those times in your life that you get to be completely selfish and not feel bad about it. If you want to meet your goals, you have to make it about you. You have to make it work for you and you alone. Anything less is a setup for failure." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "You can question somebody's views and their judgment without questioning their motives or patriotism." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "I have learned to love that which is meant to harm me, so that I can stand in the way of those who are less strong. I can take the bullets for those who aren't able to." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Sit down before fact as a little child, be prepared to give up every preconceived notion... or you shall learn nothing." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 3.  "The way you overcome shyness is to become so wrapped up in something that you forget to be afraid." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
+ 3.  "Take a two-mile walk every morning before breakfast." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 4.  "After all it is those who have a deep and real inner life who are best able to deal with the irritating details of outer life." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
+ 4.  "Variety is the soul of pleasure." <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
