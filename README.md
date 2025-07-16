@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can question somebody's views and their judgment without questioning their motives or patriotism." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Shared laughter creates a bond of friendships. When people laugh together, they cease to be young and old, teacher and pupils, worker and boss. They become a single group of human beings." <br> &emsp;&emsp;&emsp; <i>-by W. Lee Grant</i> 
 
- 2.  "Sit down before fact as a little child, be prepared to give up every preconceived notion... or you shall learn nothing." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 2.  "You have got to discover you, what you do, and trust it." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
 
- 3.  "Take a two-mile walk every morning before breakfast." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 3.  "Everyone is necessarily the hero of his own life story." <br> &emsp;&emsp;&emsp; <i>-by John Barth</i> 
 
- 4.  "Variety is the soul of pleasure." <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
+ 4.  "Always listen to experts. They'll tell you what can't be done and why. Then do it." <br> &emsp;&emsp;&emsp; <i>-by Robert Heinlein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
