@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Shared laughter creates a bond of friendships. When people laugh together, they cease to be young and old, teacher and pupils, worker and boss. They become a single group of human beings." <br> &emsp;&emsp;&emsp; <i>-by W. Lee Grant</i> 
+ 1.  "Don't join the book burners. Don't think you're going to conceal faults by concealing evidence that they ever existed. Don't be afraid to go in your library and read every book..." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 2.  "You have got to discover you, what you do, and trust it." <br> &emsp;&emsp;&emsp; <i>-by Barbra Streisand</i> 
+ 2.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 3.  "Everyone is necessarily the hero of his own life story." <br> &emsp;&emsp;&emsp; <i>-by John Barth</i> 
+ 3.  "They can conquer who believe they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
 
- 4.  "Always listen to experts. They'll tell you what can't be done and why. Then do it." <br> &emsp;&emsp;&emsp; <i>-by Robert Heinlein</i> 
+ 4.  "Music is the wine that fills the cup of silence." <br> &emsp;&emsp;&emsp; <i>-by Robert Fripp</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
