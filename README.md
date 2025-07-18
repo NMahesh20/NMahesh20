@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don't join the book burners. Don't think you're going to conceal faults by concealing evidence that they ever existed. Don't be afraid to go in your library and read every book..." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 1.  "People age even when you're not looking." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 2.  "It's better to be a company than to work for a company." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
 
- 3.  "They can conquer who believe they can." <br> &emsp;&emsp;&emsp; <i>-by Virgil</i> 
+ 3.  "The great secret of power is never to will to do more than you can accomplish." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
 
- 4.  "Music is the wine that fills the cup of silence." <br> &emsp;&emsp;&emsp; <i>-by Robert Fripp</i> 
+ 4.  "I always wanted to be somebody. If I made it, it's half because I was game enough to take a lot of punishment along the way and half because there were a lot of people who cared enough to help me." <br> &emsp;&emsp;&emsp; <i>-by Althea Gibson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
