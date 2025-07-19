@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People age even when you're not looking." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "You suffer a lot more hiding something than if you face up to it." <br> &emsp;&emsp;&emsp; <i>-by Alexander Woo</i> 
 
- 2.  "It's better to be a company than to work for a company." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
+ 2.  "Reveal not every secret you have to a friend, for how can you tell but that friend may hereafter become an enemy. And bring not all mischief you are able to upon an enemy, for he may one day become your friend." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
 
- 3.  "The great secret of power is never to will to do more than you can accomplish." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
+ 3.  "You must keep sending work out; you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you're working on another one. If you have talent, you will receive some measure of success - but only if you persist." <br> &emsp;&emsp;&emsp; <i>-by Isaac Asimov</i> 
 
- 4.  "I always wanted to be somebody. If I made it, it's half because I was game enough to take a lot of punishment along the way and half because there were a lot of people who cared enough to help me." <br> &emsp;&emsp;&emsp; <i>-by Althea Gibson</i> 
+ 4.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
