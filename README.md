@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You suffer a lot more hiding something than if you face up to it." <br> &emsp;&emsp;&emsp; <i>-by Alexander Woo</i> 
+ 1.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
 
- 2.  "Reveal not every secret you have to a friend, for how can you tell but that friend may hereafter become an enemy. And bring not all mischief you are able to upon an enemy, for he may one day become your friend." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
+ 2.  "Friendship with oneself is all-important, because without it one cannot be friends with anyone else in the world." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 
- 3.  "You must keep sending work out; you must never let a manuscript do nothing but eat its head off in a drawer. You send that work out again and again, while you're working on another one. If you have talent, you will receive some measure of success - but only if you persist." <br> &emsp;&emsp;&emsp; <i>-by Isaac Asimov</i> 
+ 3.  "I have found power in the mysteries of thought." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
 
- 4.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
+ 4.  "That's the way things come clear. All of a sudden. And then you realize how obvious they've been all along." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
