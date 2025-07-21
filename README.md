@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
+ 1.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Friendship with oneself is all-important, because without it one cannot be friends with anyone else in the world." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 2.  "You Europeans know nothing about America. Because we amass large fortunes you think we care for nothing but money. We are nothing for it; the moment we have it we spend it, sometimes well, sometimes ill, but we spend it. Money is nothing to us; it's merely the symbol of success. We are the greatest idealists in the world; I happen to think that we've set our ideal on the wrong objects; I happen to think that the greatest ideal man can set before himself is self-perfection." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 3.  "I have found power in the mysteries of thought." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
+ 3.  "Laughing is the sensation of feeling good all over and showing it principally in one spot." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 4.  "That's the way things come clear. All of a sudden. And then you realize how obvious they've been all along." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
+ 4.  "If you don't run your own life, somebody else will." <br> &emsp;&emsp;&emsp; <i>-by John Atkinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
