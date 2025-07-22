@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "Don’t let the fear of not pleasing someone stop you from being creative." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "You Europeans know nothing about America. Because we amass large fortunes you think we care for nothing but money. We are nothing for it; the moment we have it we spend it, sometimes well, sometimes ill, but we spend it. Money is nothing to us; it's merely the symbol of success. We are the greatest idealists in the world; I happen to think that we've set our ideal on the wrong objects; I happen to think that the greatest ideal man can set before himself is self-perfection." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 2.  "The one thing a creator can bring to the table when everybody else has all the money and power is centeredness and the ability to walk away. Never sit at a table you can't walk away from." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 3.  "Laughing is the sensation of feeling good all over and showing it principally in one spot." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 3.  "Never again clutter your days or nights with so many menial and unimportant things that you have no time to accept a real challenge when it comes along. This applies to play as well as work. A day merely survived is no cause for celebration. You are not here to fritter away your precious hours when you have the ability to accomplish so much by making a slight change in your routine. No more busy work. No more hiding from success. Leave time, leave space, to grow. Now. Now! Not tomorrow!" <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "If you don't run your own life, somebody else will." <br> &emsp;&emsp;&emsp; <i>-by John Atkinson</i> 
+ 4.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
