@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We none of us expect to be in smooth water all our days." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Permanent weight loss doesn’t come with an on and off switch. It is not something you do for a little while and think it is going to change your body." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Challenges are gifts that force us to search for a new center of gravity. Don't fight them. Just find a different way to stand." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Laughter is an instant vacation." <br> &emsp;&emsp;&emsp; <i>-by Milton Berle</i> 
 
- 3.  "Think about a woman. Doesn't know you're thinking about her. Doesn't care you're thinking about her. Makes you think about her even more." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
+ 3.  "For the most part, fear is nothing but an illusion. When you share it with someone else, it tends to disappear." <br> &emsp;&emsp;&emsp; <i>-by Marilyn C. Barrick</i> 
 
- 4.  "There is no remedy for love but to love more." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
