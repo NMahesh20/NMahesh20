@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Permanent weight loss doesn’t come with an on and off switch. It is not something you do for a little while and think it is going to change your body." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "I thought about how wonderfully strange it would be to live in a place where almost everything had been built by the dead." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Laughter is an instant vacation." <br> &emsp;&emsp;&emsp; <i>-by Milton Berle</i> 
+ 2.  "Your idea doesn't have to be big. It just has to be yours alone. The more the idea is yours alone, the more freedom you have to do something really amazing. The more amazing, the more people will click with your idea. The more people click with your idea, the more it will change the world." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "For the most part, fear is nothing but an illusion. When you share it with someone else, it tends to disappear." <br> &emsp;&emsp;&emsp; <i>-by Marilyn C. Barrick</i> 
+ 3.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
+ 4.  "Time is on the side of the oppressed today, it's against the oppressor. Truth is on the side of the oppressed today, it's against the oppressor. You don't need anything else." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
