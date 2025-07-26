@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I thought about how wonderfully strange it would be to live in a place where almost everything had been built by the dead." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "It's always been about the experience of life and of not being passive. If something so excites my curiosty, I want to go there, be a part of whatever it is that's either pushing me or pulling me toward it. That desire for experience has made me very rich in life experience." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 2.  "Your idea doesn't have to be big. It just has to be yours alone. The more the idea is yours alone, the more freedom you have to do something really amazing. The more amazing, the more people will click with your idea. The more people click with your idea, the more it will change the world." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 3.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Eat before shopping. If you go to the store hungry, you are likely to make unnecessary purchases." <br> &emsp;&emsp;&emsp; <i>-by American Heart Association Cookbook</i> 
 
- 4.  "Time is on the side of the oppressed today, it's against the oppressor. Truth is on the side of the oppressed today, it's against the oppressor. You don't need anything else." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 4.  "Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
