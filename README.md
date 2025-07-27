@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's always been about the experience of life and of not being passive. If something so excites my curiosty, I want to go there, be a part of whatever it is that's either pushing me or pulling me toward it. That desire for experience has made me very rich in life experience." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 1.  "Yes is how you get your first job, and your next job, and your spouse, and even your kids. Even if it's a bit edgy, a bit out of your comfort zone, saying yes means that you will do something new, meet someone new and make a difference." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 2.  "I tore myself away from the safe comfort of certainties through my love for the truth; and truth rewarded me." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
 
- 3.  "Eat before shopping. If you go to the store hungry, you are likely to make unnecessary purchases." <br> &emsp;&emsp;&emsp; <i>-by American Heart Association Cookbook</i> 
+ 3.  "Whenever you commend, add your reasons for doing so; it is this which distinguishes the approbation of a man of sense from the flattery of sycophants and admiration of fools." <br> &emsp;&emsp;&emsp; <i>-by Sir Richard Steele</i> 
 
- 4.  "Remember that there is nothing stable in human affairs; therefore avoid undue elation in prosperity, or undue depression in adversity." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 4.  "The animals of the planet are in desperate peril... Without free animal life I believe we will lose the spiritual equivalent of oxygen." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
