@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are worse things than looking stupid. Sleeping through life is one of them." <br> &emsp;&emsp;&emsp; <i>-by Laura Preble</i> 
+ 1.  "Feelings are like toes! They have to breathe free or they'll stink to high heaven!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "The kind of beauty I want most is the hard-to-get kind that comes from within - strength, courage, dignity." <br> &emsp;&emsp;&emsp; <i>-by Ruby Dee</i> 
+ 2.  "A friend is a gift you give yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 3.  "Look at all the sentences which seem true and question them." <br> &emsp;&emsp;&emsp; <i>-by David Reisman</i> 
+ 3.  "If hunger makes you irritable, better eat and be pleasant." <br> &emsp;&emsp;&emsp; <i>-by Sefer Hasidim</i> 
 
- 4.  "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." <br> &emsp;&emsp;&emsp; <i>-by Saint Jerome</i> 
+ 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
