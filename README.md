@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Feelings are like toes! They have to breathe free or they'll stink to high heaven!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "You make me understand how wonderful it is for little lizards when they find that one special rock that's perfect for sunning themselves on. You make me lizard-happy." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "A friend is a gift you give yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 2.  "War is a beastly business, it is true, but one proof we are human is our ability to learn, even from it, how better to exist." <br> &emsp;&emsp;&emsp; <i>-by M. F. K. Fisher</i> 
 
- 3.  "If hunger makes you irritable, better eat and be pleasant." <br> &emsp;&emsp;&emsp; <i>-by Sefer Hasidim</i> 
+ 3.  "Things don't fall apart. Things hold. Lines connect in thin ways that last and last and lives become generations made out of pictures and words just kept." <br> &emsp;&emsp;&emsp; <i>-by Lucille Clifton</i> 
 
- 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
+ 4.  "Be not ashamed of mistakes and thus make them crimes." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
