@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Children should feel loved because they exist, not because they’ve behaved in a certain way." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "You need only claim the event of your life to make yourself yours. When you truly possess all you have been and done, which may take some time, you are fierce with reality." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
 
- 2.  "Have you learned the lessons only of those who admired you, and were tender with you, and stood aside for you? Have you not learned great lessons from those who braced themselves against you, and disputed passage with you?" <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "I didn't see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "I ran the wrong kind of business, but I did it with integrity." <br> &emsp;&emsp;&emsp; <i>-by Sydney Biddle Barrows</i> 
 
- 4.  "Life is consciousness." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
+ 4.  "We don't know who we are until we see what we can do." <br> &emsp;&emsp;&emsp; <i>-by Martha Grimes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
