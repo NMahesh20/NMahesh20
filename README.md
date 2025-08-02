@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You need only claim the event of your life to make yourself yours. When you truly possess all you have been and done, which may take some time, you are fierce with reality." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
+ 1.  "The moment a man stops dreaming is the moment he petrifies inside..." <br> &emsp;&emsp;&emsp; <i>-by Roger Ebert</i> 
 
- 2.  "Energy is eternal delight." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "Life engenders life. Energy creates energy. It is by spending oneself that one becomes rich." <br> &emsp;&emsp;&emsp; <i>-by Sarah Bernhardt</i> 
 
- 3.  "I ran the wrong kind of business, but I did it with integrity." <br> &emsp;&emsp;&emsp; <i>-by Sydney Biddle Barrows</i> 
+ 3.  "Americans are overreachers; overreaching is the most admirable of the many American excesses." <br> &emsp;&emsp;&emsp; <i>-by George F. Will</i> 
 
- 4.  "We don't know who we are until we see what we can do." <br> &emsp;&emsp;&emsp; <i>-by Martha Grimes</i> 
+ 4.  "Our patience will achieve more than our force." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
