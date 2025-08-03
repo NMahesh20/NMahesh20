@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The moment a man stops dreaming is the moment he petrifies inside..." <br> &emsp;&emsp;&emsp; <i>-by Roger Ebert</i> 
+ 1.  "The key to realizing a dream is to focus not on success but significance - and then even the small steps and little victories along your path will take on greater meaning." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Life engenders life. Energy creates energy. It is by spending oneself that one becomes rich." <br> &emsp;&emsp;&emsp; <i>-by Sarah Bernhardt</i> 
+ 2.  "Maybe the greatest challenge now is to find a way to keep independence while also committing ourselves to the ties that bind people, families, and ultimately societies together." <br> &emsp;&emsp;&emsp; <i>-by Jane O'Reilly</i> 
 
- 3.  "Americans are overreachers; overreaching is the most admirable of the many American excesses." <br> &emsp;&emsp;&emsp; <i>-by George F. Will</i> 
+ 3.  "Don't confuse being 'soft' with seeing the other guy's point of view." <br> &emsp;&emsp;&emsp; <i>-by George Bush</i> 
 
- 4.  "Our patience will achieve more than our force." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 4.  "It is an interesting question how far men would retain their relative rank if they were divested of their clothes." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
