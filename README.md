@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The key to realizing a dream is to focus not on success but significance - and then even the small steps and little victories along your path will take on greater meaning." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome." <br> &emsp;&emsp;&emsp; <i>-by Booker T. Washington</i> 
 
- 2.  "Maybe the greatest challenge now is to find a way to keep independence while also committing ourselves to the ties that bind people, families, and ultimately societies together." <br> &emsp;&emsp;&emsp; <i>-by Jane O'Reilly</i> 
+ 2.  "The worst loneliness is not to be comfortable with yourself." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 3.  "Don't confuse being 'soft' with seeing the other guy's point of view." <br> &emsp;&emsp;&emsp; <i>-by George Bush</i> 
+ 3.  "Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 4.  "It is an interesting question how far men would retain their relative rank if they were divested of their clothes." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "About the only thing that comes to us without effort is old age." <br> &emsp;&emsp;&emsp; <i>-by Gloria Pitzer</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
