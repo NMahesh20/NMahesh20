@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome." <br> &emsp;&emsp;&emsp; <i>-by Booker T. Washington</i> 
+ 1.  "I live in the present due to the constraints of the Space-Time Continuum." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
 
- 2.  "The worst loneliness is not to be comfortable with yourself." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 2.  "This is why I loved technology: if you used it right, it could give you power and privacy." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
 
- 3.  "Few things are impossible to diligence and skill. Great works are performed not by strength, but perseverance." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 3.  "God creates men, but they choose each other." <br> &emsp;&emsp;&emsp; <i>-by Niccolo Machiavelli</i> 
 
- 4.  "About the only thing that comes to us without effort is old age." <br> &emsp;&emsp;&emsp; <i>-by Gloria Pitzer</i> 
+ 4.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
