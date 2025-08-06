@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I live in the present due to the constraints of the Space-Time Continuum." <br> &emsp;&emsp;&emsp; <i>-by Hank Green</i> 
+ 1.  "We've always been here and we'll always be here. We are a specific arrangement of particles and this instant is infinite. Did we luck out, or didn't we? The odds against this sentence having ever being typed, much less the odds against you reading it were inconceivable. Smile, because the fact that you're able to is almost impossible to comprehend." <br> &emsp;&emsp;&emsp; <i>-by Jeffrey Rowland</i> 
 
- 2.  "This is why I loved technology: if you used it right, it could give you power and privacy." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
+ 2.  "Courage is saying, "Maybe what I'm doing isn't working; maybe I should try something else."" <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
 
- 3.  "God creates men, but they choose each other." <br> &emsp;&emsp;&emsp; <i>-by Niccolo Machiavelli</i> 
+ 3.  "In health the flesh is graced, the holy enters the world." <br> &emsp;&emsp;&emsp; <i>-by Wendell Berry</i> 
 
- 4.  "True repentance means making amends with the person when at all possible." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 4.  "People fail forward to success." <br> &emsp;&emsp;&emsp; <i>-by Mary Kay Ash</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
