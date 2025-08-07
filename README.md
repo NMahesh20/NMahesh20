@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We've always been here and we'll always be here. We are a specific arrangement of particles and this instant is infinite. Did we luck out, or didn't we? The odds against this sentence having ever being typed, much less the odds against you reading it were inconceivable. Smile, because the fact that you're able to is almost impossible to comprehend." <br> &emsp;&emsp;&emsp; <i>-by Jeffrey Rowland</i> 
+ 1.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
 
- 2.  "Courage is saying, "Maybe what I'm doing isn't working; maybe I should try something else."" <br> &emsp;&emsp;&emsp; <i>-by Anna Lappe</i> 
+ 2.  "I would be the most content if my children grew up to be the kind of people who think decorating consists mostly of building enough bookshelves." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "In health the flesh is graced, the holy enters the world." <br> &emsp;&emsp;&emsp; <i>-by Wendell Berry</i> 
+ 3.  "In love, one and one are one." <br> &emsp;&emsp;&emsp; <i>-by Jean-Paul Sartre</i> 
 
- 4.  "People fail forward to success." <br> &emsp;&emsp;&emsp; <i>-by Mary Kay Ash</i> 
+ 4.  "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
