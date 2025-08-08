@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
+ 1.  "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 2.  "I would be the most content if my children grew up to be the kind of people who think decorating consists mostly of building enough bookshelves." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "When you play, play hard; when you work, don't play at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 3.  "In love, one and one are one." <br> &emsp;&emsp;&emsp; <i>-by Jean-Paul Sartre</i> 
+ 3.  "Every minute you are thinking of evil, you might have been thinking of good instead. Refuse to pander to a morbid interest in your own misdeeds. Pick yourself up, be sorry, shake yourself, and go on again." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
 
- 4.  "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 4.  "He who labors diligently need never despair; for all things are accomplished by diligence and labor." <br> &emsp;&emsp;&emsp; <i>-by Menander</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
