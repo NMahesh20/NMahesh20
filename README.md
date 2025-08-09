@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 1.  "You can’t make a life-altering decision for someone else and expect it to stick." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "When you play, play hard; when you work, don't play at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 2.  "The happiest excitement in life is to be convinced that one is fighting for all one is worth on behalf of some clearly seen and deeply felt good." <br> &emsp;&emsp;&emsp; <i>-by Ruth Benedict</i> 
 
- 3.  "Every minute you are thinking of evil, you might have been thinking of good instead. Refuse to pander to a morbid interest in your own misdeeds. Pick yourself up, be sorry, shake yourself, and go on again." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
+ 3.  "The bird of paradise alights only upon the hand that does not grasp." <br> &emsp;&emsp;&emsp; <i>-by John Berry</i> 
 
- 4.  "He who labors diligently need never despair; for all things are accomplished by diligence and labor." <br> &emsp;&emsp;&emsp; <i>-by Menander</i> 
+ 4.  "It is better to offer no excuse than a bad one." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
