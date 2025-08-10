@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can’t make a life-altering decision for someone else and expect it to stick." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "The happiest excitement in life is to be convinced that one is fighting for all one is worth on behalf of some clearly seen and deeply felt good." <br> &emsp;&emsp;&emsp; <i>-by Ruth Benedict</i> 
+ 2.  "There is no trade or employment but the young man following it may become a hero." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 3.  "The bird of paradise alights only upon the hand that does not grasp." <br> &emsp;&emsp;&emsp; <i>-by John Berry</i> 
+ 3.  "There's the country of America, which you have to defend, but there's also the idea of America. America is more than just a country, it's an idea. An idea that's supposed to be contagious." <br> &emsp;&emsp;&emsp; <i>-by Bono</i> 
 
- 4.  "It is better to offer no excuse than a bad one." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 4.  "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
