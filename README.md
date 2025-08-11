@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "I have gotten a lot more attention than...other women that I find incredibly beautiful. And this has happened to me ever since I was a girl, when I was flat, had no teeth, was skinny and small as I could be. I always got more attention than anyone else. If I hadn't, I would have made sure I did." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
 
- 2.  "There is no trade or employment but the young man following it may become a hero." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "To grow mature is to separate more distinctly, to connect more closely." <br> &emsp;&emsp;&emsp; <i>-by Hugo Von Hofmannsthal</i> 
 
- 3.  "There's the country of America, which you have to defend, but there's also the idea of America. America is more than just a country, it's an idea. An idea that's supposed to be contagious." <br> &emsp;&emsp;&emsp; <i>-by Bono</i> 
+ 3.  "Cherish your own emotions and never undervalue them." <br> &emsp;&emsp;&emsp; <i>-by Robert Henri</i> 
 
- 4.  "People drain me, even the closest of friends, and I find loneliness to be the best state in the union to live in." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 4.  "The gem cannot be polished without friction, nor man perfected without trials." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
