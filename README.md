@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have gotten a lot more attention than...other women that I find incredibly beautiful. And this has happened to me ever since I was a girl, when I was flat, had no teeth, was skinny and small as I could be. I always got more attention than anyone else. If I hadn't, I would have made sure I did." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
+ 1.  "Acts of sacrifice and decency without regard to what's in it for you create ripple effects. Ones that lift up families and communities, that spread opportunity and boost our economy." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "To grow mature is to separate more distinctly, to connect more closely." <br> &emsp;&emsp;&emsp; <i>-by Hugo Von Hofmannsthal</i> 
+ 2.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
 
- 3.  "Cherish your own emotions and never undervalue them." <br> &emsp;&emsp;&emsp; <i>-by Robert Henri</i> 
+ 3.  "None of us will ever accomplish anything excellent or commanding except when he listens to this whisper which is heard by him alone." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "The gem cannot be polished without friction, nor man perfected without trials." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "If you must love your neighbor as yourself, it is at least as fair to love yourself as your neighbor." <br> &emsp;&emsp;&emsp; <i>-by Sebastien-Roch Nicolas</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
