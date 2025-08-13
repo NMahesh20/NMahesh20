@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Acts of sacrifice and decency without regard to what's in it for you create ripple effects. Ones that lift up families and communities, that spread opportunity and boost our economy." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "You're probably on the right track if you feel like a sidewalk worm during a rainstorm." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
 
- 2.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
+ 2.  "This art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of energy in our great men." <br> &emsp;&emsp;&emsp; <i>-by Captain J. A. Hadfield</i> 
 
- 3.  "None of us will ever accomplish anything excellent or commanding except when he listens to this whisper which is heard by him alone." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "So act that your principle of action might safely be made a law for the whole world." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Kant</i> 
 
- 4.  "If you must love your neighbor as yourself, it is at least as fair to love yourself as your neighbor." <br> &emsp;&emsp;&emsp; <i>-by Sebastien-Roch Nicolas</i> 
+ 4.  "Level with your child by being honest. Nobody spots a phony quicker than a child." <br> &emsp;&emsp;&emsp; <i>-by Mary MacCracken</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
