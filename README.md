@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You're probably on the right track if you feel like a sidewalk worm during a rainstorm." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 1.  "Sending important messages via text is the coward’s way out. Don’t be the person who texts important messages. It’s rude, inconsiderate, and, yes, cowardly." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "This art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of energy in our great men." <br> &emsp;&emsp;&emsp; <i>-by Captain J. A. Hadfield</i> 
+ 2.  "I shut my eyes in order to see." <br> &emsp;&emsp;&emsp; <i>-by Paul Gauguin</i> 
 
- 3.  "So act that your principle of action might safely be made a law for the whole world." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Kant</i> 
+ 3.  "The greatest minds are capable of the greatest vices as well as of the greatest virtues." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 4.  "Level with your child by being honest. Nobody spots a phony quicker than a child." <br> &emsp;&emsp;&emsp; <i>-by Mary MacCracken</i> 
+ 4.  "Journal writing is a voyage to the interior." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
