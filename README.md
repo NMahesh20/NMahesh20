@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sending important messages via text is the coward’s way out. Don’t be the person who texts important messages. It’s rude, inconsiderate, and, yes, cowardly." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "That's the worst of growing up, and I'm beginning to realize it. The things you wanted so much when you were a child don't seem half so wonderful to you when you get them." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "I shut my eyes in order to see." <br> &emsp;&emsp;&emsp; <i>-by Paul Gauguin</i> 
+ 2.  "I am here for a purpose and that purpose is to grow into a mountain, not to shrink to a grain of sand. Henceforth will I apply ALL my efforts to become the highest mountain of all and I will strain my potential until it cries for mercy." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "The greatest minds are capable of the greatest vices as well as of the greatest virtues." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "Never marry but for love; but see that thou lovest what is lovely." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
 
- 4.  "Journal writing is a voyage to the interior." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "Let grace and goodness be the principal loadstone of thy affections. For love which hath ends, will have an end; whereas that which is founded on true virtue, will always continue." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
