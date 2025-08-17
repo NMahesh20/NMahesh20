@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If the universe is bigger and stranger than I can imagine, it's best to meet it with an empty bladder." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
+ 1.  "Only two things you ignore: things that aren't important and things you wish weren't important, and wishing never works." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "We could have bought a small yacht with what we spent on our dog an dall the things he destroyed. Then again, how many yachts wait by the door all day for your return?" <br> &emsp;&emsp;&emsp; <i>-by John Grogan</i> 
+ 2.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "Work is not always required... there is such a thing as sacred idleness, the cultivation of which is now fearfully neglected." <br> &emsp;&emsp;&emsp; <i>-by George McDonald</i> 
+ 3.  "September tries its best to have us forget summer." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 4.  "It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched for they are full of the truthless ideal which have been instilled into them, and each time they come in contact with the real, they are bruised and wounded." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
