@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only two things you ignore: things that aren't important and things you wish weren't important, and wishing never works." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "I never lie because I don't fear anyone. You only lie when you're afraid." <br> &emsp;&emsp;&emsp; <i>-by John Gotti</i> 
 
- 2.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "Life loves to be taken by the lapel and told, 'I'm with you kid. Let's go.'" <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
 
- 3.  "September tries its best to have us forget summer." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 3.  "Never expose yourself unnecessarily to danger; a miracle may not save you...and if it does, it will be deducted from your share of luck or merit." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
 
- 4.  "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
+ 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
