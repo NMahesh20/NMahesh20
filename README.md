@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I never lie because I don't fear anyone. You only lie when you're afraid." <br> &emsp;&emsp;&emsp; <i>-by John Gotti</i> 
+ 1.  "Our greatest glory is not in never falling, but in getting up every time we do." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 2.  "Life loves to be taken by the lapel and told, 'I'm with you kid. Let's go.'" <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
+ 2.  "If you make it plain you like people, it's hard for them to resist liking you back." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Never expose yourself unnecessarily to danger; a miracle may not save you...and if it does, it will be deducted from your share of luck or merit." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
+ 3.  "I myself do nothing. The Holy Spirit accomplishes all through me." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 4.  "To be conscious that you are ignorant is a great step to knowledge." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 4.  "When you make a world tolerable for yourself, you make a world tolerable for others." <br> &emsp;&emsp;&emsp; <i>-by Anais Nin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
