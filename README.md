@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Our greatest glory is not in never falling, but in getting up every time we do." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 1.  "Facts or opinions which are to pass through the hands of so many, to be misconceived by folly in one, and ignorance in another, can hardly have much truth left." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "If you make it plain you like people, it's hard for them to resist liking you back." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "When you win, say nothing. When you lose, say less." <br> &emsp;&emsp;&emsp; <i>-by Paul Brown</i> 
 
- 3.  "I myself do nothing. The Holy Spirit accomplishes all through me." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 3.  "There are admirable potentialities in every human being. Believe in your strength and your youth. Learn to repeat endlessly to yourself, 'It all depends on me.'" <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "When you make a world tolerable for yourself, you make a world tolerable for others." <br> &emsp;&emsp;&emsp; <i>-by Anais Nin</i> 
+ 4.  "Only I can change my life. No one can do it for me." <br> &emsp;&emsp;&emsp; <i>-by Carol Burnett</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
