@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Facts or opinions which are to pass through the hands of so many, to be misconceived by folly in one, and ignorance in another, can hardly have much truth left." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "What makes something special is not just what you have to gain, but what you feel there is to lose." <br> &emsp;&emsp;&emsp; <i>-by Andre Agassi</i> 
 
- 2.  "When you win, say nothing. When you lose, say less." <br> &emsp;&emsp;&emsp; <i>-by Paul Brown</i> 
+ 2.  "The possession of unlimited power will make a despot of almost any man. There is a possible Nero in the gentlest human creature that walks." <br> &emsp;&emsp;&emsp; <i>-by Thomas Bailey</i> 
 
- 3.  "There are admirable potentialities in every human being. Believe in your strength and your youth. Learn to repeat endlessly to yourself, 'It all depends on me.'" <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
 
- 4.  "Only I can change my life. No one can do it for me." <br> &emsp;&emsp;&emsp; <i>-by Carol Burnett</i> 
+ 4.  "The love of learning, the sequestered nooks,/ And all the sweet serenity of books." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
