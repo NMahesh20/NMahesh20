@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What makes something special is not just what you have to gain, but what you feel there is to lose." <br> &emsp;&emsp;&emsp; <i>-by Andre Agassi</i> 
+ 1.  "When someone wants to lose weight, they will do whatever it takes. They can’t do it for anyone else but themselves. It has to be for them alone. Without that understanding, they will fail." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The possession of unlimited power will make a despot of almost any man. There is a possible Nero in the gentlest human creature that walks." <br> &emsp;&emsp;&emsp; <i>-by Thomas Bailey</i> 
+ 2.  "Our bodies communicate to us clearly and specifically, if we are willing to listen to them." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
 
- 3.  "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
+ 3.  "Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
 
- 4.  "The love of learning, the sequestered nooks,/ And all the sweet serenity of books." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "Set up as an ideal the facing of reality as honestly and as cheerfully as possible." <br> &emsp;&emsp;&emsp; <i>-by Dr. Karl Menninger</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
