@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When someone wants to lose weight, they will do whatever it takes. They can’t do it for anyone else but themselves. It has to be for them alone. Without that understanding, they will fail." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Repression is not the way to virtue. When people restrain themselves out of fear, their lives are by necessity diminished. Only through freely chosen discipline can life be enjoyed and still kept within the bounds of reason." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 2.  "Our bodies communicate to us clearly and specifically, if we are willing to listen to them." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
+ 2.  "Bacchus hath drowned more men than Neptune." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 
- 3.  "Think of yourself as an incandescent power, illuminated and perhaps forever talked to by God and his messengers." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
+ 3.  "It is only the first step that is difficult." <br> &emsp;&emsp;&emsp; <i>-by Marie De Vichy-Chaconne</i> 
 
- 4.  "Set up as an ideal the facing of reality as honestly and as cheerfully as possible." <br> &emsp;&emsp;&emsp; <i>-by Dr. Karl Menninger</i> 
+ 4.  "We owe something to extravagance, for thrift and adventure seldom go hand in hand." <br> &emsp;&emsp;&emsp; <i>-by Jennie Jerome Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
