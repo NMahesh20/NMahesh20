@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Repression is not the way to virtue. When people restrain themselves out of fear, their lives are by necessity diminished. Only through freely chosen discipline can life be enjoyed and still kept within the bounds of reason." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "Bacchus hath drowned more men than Neptune." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 2.  "If there's one thing I know it's God does love a good joke." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
 
- 3.  "It is only the first step that is difficult." <br> &emsp;&emsp;&emsp; <i>-by Marie De Vichy-Chaconne</i> 
+ 3.  "If you would persuade, you must appeal to interest rather than intellect." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "We owe something to extravagance, for thrift and adventure seldom go hand in hand." <br> &emsp;&emsp;&emsp; <i>-by Jennie Jerome Churchill</i> 
+ 4.  "The good or ill of a man lies within his own will." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
