@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I didn't go to college at all, any college, and I'm not saying you wasted your time or money, but look at me, I'm a huge celebrity." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "I wrote myself a check for ten million dollars for acting services rendered and dated it Thanksgiving 1995. I put it in my wallet and it deteriorated. And then, just before Thanksgiving 1995, I found out I was going to make ten million dollars for Dumb & Dumber. I put that check in the casket with my father because it was our dream together." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
 
- 2.  "If there's one thing I know it's God does love a good joke." <br> &emsp;&emsp;&emsp; <i>-by Hugh Elliott</i> 
+ 2.  "It is only prudent never to place complete confidence in that by which we have even once been deceived." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 3.  "If you would persuade, you must appeal to interest rather than intellect." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "If you want to be free, there is but one way; it is to guarantee an equally full measure of liberty to all your neighbors. There is no other." <br> &emsp;&emsp;&emsp; <i>-by Carl Schurz</i> 
 
- 4.  "The good or ill of a man lies within his own will." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 4.  "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
