@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I wrote myself a check for ten million dollars for acting services rendered and dated it Thanksgiving 1995. I put it in my wallet and it deteriorated. And then, just before Thanksgiving 1995, I found out I was going to make ten million dollars for Dumb & Dumber. I put that check in the casket with my father because it was our dream together." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
+ 1.  "The leaders we revere and the businesses that last are generally not the result of a narrow pursuit of popularity or personal advancement, but of devotion to some bigger purpose. That's the hallmark of real success. The other trapping of success might be the by product of this larger mission, but it can't be the central thing." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "It is only prudent never to place complete confidence in that by which we have even once been deceived." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 2.  "The act of nutrition is not a purely physiological event... The family meal is a formality that cultivates in us... a capacity for sharing, generosity, thoughtfulness, a talent for civilized conversation." <br> &emsp;&emsp;&emsp; <i>-by Francine Du Plessix Gray</i> 
 
- 3.  "If you want to be free, there is but one way; it is to guarantee an equally full measure of liberty to all your neighbors. There is no other." <br> &emsp;&emsp;&emsp; <i>-by Carl Schurz</i> 
+ 3.  "Abundance is, in large part, an attitude." <br> &emsp;&emsp;&emsp; <i>-by Sue Patton Thoele</i> 
 
- 4.  "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 4.  "Please write again soon. Though my own life is filled with activity, letters encourage momentary escape into others lives and I come back to my own with greater contentment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
