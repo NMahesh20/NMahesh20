@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The leaders we revere and the businesses that last are generally not the result of a narrow pursuit of popularity or personal advancement, but of devotion to some bigger purpose. That's the hallmark of real success. The other trapping of success might be the by product of this larger mission, but it can't be the central thing." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Keep your fears to yourself, but share your courage with others." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 
- 2.  "The act of nutrition is not a purely physiological event... The family meal is a formality that cultivates in us... a capacity for sharing, generosity, thoughtfulness, a talent for civilized conversation." <br> &emsp;&emsp;&emsp; <i>-by Francine Du Plessix Gray</i> 
+ 2.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 3.  "Abundance is, in large part, an attitude." <br> &emsp;&emsp;&emsp; <i>-by Sue Patton Thoele</i> 
+ 3.  "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 
- 4.  "Please write again soon. Though my own life is filled with activity, letters encourage momentary escape into others lives and I come back to my own with greater contentment." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
+ 4.  "Working in the garden...gives me a profound feeling of inner peace." <br> &emsp;&emsp;&emsp; <i>-by Ruth Stout</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
