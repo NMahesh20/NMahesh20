@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep your fears to yourself, but share your courage with others." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 1.  "I never trust people's assertions, I always judge of them by their actions." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 2.  "When you point your finger at someone, three fingers are pointing back at you." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 3.  "The shoe that fits one person pinches another; there is no recipe for living that suits all cases." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
+ 3.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 4.  "Working in the garden...gives me a profound feeling of inner peace." <br> &emsp;&emsp;&emsp; <i>-by Ruth Stout</i> 
+ 4.  "There are some defeats more triumphant than victories." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
