@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Personally I have struggled massively with the dilemma of talent vs desire. Choosing desire may not always be the easiest thing to do. It may seem a waste to leave those natural talents behind and strike out in a new direction. But at least you’ll feel alive." <br> &emsp;&emsp;&emsp; <i>-by Meri Williams</i> 
+ 1.  "You can pray for someone even if you don't think God exists." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Do what you love, love what you do, leave the world a better place and don't pick your nose." <br> &emsp;&emsp;&emsp; <i>-by Jeff Mallett</i> 
+ 2.  "It is the loving, not the loved, woman who feels loveable." <br> &emsp;&emsp;&emsp; <i>-by Jessamyn West</i> 
 
- 3.  "When you appeal to force, there's one thing you must never do - lose." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 3.  "I believe in God, only I spell it Nature." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "A ship in port is safe, but that's not what ships are built for." <br> &emsp;&emsp;&emsp; <i>-by Grace Murray Hopper</i> 
+ 4.  "Health is not simply the absence of sickness." <br> &emsp;&emsp;&emsp; <i>-by Hannah Green</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
