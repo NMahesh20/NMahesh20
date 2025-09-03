@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 1.  "When you have a dream you've got to grab it and never let go." <br> &emsp;&emsp;&emsp; <i>-by Carol Burnett</i> 
 
- 2.  "Passion is seldom the end of any story, for it cannot long endure if it is not soon supplemented with true affection and mutual respect." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 2.  "It is well to give when asked but it is better to give unasked, through understanding." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 
- 3.  "Passion makes the world go round. Love just makes it a safer place." <br> &emsp;&emsp;&emsp; <i>-by Ice T</i> 
+ 3.  "The best effect of fine persons is felt after we have left their presence." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "There smites nothing so sharp, nor smelleth so sour as shame." <br> &emsp;&emsp;&emsp; <i>-by William Langland</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
