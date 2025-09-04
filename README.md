@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you have a dream you've got to grab it and never let go." <br> &emsp;&emsp;&emsp; <i>-by Carol Burnett</i> 
+ 1.  "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable." <br> &emsp;&emsp;&emsp; <i>-by Christopher Reeve</i> 
 
- 2.  "It is well to give when asked but it is better to give unasked, through understanding." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 2.  "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 3.  "The best effect of fine persons is felt after we have left their presence." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "I am open to receive with every breath I breathe." <br> &emsp;&emsp;&emsp; <i>-by Michael Sun</i> 
 
- 4.  "There smites nothing so sharp, nor smelleth so sour as shame." <br> &emsp;&emsp;&emsp; <i>-by William Langland</i> 
+ 4.  "Do not consider painful what is good for you." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
