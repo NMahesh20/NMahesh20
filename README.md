@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable." <br> &emsp;&emsp;&emsp; <i>-by Christopher Reeve</i> 
+ 1.  "You can't base your life on the past or the present. You have to tell me about your future." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 2.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
 
- 3.  "I am open to receive with every breath I breathe." <br> &emsp;&emsp;&emsp; <i>-by Michael Sun</i> 
+ 3.  "Exercise ferments the humors, casts them into their proper channels, throws off redundancies, and helps nature in those secret distributions, without which the body cannot subsist in its vigor, nor the soul act with cheerfulness." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 4.  "Do not consider painful what is good for you." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
+ 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
