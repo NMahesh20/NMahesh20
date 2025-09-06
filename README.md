@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't base your life on the past or the present. You have to tell me about your future." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "'Where and how can I make this meal better for me?' I asked myself that question before every meal—especially in the beginning." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Sooner or later we all quote our mothers." <br> &emsp;&emsp;&emsp; <i>-by Bern Williams</i> 
+ 2.  "If you want peace, stop fighting. If you want peace of mind, stop fighting with your thoughts." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "Exercise ferments the humors, casts them into their proper channels, throws off redundancies, and helps nature in those secret distributions, without which the body cannot subsist in its vigor, nor the soul act with cheerfulness." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 3.  "That is what marriage really means: helping one another to reach the full status of being persons, responsible and autonomous beings who do not run away from life." <br> &emsp;&emsp;&emsp; <i>-by Paul Tournier</i> 
 
- 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
+ 4.  "Nobody, as long as he moves about among the chaotic currents of life, is without trouble." <br> &emsp;&emsp;&emsp; <i>-by Carl Jung</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
