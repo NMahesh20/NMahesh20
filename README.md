@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Such is the inconsistency of real love, that it is always awake to suspicion, however unreasonable; always requiring new assurances from the object of its interest." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "If my hands are fully occupied in holding on to something, I can neither give nor receive." <br> &emsp;&emsp;&emsp; <i>-by Dorothee Solle</i> 
+ 2.  "When anger rises, think of the consequences." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 3.  "A schedule defends from chaos and whim." <br> &emsp;&emsp;&emsp; <i>-by Annie Dillard</i> 
+ 3.  "Always do sober what you said you'd do drunk. That will teach you to keep your mouth shut." <br> &emsp;&emsp;&emsp; <i>-by Ernest Hemingway</i> 
 
- 4.  "Dance is the hidden language of the soul." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
+ 4.  "It is cruel to discover one's mediocrity only when it is too late." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
