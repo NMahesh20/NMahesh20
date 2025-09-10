@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I always wanted a happy ending... Now I've learned, the hard way, that some poems don't rhyme, and some stories don't have a clear beginning, middle and end. Life is about not knowing, having to change, taking the moment and making the best of it without knowing what's going to happen next. Delicious ambiguity." <br> &emsp;&emsp;&emsp; <i>-by Gilda Radner</i> 
+ 1.  "Beware the pull on your heartstrings -- it's often the pursestrings that are actually being reached for." <br> &emsp;&emsp;&emsp; <i>-by Barbara Mikkelson</i> 
 
- 2.  "Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish." <br> &emsp;&emsp;&emsp; <i>-by Ovid</i> 
+ 2.  "Those who don't know how to weep with their whole heart, don't know how to laugh either." <br> &emsp;&emsp;&emsp; <i>-by Golda Meir</i> 
 
- 3.  "Never part without loving words to think of during your absence. It may be that you will not meet again in life." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
+ 3.  "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 4.  "Be civil to all; sociable to many; familiar with few; friend to one; enemy to none." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Dwelling on the negative simply contributes to its power." <br> &emsp;&emsp;&emsp; <i>-by Shirley MacLaine</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
