@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beware the pull on your heartstrings -- it's often the pursestrings that are actually being reached for." <br> &emsp;&emsp;&emsp; <i>-by Barbara Mikkelson</i> 
+ 1.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Those who don't know how to weep with their whole heart, don't know how to laugh either." <br> &emsp;&emsp;&emsp; <i>-by Golda Meir</i> 
+ 2.  "The secret of concentration is the secret of self-discovery. You reach inside yourself to discover your personal resources, and what it takes to match them to the challenge." <br> &emsp;&emsp;&emsp; <i>-by Arnold Palmer</i> 
 
- 3.  "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 3.  "You're confusing product with process. Most people, when they criticize, whether they like it or hate it, they're talking about product. That's not art, that's the result of art. Art, to whatever degree we can get a handle on (I'm not sure that we really can) is a process. It begins in the heart and the mind with the eyes and hands." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
 
- 4.  "Dwelling on the negative simply contributes to its power." <br> &emsp;&emsp;&emsp; <i>-by Shirley MacLaine</i> 
+ 4.  "We did not change as we grew older; we just became more clearly ourselves." <br> &emsp;&emsp;&emsp; <i>-by Lynn Hall</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
