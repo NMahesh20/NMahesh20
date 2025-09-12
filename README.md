@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In the end, we decide if we're remembered for what happened to us or for what we did with it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "The secret of concentration is the secret of self-discovery. You reach inside yourself to discover your personal resources, and what it takes to match them to the challenge." <br> &emsp;&emsp;&emsp; <i>-by Arnold Palmer</i> 
+ 2.  "It's amazing how quickly nature consumes human places after we turn our backs on them. Life is a hungry thing." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "You're confusing product with process. Most people, when they criticize, whether they like it or hate it, they're talking about product. That's not art, that's the result of art. Art, to whatever degree we can get a handle on (I'm not sure that we really can) is a process. It begins in the heart and the mind with the eyes and hands." <br> &emsp;&emsp;&emsp; <i>-by Jeff Melvoin</i> 
+ 3.  "There is no mistaking a real book when one meets it. It is like falling in love." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 
- 4.  "We did not change as we grew older; we just became more clearly ourselves." <br> &emsp;&emsp;&emsp; <i>-by Lynn Hall</i> 
+ 4.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
