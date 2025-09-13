@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "The best way to get people to like you is not to like them too much." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "It's amazing how quickly nature consumes human places after we turn our backs on them. Life is a hungry thing." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 2.  "There ain't no such thing as wrong food." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 
- 3.  "There is no mistaking a real book when one meets it. It is like falling in love." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
+ 3.  "If you want your life to be more rewarding, you have to change the way you think." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
+ 4.  "If you can find a path with no obstacles, it probably doesn't lead anywhere." <br> &emsp;&emsp;&emsp; <i>-by Frank A. Clark</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
