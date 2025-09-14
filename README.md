@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best way to get people to like you is not to like them too much." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "We're here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
 
- 2.  "There ain't no such thing as wrong food." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 2.  "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 3.  "If you want your life to be more rewarding, you have to change the way you think." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Don't throw away the old bucket until you know whether the new one holds water." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
 
- 4.  "If you can find a path with no obstacles, it probably doesn't lead anywhere." <br> &emsp;&emsp;&emsp; <i>-by Frank A. Clark</i> 
+ 4.  "I begin to think, that a calm is not desirable in any situation in life....Man was made for action and for bustle too, I believe." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
