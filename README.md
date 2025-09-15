@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We're here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
+ 1.  "We al have family disfunction. It's why we're successful, to fill that hole." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
 
- 2.  "You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 2.  "Storms make oaks take deeper root." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 3.  "Don't throw away the old bucket until you know whether the new one holds water." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
+ 3.  "It is in the knowledge of the genuine conditions of our lives that we must draw our strength to live and our reasons for living." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
 
- 4.  "I begin to think, that a calm is not desirable in any situation in life....Man was made for action and for bustle too, I believe." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
+ 4.  "Grasp the subject, the words will follow." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
