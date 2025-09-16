@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We al have family disfunction. It's why we're successful, to fill that hole." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
+ 1.  "Each body has its art..." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
 
- 2.  "Storms make oaks take deeper root." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 2.  "Age is no guarantee of maturity." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "It is in the knowledge of the genuine conditions of our lives that we must draw our strength to live and our reasons for living." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
+ 3.  "Enquire not what boils in another's pot." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 4.  "Grasp the subject, the words will follow." <br> &emsp;&emsp;&emsp; <i>-by Cato the Elder</i> 
+ 4.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
