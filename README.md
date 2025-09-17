@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Each body has its art..." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
+ 1.  "Marvelous Truth, confront us at every turn, in every guise." <br> &emsp;&emsp;&emsp; <i>-by Denise Levertov</i> 
 
- 2.  "Age is no guarantee of maturity." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "Most folks are about as happy as they make up their minds to be." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 3.  "Enquire not what boils in another's pot." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "I live now on borrowed time, waiting in the anteroom for the summons that will inevitably come. And then - I go on to the next thing, whatever it is. One doesn't luckily have to bother about that." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 4.  "Never spend your money before you have it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
