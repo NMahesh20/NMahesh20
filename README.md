@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "When something that honest is said it usually needs a few minutes of silence to dissipate." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
+ 2.  "Of all the pulpits from which human voice is ever sent forth, there is none from which it reaches so far as from the grave." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 
- 3.  "I cannot and will not cut my conscience to fit this year's fashions." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 3.  "Approach each new problem not with a view of finding what you hope will be there, but to get the truth, the realities that must be grappled with. You may not like what you find. In that case you are entitled to try to change it. But do not deceive yourself as to what you do find to be the facts of the situation." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
 
- 4.  "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "Make hunger thy sauce, as a medicine for health." <br> &emsp;&emsp;&emsp; <i>-by Thomas Tusser</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
