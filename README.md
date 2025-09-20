@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "Of all the pulpits from which human voice is ever sent forth, there is none from which it reaches so far as from the grave." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 2.  "Do not fear death so much, but rather the inadequate life." <br> &emsp;&emsp;&emsp; <i>-by Bertolt Brecht</i> 
 
- 3.  "Approach each new problem not with a view of finding what you hope will be there, but to get the truth, the realities that must be grappled with. You may not like what you find. In that case you are entitled to try to change it. But do not deceive yourself as to what you do find to be the facts of the situation." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
+ 3.  "To fulfill a dream, to be allowed to sweat over lonely labor, to be given the chance to create, is the meat and potatoes of life. The money is the gravy. As everyone else, I love to dunk my crust in it. But alone, it is not a diet designed to keep body and soul together." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 
- 4.  "Make hunger thy sauce, as a medicine for health." <br> &emsp;&emsp;&emsp; <i>-by Thomas Tusser</i> 
+ 4.  "When things are at their worst I find something always happens." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
