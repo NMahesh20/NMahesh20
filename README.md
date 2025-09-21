@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "What I learned from Weight Watchers is that food was meant to be used as fuel for our bodies. If we are using it for any other reasons, it is time to take a step back and ask ourselves what’s up." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Do not fear death so much, but rather the inadequate life." <br> &emsp;&emsp;&emsp; <i>-by Bertolt Brecht</i> 
+ 2.  "I guess that's how death works. It doesn't matter if we're ready or not. It just happens." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "To fulfill a dream, to be allowed to sweat over lonely labor, to be given the chance to create, is the meat and potatoes of life. The money is the gravy. As everyone else, I love to dunk my crust in it. But alone, it is not a diet designed to keep body and soul together." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 3.  "Look like a girl, act like a lady, think like a man and work like a dog." <br> &emsp;&emsp;&emsp; <i>-by Caroline K. Simon</i> 
 
- 4.  "When things are at their worst I find something always happens." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Never be haughty to the humble; never be humble to the haughty." <br> &emsp;&emsp;&emsp; <i>-by Jefferson Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
