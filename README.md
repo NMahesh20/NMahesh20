@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What I learned from Weight Watchers is that food was meant to be used as fuel for our bodies. If we are using it for any other reasons, it is time to take a step back and ask ourselves what’s up." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "When I was overweight and unhappy, I thought about being smaller, I thought about fitting into different clothes and feeling comfortable in any environment or social situation. But I didn't do anything about it. I was letting myself fall victim to not planning, not clarifying steps to reach my goals. Don't go on just wanting something. Start consciously planning where you want to be." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "I guess that's how death works. It doesn't matter if we're ready or not. It just happens." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "Progress is a nice word. But change is its motivator and change has its enemies." <br> &emsp;&emsp;&emsp; <i>-by Robert F. Kennedy</i> 
 
- 3.  "Look like a girl, act like a lady, think like a man and work like a dog." <br> &emsp;&emsp;&emsp; <i>-by Caroline K. Simon</i> 
+ 3.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 4.  "Never be haughty to the humble; never be humble to the haughty." <br> &emsp;&emsp;&emsp; <i>-by Jefferson Davis</i> 
+ 4.  "Speak clearly, if you speak at all; carve every word before you let it fall." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
