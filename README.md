@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I was overweight and unhappy, I thought about being smaller, I thought about fitting into different clothes and feeling comfortable in any environment or social situation. But I didn't do anything about it. I was letting myself fall victim to not planning, not clarifying steps to reach my goals. Don't go on just wanting something. Start consciously planning where you want to be." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Givers have to set limits because takers rarely do." <br> &emsp;&emsp;&emsp; <i>-by Irma Kurtz</i> 
 
- 2.  "Progress is a nice word. But change is its motivator and change has its enemies." <br> &emsp;&emsp;&emsp; <i>-by Robert F. Kennedy</i> 
+ 2.  "To know the road ahead, ask those coming back." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 3.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 3.  "Be aware that a halo has to fall only a few inches to be a noose." <br> &emsp;&emsp;&emsp; <i>-by Dan McKinnon</i> 
 
- 4.  "Speak clearly, if you speak at all; carve every word before you let it fall." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 4.  "For me, words are a form of action, capable of influencing change." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bengis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
