@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Givers have to set limits because takers rarely do." <br> &emsp;&emsp;&emsp; <i>-by Irma Kurtz</i> 
+ 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "To know the road ahead, ask those coming back." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 2.  "In a progressive country change is constant; ...change... is inevitable." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 3.  "Be aware that a halo has to fall only a few inches to be a noose." <br> &emsp;&emsp;&emsp; <i>-by Dan McKinnon</i> 
+ 3.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
 
- 4.  "For me, words are a form of action, capable of influencing change." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bengis</i> 
+ 4.  "It is only possible to live happily ever after on a day-to-day basis." <br> &emsp;&emsp;&emsp; <i>-by Margaret Bonnano</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
