@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "When we seek for connection, we restore the world to wholeness. Our seemingly separate lives become meaningful as we discover how truly necessary we are to each other." <br> &emsp;&emsp;&emsp; <i>-by Margaret Wheatley</i> 
 
- 2.  "In a progressive country change is constant; ...change... is inevitable." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 2.  "Underpromise; overdeliver." <br> &emsp;&emsp;&emsp; <i>-by Tom Peters</i> 
 
- 3.  "The noun of self becomes a verb. This flashpoint of creation in the present moment is where work and play merge." <br> &emsp;&emsp;&emsp; <i>-by Stephen Nachmanovitch</i> 
+ 3.  "Genuine goodness is threatening to those at the opposite end of the moral spectrum." <br> &emsp;&emsp;&emsp; <i>-by Charles Spencer</i> 
 
- 4.  "It is only possible to live happily ever after on a day-to-day basis." <br> &emsp;&emsp;&emsp; <i>-by Margaret Bonnano</i> 
+ 4.  "He felt about books as doctors feel about medicines, or managers about plays - cynical, but hopeful." <br> &emsp;&emsp;&emsp; <i>-by Dame Rose Macaulay</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
