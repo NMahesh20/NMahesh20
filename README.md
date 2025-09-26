@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we seek for connection, we restore the world to wholeness. Our seemingly separate lives become meaningful as we discover how truly necessary we are to each other." <br> &emsp;&emsp;&emsp; <i>-by Margaret Wheatley</i> 
+ 1.  "Here's a tip to avoid death by celebrity: First off, get a life. They can't touch you if you're out doing something interesting." <br> &emsp;&emsp;&emsp; <i>-by Kent Nichols and Douglas Sarine</i> 
 
- 2.  "Underpromise; overdeliver." <br> &emsp;&emsp;&emsp; <i>-by Tom Peters</i> 
+ 2.  "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it." <br> &emsp;&emsp;&emsp; <i>-by Phillip C. McGraw</i> 
 
- 3.  "Genuine goodness is threatening to those at the opposite end of the moral spectrum." <br> &emsp;&emsp;&emsp; <i>-by Charles Spencer</i> 
+ 3.  "Adversity does teach who your real friends are." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "He felt about books as doctors feel about medicines, or managers about plays - cynical, but hopeful." <br> &emsp;&emsp;&emsp; <i>-by Dame Rose Macaulay</i> 
+ 4.  "I don't know the key to success, but the key to failure is trying to please everybody." <br> &emsp;&emsp;&emsp; <i>-by Bill Cosby</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
