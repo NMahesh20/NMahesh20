@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Here's a tip to avoid death by celebrity: First off, get a life. They can't touch you if you're out doing something interesting." <br> &emsp;&emsp;&emsp; <i>-by Kent Nichols and Douglas Sarine</i> 
+ 1.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 2.  "At the end of the day, whether or not those people are comfortable with how you're living your life doesn't matter. What matters is whether you're comfortable with it." <br> &emsp;&emsp;&emsp; <i>-by Phillip C. McGraw</i> 
+ 2.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 
- 3.  "Adversity does teach who your real friends are." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
 
- 4.  "I don't know the key to success, but the key to failure is trying to please everybody." <br> &emsp;&emsp;&emsp; <i>-by Bill Cosby</i> 
+ 4.  "It is folly to punish your neighbor by fire when you live next door." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
