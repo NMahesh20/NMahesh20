@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 1.  "There is no Them, there is only Us. Some of Us think this or some of Us think that, but we're all Us." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 2.  "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 2.  "Our land is more valuable than your money. As long as the sun shines and the waters flow, this land will be here to give life to men and animals; therefore, we cannot sell this land. It was put here for us by the Great Spirit and we cannot sell it because it does not belong to us." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 3.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
+ 3.  "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 4.  "It is folly to punish your neighbor by fire when you live next door." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "If you want to see what children can do, you must stop giving them things." <br> &emsp;&emsp;&emsp; <i>-by Norman Douglas</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
