@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no Them, there is only Us. Some of Us think this or some of Us think that, but we're all Us." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 1.  "Whatever you think, be sure it is what you think; whatever you want, be sure that is what you want; whatever you feel, be sure that is what you feel." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 
- 2.  "Our land is more valuable than your money. As long as the sun shines and the waters flow, this land will be here to give life to men and animals; therefore, we cannot sell this land. It was put here for us by the Great Spirit and we cannot sell it because it does not belong to us." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 2.  "Every day holds the possibility of a miracle." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth David</i> 
 
- 3.  "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 3.  "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." <br> &emsp;&emsp;&emsp; <i>-by John Patrick</i> 
 
- 4.  "If you want to see what children can do, you must stop giving them things." <br> &emsp;&emsp;&emsp; <i>-by Norman Douglas</i> 
+ 4.  "It's a shallow life that doesn't give a person a few scars." <br> &emsp;&emsp;&emsp; <i>-by Garrison Keillor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
