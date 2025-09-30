@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you think, be sure it is what you think; whatever you want, be sure that is what you want; whatever you feel, be sure that is what you feel." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
+ 1.  "Charm and nothing but charm at last grows a little tiresome. It's a relief then to deal with a man who isn't quite so delightful but a little more sincere." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Every day holds the possibility of a miracle." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth David</i> 
+ 2.  "Wanting to be someone you're not is a waste of the person you are." <br> &emsp;&emsp;&emsp; <i>-by Kurt Cobain</i> 
 
- 3.  "Pain makes man think. Thought makes man wise. Wisdom makes life endurable." <br> &emsp;&emsp;&emsp; <i>-by John Patrick</i> 
+ 3.  "Make no little plans; they have no magic to stir men's blood...Make big plans, aim high in hope and work." <br> &emsp;&emsp;&emsp; <i>-by Daniel H. Burnham</i> 
 
- 4.  "It's a shallow life that doesn't give a person a few scars." <br> &emsp;&emsp;&emsp; <i>-by Garrison Keillor</i> 
+ 4.  "Blessed is he who has found his work; let him ask no other blessedness." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
