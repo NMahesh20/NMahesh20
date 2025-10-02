@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The present is a rope stretched over the past. The secret to walking it is, you never look down." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 1.  "If writers stopped writing about what happened to them, then there would be a lot of empty pages." <br> &emsp;&emsp;&emsp; <i>-by Elaine Liner</i> 
 
- 2.  "Greatness is more than potential. It is the execution of that potential. Beyond the raw talent. You need the appropriate training. You need the discipline. You need the inspiration. You need the drive." <br> &emsp;&emsp;&emsp; <i>-by Eric A. Burns</i> 
+ 2.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
 
- 3.  "You're dealing with the demon of external validation. You can't beat external validation. You want to know why? Because it feels sooo good." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 3.  "The time to repair the roof is when the sun is shining." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 4.  "There must be quite a few things a hot bath won't cure, but I don't know many of them." <br> &emsp;&emsp;&emsp; <i>-by Sylvia Plath</i> 
+ 4.  "'Tis the most tender part of love, each other to forgive." <br> &emsp;&emsp;&emsp; <i>-by John Sheffield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
