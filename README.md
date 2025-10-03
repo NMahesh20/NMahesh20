@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If writers stopped writing about what happened to them, then there would be a lot of empty pages." <br> &emsp;&emsp;&emsp; <i>-by Elaine Liner</i> 
+ 1.  "So we went to Atari and said, 'Hey, we've got this amazing thing, even built with some of your parts, and what do you think about funding us? Or we'll give it to you. We just want to do it. Pay our salary, we'll come work for you.' And they said, 'No.' So then we went to Hewlett-Packard, and they said, 'Hey, we don't need you. You haven't got through college yet.'" <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Have no fear of perfection - you'll never reach it." <br> &emsp;&emsp;&emsp; <i>-by Salvador Dali</i> 
+ 2.  "Make a decision, even if it's wrong." <br> &emsp;&emsp;&emsp; <i>-by Jarvis Klem</i> 
 
- 3.  "The time to repair the roof is when the sun is shining." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
 
- 4.  "'Tis the most tender part of love, each other to forgive." <br> &emsp;&emsp;&emsp; <i>-by John Sheffield</i> 
+ 4.  "Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise." <br> &emsp;&emsp;&emsp; <i>-by Margaret Atwood</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
