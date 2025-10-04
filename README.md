@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "So we went to Atari and said, 'Hey, we've got this amazing thing, even built with some of your parts, and what do you think about funding us? Or we'll give it to you. We just want to do it. Pay our salary, we'll come work for you.' And they said, 'No.' So then we went to Hewlett-Packard, and they said, 'Hey, we don't need you. You haven't got through college yet.'" <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "Let's assume that each person has an equal opportunity, not to become equal, but to become different. To realize whatever unique potential of body, mind and spirit he or she possesses." <br> &emsp;&emsp;&emsp; <i>-by John Fischer</i> 
 
- 2.  "Make a decision, even if it's wrong." <br> &emsp;&emsp;&emsp; <i>-by Jarvis Klem</i> 
+ 2.  "The more you chase money, the harder it is to catch it." <br> &emsp;&emsp;&emsp; <i>-by Mike Tatum</i> 
 
- 3.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
+ 3.  "If you want to be respected, you must respect yourself." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise." <br> &emsp;&emsp;&emsp; <i>-by Margaret Atwood</i> 
+ 4.  "We only do well the things we like doing." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
