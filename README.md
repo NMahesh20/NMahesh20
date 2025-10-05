@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Let's assume that each person has an equal opportunity, not to become equal, but to become different. To realize whatever unique potential of body, mind and spirit he or she possesses." <br> &emsp;&emsp;&emsp; <i>-by John Fischer</i> 
+ 1.  "The only way you can sustain a permanent change is to create a new way of thinking, acting, and being." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The more you chase money, the harder it is to catch it." <br> &emsp;&emsp;&emsp; <i>-by Mike Tatum</i> 
+ 2.  "I admit it's tempting to wish for the perfect boss, or the perfect parent, or the perfect outfit, but maybe the best any of us can do is not quit. Play the hand we've been given and accessorize the outfit we've got." <br> &emsp;&emsp;&emsp; <i>-by Allan Heinberg</i> 
 
- 3.  "If you want to be respected, you must respect yourself." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "The most boring thing in the entire world is nudity. The second most boring thing is honesty." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 4.  "We only do well the things we like doing." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "Cynicism is an unpleasant way of saying the truth." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
