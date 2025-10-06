@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The only way you can sustain a permanent change is to create a new way of thinking, acting, and being." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 2.  "I admit it's tempting to wish for the perfect boss, or the perfect parent, or the perfect outfit, but maybe the best any of us can do is not quit. Play the hand we've been given and accessorize the outfit we've got." <br> &emsp;&emsp;&emsp; <i>-by Allan Heinberg</i> 
+ 2.  "What are riches - grandeur - health itself, to the luxury of a pure conscience, the health of the soul; - and what the sufferings of poverty, disappointment, despair - to the anguish of an afflicted one!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "The most boring thing in the entire world is nudity. The second most boring thing is honesty." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 3.  "Put your whole self into it, and you will find your true voice. Hold back and you won't. It's that simple." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 4.  "Cynicism is an unpleasant way of saying the truth." <br> &emsp;&emsp;&emsp; <i>-by Lillian Hellman</i> 
+ 4.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
