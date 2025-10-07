@@ -22,13 +22,17 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Travel is fatal to prejudice, bigotry, and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things cannot be acquired by vegetating in one little corner of the earth all one's lifetime." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 1.  "Famous I don't know about. It's hard to be famous and alive. I just want to play music every day and hear someone say, 'Thanks, that was great, here's some money, same time tomorrow, okay?'" <br> &emsp;&emsp;&emsp; <i>-by Terry Pratchett</i> 
 
- 2.  "What are riches - grandeur - health itself, to the luxury of a pure conscience, the health of the soul; - and what the sufferings of poverty, disappointment, despair - to the anguish of an afflicted one!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "If you don't think your life is worth more than someone else's, sign your donor card and kill yourself now." <br> &emsp;&emsp;&emsp; <i>-by Matthew V. Lewis</i> 
 
- 3.  "Put your whole self into it, and you will find your true voice. Hold back and you won't. It's that simple." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 3.  "When you close your doors, and make darkness within, remember never to say that you are alone, for you are not alone; nay, God is within, and your genius is within. And what need have they of light to see what you are doing?" <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 4.  "The art of mothering is to teach the art of living to children." <br> &emsp;&emsp;&emsp; <i>-by Elain Heffner</i> 
+ 4.  "In peace there's nothing so becomes a man/
+As modest stillness and humility;/
+But when the blast of war blows in our ears,/
+Then imitate the action of the tiger:/
+Stiffen the sinews, summon up the blood." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
