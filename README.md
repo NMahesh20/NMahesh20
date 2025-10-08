@@ -22,17 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Famous I don't know about. It's hard to be famous and alive. I just want to play music every day and hear someone say, 'Thanks, that was great, here's some money, same time tomorrow, okay?'" <br> &emsp;&emsp;&emsp; <i>-by Terry Pratchett</i> 
+ 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "If you don't think your life is worth more than someone else's, sign your donor card and kill yourself now." <br> &emsp;&emsp;&emsp; <i>-by Matthew V. Lewis</i> 
+ 2.  "We inhereit from our ancestors gifts so often taken for granted... Each of us contains within... this inheritance of soul. We are links between the ages, containing past and present expectations, sacred memories and future promise." <br> &emsp;&emsp;&emsp; <i>-by Edward Sellner</i> 
 
- 3.  "When you close your doors, and make darkness within, remember never to say that you are alone, for you are not alone; nay, God is within, and your genius is within. And what need have they of light to see what you are doing?" <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 3.  "As we look deeply within, we understand our perfect balance. There is no fear of the cycle of birth, life and death. For when you stand in the present moment, you are timeless." <br> &emsp;&emsp;&emsp; <i>-by Rodney Yee</i> 
 
- 4.  "In peace there's nothing so becomes a man/
-As modest stillness and humility;/
-But when the blast of war blows in our ears,/
-Then imitate the action of the tiger:/
-Stiffen the sinews, summon up the blood." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "Raise your sail one foot and you get ten feet of wind." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
