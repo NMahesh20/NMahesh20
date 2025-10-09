@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "It is ever so much easier to be good if your clothes are fashionable." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "We inhereit from our ancestors gifts so often taken for granted... Each of us contains within... this inheritance of soul. We are links between the ages, containing past and present expectations, sacred memories and future promise." <br> &emsp;&emsp;&emsp; <i>-by Edward Sellner</i> 
+ 2.  "You don’t have to get a job that makes others feel comfortable about what they perceive as your success. You don’t have to explain what you plan to do with your life. You don’t have to justify your education by demonstrating its financial rewards. You don’t have to maintain an impeccable credit score. Anyone who expects you to do any of those things has no sense of history or economics or science or the arts./ You have to pay your own electric bill. You have to be kind. You have to give it all you got. You have to find people who love you truly and love them back with the same truth./ But that’s all." <br> &emsp;&emsp;&emsp; <i>-by Sugar</i> 
 
- 3.  "As we look deeply within, we understand our perfect balance. There is no fear of the cycle of birth, life and death. For when you stand in the present moment, you are timeless." <br> &emsp;&emsp;&emsp; <i>-by Rodney Yee</i> 
+ 3.  "Do it now. It is not safe to leave a generous feeling to the cooling influences of the world." <br> &emsp;&emsp;&emsp; <i>-by Thomas Guthrie</i> 
 
- 4.  "Raise your sail one foot and you get ten feet of wind." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "The highest reward for man's toil is not what he gets for it, but what he becomes by it." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
