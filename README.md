@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Each failure to sell will increase your chances for success at your next attempt." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "No one can be really esteemed accomplished who does not greatly surpass what is usually met with." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Anger is never without Reason, but seldom with a good One." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 
- 3.  "The face is not a secondary billboard for our internal feelings. It is an equal partner in the emotional process." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 3.  "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way." <br> &emsp;&emsp;&emsp; <i>-by Buddha</i> 
 
- 4.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
+ 4.  "Take away the miseries and you take away some folks' reason for living." <br> &emsp;&emsp;&emsp; <i>-by Toni Cade Bambara</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
