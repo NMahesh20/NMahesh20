@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 1.  "Eating is really one of your indoor sports. You play three times a day, and it's well worth while to make the game as pleasant as possible." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Draper</i> 
 
- 2.  "It is not easy to find happiness in ourselves, and it is not possible to find it elsewhere." <br> &emsp;&emsp;&emsp; <i>-by Agnes Repplier</i> 
+ 2.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 3.  "The excellence of a gift lies in its appropriateness rather than in its value." <br> &emsp;&emsp;&emsp; <i>-by Charles Dudley Warner</i> 
+ 3.  "Happiness comes of the capacity to feel deeply, to enjoy simply, to think freely, to risk life, to be needed." <br> &emsp;&emsp;&emsp; <i>-by Storm Jameson</i> 
 
- 4.  "Life is either a daring adventure or nothing. Security does not exist in nature, nor do the children of men as a whole experience it. Avoiding danger is no safer in the long run than exposure." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "Even on the highest throne in the world, we are still sitting on our ass." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
