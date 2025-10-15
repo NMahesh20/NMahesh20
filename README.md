@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Eating is really one of your indoor sports. You play three times a day, and it's well worth while to make the game as pleasant as possible." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Draper</i> 
+ 1.  "I know love and lust don't always keep the same company." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
 
- 2.  "Action is at bottom a swinging and flailing of the arms to regain one's balance and keep afloat." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 2.  "Think enthusiastically about everything; but especially about your job. If you do, you'll put a touch of glory in your life. If you love your job with enthusiasm, you'll shake it to pieces. You'll love it into greatness." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 
- 3.  "Happiness comes of the capacity to feel deeply, to enjoy simply, to think freely, to risk life, to be needed." <br> &emsp;&emsp;&emsp; <i>-by Storm Jameson</i> 
+ 3.  "Nothing is worse than active ignorance." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "Even on the highest throne in the world, we are still sitting on our ass." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 4.  "Ultimately, the only power to which man should aspire is that which he exercises over himself." <br> &emsp;&emsp;&emsp; <i>-by Elie Wiesel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
