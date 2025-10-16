@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I know love and lust don't always keep the same company." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
+ 1.  "Could you imagine how horrible things would be if we always told others how we felt? Life would be intolerably bearable." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Think enthusiastically about everything; but especially about your job. If you do, you'll put a touch of glory in your life. If you love your job with enthusiasm, you'll shake it to pieces. You'll love it into greatness." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
+ 2.  "Living in the moment brings you a sense of reverence for all of life's blessings." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Nothing is worse than active ignorance." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "Nothing can bring you peace but yourself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Ultimately, the only power to which man should aspire is that which he exercises over himself." <br> &emsp;&emsp;&emsp; <i>-by Elie Wiesel</i> 
+ 4.  "Never trouble another for what you can do for yourself." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
