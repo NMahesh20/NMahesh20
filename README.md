@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Could you imagine how horrible things would be if we always told others how we felt? Life would be intolerably bearable." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 1.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 
- 2.  "Living in the moment brings you a sense of reverence for all of life's blessings." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "No one has a finer command of language than the person who keeps his mouth shut." <br> &emsp;&emsp;&emsp; <i>-by Sam Rayburn</i> 
 
- 3.  "Nothing can bring you peace but yourself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Cherish all your happy moments: they make a fine cushion for old age." <br> &emsp;&emsp;&emsp; <i>-by Christopher Morley</i> 
 
- 4.  "Never trouble another for what you can do for yourself." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 4.  "No matter how lonely you get or how many birth announcements you receive, the trick is not to get frightened. There's nothing wrong with being alone." <br> &emsp;&emsp;&emsp; <i>-by Wendy Wasserstein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
