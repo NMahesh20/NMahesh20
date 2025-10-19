@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I never did give anybody hell. I just told the truth, and they thought it was hell." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Better be wise by the misfortunes of others than by your own." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
+ 2.  "I would visualize things coming to me. It would just make me feel better. Visualization works if you work hard. That's the thing. You can't just visualize and go eat a sandwich." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
 
- 3.  "We must never forget that art is not a form of propaganda; it is a form of truth." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "There is always more misery among the lower classes than there is humanity in the higher." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "No good deed goes unpunished." <br> &emsp;&emsp;&emsp; <i>-by Clare Booth Luce</i> 
+ 4.  "One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
