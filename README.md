@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "I have found that if you love life, life will love you back." <br> &emsp;&emsp;&emsp; <i>-by Arthur Rubinstein</i> 
 
- 2.  "I would visualize things coming to me. It would just make me feel better. Visualization works if you work hard. That's the thing. You can't just visualize and go eat a sandwich." <br> &emsp;&emsp;&emsp; <i>-by Jim Carrey</i> 
+ 2.  "Truth is the only safe ground to stand upon." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 
- 3.  "There is always more misery among the lower classes than there is humanity in the higher." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "Take what you can use and let the rest go by." <br> &emsp;&emsp;&emsp; <i>-by Ken Kesey</i> 
 
- 4.  "One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 4.  "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
