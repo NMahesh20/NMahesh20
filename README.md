@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have found that if you love life, life will love you back." <br> &emsp;&emsp;&emsp; <i>-by Arthur Rubinstein</i> 
+ 1.  "I'm not afraid of facts, I welcome facts but a congeries of facts is not equivalent to an idea. This is the essential fallacy of the so-called "scientific" mind. People who mistake facts for ideas are incomplete thinkers; they are gossips." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
 
- 2.  "Truth is the only safe ground to stand upon." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 2.  "It does not seem to be true that work necessarily needs to be unpleasant. It may always have to be hard, or at least harder than doing nothing at all. But there is ample evidence that work can be enjoyable, and that indeed, it is often the most enjoyable part of life." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "Take what you can use and let the rest go by." <br> &emsp;&emsp;&emsp; <i>-by Ken Kesey</i> 
+ 3.  "Nerds don't just happen to dress informally. They do it too consistently. Consciously or not, they dress informally as a prophylactic measure against stupidity." <br> &emsp;&emsp;&emsp; <i>-by Paul Graham</i> 
 
- 4.  "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 4.  "The secret of being boring is to say everything." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
