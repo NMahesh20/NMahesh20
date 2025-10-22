@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm not afraid of facts, I welcome facts but a congeries of facts is not equivalent to an idea. This is the essential fallacy of the so-called "scientific" mind. People who mistake facts for ideas are incomplete thinkers; they are gossips." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
+ 1.  "Put up with it and you will get more of it." <br> &emsp;&emsp;&emsp; <i>-by Lynne Deal</i> 
 
- 2.  "It does not seem to be true that work necessarily needs to be unpleasant. It may always have to be hard, or at least harder than doing nothing at all. But there is ample evidence that work can be enjoyable, and that indeed, it is often the most enjoyable part of life." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 3.  "Nerds don't just happen to dress informally. They do it too consistently. Consciously or not, they dress informally as a prophylactic measure against stupidity." <br> &emsp;&emsp;&emsp; <i>-by Paul Graham</i> 
+ 3.  "Get away from the crowd when you can. Keep yourself to yourself, if only for a few hours daily." <br> &emsp;&emsp;&emsp; <i>-by Arthur Brisbane</i> 
 
- 4.  "The secret of being boring is to say everything." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 4.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
