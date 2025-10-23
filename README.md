@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Put up with it and you will get more of it." <br> &emsp;&emsp;&emsp; <i>-by Lynne Deal</i> 
+ 1.  "Only by seeking challenges can we hope to find the best in ourselves." <br> &emsp;&emsp;&emsp; <i>-by Robert Rodriguez</i> 
 
- 2.  "If you do not wish to be prone to anger, do not feed the habit; give it nothing which may tend to its increase." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 2.  "Good ideas alter the power balance in relationships, that is why good ideas are always initially resisted. Good ideas come with a heavy burden. Which is why so few people have them. So few people can handle it." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Get away from the crowd when you can. Keep yourself to yourself, if only for a few hours daily." <br> &emsp;&emsp;&emsp; <i>-by Arthur Brisbane</i> 
+ 3.  "To try to be better is to be better." <br> &emsp;&emsp;&emsp; <i>-by Charlotte Cushman</i> 
 
- 4.  "Humility is no substitute for a good personality." <br> &emsp;&emsp;&emsp; <i>-by Fran Lebowitz</i> 
+ 4.  "This became a credo of mine...attempt the impossible in order to improve your work." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
