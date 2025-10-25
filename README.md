@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon - instead of enjoying the roses that are blooming outside our windows today." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 2.  "The past is finished. There is nothing to b gained by going over it. Whatever it gave us in the experiences it brought us was something we had to know." <br> &emsp;&emsp;&emsp; <i>-by Rebecca Beard</i> 
+ 2.  "Nothing happens to any thing which that thing is not made by nature to bear." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 3.  "It is pleasant to have been to a place the way a river went." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "In battling evil, excess is good; for he who is moderate in announcing the truth is presenting half-truth. He conceals the other half out of fear of the people's wrath." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 
- 4.  "Be not the first by whom the new are tried,/ Nor yet the last to lay the old aside." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
+ 4.  "You should not live one way in private, another in public." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
