@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "all of us tend to put off living. We are all dreaming of some magical rose garden over the horizon - instead of enjoying the roses that are blooming outside our windows today." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 1.  "Beware of the young doctor and the old barber." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 2.  "Nothing happens to any thing which that thing is not made by nature to bear." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 2.  "Never feel self-pity, the most destructive emotion there is. How awful to be caught up in the terrible squirrel cage of self." <br> &emsp;&emsp;&emsp; <i>-by Millicent Fenwick</i> 
 
- 3.  "In battling evil, excess is good; for he who is moderate in announcing the truth is presenting half-truth. He conceals the other half out of fear of the people's wrath." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 3.  "I am never afraid of what I know." <br> &emsp;&emsp;&emsp; <i>-by Anna Sewell</i> 
 
- 4.  "You should not live one way in private, another in public." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "Flying may not be all plain sailing, but the fun of it is worth the price." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
