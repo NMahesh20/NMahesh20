@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beware of the young doctor and the old barber." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 1.  "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend them all the care, kindness and understanding you can muster. Your life will never be the same again." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "Never feel self-pity, the most destructive emotion there is. How awful to be caught up in the terrible squirrel cage of self." <br> &emsp;&emsp;&emsp; <i>-by Millicent Fenwick</i> 
+ 2.  "Never think that God's delays are God's denials. Hold on; hold fast; hold out. Patience is genius." <br> &emsp;&emsp;&emsp; <i>-by Comte de Buffon</i> 
 
- 3.  "I am never afraid of what I know." <br> &emsp;&emsp;&emsp; <i>-by Anna Sewell</i> 
+ 3.  "The body is shaped, disciplined, honored, and in time, trusted." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
 
- 4.  "Flying may not be all plain sailing, but the fun of it is worth the price." <br> &emsp;&emsp;&emsp; <i>-by Amelia Earhart</i> 
+ 4.  "A sound mind in a sound body is a short but full description of a happy state in this world." <br> &emsp;&emsp;&emsp; <i>-by John Locke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
