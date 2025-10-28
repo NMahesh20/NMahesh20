@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend them all the care, kindness and understanding you can muster. Your life will never be the same again." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "Call home at least once a week. It's a proven fact that we call home less the older we get. And that's wrong. It should be the other way around. As we get older, our parents get older." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "Never think that God's delays are God's denials. Hold on; hold fast; hold out. Patience is genius." <br> &emsp;&emsp;&emsp; <i>-by Comte de Buffon</i> 
+ 2.  "The freethinking of one age is the common sense of the next." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 
- 3.  "The body is shaped, disciplined, honored, and in time, trusted." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
+ 3.  "A love of tradition has never weakened a nation, indeed it has strengthened nations in their hour of peril; but the new view must come, the world must roll forward." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "A sound mind in a sound body is a short but full description of a happy state in this world." <br> &emsp;&emsp;&emsp; <i>-by John Locke</i> 
+ 4.  "A problem is a chance for you to do your best." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
