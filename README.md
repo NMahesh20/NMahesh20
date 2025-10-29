@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Call home at least once a week. It's a proven fact that we call home less the older we get. And that's wrong. It should be the other way around. As we get older, our parents get older." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "I don't want to talk as much. It's nicer to think dear, pretty thoughts and keep them in one's heart, like treasures. I don't like to have them laughed at or wondered over." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "The freethinking of one age is the common sense of the next." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 2.  "In summer, the song sings itself." <br> &emsp;&emsp;&emsp; <i>-by William Carlos Williams</i> 
 
- 3.  "A love of tradition has never weakened a nation, indeed it has strengthened nations in their hour of peril; but the new view must come, the world must roll forward." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "Do not weep; do not wax indignant. Understand." <br> &emsp;&emsp;&emsp; <i>-by Baruch Spinoza</i> 
 
- 4.  "A problem is a chance for you to do your best." <br> &emsp;&emsp;&emsp; <i>-by Duke Ellington</i> 
+ 4.  "There is nothing like dream to create the future. Utopia to-day, flesh and blood tomorrow." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
