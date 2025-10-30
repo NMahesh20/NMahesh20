@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I don't want to talk as much. It's nicer to think dear, pretty thoughts and keep them in one's heart, like treasures. I don't like to have them laughed at or wondered over." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "I'm well aware when they fired the starting gun I was halfway down the track, but I still ran as fast as I could for 25 years." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "In summer, the song sings itself." <br> &emsp;&emsp;&emsp; <i>-by William Carlos Williams</i> 
+ 2.  "Speak what you think today in hard words and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "Do not weep; do not wax indignant. Understand." <br> &emsp;&emsp;&emsp; <i>-by Baruch Spinoza</i> 
+ 3.  "There is one piece of advice, in a life of study, which I think no one will object to; and that is, every now and then to be completely idle - to do nothing at all." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 4.  "There is nothing like dream to create the future. Utopia to-day, flesh and blood tomorrow." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 4.  "Be honorable yourself if you wish to associate with honorable people." <br> &emsp;&emsp;&emsp; <i>-by Welsh Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
