@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm well aware when they fired the starting gun I was halfway down the track, but I still ran as fast as I could for 25 years." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "I want freedom for the full expression of my personality." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 2.  "Speak what you think today in hard words and tomorrow speak what tomorrow thinks in hard words again, though it contradict every thing you said today." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "As scarce as truth is, the supply has always been in excess of the demand." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 3.  "There is one piece of advice, in a life of study, which I think no one will object to; and that is, every now and then to be completely idle - to do nothing at all." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 3.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
 
- 4.  "Be honorable yourself if you wish to associate with honorable people." <br> &emsp;&emsp;&emsp; <i>-by Welsh Proverb</i> 
+ 4.  "Derive happiness in oneself from a good day's work, from illuminating the fog that surrounds us." <br> &emsp;&emsp;&emsp; <i>-by Henri Matisse</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
