@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You learn more quickly under the guidance of experienced teachers. You waste a lot of time going down blind alleys if you have no one to lead you." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Many men can make a fortune but very few can build a family." <br> &emsp;&emsp;&emsp; <i>-by J. S. Bryan</i> 
 
- 2.  "I will never forget who this victory truly belongs to. It belongs to you. It belongs to you. I was never the likeliest candidate for this office. We didn't start with much money or many endorsements. Our campaign was not hatched in the halls of Washington. It began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston. It was built by working men and women who dug into what little savings they had to give $5 and $10 and $20 to the cause." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "Like an ability or a muscle, hearing your inner wisdom is strengthened by doing it." <br> &emsp;&emsp;&emsp; <i>-by Robbie Gass</i> 
 
- 3.  "I have very strong feelings about how you lead your life. You always look ahead, you never look back." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
 
- 4.  "Despise not any man, and do not spurn anything; for there is no man who has not his hour, nor is there anything that has not its place." <br> &emsp;&emsp;&emsp; <i>-by Ben Azai</i> 
+ 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
