@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Many men can make a fortune but very few can build a family." <br> &emsp;&emsp;&emsp; <i>-by J. S. Bryan</i> 
+ 1.  "We can aspire to anything, but we don't get it just 'cause we want it. I would rather spend my life close to the birds than waste it wishing I had wings." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
 
- 2.  "Like an ability or a muscle, hearing your inner wisdom is strengthened by doing it." <br> &emsp;&emsp;&emsp; <i>-by Robbie Gass</i> 
+ 2.  "Let us be grateful to people who make us happy: They are the charming gardeners who make our souls blossom." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
 
- 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
+ 3.  "I'd rather work with someone who's good at their job but doesn't like me, than someone who likes me but is a ninny." <br> &emsp;&emsp;&emsp; <i>-by Sam Donaldson</i> 
 
- 4.  "Even God cannot change the past." <br> &emsp;&emsp;&emsp; <i>-by Agathon</i> 
+ 4.  "Never give a child a sword." <br> &emsp;&emsp;&emsp; <i>-by Latin Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
