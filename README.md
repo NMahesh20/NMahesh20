@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We can aspire to anything, but we don't get it just 'cause we want it. I would rather spend my life close to the birds than waste it wishing I had wings." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
+ 1.  "Everything has its wonders, even darkness and silence, and I learn whatever state I am in, therin to be content." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 2.  "Let us be grateful to people who make us happy: They are the charming gardeners who make our souls blossom." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 2.  "Be more splendid, more extraordinary. Use every moment to fill yourself up." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "I'd rather work with someone who's good at their job but doesn't like me, than someone who likes me but is a ninny." <br> &emsp;&emsp;&emsp; <i>-by Sam Donaldson</i> 
+ 3.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 4.  "Never give a child a sword." <br> &emsp;&emsp;&emsp; <i>-by Latin Proverb</i> 
+ 4.  "Walking is also an ambulation of mind." <br> &emsp;&emsp;&emsp; <i>-by Gretel Ehrlich</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
