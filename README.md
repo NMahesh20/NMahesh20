@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything has its wonders, even darkness and silence, and I learn whatever state I am in, therin to be content." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 1.  "I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Be more splendid, more extraordinary. Use every moment to fill yourself up." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Not going home is already like death." <br> &emsp;&emsp;&emsp; <i>-by E. Catherine Tobler</i> 
 
- 3.  "He that can't endure the bad, will not live to see the good." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 3.  "Read not to contradict and confute, nor to find talk and discourse, but to weigh and consider." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 
- 4.  "Walking is also an ambulation of mind." <br> &emsp;&emsp;&emsp; <i>-by Gretel Ehrlich</i> 
+ 4.  "For visions come not to polluted eyes." <br> &emsp;&emsp;&emsp; <i>-by Mary Howitt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
