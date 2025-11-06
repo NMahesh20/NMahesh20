@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Don’t be afraid of the answers. Be afraid of not asking the questions." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "Not going home is already like death." <br> &emsp;&emsp;&emsp; <i>-by E. Catherine Tobler</i> 
+ 2.  "The less you can live on, the more chance your idea will succeed. This is true even after you’ve 'made it'." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Read not to contradict and confute, nor to find talk and discourse, but to weigh and consider." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 3.  "Don't rule out working with your hands. It does not preclude using your head." <br> &emsp;&emsp;&emsp; <i>-by Andy Rooney</i> 
 
- 4.  "For visions come not to polluted eyes." <br> &emsp;&emsp;&emsp; <i>-by Mary Howitt</i> 
+ 4.  "Nobody is ever met at the airport when beginning a new adventure. It's just not done." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Warnock Fernea</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
