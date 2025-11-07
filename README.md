@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Don’t be afraid of the answers. Be afraid of not asking the questions." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "The idea of a mass audience was really an invention of the Industrial Revolution." <br> &emsp;&emsp;&emsp; <i>-by David Cronenberg</i> 
 
- 2.  "The less you can live on, the more chance your idea will succeed. This is true even after you’ve 'made it'." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "It's wonderful what we can do if we're always doing." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 3.  "Don't rule out working with your hands. It does not preclude using your head." <br> &emsp;&emsp;&emsp; <i>-by Andy Rooney</i> 
+ 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
 
- 4.  "Nobody is ever met at the airport when beginning a new adventure. It's just not done." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Warnock Fernea</i> 
+ 4.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
