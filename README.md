@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The idea of a mass audience was really an invention of the Industrial Revolution." <br> &emsp;&emsp;&emsp; <i>-by David Cronenberg</i> 
+ 1.  "Your most unhappy customers are your greatest source of learning." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
 
- 2.  "It's wonderful what we can do if we're always doing." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 2.  "A mind troubled by doubt cannot focus on the course to victory." <br> &emsp;&emsp;&emsp; <i>-by Arthur Golden</i> 
 
- 3.  "Oh, what a dear ravishing thing is the beginning of an Amour!" <br> &emsp;&emsp;&emsp; <i>-by Aphra Behn</i> 
+ 3.  "Seize opportunity by the beard, for it is bald behind." <br> &emsp;&emsp;&emsp; <i>-by Bulgarian Proverb</i> 
 
- 4.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
+ 4.  "Difficulties strengthen the mind, as labor does the body." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
