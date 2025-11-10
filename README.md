@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I was brought up to believe that the only thing worth doing was to add to the sum of accurate information in the world." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
+ 1.  "Whatever you do, do it to the purpose; do it thoroughly, not superficially. Go to the bottom of things. Any thing half done, or half known, is in my mind, neither done nor known at all. Nay, worse, for it often misleads." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 2.  "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
 
- 3.  "Don't go around saying the world owes you a living. The world owes you nothing. It was here first. " <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
 
- 4.  "Pleasure is a by-product of doing something that is worth doing. Therefore, do not seek pleasure as such. Pleasure comes of seeking something else, and comes by the way." <br> &emsp;&emsp;&emsp; <i>-by A. Lawrence Lowell</i> 
+ 4.  "In prosperity our friends know us; in adversity we know our friends." <br> &emsp;&emsp;&emsp; <i>-by John Churton Collins</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
