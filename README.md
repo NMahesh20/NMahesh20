@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you do, do it to the purpose; do it thoroughly, not superficially. Go to the bottom of things. Any thing half done, or half known, is in my mind, neither done nor known at all. Nay, worse, for it often misleads." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 1.  "Maybe it's what's inside that counts, but being told you look good feels good!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
+ 2.  "Obscurity is a good thing. You can fail in obscurity. It removes the fear of failure." <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
 
- 3.  "Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon." <br> &emsp;&emsp;&emsp; <i>-by Susan Ertz</i> 
+ 3.  "I said to myself, I have things in my head that are not like what anyone has taught me - shapes and ideas so near to me - so natural to my way of being and thinking that it hasn't occurred to me to put them down. I decided to start anew, to strip away what I had been taught." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
 
- 4.  "In prosperity our friends know us; in adversity we know our friends." <br> &emsp;&emsp;&emsp; <i>-by John Churton Collins</i> 
+ 4.  "If you can't have faith in what is held up to you for faith, you must find things to believe in yourself, for a life without faith in something is too narrow a space to live." <br> &emsp;&emsp;&emsp; <i>-by George E. Woodberry</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
