@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nobody in life gets exactly what they thought they were going to get. But if you work really hard and you’re kind, amazing things will happen." <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
+ 1.  "Time has a wonderful way of showing us what really matters." <br> &emsp;&emsp;&emsp; <i>-by Margaret Peters</i> 
 
- 2.  "Love is, above all else, the gift of oneself." <br> &emsp;&emsp;&emsp; <i>-by Jean Anouilh</i> 
+ 2.  "If it is once again one against forty-eight, then I am very sorry for the forty-eight." <br> &emsp;&emsp;&emsp; <i>-by Margaret Thatcher</i> 
 
- 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
+ 3.  "Turn your midlife crisis to your own advantage by making it a time for renewal of your body and mind, rather than stand by helplessly and watch them decline." <br> &emsp;&emsp;&emsp; <i>-by Jane E. Brody</i> 
 
- 4.  "Strong lives are motivated by dynamic purposes." <br> &emsp;&emsp;&emsp; <i>-by Kenneth Hildebrand</i> 
+ 4.  "Fear is the tax that conscience pays to guilt." <br> &emsp;&emsp;&emsp; <i>-by George Sewell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
