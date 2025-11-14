@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Time has a wonderful way of showing us what really matters." <br> &emsp;&emsp;&emsp; <i>-by Margaret Peters</i> 
+ 1.  "One person with a belief is equal to a force of 99 who have only interests." <br> &emsp;&emsp;&emsp; <i>-by John Stuart Mill</i> 
 
- 2.  "If it is once again one against forty-eight, then I am very sorry for the forty-eight." <br> &emsp;&emsp;&emsp; <i>-by Margaret Thatcher</i> 
+ 2.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
 
- 3.  "Turn your midlife crisis to your own advantage by making it a time for renewal of your body and mind, rather than stand by helplessly and watch them decline." <br> &emsp;&emsp;&emsp; <i>-by Jane E. Brody</i> 
+ 3.  "Everything should be made as simple as possible, but not one bit simpler." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "Fear is the tax that conscience pays to guilt." <br> &emsp;&emsp;&emsp; <i>-by George Sewell</i> 
+ 4.  "Make money your god and it will plague you like the devil." <br> &emsp;&emsp;&emsp; <i>-by Henry Fielding</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
