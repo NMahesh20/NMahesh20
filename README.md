@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One person with a belief is equal to a force of 99 who have only interests." <br> &emsp;&emsp;&emsp; <i>-by John Stuart Mill</i> 
+ 1.  "Sometimes creativity is a compulsion, not an ambition." <br> &emsp;&emsp;&emsp; <i>-by Ed Norton</i> 
 
- 2.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
+ 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "Everything should be made as simple as possible, but not one bit simpler." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "By prizing heartfulness above faultlessness, we may reap more from our effort because we're more likely to be changed by it." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 4.  "Make money your god and it will plague you like the devil." <br> &emsp;&emsp;&emsp; <i>-by Henry Fielding</i> 
+ 4.  "What you are is a question only you can answer." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
