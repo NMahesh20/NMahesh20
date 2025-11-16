@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes creativity is a compulsion, not an ambition." <br> &emsp;&emsp;&emsp; <i>-by Ed Norton</i> 
+ 1.  "It's not what you want in this life, it's what you get that you have to do with." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "To sit in the shade on a fine day, and look upon verdure is the most perfect refreshment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "The particular human chain we're part of is central to our individual identity." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Stone</i> 
 
- 3.  "By prizing heartfulness above faultlessness, we may reap more from our effort because we're more likely to be changed by it." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 3.  "Each success only buys an admission ticket to a more difficult problem." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
 
- 4.  "What you are is a question only you can answer." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "It is wise to apply the oil of refined politeness to the mechanisms of friendship." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
