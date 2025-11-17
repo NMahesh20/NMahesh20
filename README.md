@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's not what you want in this life, it's what you get that you have to do with." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 2.  "The particular human chain we're part of is central to our individual identity." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Stone</i> 
+ 2.  "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes Jr.</i> 
 
- 3.  "Each success only buys an admission ticket to a more difficult problem." <br> &emsp;&emsp;&emsp; <i>-by Henry Kissinger</i> 
+ 3.  "What you will do matters. All you need is to do it." <br> &emsp;&emsp;&emsp; <i>-by Judy Grahn</i> 
 
- 4.  "It is wise to apply the oil of refined politeness to the mechanisms of friendship." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "Blessed are they who heal you of self-despisings. Of all services which can be done to man, I know of none more precious." <br> &emsp;&emsp;&emsp; <i>-by William Hale White</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
