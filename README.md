@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A day's work is a day's work, neither more nor less, and the man who does it needs a day's sustenance, a night's repose and due leisure, whether he be painter or ploughman." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 1.  "Before you agree to do anything that might add even the smallest amount of stress to your life, ask yourself: What is my truest intention? Give yourself time to let a yes resound within you. When it's right, I guarantee that your entire body will feel it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "We should be eternally vigilant against attempts to check the expression of opinions that we loathe." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes Jr.</i> 
+ 2.  "Do not speak of your happiness to one less fortunate than yourself." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 
- 3.  "What you will do matters. All you need is to do it." <br> &emsp;&emsp;&emsp; <i>-by Judy Grahn</i> 
+ 3.  "Why not go out on a limb? Isn't that where the fruit is?" <br> &emsp;&emsp;&emsp; <i>-by Frank Scully</i> 
 
- 4.  "Blessed are they who heal you of self-despisings. Of all services which can be done to man, I know of none more precious." <br> &emsp;&emsp;&emsp; <i>-by William Hale White</i> 
+ 4.  "Experience is a hard teacher because she gives the test first, the lesson afterwards." <br> &emsp;&emsp;&emsp; <i>-by Vernon Sanders Law</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
