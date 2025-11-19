@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Before you agree to do anything that might add even the smallest amount of stress to your life, ask yourself: What is my truest intention? Give yourself time to let a yes resound within you. When it's right, I guarantee that your entire body will feel it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "You do what you have to do to give people closure; it makes them feel better and it doesn't cost you much to do it. I'd rather apologize for something I didn't really care about and leave someone on Earth wishing me well." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
 
- 2.  "Do not speak of your happiness to one less fortunate than yourself." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 2.  "Friends, in my experience, are like ladies' fashions. They come and go with the seasons, and are rarely of such stout stuff as bears repeated wearing." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 3.  "Why not go out on a limb? Isn't that where the fruit is?" <br> &emsp;&emsp;&emsp; <i>-by Frank Scully</i> 
+ 3.  "Make your own recovery the first priority in your life." <br> &emsp;&emsp;&emsp; <i>-by Robin Norwood</i> 
 
- 4.  "Experience is a hard teacher because she gives the test first, the lesson afterwards." <br> &emsp;&emsp;&emsp; <i>-by Vernon Sanders Law</i> 
+ 4.  "The first step to getting the things you want out of life is this: Decide what you want." <br> &emsp;&emsp;&emsp; <i>-by Ben Stein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
