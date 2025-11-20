@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You do what you have to do to give people closure; it makes them feel better and it doesn't cost you much to do it. I'd rather apologize for something I didn't really care about and leave someone on Earth wishing me well." <br> &emsp;&emsp;&emsp; <i>-by John Scalzi</i> 
+ 1.  "I don't hire anybody who's not brighter than I am. If they're not brighter than I am, I don't need them." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
 
- 2.  "Friends, in my experience, are like ladies' fashions. They come and go with the seasons, and are rarely of such stout stuff as bears repeated wearing." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 2.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 3.  "Make your own recovery the first priority in your life." <br> &emsp;&emsp;&emsp; <i>-by Robin Norwood</i> 
+ 3.  "Between two evils, I always pick the one I never tried before." <br> &emsp;&emsp;&emsp; <i>-by Mae West</i> 
 
- 4.  "The first step to getting the things you want out of life is this: Decide what you want." <br> &emsp;&emsp;&emsp; <i>-by Ben Stein</i> 
+ 4.  "Give not over thy soul to sorrow; and afflict not thyself in thy own counsel. Gladness of heart is the life of man and the joyfulness of man is length of days." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
