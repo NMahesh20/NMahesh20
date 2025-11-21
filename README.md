@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I don't hire anybody who's not brighter than I am. If they're not brighter than I am, I don't need them." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
+ 1.  "I love drugs, but I hate hangovers, and the hatred of the hangover wins by a landslide every time." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "There can be no spirituality, no sanctity, no truth without the female sex." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 2.  "Diplomacy is the art of knowing what not to say." <br> &emsp;&emsp;&emsp; <i>-by Matthew Trump</i> 
 
- 3.  "Between two evils, I always pick the one I never tried before." <br> &emsp;&emsp;&emsp; <i>-by Mae West</i> 
+ 3.  "The chief lesson I have learned in a long life is that the only way to make a man trustworthy is to trust him; and the surest way to make him untrustworthy is to distrust him and show your distrust." <br> &emsp;&emsp;&emsp; <i>-by Henry L. Stimson</i> 
 
- 4.  "Give not over thy soul to sorrow; and afflict not thyself in thy own counsel. Gladness of heart is the life of man and the joyfulness of man is length of days." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiastes</i> 
+ 4.  "At the worst, a house unkept cannot be so distressing as a life unlived." <br> &emsp;&emsp;&emsp; <i>-by Dame Rose Macaulay</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
