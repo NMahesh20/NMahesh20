@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I love drugs, but I hate hangovers, and the hatred of the hangover wins by a landslide every time." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "The great secret that all old people share is that you really haven't changed in 70 or 80 years. Your body changes, but you don't change at all." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
 
- 2.  "Diplomacy is the art of knowing what not to say." <br> &emsp;&emsp;&emsp; <i>-by Matthew Trump</i> 
+ 2.  "You can't deny laughter; when it comes, it plops down in your favorite chair and stays as long as it wants." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 3.  "The chief lesson I have learned in a long life is that the only way to make a man trustworthy is to trust him; and the surest way to make him untrustworthy is to distrust him and show your distrust." <br> &emsp;&emsp;&emsp; <i>-by Henry L. Stimson</i> 
+ 3.  "We shall show mercy, but we shall not ask for it." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "At the worst, a house unkept cannot be so distressing as a life unlived." <br> &emsp;&emsp;&emsp; <i>-by Dame Rose Macaulay</i> 
+ 4.  "My heart, which is so full to overflowing, has often been solaced and refreshed by music when sick and weary." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
