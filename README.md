@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The great secret that all old people share is that you really haven't changed in 70 or 80 years. Your body changes, but you don't change at all." <br> &emsp;&emsp;&emsp; <i>-by Doris Lessing</i> 
+ 1.  "Realize that true happiness lies within you. Waste no time and effort searching for peace and contentment and joy in the world outside. Remember that there is no happiness in having or in getting, but only in giving. Reach out. Share. Smile. Hug. Happiness is a perfume you cannot pour on others without getting a few drops on yourself." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "You can't deny laughter; when it comes, it plops down in your favorite chair and stays as long as it wants." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
+ 2.  "I like coincidences. They make me wonder about destiny, and whether free will is an illusion or just a matter of perspective. They let me speculate on the idea of some master plan that, from time to time, we're allowed to see out of the corner of our eye." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
 
- 3.  "We shall show mercy, but we shall not ask for it." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "Personality can open doors, but only character can keep them open." <br> &emsp;&emsp;&emsp; <i>-by Elmer G. Letterman</i> 
 
- 4.  "My heart, which is so full to overflowing, has often been solaced and refreshed by music when sick and weary." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther</i> 
+ 4.  "It is easier to get forgiveness than permission." <br> &emsp;&emsp;&emsp; <i>-by Stuart's Law of Retroaction</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
