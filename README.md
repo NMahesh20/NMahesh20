@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One can't stay sad very long in such an interesting world, can one?" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "They say you just stand over there, he'll say thank you and you walk back off and that's what I thought was gonna happen, but in my head, I had for five or six years known that he was gonna call me over." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "The most profound statements are often said in silence." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 2.  "We cannot deny the facts of nature, but we should certainly try to improve on them." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "It is only by following your deepest instinct that you can lead a rich life, and if you let your fear of consequence prevent you from following your deepest instinct, then your life will be safe, expedient and thin." <br> &emsp;&emsp;&emsp; <i>-by Katharine Butler Hathaway</i> 
+ 3.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
 
- 4.  "Defer not till tomorrow to be wise, tomorrow's sun to thee may never rise." <br> &emsp;&emsp;&emsp; <i>-by William Congreve</i> 
+ 4.  "I can resist anything but temptation." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
