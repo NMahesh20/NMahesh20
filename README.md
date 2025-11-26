@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "They say you just stand over there, he'll say thank you and you walk back off and that's what I thought was gonna happen, but in my head, I had for five or six years known that he was gonna call me over." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "What you risk reveals what you value." <br> &emsp;&emsp;&emsp; <i>-by Jeanette Winterson</i> 
 
- 2.  "We cannot deny the facts of nature, but we should certainly try to improve on them." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 3.  "A successful marriage is an edifice that must be rebuilt every day." <br> &emsp;&emsp;&emsp; <i>-by Andre Maurois</i> 
+ 3.  "You can't separate peace from freedom because no one can be at peace unless he has his freedom." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
 
- 4.  "I can resist anything but temptation." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 4.  "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Gilman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
