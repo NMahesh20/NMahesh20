@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What you risk reveals what you value." <br> &emsp;&emsp;&emsp; <i>-by Jeanette Winterson</i> 
+ 1.  "Summer afternoon-summer afternoon; to me those have always been the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
 
- 2.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
 
- 3.  "You can't separate peace from freedom because no one can be at peace unless he has his freedom." <br> &emsp;&emsp;&emsp; <i>-by Malcolm X</i> 
+ 3.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
 
- 4.  "If something anticipated arrives too late it finds us numb, wrung out from waiting, and we feel - nothing at all. The best things arrive on time." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Gilman</i> 
+ 4.  "A man builds a fine house; and now he has a master, and a task for life; he is to furnish, watch, show it, and keep it in repair, the rest of his days." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
