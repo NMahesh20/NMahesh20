@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Summer afternoon-summer afternoon; to me those have always been the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
+ 1.  "You will need to find your passion. Don't give up on finding it because then all you're doing is waiting for the Reaper." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
+ 2.  "Life is difficult and complicated and beyond anyone's total control, and the humility to know that will enable you to survive its vicissitudes." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Taylor</i> 
+ 3.  "Those whom we support hold us up in life." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
 
- 4.  "A man builds a fine house; and now he has a master, and a task for life; he is to furnish, watch, show it, and keep it in repair, the rest of his days." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
