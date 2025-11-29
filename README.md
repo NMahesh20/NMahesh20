@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You will need to find your passion. Don't give up on finding it because then all you're doing is waiting for the Reaper." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
 
- 2.  "Life is difficult and complicated and beyond anyone's total control, and the humility to know that will enable you to survive its vicissitudes." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "A book is a version of the world. If you do not like it, ignore it; or offer your own version in return." <br> &emsp;&emsp;&emsp; <i>-by Salman Rushdie</i> 
 
- 3.  "Those whom we support hold us up in life." <br> &emsp;&emsp;&emsp; <i>-by Marie Ebner von Eschenbach</i> 
+ 3.  "Creativity comes from trust. Trust your instincts." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
 
- 4.  "When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "What other dungeon is so dark as one's own heart! What jailer so inexorable as one's self!" <br> &emsp;&emsp;&emsp; <i>-by Nathaniel Hawthorne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
