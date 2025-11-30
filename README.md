@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
+ 1.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "A book is a version of the world. If you do not like it, ignore it; or offer your own version in return." <br> &emsp;&emsp;&emsp; <i>-by Salman Rushdie</i> 
+ 2.  "No fear. No distractions. The ability to let that which does not matter truly slide." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "Creativity comes from trust. Trust your instincts." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
+ 3.  "Innovation distinguishes between a leader and a follower." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 4.  "What other dungeon is so dark as one's own heart! What jailer so inexorable as one's self!" <br> &emsp;&emsp;&emsp; <i>-by Nathaniel Hawthorne</i> 
+ 4.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
