@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One's first love is always perfect until one meets one's second love." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "See, that's all you're thinking about, is winning. You're confirming your sense of self- worth through outward reward instead of through inner appreciation." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 2.  "No fear. No distractions. The ability to let that which does not matter truly slide." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "To be in love Is to touch with a lighter hand. In yourself you stretch, you are well." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
 
- 3.  "Innovation distinguishes between a leader and a follower." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
 
- 4.  "A good friend of my son's is a son to me." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
