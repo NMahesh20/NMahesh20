@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "See, that's all you're thinking about, is winning. You're confirming your sense of self- worth through outward reward instead of through inner appreciation." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 1.  "You clench your teeth. You look up. You tell yourself that if they see you cry, it will hurt them, and you will be nothing but A Sadness in their lives, and you must not become a mere sadness, so you will not cry, and you say all of this to yourself while looking up at the ceiling, and then you swallow even though your throat does not want to close and you look at the person who loves you and smile." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "To be in love Is to touch with a lighter hand. In yourself you stretch, you are well." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
+ 2.  "A man ought to work. That's what he's here for. That's how he contributes to the welfare of the community." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 3.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
+ 3.  "I'm struck by the insidious, computer-driven tendency to take things out of the domain of muscular activity and put them into the domain of mental activity. The transfer is not paying off. Sure, muscles are unreliable, but they represent several million years of accumulated finesse." <br> &emsp;&emsp;&emsp; <i>-by Brian Eno</i> 
 
- 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "The family is the country of the heart." <br> &emsp;&emsp;&emsp; <i>-by Giuseppe Mazzini</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
