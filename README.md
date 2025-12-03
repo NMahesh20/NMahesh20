@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You clench your teeth. You look up. You tell yourself that if they see you cry, it will hurt them, and you will be nothing but A Sadness in their lives, and you must not become a mere sadness, so you will not cry, and you say all of this to yourself while looking up at the ceiling, and then you swallow even though your throat does not want to close and you look at the person who loves you and smile." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "If you’re not eating the right foods in the right amounts, all the exercise in the world won’t combat the caloric intake." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "A man ought to work. That's what he's here for. That's how he contributes to the welfare of the community." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 2.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
 
- 3.  "I'm struck by the insidious, computer-driven tendency to take things out of the domain of muscular activity and put them into the domain of mental activity. The transfer is not paying off. Sure, muscles are unreliable, but they represent several million years of accumulated finesse." <br> &emsp;&emsp;&emsp; <i>-by Brian Eno</i> 
+ 3.  "If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency." <br> &emsp;&emsp;&emsp; <i>-by Sir Joshua Reynolds</i> 
 
- 4.  "The family is the country of the heart." <br> &emsp;&emsp;&emsp; <i>-by Giuseppe Mazzini</i> 
+ 4.  "He enjoys true leisure who has time to improve his soul's estate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
