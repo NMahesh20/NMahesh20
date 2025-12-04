@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you’re not eating the right foods in the right amounts, all the exercise in the world won’t combat the caloric intake." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Dignity comes not from control, but from understanding who you are and taking your rightful place in the world." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
+ 2.  "My one aim was to do a thing well and to excel if possible." <br> &emsp;&emsp;&emsp; <i>-by Josephine demott Robinson</i> 
 
- 3.  "If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency." <br> &emsp;&emsp;&emsp; <i>-by Sir Joshua Reynolds</i> 
+ 3.  "Undoubtedly, we become what we envisage." <br> &emsp;&emsp;&emsp; <i>-by Claude M. Bristol</i> 
 
- 4.  "He enjoys true leisure who has time to improve his soul's estate." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
