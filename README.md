@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Dignity comes not from control, but from understanding who you are and taking your rightful place in the world." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "I'm a fan of laundry: the smell of fabric softener, the warm clothes in your hands. It's so good." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon, Zack Whedon, Maurissa Tancharoen, and Jed Whedon</i> 
 
- 2.  "My one aim was to do a thing well and to excel if possible." <br> &emsp;&emsp;&emsp; <i>-by Josephine demott Robinson</i> 
+ 2.  "The here and now is all we have, and if we play it right it's all we'll need." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 3.  "Undoubtedly, we become what we envisage." <br> &emsp;&emsp;&emsp; <i>-by Claude M. Bristol</i> 
+ 3.  "If courage wasn't a standard result of aging, it meant that the young could somehow acquire it as well." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "Whenever evil befalls us, we ought to ask ourselves, after the first suffering, how we can turn it into good. So shall we take occasion, from one bitter root, to raise perhaps many flowers." <br> &emsp;&emsp;&emsp; <i>-by Leigh Hunt</i> 
+ 4.  "Death comes to all/ But great achievements raise a monument/ Which shall endure until the sun grows old." <br> &emsp;&emsp;&emsp; <i>-by George Fabricius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
