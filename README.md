@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm a fan of laundry: the smell of fabric softener, the warm clothes in your hands. It's so good." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon, Zack Whedon, Maurissa Tancharoen, and Jed Whedon</i> 
+ 1.  "Mighty hard to tell the people you love you're a failure." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "The here and now is all we have, and if we play it right it's all we'll need." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 2.  "Cocooned inside our private dramas we often don’t realize life is rolling by us like it should." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 3.  "If courage wasn't a standard result of aging, it meant that the young could somehow acquire it as well." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "Don't sacrifice your political convictions for the convenience of the hour." <br> &emsp;&emsp;&emsp; <i>-by Edward M. Kennedy</i> 
 
- 4.  "Death comes to all/ But great achievements raise a monument/ Which shall endure until the sun grows old." <br> &emsp;&emsp;&emsp; <i>-by George Fabricius</i> 
+ 4.  "Every artist dips his brush in his own soul, and paints his own nature into his pictures." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
