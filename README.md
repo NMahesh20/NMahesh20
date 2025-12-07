@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Mighty hard to tell the people you love you're a failure." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "I'm moving, but don't worry! [Someone once] told me we're all on the same planet, so I'll be okay!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Cocooned inside our private dramas we often don’t realize life is rolling by us like it should." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 2.  "I will not allow yesterday's success to lull me into today's complacency, for this is the great foundation of failure." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Don't sacrifice your political convictions for the convenience of the hour." <br> &emsp;&emsp;&emsp; <i>-by Edward M. Kennedy</i> 
+ 3.  "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "Every artist dips his brush in his own soul, and paints his own nature into his pictures." <br> &emsp;&emsp;&emsp; <i>-by Henry Ward Beecher</i> 
+ 4.  "Success is counted sweetest by those who ne'er succeed." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
