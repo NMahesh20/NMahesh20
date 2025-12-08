@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm moving, but don't worry! [Someone once] told me we're all on the same planet, so I'll be okay!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "The best way to learn to be an honest, responsible adult is to live with adults who act honestly and responsibly." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
 
- 2.  "I will not allow yesterday's success to lull me into today's complacency, for this is the great foundation of failure." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "When we try to pick out anything by itself, we find it hitched to everything else in the Universe." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 3.  "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 3.  "An appeaser is one who feeds a crocodile, hoping it will eat him last." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "Success is counted sweetest by those who ne'er succeed." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 4.  "Deeds, not stones, are the true monuments of the great." <br> &emsp;&emsp;&emsp; <i>-by John L. Motley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
