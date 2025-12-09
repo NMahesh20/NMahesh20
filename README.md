@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best way to learn to be an honest, responsible adult is to live with adults who act honestly and responsibly." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
+ 1.  "There is only one real deprivation, I decided this morning, and that is not to be able to give one's gifts to those one loves most." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
 
- 2.  "When we try to pick out anything by itself, we find it hitched to everything else in the Universe." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 2.  "At the height of laughter, the universe is flung into a kaleidoscope of new possibilities." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
 
- 3.  "An appeaser is one who feeds a crocodile, hoping it will eat him last." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "If you wish your merit to be known, acknowledge that of other people." <br> &emsp;&emsp;&emsp; <i>-by Oriental Proverb</i> 
 
- 4.  "Deeds, not stones, are the true monuments of the great." <br> &emsp;&emsp;&emsp; <i>-by John L. Motley</i> 
+ 4.  "A life lived in chaos is an impossibility..." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
