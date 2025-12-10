@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is only one real deprivation, I decided this morning, and that is not to be able to give one's gifts to those one loves most." <br> &emsp;&emsp;&emsp; <i>-by May Sarton</i> 
+ 1.  "Difficulties come when you don't pay attention to life's whisper. Life always whispers to you first, but if you ignore the whisper, sooner or later you'll get a scream." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "At the height of laughter, the universe is flung into a kaleidoscope of new possibilities." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
+ 2.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 3.  "If you wish your merit to be known, acknowledge that of other people." <br> &emsp;&emsp;&emsp; <i>-by Oriental Proverb</i> 
+ 3.  "It is not advisable, James, to venture unsolicited opinions. You should spare yourself the embarrassing discovery of their exact value to your listener." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 
- 4.  "A life lived in chaos is an impossibility..." <br> &emsp;&emsp;&emsp; <i>-by Madeleine L'Engle</i> 
+ 4.  "[Medicine is] a collection of uncertain prescriptions the results of which, taken collectively, are more fatal than useful to mankind." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Bonaparte</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
