@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Difficulties come when you don't pay attention to life's whisper. Life always whispers to you first, but if you ignore the whisper, sooner or later you'll get a scream." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
 
- 2.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 2.  "Power consists in one's capacity to link his will with the purpose of others, to lead by reason and a gift of cooperation." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 3.  "It is not advisable, James, to venture unsolicited opinions. You should spare yourself the embarrassing discovery of their exact value to your listener." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
+ 3.  "As a well-spent day brings happy sleep, so life well used brings happy death." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
 
- 4.  "[Medicine is] a collection of uncertain prescriptions the results of which, taken collectively, are more fatal than useful to mankind." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Bonaparte</i> 
+ 4.  "Open your mouth and purse cautiously, and your stock of wealth and reputation shall, at least in repute, be great." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
