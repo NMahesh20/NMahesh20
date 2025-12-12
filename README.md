@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Do not fall prey to the false belief that mastery and domination are synonymous with manliness." <br> &emsp;&emsp;&emsp; <i>-by Kent Nerburn</i> 
+ 1.  "I really feel as if the things we create together are not things we devised, but things we discovered, as if, in some sense, they were always there in us, waiting to be revealed, like the figure of Mercury waiting in a rough lump of marble." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 2.  "Power consists in one's capacity to link his will with the purpose of others, to lead by reason and a gift of cooperation." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 2.  "It's not having what you want/ It's wanting what you've got." <br> &emsp;&emsp;&emsp; <i>-by Sheryl Crow</i> 
 
- 3.  "As a well-spent day brings happy sleep, so life well used brings happy death." <br> &emsp;&emsp;&emsp; <i>-by Leonardo da Vinci</i> 
+ 3.  "Anger repressed can poison a relationship as surely as the cruelest words." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
 
- 4.  "Open your mouth and purse cautiously, and your stock of wealth and reputation shall, at least in repute, be great." <br> &emsp;&emsp;&emsp; <i>-by Johann Georg von Zimmermann</i> 
+ 4.  "The ornament of a house is the friends who frequent it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
