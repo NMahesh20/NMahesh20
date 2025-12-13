@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I really feel as if the things we create together are not things we devised, but things we discovered, as if, in some sense, they were always there in us, waiting to be revealed, like the figure of Mercury waiting in a rough lump of marble." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 1.  "You must learn to face the fact, always, that you choose to do what you do, and that everything you do affects not only you but others." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 2.  "It's not having what you want/ It's wanting what you've got." <br> &emsp;&emsp;&emsp; <i>-by Sheryl Crow</i> 
+ 2.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
 
- 3.  "Anger repressed can poison a relationship as surely as the cruelest words." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
+ 3.  "One kind word can warm three winter months." <br> &emsp;&emsp;&emsp; <i>-by Japanese proverb</i> 
 
- 4.  "The ornament of a house is the friends who frequent it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Oppression can only survive through silence." <br> &emsp;&emsp;&emsp; <i>-by Carmen de Monteflores</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
