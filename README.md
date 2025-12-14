@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You must learn to face the fact, always, that you choose to do what you do, and that everything you do affects not only you but others." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 1.  "Never deprive someone of hope; it might be all they have." <br> &emsp;&emsp;&emsp; <i>-by H. Jackson Brown Jr.</i> 
 
- 2.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
+ 2.  "It does not matter how slowly you go so long as you do not stop." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 3.  "One kind word can warm three winter months." <br> &emsp;&emsp;&emsp; <i>-by Japanese proverb</i> 
+ 3.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
 
- 4.  "Oppression can only survive through silence." <br> &emsp;&emsp;&emsp; <i>-by Carmen de Monteflores</i> 
+ 4.  "When there is no peril in the fight there is no glory in the triumph." <br> &emsp;&emsp;&emsp; <i>-by Pierre Corneille</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
