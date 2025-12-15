@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Never deprive someone of hope; it might be all they have." <br> &emsp;&emsp;&emsp; <i>-by H. Jackson Brown Jr.</i> 
+ 1.  "Just because this isn't in your life plan doesn't mean this isn't exactly where you're supposed to be." <br> &emsp;&emsp;&emsp; <i>-by Nahnatchka Khan</i> 
 
- 2.  "It does not matter how slowly you go so long as you do not stop." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 2.  "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others." <br> &emsp;&emsp;&emsp; <i>-by Nelson Mandela</i> 
 
- 3.  "Behold the turtle. He makes progress only when he sticks his neck out." <br> &emsp;&emsp;&emsp; <i>-by James Bryant Conant</i> 
+ 3.  "It is better to die on your feet than live on your knees." <br> &emsp;&emsp;&emsp; <i>-by Emiliano Zapata</i> 
 
- 4.  "When there is no peril in the fight there is no glory in the triumph." <br> &emsp;&emsp;&emsp; <i>-by Pierre Corneille</i> 
+ 4.  "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." <br> &emsp;&emsp;&emsp; <i>-by Saint Jerome</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
