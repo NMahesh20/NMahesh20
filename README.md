@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just because this isn't in your life plan doesn't mean this isn't exactly where you're supposed to be." <br> &emsp;&emsp;&emsp; <i>-by Nahnatchka Khan</i> 
+ 1.  "If Spirituality is that you're humble in the face of forces greater than you and you believe those forces are more inclined toward being good than being bad, then I'm a spiritual person." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
 
- 2.  "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others." <br> &emsp;&emsp;&emsp; <i>-by Nelson Mandela</i> 
+ 2.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 3.  "It is better to die on your feet than live on your knees." <br> &emsp;&emsp;&emsp; <i>-by Emiliano Zapata</i> 
+ 3.  "We confide in our strength, without boasting of it; we respect that of others, without fearing it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 
- 4.  "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart." <br> &emsp;&emsp;&emsp; <i>-by Saint Jerome</i> 
+ 4.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
