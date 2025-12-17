@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If Spirituality is that you're humble in the face of forces greater than you and you believe those forces are more inclined toward being good than being bad, then I'm a spiritual person." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 1.  "The best index to a person's character is/ (a) how he treats people who can't do him any good, and/ (b) how he treats people who can't fight back." <br> &emsp;&emsp;&emsp; <i>-by Abigail van Buren</i> 
 
- 2.  "I take care of my things. After all, those of us as has few things to begin with must take care, lest we have fewer." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 2.  "Family isn't about whose blood you have. It's about who you care about." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "We confide in our strength, without boasting of it; we respect that of others, without fearing it." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 3.  "Doubt 'til thou canst doubt no more...doubt is thought and thought is life. Systems which end doubt are devices for drugging thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Guerard</i> 
 
- 4.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 4.  "Under all speech that is good for anything there lies a silence that is better. Silence is deep as Eternity; speech is shallow as Time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
