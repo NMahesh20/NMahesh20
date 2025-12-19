@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It seems the misfortune of one can plow a deeper furrow in the heart than the misfortune of millions." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 1.  "A doctor saves lives -- It's up to people to create lives that are worth saving." <br> &emsp;&emsp;&emsp; <i>-by Philip Gold</i> 
 
- 2.  "When men are scared of a woman, they always accuse her of being mannish." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "When a man takes one step toward God, God takes more steps toward that man than there are sands in the worlds of time." <br> &emsp;&emsp;&emsp; <i>-by The Work of the Chariot</i> 
 
- 3.  "Most people are good. They may not be saints, but they are good." <br> &emsp;&emsp;&emsp; <i>-by Jimmy Wales</i> 
+ 3.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
 
- 4.  "Put even the plainest woman into a beautiful dress and unconsciously she will try to live up to it." <br> &emsp;&emsp;&emsp; <i>-by Lady Duff-Gordon</i> 
+ 4.  "What is food to one, is to others bitter poison." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
