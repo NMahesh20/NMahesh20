@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A doctor saves lives -- It's up to people to create lives that are worth saving." <br> &emsp;&emsp;&emsp; <i>-by Philip Gold</i> 
+ 1.  "Real strength is not just a condition of one's muscle, but a tenderness in one's spirit." <br> &emsp;&emsp;&emsp; <i>-by McCallister Dodds</i> 
 
- 2.  "When a man takes one step toward God, God takes more steps toward that man than there are sands in the worlds of time." <br> &emsp;&emsp;&emsp; <i>-by The Work of the Chariot</i> 
+ 2.  "The aim of flattery is to soothe and encourage us by assuring us of the truth of an opinion we have already formed about ourselves." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
 
- 3.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
+ 3.  "Shut out all of your past except that which will help you weather your tomorrows." <br> &emsp;&emsp;&emsp; <i>-by Sir William Osler</i> 
 
- 4.  "What is food to one, is to others bitter poison." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
+ 4.  "Drive thy business or it will drive thee." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
