@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Real strength is not just a condition of one's muscle, but a tenderness in one's spirit." <br> &emsp;&emsp;&emsp; <i>-by McCallister Dodds</i> 
+ 1.  "Journalism is just a gun. It's only got one bullet in it, but if you aim right, that's all you need. Aim it right and you can blow a kneecap off the world." <br> &emsp;&emsp;&emsp; <i>-by Warren Ellis</i> 
 
- 2.  "The aim of flattery is to soothe and encourage us by assuring us of the truth of an opinion we have already formed about ourselves." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
+ 2.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Shut out all of your past except that which will help you weather your tomorrows." <br> &emsp;&emsp;&emsp; <i>-by Sir William Osler</i> 
+ 3.  "There is only one way to defeat the enemy, and that is to write as well as one can. The best argument is an undeniably good book." <br> &emsp;&emsp;&emsp; <i>-by Saul Bellow</i> 
 
- 4.  "Drive thy business or it will drive thee." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Observe your enemies, for they first find out your faults." <br> &emsp;&emsp;&emsp; <i>-by Antisthenes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
