@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Journalism is just a gun. It's only got one bullet in it, but if you aim right, that's all you need. Aim it right and you can blow a kneecap off the world." <br> &emsp;&emsp;&emsp; <i>-by Warren Ellis</i> 
+ 1.  "I tasted too what was called the sweet of revenge - but it was transient, it expired even with the object, that provoked it." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "Any community's arm of force - military, police, security - needs people in it who can do necessary evil, and yet not be made evil by it. To do only the necessary and no more. To constantly question the assumptions, to stop the slide into atrocity." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 
- 3.  "There is only one way to defeat the enemy, and that is to write as well as one can. The best argument is an undeniably good book." <br> &emsp;&emsp;&emsp; <i>-by Saul Bellow</i> 
+ 3.  "When you build bridges you can keep crossing them." <br> &emsp;&emsp;&emsp; <i>-by Rick Pitino</i> 
 
- 4.  "Observe your enemies, for they first find out your faults." <br> &emsp;&emsp;&emsp; <i>-by Antisthenes</i> 
+ 4.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
