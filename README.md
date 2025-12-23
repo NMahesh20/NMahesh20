@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I tasted too what was called the sweet of revenge - but it was transient, it expired even with the object, that provoked it." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "Each decision we make, each action we take, is born out of an intention." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
 
- 2.  "Some are kissing mothers and some are scolding mothers, but it is love just the same." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 2.  "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "When you build bridges you can keep crossing them." <br> &emsp;&emsp;&emsp; <i>-by Rick Pitino</i> 
+ 3.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
 
- 4.  "If you can react the same way to winning and losing, that is a big accomplishment. That quality is important because it stays with you the rest of your life." <br> &emsp;&emsp;&emsp; <i>-by Chris Evert</i> 
+ 4.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
