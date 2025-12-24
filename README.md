@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Each decision we make, each action we take, is born out of an intention." <br> &emsp;&emsp;&emsp; <i>-by Sharon Salzberg</i> 
+ 1.  "There is probably no more terrible instant of enlightenment than the one in which you discover your father is a man--with human flesh." <br> &emsp;&emsp;&emsp; <i>-by Frank Herbert</i> 
 
- 2.  "If one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "Getting fired is nature's way to telling you that you had the wrong job in the first place." <br> &emsp;&emsp;&emsp; <i>-by Hal Lancaster</i> 
 
- 3.  "Better to get up late and be wide awake than to get up early and be asleep all day." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "If you are out to describe the truth, leave elegance to the tailor." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "There are new words now that excuse everybody. Give me the good old days of heroes and villains. the people you can bravo or hiss. There was a truth to them that all the slick credulity of today cannot touch." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
