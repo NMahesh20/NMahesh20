@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is probably no more terrible instant of enlightenment than the one in which you discover your father is a man--with human flesh." <br> &emsp;&emsp;&emsp; <i>-by Frank Herbert</i> 
+ 1.  "That is not what Geek means to me. We are more than the hobbies that we do or the things that we like. To me, Geek means an outsider, a rebel, a dreamer, a creator, a fighter. It's a person who dares to love something that isn't conventional." <br> &emsp;&emsp;&emsp; <i>-by Felicia Day</i> 
 
- 2.  "Getting fired is nature's way to telling you that you had the wrong job in the first place." <br> &emsp;&emsp;&emsp; <i>-by Hal Lancaster</i> 
+ 2.  "The universe will reward you for taking risks on its behalf." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
 
- 3.  "If you are out to describe the truth, leave elegance to the tailor." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "The heart has its reasons which reason knows nothing of." <br> &emsp;&emsp;&emsp; <i>-by Blaise Pascal</i> 
 
- 4.  "Let a good man do good deeds with the same zeal that the evil man does bad ones." <br> &emsp;&emsp;&emsp; <i>-by The Belzer Rabbi</i> 
+ 4.  "Nothing endures but personal qualities." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
