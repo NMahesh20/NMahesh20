@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That is not what Geek means to me. We are more than the hobbies that we do or the things that we like. To me, Geek means an outsider, a rebel, a dreamer, a creator, a fighter. It's a person who dares to love something that isn't conventional." <br> &emsp;&emsp;&emsp; <i>-by Felicia Day</i> 
+ 1.  "That isn’t about money, fame, or power. It’s about will, dedication, commitment, and knowing your self-worth. You can be poor as dirt and have those traits. Money can’t buy you values. You just need to know what is important to you and then feel secure in your pursuit to achieve that." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "The universe will reward you for taking risks on its behalf." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
+ 2.  "Retribution often means that we eventually do to ourselves what we have done unto others." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
 
- 3.  "The heart has its reasons which reason knows nothing of." <br> &emsp;&emsp;&emsp; <i>-by Blaise Pascal</i> 
+ 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
 
- 4.  "Nothing endures but personal qualities." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "Resolve to be thyself: and know, that he who finds himself, loses his misery." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
