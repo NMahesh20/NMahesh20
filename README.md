@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That isn’t about money, fame, or power. It’s about will, dedication, commitment, and knowing your self-worth. You can be poor as dirt and have those traits. Money can’t buy you values. You just need to know what is important to you and then feel secure in your pursuit to achieve that." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Real, constructive mental power lies in the creative thought that shapes your destiny, and your hour-by-hour mental conduct produces power for change in your life. Develop a train of thought on which to ride. The nobility of your life as well as your happiness depends upon the direction in which that train of thought is going." <br> &emsp;&emsp;&emsp; <i>-by Laurence J. Peter</i> 
 
- 2.  "Retribution often means that we eventually do to ourselves what we have done unto others." <br> &emsp;&emsp;&emsp; <i>-by Eric Hoffer</i> 
+ 2.  "Be rich to yourself and poor to your friends." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
 
- 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
+ 3.  "In the highest civilization, the book is still the highest delight. He who has once known its satisfactions is provided with a resource against calamity." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Resolve to be thyself: and know, that he who finds himself, loses his misery." <br> &emsp;&emsp;&emsp; <i>-by Matthew Arnold</i> 
+ 4.  "Guilt is a rope that wears thin." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
