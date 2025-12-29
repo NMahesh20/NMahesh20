@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 1.  "There is…nothing to suggest that mothering cannot be shared by several people." <br> &emsp;&emsp;&emsp; <i>-by H. R. Schaffer</i> 
 
- 2.  "Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world." <br> &emsp;&emsp;&emsp; <i>-by Lucille Ball</i> 
+ 2.  "Wheresoever you go, go with all your heart." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 3.  "Adapt or perish, now as ever, is nature's inexorable imperative." <br> &emsp;&emsp;&emsp; <i>-by H. G. Wells</i> 
+ 3.  "Let us make one point, that we meet each other with a smile, when it is difficult to smile. Smile at each other, make time for each other in your family." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 4.  "When a thing is done, it's done. Don't look back. Look forward to your next objective." <br> &emsp;&emsp;&emsp; <i>-by George C. Marshall</i> 
+ 4.  "A bully is not reasonable - he is persuaded only by threats." <br> &emsp;&emsp;&emsp; <i>-by Marie De France</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
