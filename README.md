@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is…nothing to suggest that mothering cannot be shared by several people." <br> &emsp;&emsp;&emsp; <i>-by H. R. Schaffer</i> 
+ 1.  "I’m not going to die because I failed as someone else. I’m going to succeed as myself." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "Wheresoever you go, go with all your heart." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 2.  "I've always thought that a big laugh is a really loud noise from the soul saying, "Ain't that the truth."" <br> &emsp;&emsp;&emsp; <i>-by Quincy Jones</i> 
 
- 3.  "Let us make one point, that we meet each other with a smile, when it is difficult to smile. Smile at each other, make time for each other in your family." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 3.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 4.  "A bully is not reasonable - he is persuaded only by threats." <br> &emsp;&emsp;&emsp; <i>-by Marie De France</i> 
+ 4.  "All things must change to something new, to something strange." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
