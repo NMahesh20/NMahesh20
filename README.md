@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I’m not going to die because I failed as someone else. I’m going to succeed as myself." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "Do not believe that he who seeks to comfort you lives untroubled among the simple and quiet words that sometimes do you good. His life has much difficulty... Were it otherwise he would never have been able to find those words." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 
- 2.  "I've always thought that a big laugh is a really loud noise from the soul saying, "Ain't that the truth."" <br> &emsp;&emsp;&emsp; <i>-by Quincy Jones</i> 
+ 2.  "Traditions are the guideposts driven deep in our subconscious minds. The most powerful ones are those we can't even describe, aren't even aware of." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 3.  "The highest result of education is tolerance." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 3.  "The courage to be is the courage to accept oneself, in spite of being unacceptable." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
 
- 4.  "All things must change to something new, to something strange." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
