@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Do not believe that he who seeks to comfort you lives untroubled among the simple and quiet words that sometimes do you good. His life has much difficulty... Were it otherwise he would never have been able to find those words." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
+ 1.  "Faith is taking the first step, even when you don't see the whole staircase." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 2.  "Traditions are the guideposts driven deep in our subconscious minds. The most powerful ones are those we can't even describe, aren't even aware of." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 2.  "I decided not to let my past rule my future so I decided to change my present in order to open up my future." <br> &emsp;&emsp;&emsp; <i>-by Dr. Ana M Guzman</i> 
 
- 3.  "The courage to be is the courage to accept oneself, in spite of being unacceptable." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
+ 3.  "Man is born to live, not to prepare for life." <br> &emsp;&emsp;&emsp; <i>-by Boris Pasternak</i> 
 
- 4.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
+ 4.  "People seldom become famous for what they say until after they are famous for what they've done." <br> &emsp;&emsp;&emsp; <i>-by Cullen Hightower</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
