@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Faith is taking the first step, even when you don't see the whole staircase." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 1.  "It had only been my repeated experience that when you said to life calmly and firmly... 'I trust you; do what you must,' life had an uncanny way of responding to your need." <br> &emsp;&emsp;&emsp; <i>-by Olga Ilyin</i> 
 
- 2.  "I decided not to let my past rule my future so I decided to change my present in order to open up my future." <br> &emsp;&emsp;&emsp; <i>-by Dr. Ana M Guzman</i> 
+ 2.  "Do not think of knocking out another person's brains because he differs in opinion from you. It would be as rational to knock yourself on the head because you differ from yourself ten years ago." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
 
- 3.  "Man is born to live, not to prepare for life." <br> &emsp;&emsp;&emsp; <i>-by Boris Pasternak</i> 
+ 3.  "Courage is doing what you're afraid to do. There can be no courage unless you're scared." <br> &emsp;&emsp;&emsp; <i>-by Eddie Rickenbacker</i> 
 
- 4.  "People seldom become famous for what they say until after they are famous for what they've done." <br> &emsp;&emsp;&emsp; <i>-by Cullen Hightower</i> 
+ 4.  "Man is the only animal whose desires increase as they are fed; the only animal that is never satisfied." <br> &emsp;&emsp;&emsp; <i>-by Henry George</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
