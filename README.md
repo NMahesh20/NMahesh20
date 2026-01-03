@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It had only been my repeated experience that when you said to life calmly and firmly... 'I trust you; do what you must,' life had an uncanny way of responding to your need." <br> &emsp;&emsp;&emsp; <i>-by Olga Ilyin</i> 
+ 1.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 2.  "Do not think of knocking out another person's brains because he differs in opinion from you. It would be as rational to knock yourself on the head because you differ from yourself ten years ago." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
+ 2.  "When you go to buy, use your eyes, not your ears." <br> &emsp;&emsp;&emsp; <i>-by Czech Proverb</i> 
 
- 3.  "Courage is doing what you're afraid to do. There can be no courage unless you're scared." <br> &emsp;&emsp;&emsp; <i>-by Eddie Rickenbacker</i> 
+ 3.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 4.  "Man is the only animal whose desires increase as they are fed; the only animal that is never satisfied." <br> &emsp;&emsp;&emsp; <i>-by Henry George</i> 
+ 4.  "Poor is the man whose pleasures depend on the permission of another." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
