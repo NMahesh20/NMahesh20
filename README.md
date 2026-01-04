@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 1.  "Diluting your product to make it more 'commercial' will just make people like it less." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "When you go to buy, use your eyes, not your ears." <br> &emsp;&emsp;&emsp; <i>-by Czech Proverb</i> 
+ 2.  "In the right light, at the right time, everything is extraordinary." <br> &emsp;&emsp;&emsp; <i>-by Aaron Rose</i> 
 
- 3.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 3.  "Be substantially great in thyself, and more than thou appearest unto others." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 4.  "Poor is the man whose pleasures depend on the permission of another." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
+ 4.  "The way to procure insults is to submit to them: a man meets with no more respect than he exacts." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
