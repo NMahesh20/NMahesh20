@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Diluting your product to make it more 'commercial' will just make people like it less." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "But all endings are also beginnings. We just don't know it at the time." <br> &emsp;&emsp;&emsp; <i>-by Mitch Albom</i> 
 
- 2.  "In the right light, at the right time, everything is extraordinary." <br> &emsp;&emsp;&emsp; <i>-by Aaron Rose</i> 
+ 2.  "I've learned that all a person has in life is family and friends. If you lose those, you have nothing, so friends are to be treasured more than anything else in the world." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "Be substantially great in thyself, and more than thou appearest unto others." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 3.  "Have patience awhile; slanders are not long-lived. Truth is the child of time; erelong she shall appear to vindicate thee." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Kant</i> 
 
- 4.  "The way to procure insults is to submit to them: a man meets with no more respect than he exacts." <br> &emsp;&emsp;&emsp; <i>-by William Hazlitt</i> 
+ 4.  "Associate yourself with men of good quality if you esteem your own reputation for 'tis better to be alone than in bad company." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
