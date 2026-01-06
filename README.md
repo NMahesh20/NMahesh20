@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But all endings are also beginnings. We just don't know it at the time." <br> &emsp;&emsp;&emsp; <i>-by Mitch Albom</i> 
+ 1.  "I'm always sorry when pleasant things end. Something still pleasanter may come after, but you can never be sure." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "I've learned that all a person has in life is family and friends. If you lose those, you have nothing, so friends are to be treasured more than anything else in the world." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 2.  "We may go to the moon, but that's not very far. The greatest distance we have to cover still lies within us." <br> &emsp;&emsp;&emsp; <i>-by Charles de Gaulle</i> 
 
- 3.  "Have patience awhile; slanders are not long-lived. Truth is the child of time; erelong she shall appear to vindicate thee." <br> &emsp;&emsp;&emsp; <i>-by Immanuel Kant</i> 
+ 3.  "He that falls in love with himself will have no rivals." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "Associate yourself with men of good quality if you esteem your own reputation for 'tis better to be alone than in bad company." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
