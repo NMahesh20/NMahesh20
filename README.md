@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm always sorry when pleasant things end. Something still pleasanter may come after, but you can never be sure." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Have you heard that it was good to gain the day? I also say it is good to fall, battles are lost in the same spirit in which they are won." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 2.  "We may go to the moon, but that's not very far. The greatest distance we have to cover still lies within us." <br> &emsp;&emsp;&emsp; <i>-by Charles de Gaulle</i> 
+ 2.  "Leave well - even 'pretty well' - alone: that is what I learn as I get old." <br> &emsp;&emsp;&emsp; <i>-by Edward Fitzgerald</i> 
 
- 3.  "He that falls in love with himself will have no rivals." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "We are never deceived; we deceive ourselves." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "You always pass failure on the way to success." <br> &emsp;&emsp;&emsp; <i>-by Mickey Rooney</i> 
+ 4.  "Money is like a sixth sense without which you cannot make a complete use of the other five." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
