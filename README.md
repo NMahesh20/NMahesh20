@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Have you heard that it was good to gain the day? I also say it is good to fall, battles are lost in the same spirit in which they are won." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 1.  "If you enjoyed making a thing, and you’re proud of the thing you made, that’s enough. Not everyone is going to like it, and that’s okay." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "Leave well - even 'pretty well' - alone: that is what I learn as I get old." <br> &emsp;&emsp;&emsp; <i>-by Edward Fitzgerald</i> 
+ 2.  "I would not waste my life in friction when it could be turned into momentum." <br> &emsp;&emsp;&emsp; <i>-by Frances Willard</i> 
 
- 3.  "We are never deceived; we deceive ourselves." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
 
- 4.  "Money is like a sixth sense without which you cannot make a complete use of the other five." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Success is the ability to go from one failure to another with no loss of enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
