@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you enjoyed making a thing, and you’re proud of the thing you made, that’s enough. Not everyone is going to like it, and that’s okay." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "Food is our common ground, a universal experience." <br> &emsp;&emsp;&emsp; <i>-by James Beard</i> 
 
- 2.  "I would not waste my life in friction when it could be turned into momentum." <br> &emsp;&emsp;&emsp; <i>-by Frances Willard</i> 
+ 2.  "I think high self-esteem is overrated. A little low self-esteem is actually quite good…Maybe you're not the best, so you should work a little harder." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
 
- 3.  "America's greatest strength, and its greatest weakness, is our belief in second chances, our belief that we can always start over, that things can be made better." <br> &emsp;&emsp;&emsp; <i>-by Anthony Walton</i> 
+ 3.  "Life is just a mirror, and what you see out there, you must first see inside of you." <br> &emsp;&emsp;&emsp; <i>-by Wally 'Famous' Amos</i> 
 
- 4.  "Success is the ability to go from one failure to another with no loss of enthusiasm." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 4.  "The secret of joy in work is contained in one word - excellence. To know how to do something well is to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
