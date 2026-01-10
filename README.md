@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Food is our common ground, a universal experience." <br> &emsp;&emsp;&emsp; <i>-by James Beard</i> 
+ 1.  "Human pain does not let go of its grip at one point in time. Rather, it works its way out of our consciousness over time. There is a season of sadness. A season of anger. A season of tranquility. A season of hope." <br> &emsp;&emsp;&emsp; <i>-by Robert Veninga</i> 
 
- 2.  "I think high self-esteem is overrated. A little low self-esteem is actually quite good…Maybe you're not the best, so you should work a little harder." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
+ 2.  "Live always in the best company when you read." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 3.  "Life is just a mirror, and what you see out there, you must first see inside of you." <br> &emsp;&emsp;&emsp; <i>-by Wally 'Famous' Amos</i> 
+ 3.  "Refuse to be ill. Never tell people you are ill; never own it to yourself. Illness is one of those things which a man should resist on principle." <br> &emsp;&emsp;&emsp; <i>-by Edward Bulwer-Lytton</i> 
 
- 4.  "The secret of joy in work is contained in one word - excellence. To know how to do something well is to enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
+ 4.  "Man seeketh in society comfort, use and protection." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
