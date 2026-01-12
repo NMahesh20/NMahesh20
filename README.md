@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have not yet met with a sorrow that could not be borne, nor with one who's passing did not leave me stronger." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 1.  "There is a sacredness in tears. They are not the mark of weakness, but of power." <br> &emsp;&emsp;&emsp; <i>-by Washington Irving</i> 
 
- 2.  "Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 2.  "Every man is the builder of a temple called his body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 3.  "The only way to last a really long time is to build something useful enough that people will want to keep it going after you die, and to cultivate a sense of ownership in other people. In short: make good shit and give it away as fast as you can." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 3.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "Man is what he eats." <br> &emsp;&emsp;&emsp; <i>-by Ludwig Feuerbach</i> 
+ 4.  "Get happiness out of your work or you may never know what happiness is." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
