@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is a sacredness in tears. They are not the mark of weakness, but of power." <br> &emsp;&emsp;&emsp; <i>-by Washington Irving</i> 
+ 1.  "Everything we do really is just a little marker on the long road to death. And sometimes that's overwhelmingly depressing to me, and sometimes it makes me feel kinship and forgiveness. We've all got the same ending to the story. The way we make that story more elaborate, I got to respect." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Every man is the builder of a temple called his body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 2.  "Life is full of surprises and and serendipity. Being open to unexpected turns in the road is an important part of success. If you try to plan every step, you may miss those wonderful twists and turns. Just find your next adventure-do it well, enjoy it-and then, not now, think about what comes next." <br> &emsp;&emsp;&emsp; <i>-by Condoleeza Rice</i> 
 
- 3.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 3.  "We shall find peace. We shall hear the angels, we shall see the sky sparkling with diamonds." <br> &emsp;&emsp;&emsp; <i>-by Anton Chekhov</i> 
 
- 4.  "Get happiness out of your work or you may never know what happiness is." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 4.  "'Taint't worthwhile to wear a day all out before it comes." <br> &emsp;&emsp;&emsp; <i>-by Sarah Orne Jewett</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
