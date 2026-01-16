@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you were to go [to the Rijksmuseum], and hopefully someday you will, you would see a lot of paintings of dead people. You'd see Jesus on the cross, and you'd see a dude getting stabbed in the neck, and you'd see people dying at sea and in battle and a parade of martyrs. But Not. One. Single. Cancer. Kid. Nobody biting it from the plague or smallpox or yellow fever or whatever, because there is no glory in illness. There is no meaning to it. There is no honor in dying of." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "I have often wished I had time to cultivate modesty... But I am too busy thinking about myself." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
 
- 2.  "Know most of the rooms of thy native country before thou goest over the threshold thereof." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 2.  "We are each responsible for our own life - no other person is or even can be." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Art enables us to find ourselves and lose ourselves at the same time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
+ 3.  "Assumptions are the termites of relationships." <br> &emsp;&emsp;&emsp; <i>-by Henry Winkler</i> 
 
- 4.  "I never feel age...If you have creative work, you don't have age or time." <br> &emsp;&emsp;&emsp; <i>-by Louise Nevelson</i> 
+ 4.  "It's always helpful to learn from your mistakes because then your mistakes seem worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Garry Marshall</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
