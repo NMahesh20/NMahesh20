@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have often wished I had time to cultivate modesty... But I am too busy thinking about myself." <br> &emsp;&emsp;&emsp; <i>-by Edith Sitwell</i> 
+ 1.  "There are worse things than looking stupid. Sleeping through life is one of them." <br> &emsp;&emsp;&emsp; <i>-by Laura Preble</i> 
 
- 2.  "We are each responsible for our own life - no other person is or even can be." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "In life we don’t get what we want, we get in life what we are. If we want more we have to be able to be more, in order to be more you have to face rejection." <br> &emsp;&emsp;&emsp; <i>-by Farrah Gray</i> 
 
- 3.  "Assumptions are the termites of relationships." <br> &emsp;&emsp;&emsp; <i>-by Henry Winkler</i> 
+ 3.  "The joy of a spirit is the measure of its power." <br> &emsp;&emsp;&emsp; <i>-by Ninon de Lenclos</i> 
 
- 4.  "It's always helpful to learn from your mistakes because then your mistakes seem worthwhile." <br> &emsp;&emsp;&emsp; <i>-by Garry Marshall</i> 
+ 4.  "If our early lessons of acceptance were as successful as our early lessons of anger, how much happier we would all be." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
