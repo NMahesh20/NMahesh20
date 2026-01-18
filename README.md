@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There are worse things than looking stupid. Sleeping through life is one of them." <br> &emsp;&emsp;&emsp; <i>-by Laura Preble</i> 
+ 1.  "We must always change, renew, rejuvenate ourselves; otherwise we harden." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 2.  "In life we don’t get what we want, we get in life what we are. If we want more we have to be able to be more, in order to be more you have to face rejection." <br> &emsp;&emsp;&emsp; <i>-by Farrah Gray</i> 
+ 2.  "The only gift is a portion of thyself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 3.  "The joy of a spirit is the measure of its power." <br> &emsp;&emsp;&emsp; <i>-by Ninon de Lenclos</i> 
+ 3.  "He who endeavors to serve, to benefit, and improve the world, is like a swimmer, who struggles against a rapid current, in a river lashed into angry waves by the winds. Often they roar over his head, often they beat him back and baffle him. Most men yield to the stress of the current... Only here and there the stout, strong heart and vigorous arms struggle on toward ultimate success." <br> &emsp;&emsp;&emsp; <i>-by Albert Pike</i> 
 
- 4.  "If our early lessons of acceptance were as successful as our early lessons of anger, how much happier we would all be." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 4.  "The golden moments in the stream of life rush past us and we see nothing but sand; the angels come to visit us, and we only know them when they are gone." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
