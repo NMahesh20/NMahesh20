@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We must always change, renew, rejuvenate ourselves; otherwise we harden." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 1.  "No matter where you live, brothers are brothers and sisters are sisters. The bonds that keep family close are the same no matter where you are." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "The only gift is a portion of thyself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 2.  "The human heart cannot love the whole world. And if you try to put the whole world into your heart, you will eventually lose touch with your own humanity." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "He who endeavors to serve, to benefit, and improve the world, is like a swimmer, who struggles against a rapid current, in a river lashed into angry waves by the winds. Often they roar over his head, often they beat him back and baffle him. Most men yield to the stress of the current... Only here and there the stout, strong heart and vigorous arms struggle on toward ultimate success." <br> &emsp;&emsp;&emsp; <i>-by Albert Pike</i> 
+ 3.  "There is no end to the adventures that we can have if only we seek them with our eyes open." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 4.  "The golden moments in the stream of life rush past us and we see nothing but sand; the angels come to visit us, and we only know them when they are gone." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "You must lose a fly to catch a trout." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
