@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No matter where you live, brothers are brothers and sisters are sisters. The bonds that keep family close are the same no matter where you are." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "However beautiful the strategy, you should occasionally look at the results." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 2.  "The human heart cannot love the whole world. And if you try to put the whole world into your heart, you will eventually lose touch with your own humanity." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "I feel like a tiny bird with a big song!" <br> &emsp;&emsp;&emsp; <i>-by Jerry Van Amerongen</i> 
 
- 3.  "There is no end to the adventures that we can have if only we seek them with our eyes open." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 3.  "I care not so much what I am to others as what I am to myself." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 4.  "You must lose a fly to catch a trout." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
+ 4.  "The happiness of a man in this life does not consist in the absence but in the mastery of his passions." <br> &emsp;&emsp;&emsp; <i>-by Alfred Lord Tennyson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
