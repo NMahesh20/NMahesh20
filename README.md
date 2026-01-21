@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "However beautiful the strategy, you should occasionally look at the results." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 1.  "The whole life of man is but a point of time; let us enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 
- 2.  "I feel like a tiny bird with a big song!" <br> &emsp;&emsp;&emsp; <i>-by Jerry Van Amerongen</i> 
+ 2.  "Life loves to be taken by the lapel and told, 'I'm with you kid. Let's go.'" <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
 
- 3.  "I care not so much what I am to others as what I am to myself." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 3.  "While one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior." <br> &emsp;&emsp;&emsp; <i>-by Henry C. Link</i> 
 
- 4.  "The happiness of a man in this life does not consist in the absence but in the mastery of his passions." <br> &emsp;&emsp;&emsp; <i>-by Alfred Lord Tennyson</i> 
+ 4.  "Good habits result from resisting temptation." <br> &emsp;&emsp;&emsp; <i>-by Ancient Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
