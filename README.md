@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The whole life of man is but a point of time; let us enjoy it." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 1.  "Like threads of silver seen through crystal beads/Let love through good deeds show." <br> &emsp;&emsp;&emsp; <i>-by Edwin Arnold</i> 
 
- 2.  "Life loves to be taken by the lapel and told, 'I'm with you kid. Let's go.'" <br> &emsp;&emsp;&emsp; <i>-by Maya Angelou</i> 
+ 2.  "Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 3.  "While one person hesitates because he feels inferior, the other is busy making mistakes and becoming superior." <br> &emsp;&emsp;&emsp; <i>-by Henry C. Link</i> 
+ 3.  "It is not enough to aim; you must hit." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
 
- 4.  "Good habits result from resisting temptation." <br> &emsp;&emsp;&emsp; <i>-by Ancient Proverb</i> 
+ 4.  "Nothing ever goes away." <br> &emsp;&emsp;&emsp; <i>-by Barry Commoner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
