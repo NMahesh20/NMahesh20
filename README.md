@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Like threads of silver seen through crystal beads/Let love through good deeds show." <br> &emsp;&emsp;&emsp; <i>-by Edwin Arnold</i> 
+ 1.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
 
- 2.  "Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 2.  "Only as you do know yourself can your brain serve you as a sharp and efficient tool. Know your own failings, passions, and prejudices so you can separate them from what you see." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
 
- 3.  "It is not enough to aim; you must hit." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
+ 3.  "Fools admire, but men of sense approve." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
 
- 4.  "Nothing ever goes away." <br> &emsp;&emsp;&emsp; <i>-by Barry Commoner</i> 
+ 4.  "What is most beautiful in virile men is something feminine; what is most beautiful in feminine women is something masculine." <br> &emsp;&emsp;&emsp; <i>-by Susan Sontag</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
