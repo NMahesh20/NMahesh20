@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If an idea's worth having once, it's worth having twice." <br> &emsp;&emsp;&emsp; <i>-by Tom Stoppard</i> 
+ 1.  "I shall give life here my best, and I believe it will give its best to me in return." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Only as you do know yourself can your brain serve you as a sharp and efficient tool. Know your own failings, passions, and prejudices so you can separate them from what you see." <br> &emsp;&emsp;&emsp; <i>-by Bernard M. Baruch</i> 
+ 2.  "In order to truly give to others, you have to give to yourself first." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 3.  "Fools admire, but men of sense approve." <br> &emsp;&emsp;&emsp; <i>-by Alexander Pope</i> 
+ 3.  "What else is love but understanding and rejoicing in the fact that another person lives, acts, and experiences otherwise than we do…?" <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
 
- 4.  "What is most beautiful in virile men is something feminine; what is most beautiful in feminine women is something masculine." <br> &emsp;&emsp;&emsp; <i>-by Susan Sontag</i> 
+ 4.  "The sole advantage of power is that you can do more good." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
