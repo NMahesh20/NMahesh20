@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I shall give life here my best, and I believe it will give its best to me in return." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "I began to have an idea of my life, not as the slow shaping of achievement to fit my preconceived purposes, but as the gradual discovery and growth of a purpose which I did not know." <br> &emsp;&emsp;&emsp; <i>-by Joanna Field</i> 
 
- 2.  "In order to truly give to others, you have to give to yourself first." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 2.  "Anything that is of value in life only multiplies when it is given." <br> &emsp;&emsp;&emsp; <i>-by Deepak Chopra</i> 
 
- 3.  "What else is love but understanding and rejoicing in the fact that another person lives, acts, and experiences otherwise than we do…?" <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 3.  "Health is not simply the absence of sickness." <br> &emsp;&emsp;&emsp; <i>-by Hannah Green</i> 
 
- 4.  "The sole advantage of power is that you can do more good." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
