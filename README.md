@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I began to have an idea of my life, not as the slow shaping of achievement to fit my preconceived purposes, but as the gradual discovery and growth of a purpose which I did not know." <br> &emsp;&emsp;&emsp; <i>-by Joanna Field</i> 
+ 1.  "Keep writing. Keep doing it and doing it. Even in the moments when it's so hurtful to think about writing." <br> &emsp;&emsp;&emsp; <i>-by Heather Armstrong</i> 
 
- 2.  "Anything that is of value in life only multiplies when it is given." <br> &emsp;&emsp;&emsp; <i>-by Deepak Chopra</i> 
+ 2.  "America is a vast conspiracy to make you happy." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
 
- 3.  "Health is not simply the absence of sickness." <br> &emsp;&emsp;&emsp; <i>-by Hannah Green</i> 
+ 3.  "Pleasure in the job puts perfection in the work." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 
- 4.  "Change is the constant, the signal for rebirth, the egg of the phoenix." <br> &emsp;&emsp;&emsp; <i>-by Christina Baldwin</i> 
+ 4.  "If you want to see what children can do, you must stop giving them things." <br> &emsp;&emsp;&emsp; <i>-by Norman Douglas</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
