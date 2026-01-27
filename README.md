@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep writing. Keep doing it and doing it. Even in the moments when it's so hurtful to think about writing." <br> &emsp;&emsp;&emsp; <i>-by Heather Armstrong</i> 
+ 1.  "Truly successful decision making relies on a balance between deliberate and instinctive thinking." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 2.  "America is a vast conspiracy to make you happy." <br> &emsp;&emsp;&emsp; <i>-by John Updike</i> 
+ 2.  "The art of life lies in a constant readjustment to our surroundings." <br> &emsp;&emsp;&emsp; <i>-by Okakura Kakuzo</i> 
 
- 3.  "Pleasure in the job puts perfection in the work." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 3.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
 
- 4.  "If you want to see what children can do, you must stop giving them things." <br> &emsp;&emsp;&emsp; <i>-by Norman Douglas</i> 
+ 4.  "When you have only two pennies left in the world, buy a loaf of bread with one, and a lily with the other." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
