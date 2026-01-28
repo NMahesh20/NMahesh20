@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Truly successful decision making relies on a balance between deliberate and instinctive thinking." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 1.  "Everything you do in life, every choice you make, has a consequence. When you do things without thinkin', then you ain't makin' the choice. The choice is makin' you." <br> &emsp;&emsp;&emsp; <i>-by Mark Steven Johnson</i> 
 
- 2.  "The art of life lies in a constant readjustment to our surroundings." <br> &emsp;&emsp;&emsp; <i>-by Okakura Kakuzo</i> 
+ 2.  "When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
 
- 3.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
+ 3.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
 
- 4.  "When you have only two pennies left in the world, buy a loaf of bread with one, and a lily with the other." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 4.  "The most important thing she'd learned over the years was that there was no way to be a perfect mother and a million ways to be a good one." <br> &emsp;&emsp;&emsp; <i>-by Jill Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
