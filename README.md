@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything you do in life, every choice you make, has a consequence. When you do things without thinkin', then you ain't makin' the choice. The choice is makin' you." <br> &emsp;&emsp;&emsp; <i>-by Mark Steven Johnson</i> 
+ 1.  "A mother only does her children harm if she makes them the only concern of her life." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "When you make a mistake, there are only three things you should ever do about it: admit it, learn from it, and don't repeat it." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
+ 2.  "I never feel that I have comprehended an emotion, or fully lived even the smallest events, until I have reflected upon it in my journal; my pen is my truest confidant, holding in check the passions and disappointments that I dare not share even with my beloved." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 3.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
+ 3.  "I have seen flowers come in stony places/ And kind things done by men with ugly faces/ And the gold cup won by the worst horse at the races,/ So I trust too." <br> &emsp;&emsp;&emsp; <i>-by John Masefield</i> 
 
- 4.  "The most important thing she'd learned over the years was that there was no way to be a perfect mother and a million ways to be a good one." <br> &emsp;&emsp;&emsp; <i>-by Jill Churchill</i> 
+ 4.  "I had learnt to seek intensity…more of life, a concentrated sense of life." <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
