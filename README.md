@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A mother only does her children harm if she makes them the only concern of her life." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "There is no greater joy nor greater reward than to make a fundamental difference in someone's life." <br> &emsp;&emsp;&emsp; <i>-by Sister Mary Rose McGeady</i> 
 
- 2.  "I never feel that I have comprehended an emotion, or fully lived even the smallest events, until I have reflected upon it in my journal; my pen is my truest confidant, holding in check the passions and disappointments that I dare not share even with my beloved." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 2.  "Nothing amuses me more than the easy manner with which everybody settles the abundance of those who have a great deal less than themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "I have seen flowers come in stony places/ And kind things done by men with ugly faces/ And the gold cup won by the worst horse at the races,/ So I trust too." <br> &emsp;&emsp;&emsp; <i>-by John Masefield</i> 
+ 3.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 4.  "I had learnt to seek intensity…more of life, a concentrated sense of life." <br> &emsp;&emsp;&emsp; <i>-by Nina Berberova</i> 
+ 4.  "This above all: to thine own self be true; And it must follow, as the night the day; Thou canst not then be false to any man." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
