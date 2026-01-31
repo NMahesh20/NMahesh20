@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no greater joy nor greater reward than to make a fundamental difference in someone's life." <br> &emsp;&emsp;&emsp; <i>-by Sister Mary Rose McGeady</i> 
+ 1.  "How do I define success? Let me tell you, money's pretty nice. But having a lot of money does not automatically make you a successful person. What you want is money and meaning. You want your work to be meaningful, because meaning is what brings the real richness to your life." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Nothing amuses me more than the easy manner with which everybody settles the abundance of those who have a great deal less than themselves." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Love doesn't sit there like a stone, it has to be made, like bread: remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "The more severe the pain or illness, the more severe will be the necessary changes. These may involve breaking bad habits, or acquiring some new and better ones." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 3.  "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it." <br> &emsp;&emsp;&emsp; <i>-by Starline X. Hodge</i> 
 
- 4.  "This above all: to thine own self be true; And it must follow, as the night the day; Thou canst not then be false to any man." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "To travel hopefully is a better thing than to arrive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
