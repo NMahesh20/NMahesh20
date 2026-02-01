@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How do I define success? Let me tell you, money's pretty nice. But having a lot of money does not automatically make you a successful person. What you want is money and meaning. You want your work to be meaningful, because meaning is what brings the real richness to your life." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "I started thinking about little kids putting a cylindrical peg through a circular hole, and how they do it over and over again for months when they figure it out, and how basketball was basically just a slightly more aerobic version of that same exercise." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Love doesn't sit there like a stone, it has to be made, like bread: remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "There are two main strategies we can adopt to improve the quality of life. The first is to try making external conditions match our goals. The second is to change how we experience external conditions to make them fit our goals better." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "Just because it's only 'stuff' doesn't mean I can't appreciate it while I have it." <br> &emsp;&emsp;&emsp; <i>-by Starline X. Hodge</i> 
+ 3.  "The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in this business. You've got to keep on working that talent. Someday I'll reach for it and it won't be there." <br> &emsp;&emsp;&emsp; <i>-by Irving Berlin</i> 
 
- 4.  "To travel hopefully is a better thing than to arrive." <br> &emsp;&emsp;&emsp; <i>-by Robert Louis Stevenson</i> 
+ 4.  "You can't turn back the clock. But you can wind it up again." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Prudden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
