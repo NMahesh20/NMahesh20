@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I started thinking about little kids putting a cylindrical peg through a circular hole, and how they do it over and over again for months when they figure it out, and how basketball was basically just a slightly more aerobic version of that same exercise." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Money's the same, whoever gives it to you. That was the point of money, after all: crisp and clean or wrinkled or disintegrated into quarters - a dollar was always worth a hundred cents." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "There are two main strategies we can adopt to improve the quality of life. The first is to try making external conditions match our goals. The second is to change how we experience external conditions to make them fit our goals better." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "I think people don't place a high enough value on how much they are nurtured by doing whatever it is that totally absorbs them." <br> &emsp;&emsp;&emsp; <i>-by Jean Shinoda Bolen</i> 
 
- 3.  "The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in this business. You've got to keep on working that talent. Someday I'll reach for it and it won't be there." <br> &emsp;&emsp;&emsp; <i>-by Irving Berlin</i> 
+ 3.  "Sow good services; sweet remembrances will grow them." <br> &emsp;&emsp;&emsp; <i>-by Madame de Stael</i> 
 
- 4.  "You can't turn back the clock. But you can wind it up again." <br> &emsp;&emsp;&emsp; <i>-by Bonnie Prudden</i> 
+ 4.  "That man is the richest whose pleasures are the cheapest." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
