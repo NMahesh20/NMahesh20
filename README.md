@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Money's the same, whoever gives it to you. That was the point of money, after all: crisp and clean or wrinkled or disintegrated into quarters - a dollar was always worth a hundred cents." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "Fight for your opinions, but do not believe that they contain the whole truth, or the only truth." <br> &emsp;&emsp;&emsp; <i>-by Charles A. Dana</i> 
 
- 2.  "I think people don't place a high enough value on how much they are nurtured by doing whatever it is that totally absorbs them." <br> &emsp;&emsp;&emsp; <i>-by Jean Shinoda Bolen</i> 
+ 2.  "When you encounter difficulties and contradictions, do not try to break them, but bend them with gentleness and time." <br> &emsp;&emsp;&emsp; <i>-by Saint Francis de Sales</i> 
 
- 3.  "Sow good services; sweet remembrances will grow them." <br> &emsp;&emsp;&emsp; <i>-by Madame de Stael</i> 
+ 3.  "Every big problem was at one time a wee disturbance." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
 
- 4.  "That man is the richest whose pleasures are the cheapest." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "I've arrived at this outermost edge of my life by my own actions. Where I am is thoroughly unacceptable. Therefore, I must stop doing what I've been doing." <br> &emsp;&emsp;&emsp; <i>-by Alice Koller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
