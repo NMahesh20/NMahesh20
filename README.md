@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fight for your opinions, but do not believe that they contain the whole truth, or the only truth." <br> &emsp;&emsp;&emsp; <i>-by Charles A. Dana</i> 
+ 1.  "No problem is too small or too trivial if we can really do something about it." <br> &emsp;&emsp;&emsp; <i>-by Richard Feynman</i> 
 
- 2.  "When you encounter difficulties and contradictions, do not try to break them, but bend them with gentleness and time." <br> &emsp;&emsp;&emsp; <i>-by Saint Francis de Sales</i> 
+ 2.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
 
- 3.  "Every big problem was at one time a wee disturbance." <br> &emsp;&emsp;&emsp; <i>-by Unknown</i> 
+ 3.  "The physician can bury his mistakes, but the architect can only advise his client to plant vines - so they should go as far as possible from home to build their first buildings." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
 
- 4.  "I've arrived at this outermost edge of my life by my own actions. Where I am is thoroughly unacceptable. Therefore, I must stop doing what I've been doing." <br> &emsp;&emsp;&emsp; <i>-by Alice Koller</i> 
+ 4.  "The good or ill of a man lies within his own will." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
