@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No problem is too small or too trivial if we can really do something about it." <br> &emsp;&emsp;&emsp; <i>-by Richard Feynman</i> 
+ 1.  "It's not enough to create magic. You have to create a price for magic, too. You have to create rules." <br> &emsp;&emsp;&emsp; <i>-by Eric A. Burns</i> 
 
- 2.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
+ 2.  "When something that honest is said it usually needs a few minutes of silence to dissipate." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
 
- 3.  "The physician can bury his mistakes, but the architect can only advise his client to plant vines - so they should go as far as possible from home to build their first buildings." <br> &emsp;&emsp;&emsp; <i>-by Frank Lloyd Wright</i> 
+ 3.  "Those little nimble musicians of the air, that warble forth their curious ditties, with which nature hath furnished them to the shame of art." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
 
- 4.  "The good or ill of a man lies within his own will." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 4.  "[Common sense] is the best sense I know of." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
