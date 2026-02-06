@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's not enough to create magic. You have to create a price for magic, too. You have to create rules." <br> &emsp;&emsp;&emsp; <i>-by Eric A. Burns</i> 
+ 1.  "External signs of wealth and success are often cheap storefronts that hide internal mediocrity or even incompetence." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "When something that honest is said it usually needs a few minutes of silence to dissipate." <br> &emsp;&emsp;&emsp; <i>-by Pamela Ribon</i> 
+ 2.  "Laughter gives us distance. It allows us to step back from an event, deal with it and then move on." <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
 
- 3.  "Those little nimble musicians of the air, that warble forth their curious ditties, with which nature hath furnished them to the shame of art." <br> &emsp;&emsp;&emsp; <i>-by Izaak Walton</i> 
+ 3.  "Call no man foe, but never love a stranger." <br> &emsp;&emsp;&emsp; <i>-by Stella Benson</i> 
 
- 4.  "[Common sense] is the best sense I know of." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 4.  "To establish oneself in the world, one has to do all one can to appear established." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
