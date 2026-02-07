@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "External signs of wealth and success are often cheap storefronts that hide internal mediocrity or even incompetence." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 1.  "Take time to deliberate, but when the time for action has arrived, stop thinking and go in." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Bonaparte</i> 
 
- 2.  "Laughter gives us distance. It allows us to step back from an event, deal with it and then move on." <br> &emsp;&emsp;&emsp; <i>-by Bob Newhart</i> 
+ 2.  "Eat a third and drink a third and leave the remaining third of your stomach empty. Then, when you get angry, there will be sufficient room for your rage." <br> &emsp;&emsp;&emsp; <i>-by Babylonian Talmud</i> 
 
- 3.  "Call no man foe, but never love a stranger." <br> &emsp;&emsp;&emsp; <i>-by Stella Benson</i> 
+ 3.  "Don't throw away the old bucket until you know whether the new one holds water." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
 
- 4.  "To establish oneself in the world, one has to do all one can to appear established." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 4.  "I have learnt silence from the talkative, toleration from the intolerant, and kindness from the unkind; yet strange, I am ungrateful to these teachers." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
