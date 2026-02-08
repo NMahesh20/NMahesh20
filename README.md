@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Take time to deliberate, but when the time for action has arrived, stop thinking and go in." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Bonaparte</i> 
+ 1.  "Just because we've been dealt a certain hand, it doesn't mean that we can't choose to rise above - to conquer the boundaries of a destiny that none of us wanted. To try to retain whatever essential humanity we can." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
 
- 2.  "Eat a third and drink a third and leave the remaining third of your stomach empty. Then, when you get angry, there will be sufficient room for your rage." <br> &emsp;&emsp;&emsp; <i>-by Babylonian Talmud</i> 
+ 2.  "Good food ends with good talk." <br> &emsp;&emsp;&emsp; <i>-by Geoffrey Neighor</i> 
 
- 3.  "Don't throw away the old bucket until you know whether the new one holds water." <br> &emsp;&emsp;&emsp; <i>-by Swedish Proverb</i> 
+ 3.  "While there's life, there's hope." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 
- 4.  "I have learnt silence from the talkative, toleration from the intolerant, and kindness from the unkind; yet strange, I am ungrateful to these teachers." <br> &emsp;&emsp;&emsp; <i>-by Kahlil Gibran</i> 
+ 4.  "If you cannot get rid of the family skeleton, you may as well make it dance." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
