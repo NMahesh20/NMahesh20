@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just because we've been dealt a certain hand, it doesn't mean that we can't choose to rise above - to conquer the boundaries of a destiny that none of us wanted. To try to retain whatever essential humanity we can." <br> &emsp;&emsp;&emsp; <i>-by Stephenie Meyer</i> 
+ 1.  "How could it be? She watched, observed, reflected, and finally determined that this was not a case of fortitude or of resignation only. A submissive spirit might be patient, a strong understanding would supply resolution, but here was something more; here was that elasticity of mind, that disposition to be comforted, that power of turning readily from evil to good, and of finding employment which carried her out of herself, which was from nature alone. It was the choicest gift of Heaven." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Good food ends with good talk." <br> &emsp;&emsp;&emsp; <i>-by Geoffrey Neighor</i> 
+ 2.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
 
- 3.  "While there's life, there's hope." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 3.  "Do not wait for the last judgment. It takes place every day." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 4.  "If you cannot get rid of the family skeleton, you may as well make it dance." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 4.  "Do definite good; first of all to yourself, then to definite persons." <br> &emsp;&emsp;&emsp; <i>-by John Lancaster Spalding</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
