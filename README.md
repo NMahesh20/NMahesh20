@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How could it be? She watched, observed, reflected, and finally determined that this was not a case of fortitude or of resignation only. A submissive spirit might be patient, a strong understanding would supply resolution, but here was something more; here was that elasticity of mind, that disposition to be comforted, that power of turning readily from evil to good, and of finding employment which carried her out of herself, which was from nature alone. It was the choicest gift of Heaven." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "The fact that a great many people believe something is no guarantee of its truth." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Call it a clan, call it a network, call it a tribe, call it a family. Whatever you call it, whoever you are, you need one." <br> &emsp;&emsp;&emsp; <i>-by Jane Howard</i> 
+ 2.  "You pile up enough tomorrows and you'll be left with nothing but a bunch of empty yesterdays. I don't know about you, but I'd like to make today worth remembering." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
 
- 3.  "Do not wait for the last judgment. It takes place every day." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 3.  "Those who cannot remember the past are condemned to repeat it." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 
- 4.  "Do definite good; first of all to yourself, then to definite persons." <br> &emsp;&emsp;&emsp; <i>-by John Lancaster Spalding</i> 
+ 4.  "Part of the secret of success in life is to eat what you like and let the food fight it out inside." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
