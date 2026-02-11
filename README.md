@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The fact that a great many people believe something is no guarantee of its truth." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "You pile up enough tomorrows and you'll be left with nothing but a bunch of empty yesterdays. I don't know about you, but I'd like to make today worth remembering." <br> &emsp;&emsp;&emsp; <i>-by Meredith Willson</i> 
+ 2.  "Clergymen have much the same in their breeches as other men." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Those who cannot remember the past are condemned to repeat it." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 3.  "Be gentle with the young." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
 
- 4.  "Part of the secret of success in life is to eat what you like and let the food fight it out inside." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "They sicken of the calm, who knew the storm." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
