@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Guilt is helpful only when it keeps us acting in line with our beliefs and morals. Otherwise, it creates needless suffering." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "I thought being an adult meant knowing what you believe, but that has not been my experience." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Clergymen have much the same in their breeches as other men." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "When a quiet man is moved to passion, it seems the very earth will shake." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 3.  "Be gentle with the young." <br> &emsp;&emsp;&emsp; <i>-by Juvenal</i> 
+ 3.  "When she stopped conforming to the conventional picture of femininity she finally began to enjoy being a woman." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 4.  "They sicken of the calm, who knew the storm." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "A great secret of success is to go through life as a man who never gets used up." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
