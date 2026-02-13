@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I thought being an adult meant knowing what you believe, but that has not been my experience." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "If you would be pungent, be brief; for it is with words as with sunbeams - the more they are condensed, the deeper they burn." <br> &emsp;&emsp;&emsp; <i>-by Robert Southey</i> 
 
- 2.  "When a quiet man is moved to passion, it seems the very earth will shake." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 2.  "Knowledge and timber shouldn't be much used till they are seasoned." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 3.  "When she stopped conforming to the conventional picture of femininity she finally began to enjoy being a woman." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 3.  "Men show their characters in nothing more clearly than in what they think laughable." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 4.  "A great secret of success is to go through life as a man who never gets used up." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
+ 4.  "I don't think necessity is the mother of invention - invention, in my opinion, arises directly from idleness, possibly also from laziness. To save oneself trouble." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
