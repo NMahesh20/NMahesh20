@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you would be pungent, be brief; for it is with words as with sunbeams - the more they are condensed, the deeper they burn." <br> &emsp;&emsp;&emsp; <i>-by Robert Southey</i> 
+ 1.  "You just have to start putting one foot in front of the other, making an effort to get healthy every day." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Knowledge and timber shouldn't be much used till they are seasoned." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 2.  "Having been here before and lost, to be here and win, I've got to tell you, winning is really a lot better than losing. Really a lot better." <br> &emsp;&emsp;&emsp; <i>-by Kate Winslet</i> 
 
- 3.  "Men show their characters in nothing more clearly than in what they think laughable." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 3.  "Everywhere I go I find a poet has been there before me." <br> &emsp;&emsp;&emsp; <i>-by Sigmund Freud</i> 
 
- 4.  "I don't think necessity is the mother of invention - invention, in my opinion, arises directly from idleness, possibly also from laziness. To save oneself trouble." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 4.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
