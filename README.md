@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You just have to start putting one foot in front of the other, making an effort to get healthy every day." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Summer afternoon - Summer afternoon... the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
 
- 2.  "Having been here before and lost, to be here and win, I've got to tell you, winning is really a lot better than losing. Really a lot better." <br> &emsp;&emsp;&emsp; <i>-by Kate Winslet</i> 
+ 2.  "Exile, for no other motive than ease, would be the last defeat, with no seed of future victory in it." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "Everywhere I go I find a poet has been there before me." <br> &emsp;&emsp;&emsp; <i>-by Sigmund Freud</i> 
+ 3.  "To know oneself is to study oneself in action with another person." <br> &emsp;&emsp;&emsp; <i>-by Bruce Lee</i> 
 
- 4.  "Have regard for your name, since it will remain for you longer than a great store of gold." <br> &emsp;&emsp;&emsp; <i>-by Ecclesiasticus</i> 
+ 4.  "Be more prompt to go to a friend in adversity than in prosperity." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
