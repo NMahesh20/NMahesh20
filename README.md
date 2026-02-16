@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Summer afternoon - Summer afternoon... the two most beautiful words in the English language." <br> &emsp;&emsp;&emsp; <i>-by Henry James</i> 
+ 1.  "Young is the one that plunges in the future and never looks back." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
 
- 2.  "Exile, for no other motive than ease, would be the last defeat, with no seed of future victory in it." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Success is relative. It is what we can make of the mess we have made of things." <br> &emsp;&emsp;&emsp; <i>-by T. S. Eliot</i> 
 
- 3.  "To know oneself is to study oneself in action with another person." <br> &emsp;&emsp;&emsp; <i>-by Bruce Lee</i> 
+ 3.  "If a problem has no solution, it may not be a problem, but a fact - not to be solved, but to be coped with over time." <br> &emsp;&emsp;&emsp; <i>-by Shimon Peres</i> 
 
- 4.  "Be more prompt to go to a friend in adversity than in prosperity." <br> &emsp;&emsp;&emsp; <i>-by Chilo</i> 
+ 4.  "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity." <br> &emsp;&emsp;&emsp; <i>-by George S. Patton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
