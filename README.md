@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one can be right all of the time, but it helps to be right most of the time." <br> &emsp;&emsp;&emsp; <i>-by Robert Half</i> 
+ 1.  "Letting your customers set your standards is a dangerous game, because the race to the bottom is pretty easy to win. Setting your own standards--and living up to them--is a better way to profit. Not to mention a better way to make your day worth all the effort you put into it." <br> &emsp;&emsp;&emsp; <i>-by Seth Godin</i> 
 
- 2.  "Son, always tell the truth. Then you'll never have to remember what you said the last time." <br> &emsp;&emsp;&emsp; <i>-by Sam Rayburn</i> 
+ 2.  "If we can connect in some tiny way with a human that doesn't agree with us, then maybe we won't blow up the planet." <br> &emsp;&emsp;&emsp; <i>-by Nancy White</i> 
 
- 3.  "This art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of energy in our great men." <br> &emsp;&emsp;&emsp; <i>-by Captain J. A. Hadfield</i> 
+ 3.  "Nobody sees a flower - really - it is so small it takes time - we haven't time - and to see takes time, like to have a friend takes time." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
 
- 4.  "Don't be discouraged by a failure. It can be a positive experience. Failure is, in a sense, the highway to success, inasmuch as every discovery of what is false leads us to seek earnestly after what is true, and every fresh experience points out some form of error which we shall afterwards carefully avoid." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
+ 4.  "Health is not valued till sickness comes." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
