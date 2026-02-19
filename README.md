@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Letting your customers set your standards is a dangerous game, because the race to the bottom is pretty easy to win. Setting your own standards--and living up to them--is a better way to profit. Not to mention a better way to make your day worth all the effort you put into it." <br> &emsp;&emsp;&emsp; <i>-by Seth Godin</i> 
+ 1.  "Most people see themselves a certain way their entire lives. When they go through a massive change, such as losing weight, they have to learn to see themselves in a new way. It is one of the biggest struggles her members deal with on their journey." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "If we can connect in some tiny way with a human that doesn't agree with us, then maybe we won't blow up the planet." <br> &emsp;&emsp;&emsp; <i>-by Nancy White</i> 
+ 2.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
 
- 3.  "Nobody sees a flower - really - it is so small it takes time - we haven't time - and to see takes time, like to have a friend takes time." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
+ 3.  "The ability to focus attention on important things is a defining characteristic of intelligence." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Shiller</i> 
 
- 4.  "Health is not valued till sickness comes." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 4.  "When you feel in your gut what you are and then dynamically pursue it - don't back down and don't give up - then you're going to mystify a lot of folks." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
