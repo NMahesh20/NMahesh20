@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Most people see themselves a certain way their entire lives. When they go through a massive change, such as losing weight, they have to learn to see themselves in a new way. It is one of the biggest struggles her members deal with on their journey." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Almost everything: all external expectations, all pride, all fear of embarrassment or failure. These things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
+ 2.  "Part of understanding the creative urge is understanding that it's primal. Wanting to change the world is not a noble calling, it's a primal calling." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "The ability to focus attention on important things is a defining characteristic of intelligence." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Shiller</i> 
+ 3.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
 
- 4.  "When you feel in your gut what you are and then dynamically pursue it - don't back down and don't give up - then you're going to mystify a lot of folks." <br> &emsp;&emsp;&emsp; <i>-by Bob Dylan</i> 
+ 4.  "Never refuse any advance of friendship, for if nine out of ten bring you nothing, one alone may repay you." <br> &emsp;&emsp;&emsp; <i>-by Madame de Tencin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
