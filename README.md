@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is impossible to go through life without trust: That is to be imprisoned in the worst cell of all, oneself." <br> &emsp;&emsp;&emsp; <i>-by Graham Greene</i> 
+ 1.  "When I'm not doing something that comes deeply from me, I get bored. When I get bored I get distracted and when I get distracted, I become depressed. It's a natural resistance, and it insures your integrity." <br> &emsp;&emsp;&emsp; <i>-by Maria Irene Fornes</i> 
 
- 2.  "Death is a friend of ours; and he that is not ready to entertain him is not at home." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 2.  "The worst sin - perhaps the only sin - passion can commit, is to be joyless." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
 
- 3.  "My mother drew a distinction between achievement and success. She said that 'achievement is the knowledge that you have studied and worked hard and done the best that is in you. Success is being praised by others, and that's nice, too, but not as important or satisfying. Always aim for achievement and forget about success.'" <br> &emsp;&emsp;&emsp; <i>-by Helen Hayes</i> 
+ 3.  "Our lives teach us who we are." <br> &emsp;&emsp;&emsp; <i>-by Salman Rushdie</i> 
 
- 4.  "I happen to feel that the degree of a person's intelligence is directly reflected by the number of conflicting attitudes she can bring to bear on the same topic." <br> &emsp;&emsp;&emsp; <i>-by Lisa Alther</i> 
+ 4.  "The best armor is to keep out of range." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
