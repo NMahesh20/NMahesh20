@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I'm not doing something that comes deeply from me, I get bored. When I get bored I get distracted and when I get distracted, I become depressed. It's a natural resistance, and it insures your integrity." <br> &emsp;&emsp;&emsp; <i>-by Maria Irene Fornes</i> 
+ 1.  "Of all the pulpits from which human voice is ever sent forth, there is none from which it reaches so far as from the grave." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 
- 2.  "The worst sin - perhaps the only sin - passion can commit, is to be joyless." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
+ 2.  "Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
 
- 3.  "Our lives teach us who we are." <br> &emsp;&emsp;&emsp; <i>-by Salman Rushdie</i> 
+ 3.  "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
 
- 4.  "The best armor is to keep out of range." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
+ 4.  "I know of no more encouraging fact than the unquestioned ability of a man to elevate his life by conscious endeavor." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
