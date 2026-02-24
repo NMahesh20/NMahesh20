@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Of all the pulpits from which human voice is ever sent forth, there is none from which it reaches so far as from the grave." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 1.  "That is the American story. People, just like you, following their passions, determined to meet the times on their own terms. They weren't doing it for the money. Their titles weren't fancy. But they changed the course of history and so can you." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
+ 2.  "What we play is life." <br> &emsp;&emsp;&emsp; <i>-by Louis Armstrong</i> 
 
- 3.  "I write entirely to find out what I'm thinking, what I'm looking at, what I see and what it means. What I want and what I fear." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 3.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 4.  "I know of no more encouraging fact than the unquestioned ability of a man to elevate his life by conscious endeavor." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
