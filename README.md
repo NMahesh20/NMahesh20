@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That is the American story. People, just like you, following their passions, determined to meet the times on their own terms. They weren't doing it for the money. Their titles weren't fancy. But they changed the course of history and so can you." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "What we play is life." <br> &emsp;&emsp;&emsp; <i>-by Louis Armstrong</i> 
+ 2.  "It is through creating, not possessing, that life is revealed." <br> &emsp;&emsp;&emsp; <i>-by Vida D. Scudder</i> 
 
- 3.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 3.  "One kernel is felt in a hogshead; one drop of water helps to swell the ocean; a spark of fire helps to give light to the world. None are too small, too feeble, too poor to be of service. Think of this and act." <br> &emsp;&emsp;&emsp; <i>-by Hannah More</i> 
 
- 4.  "We are indeed much more than what we eat, but what we eat can nevertheless help us to be much more than what we are." <br> &emsp;&emsp;&emsp; <i>-by Adelle Davis</i> 
+ 4.  "To be mature means to face, and not evade, every fresh crisis that comes." <br> &emsp;&emsp;&emsp; <i>-by Fritz Kunkel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
