@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "It's only after we've lost everything that we're free to do anything." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "It is through creating, not possessing, that life is revealed." <br> &emsp;&emsp;&emsp; <i>-by Vida D. Scudder</i> 
+ 2.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 3.  "One kernel is felt in a hogshead; one drop of water helps to swell the ocean; a spark of fire helps to give light to the world. None are too small, too feeble, too poor to be of service. Think of this and act." <br> &emsp;&emsp;&emsp; <i>-by Hannah More</i> 
+ 3.  "Be modest! It is the kind of pride least likely to offend." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 
- 4.  "To be mature means to face, and not evade, every fresh crisis that comes." <br> &emsp;&emsp;&emsp; <i>-by Fritz Kunkel</i> 
+ 4.  "We distinguish the excellent man from the common man by saying that the former is the one who makes great demands upon himself, and the latter who makes no demands on himself." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
