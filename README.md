@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's only after we've lost everything that we're free to do anything." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "Progress is the product of human agency. Things get better because we make them better. Things go wrong when we get too comfortable, when we fail to take risks or seize opportunities." <br> &emsp;&emsp;&emsp; <i>-by Susan Rice</i> 
 
- 2.  "A person reveals his character by nothing so clearly as the joke he resents." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 2.  "Always be a little kinder than necessary." <br> &emsp;&emsp;&emsp; <i>-by James M. Barrie</i> 
 
- 3.  "Be modest! It is the kind of pride least likely to offend." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 3.  "True love brings up everything - you're allowing a mirror to be held up to you daily." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
 
- 4.  "We distinguish the excellent man from the common man by saying that the former is the one who makes great demands upon himself, and the latter who makes no demands on himself." <br> &emsp;&emsp;&emsp; <i>-by Jose Ortega y Gasset</i> 
+ 4.  "Opportunity is missed by most people because it is dressed in overalls and looks like work." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
