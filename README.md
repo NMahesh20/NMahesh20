@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Progress is the product of human agency. Things get better because we make them better. Things go wrong when we get too comfortable, when we fail to take risks or seize opportunities." <br> &emsp;&emsp;&emsp; <i>-by Susan Rice</i> 
+ 1.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
 
- 2.  "Always be a little kinder than necessary." <br> &emsp;&emsp;&emsp; <i>-by James M. Barrie</i> 
+ 2.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
 
- 3.  "True love brings up everything - you're allowing a mirror to be held up to you daily." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
+ 3.  "Let the fear of danger be a spur to prevent it; he that fears not, gives advantage to the danger." <br> &emsp;&emsp;&emsp; <i>-by Francis Quarles</i> 
 
- 4.  "Opportunity is missed by most people because it is dressed in overalls and looks like work." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 4.  "The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
