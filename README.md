@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold." <br> &emsp;&emsp;&emsp; <i>-by Archibald MacLeish</i> 
+ 1.  "'Where and how can I make this meal better for me?' I asked myself that question before every meal—especially in the beginning." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "There are no secrets to success. It is the result of preparation, hard work, and learning from failure." <br> &emsp;&emsp;&emsp; <i>-by Colin Powell</i> 
+ 2.  "Parents are never as bad as kids think they are." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
 
- 3.  "Let the fear of danger be a spur to prevent it; he that fears not, gives advantage to the danger." <br> &emsp;&emsp;&emsp; <i>-by Francis Quarles</i> 
+ 3.  "Adulthood isn't an award they'll give you for being a good child. You can waste... years, trying to get someone to give that respect to you, as though it were a sort of promotion or raise in pay. If only you do enough, if only you are good enough. No. You have to just... take it. Give it to yourself, I suppose. Say, I'm sorry you feel like that and walk away. But that's hard." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "The world is moving so fast these days that the man who says it can't be done is generally interrupted by someone doing it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
+ 4.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
