@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "'Where and how can I make this meal better for me?' I asked myself that question before every meal—especially in the beginning." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Your equipment DOES NOT affect the quality of your image. The less time and effort you spend worrying about your equipment the more time and effort you can spend creating great images. The right equipment just makes it easier, faster or more convenient for you to get the results you need." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
 
- 2.  "Parents are never as bad as kids think they are." <br> &emsp;&emsp;&emsp; <i>-by Matt Witten</i> 
+ 2.  "Reading well is one of the great pleasures that solitude can afford you." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
 
- 3.  "Adulthood isn't an award they'll give you for being a good child. You can waste... years, trying to get someone to give that respect to you, as though it were a sort of promotion or raise in pay. If only you do enough, if only you are good enough. No. You have to just... take it. Give it to yourself, I suppose. Say, I'm sorry you feel like that and walk away. But that's hard." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "I tore myself away from the safe comfort of certainties through my love for the truth; and truth rewarded me." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
 
- 4.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
+ 4.  "A good man would prefer to be defeated than to defeat injustice by evil means." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
