@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your equipment DOES NOT affect the quality of your image. The less time and effort you spend worrying about your equipment the more time and effort you can spend creating great images. The right equipment just makes it easier, faster or more convenient for you to get the results you need." <br> &emsp;&emsp;&emsp; <i>-by Ken Rockwell</i> 
+ 1.  "The dead look so terribly dead when they're dead." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "Reading well is one of the great pleasures that solitude can afford you." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
+ 2.  "I have learned that to be with those I like is enough." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 3.  "I tore myself away from the safe comfort of certainties through my love for the truth; and truth rewarded me." <br> &emsp;&emsp;&emsp; <i>-by Simone de Beauvoir</i> 
+ 3.  "Imagination is more important than knowledge..." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "A good man would prefer to be defeated than to defeat injustice by evil means." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
+ 4.  "Be careful that victories do not carry the seed of future defeats." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
