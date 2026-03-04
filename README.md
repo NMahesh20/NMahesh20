@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The dead look so terribly dead when they're dead." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Joy is not in things; it is in us." <br> &emsp;&emsp;&emsp; <i>-by Richard Wagner</i> 
 
- 2.  "I have learned that to be with those I like is enough." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "The greatest minds are capable of the greatest vices as well as of the greatest virtues." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 3.  "Imagination is more important than knowledge..." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "You better live your best and act your best and think your best today, for today is the sure preparation for tomorrow and all the other tomorrows that follow." <br> &emsp;&emsp;&emsp; <i>-by Harriet Martineau</i> 
 
- 4.  "Be careful that victories do not carry the seed of future defeats." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
+ 4.  "The true traveler is he who goes on foot, and even then, he sits down a lot of the time." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
