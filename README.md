@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Joy is not in things; it is in us." <br> &emsp;&emsp;&emsp; <i>-by Richard Wagner</i> 
+ 1.  "I believe that freedom is the deepest need of every human soul." <br> &emsp;&emsp;&emsp; <i>-by George W. Bush</i> 
 
- 2.  "The greatest minds are capable of the greatest vices as well as of the greatest virtues." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 2.  "If we have the opportunity to be generous with our hearts, ourselves, we have no idea of the depth and breadth of love's reach." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 3.  "You better live your best and act your best and think your best today, for today is the sure preparation for tomorrow and all the other tomorrows that follow." <br> &emsp;&emsp;&emsp; <i>-by Harriet Martineau</i> 
+ 3.  "It really doesn't matter if the person who hurt you deserves to be forgiven. Forgiveness is a gift you give yourself. You have things to do and you want to move on." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "The true traveler is he who goes on foot, and even then, he sits down a lot of the time." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "The world is my country, all mankind are my brethren, and to do good is my religion." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
