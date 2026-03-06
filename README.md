@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I believe that freedom is the deepest need of every human soul." <br> &emsp;&emsp;&emsp; <i>-by George W. Bush</i> 
+ 1.  "Medication isn’t the only way to correct brain abnormalities in depression. Physical exercise also brings about profound changes in the brain—changes that rival those seen with the most potent antidepressant medications." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
 
- 2.  "If we have the opportunity to be generous with our hearts, ourselves, we have no idea of the depth and breadth of love's reach." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 2.  "Don't think of retiring from the world until the world will be sorry that you retire. I hate a fellow whom pride or cowardice or laziness drives into a corner, and who does nothing when he is there but sit and growl. Let him come out as I do, and bark." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 3.  "It really doesn't matter if the person who hurt you deserves to be forgiven. Forgiveness is a gift you give yourself. You have things to do and you want to move on." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "You are going to let the fear of poverty govern your life and your reward will be that you will eat, but you will not live." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 4.  "The world is my country, all mankind are my brethren, and to do good is my religion." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 4.  "Time is a cruel thief to rob us of our former selves. We lose as much to life as we do to death." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
