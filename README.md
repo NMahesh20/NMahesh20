@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Medication isn’t the only way to correct brain abnormalities in depression. Physical exercise also brings about profound changes in the brain—changes that rival those seen with the most potent antidepressant medications." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
+ 1.  "We must get beyond textbooks, go out into the bypaths... and tell the world the glories of our journey." <br> &emsp;&emsp;&emsp; <i>-by John Hope Franklin</i> 
 
- 2.  "Don't think of retiring from the world until the world will be sorry that you retire. I hate a fellow whom pride or cowardice or laziness drives into a corner, and who does nothing when he is there but sit and growl. Let him come out as I do, and bark." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 2.  "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." <br> &emsp;&emsp;&emsp; <i>-by Norman Vincent Peale</i> 
 
- 3.  "You are going to let the fear of poverty govern your life and your reward will be that you will eat, but you will not live." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 3.  "Ideals are like stars: you will not succeed in touching them with your hands, but like the seafaring man on the ocean desert of waters, you choose them as your guides, and following them, you reach your destiny." <br> &emsp;&emsp;&emsp; <i>-by Carl Schurz</i> 
 
- 4.  "Time is a cruel thief to rob us of our former selves. We lose as much to life as we do to death." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Forsythe Hailey</i> 
+ 4.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
