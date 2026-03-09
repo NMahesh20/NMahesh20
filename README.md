@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Experience is a good teacher, but she sends in terrific bills." <br> &emsp;&emsp;&emsp; <i>-by Minna Thomas Antrim</i> 
+ 1.  "I have seen a peaceful expression turn to anger as fast as a whip cracks, and so the look on the face might mean less than what it seems to be." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
 
- 2.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 2.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "The great French Marshall Lyautey once asked his gardener to plant a tree. The gardener objected that the tree was slow growing and would not reach maturity for 100 years. The Marshall replied, 'In that case, there is no time to lose; plant it this afternoon!'" <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "Only the hand that erases can write the true thing." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
 
- 4.  "We don't know who we are until we see what we can do." <br> &emsp;&emsp;&emsp; <i>-by Martha Grimes</i> 
+ 4.  "If you would not step into the harlot's house, do not go by the harlot's door." <br> &emsp;&emsp;&emsp; <i>-by Thomas Secker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
