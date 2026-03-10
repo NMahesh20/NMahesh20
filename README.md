@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have seen a peaceful expression turn to anger as fast as a whip cracks, and so the look on the face might mean less than what it seems to be." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 1.  "Not by wrath does one kill, but by laughter." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
 
- 2.  "No bird soars too high, if he soars with his own wings." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 3.  "Only the hand that erases can write the true thing." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
+ 3.  "Failure will never overtake me if my determination to succeed is strong enough." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "If you would not step into the harlot's house, do not go by the harlot's door." <br> &emsp;&emsp;&emsp; <i>-by Thomas Secker</i> 
+ 4.  "Why do strong arms fatigue themselves with frivolous dumbbells? To dig a vineyard is worthier exercise for men." <br> &emsp;&emsp;&emsp; <i>-by Marcus Valerius Martialis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
