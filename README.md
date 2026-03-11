@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Not by wrath does one kill, but by laughter." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 1.  "The clearest way into the Universe is through a forest wilderness." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "You have to have funny faces and words, you can't just have words. It is a powerful thing, and I think that's why it's hard for people to imagine that women can do that, be that powerful." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 2.  "I feel good about taking things to Goodwill and actually, I do like shopping at Goodwill. It's so cheap that it feels like a library where I am just checking things out for awhile until I decide to take them back." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
 
- 3.  "Failure will never overtake me if my determination to succeed is strong enough." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 3.  "To know the pains of power, we must go to those who have it; to know its pleasures, we must go to those who are seeking it." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 
- 4.  "Why do strong arms fatigue themselves with frivolous dumbbells? To dig a vineyard is worthier exercise for men." <br> &emsp;&emsp;&emsp; <i>-by Marcus Valerius Martialis</i> 
+ 4.  "To acquire knowledge, one must study; but to acquire wisdom, one must observe." <br> &emsp;&emsp;&emsp; <i>-by Marilyn vos Savant</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
