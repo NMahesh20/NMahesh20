@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The leaders we revere and the businesses that last are generally not the result of a narrow pursuit of popularity or personal advancement, but of devotion to some bigger purpose. That's the hallmark of real success. The other trapping of success might be the by product of this larger mission, but it can't be the central thing." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well." <br> &emsp;&emsp;&emsp; <i>-by Jeff Bezos</i> 
 
- 2.  "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet, death is the destination we all share. No one has ever escaped it, and that is how it should be, because death is very likely the single best invention of life. It's life's change agent. It clears out the old to make way for the new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Sometimes you feel other people's pain worse than your own. We're armored against our own troubles. We can't afford to give in to despair. Then you see someone else struggling, and it breaks your... heart." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 3.  "Competition is a painful thing, but it produces great results." <br> &emsp;&emsp;&emsp; <i>-by Jerry Flint</i> 
 
- 4.  "Be contented when you have got all you want." <br> &emsp;&emsp;&emsp; <i>-by Holbrook Jackson</i> 
+ 4.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
