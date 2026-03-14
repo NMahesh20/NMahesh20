@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well." <br> &emsp;&emsp;&emsp; <i>-by Jeff Bezos</i> 
+ 1.  "Sometimes people do things that hurt and it's not because they mean to. They just do. It doesn't necessarily have anything to do with you, but you end up hurt because of it." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 2.  "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Bear in mind that you should conduct yourself in life as at a feast." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 3.  "Competition is a painful thing, but it produces great results." <br> &emsp;&emsp;&emsp; <i>-by Jerry Flint</i> 
+ 3.  "Each moment in time we have it all, even when we think we don't." <br> &emsp;&emsp;&emsp; <i>-by Melody Beattie</i> 
 
- 4.  "The wisest mind has something yet to learn." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 4.  "There is no law of progress. Our future is in our own hands, to make or to mar. It will be an uphill fight to the end, and would we have it otherwise? Let no one suppose that evolution will ever exempt us from struggles. 'You forget,' said the Devil, with a chuckle, 'that I have been evolving too.'" <br> &emsp;&emsp;&emsp; <i>-by William Ralph Inge</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
