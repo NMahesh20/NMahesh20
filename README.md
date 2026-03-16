@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 1.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "Winning is important to me, but what brings me real joy is the experience of being fully engaged in whatever I'm doing." <br> &emsp;&emsp;&emsp; <i>-by Phil Jackson</i> 
+ 2.  "Our heroes are those... who... act above and beyond the call of duty and in so doing give definition to patriotism and elevate all of us.... America is the land of the free because we are the home of the brave." <br> &emsp;&emsp;&emsp; <i>-by David Mahoney</i> 
 
- 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "What a grand thing, to be loved! What a grander thing still, to love!" <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "It seems to me that people have vast potential. Most people can do extraordinary things if they have the confidence or take the risks. Yet most people don't. They sit in front of the telly and treat life as if it goes on forever." <br> &emsp;&emsp;&emsp; <i>-by Philip Adams</i> 
+ 4.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
