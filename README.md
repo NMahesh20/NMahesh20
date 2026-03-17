@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "Isn't it good just to be alive on a day like this? I pity the people who aren't born yet for missing it." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Our heroes are those... who... act above and beyond the call of duty and in so doing give definition to patriotism and elevate all of us.... America is the land of the free because we are the home of the brave." <br> &emsp;&emsp;&emsp; <i>-by David Mahoney</i> 
+ 2.  "Genius hath electric power which earth can never tame." <br> &emsp;&emsp;&emsp; <i>-by Lydia M. Child</i> 
 
- 3.  "What a grand thing, to be loved! What a grander thing still, to love!" <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "Blessed are they who heal you of self-despisings. Of all services which can be done to man, I know of none more precious." <br> &emsp;&emsp;&emsp; <i>-by William Hale White</i> 
 
- 4.  "Let tears flow of their own accord: their flowing is not inconsistent with inward peace and harmony." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "Follow your inclinations with due regard to the policeman round the corner." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
