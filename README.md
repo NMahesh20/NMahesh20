@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Isn't it good just to be alive on a day like this? I pity the people who aren't born yet for missing it." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Heirlooms we don't have in our family. But stories we've got." <br> &emsp;&emsp;&emsp; <i>-by Rose Cherin</i> 
 
- 2.  "Genius hath electric power which earth can never tame." <br> &emsp;&emsp;&emsp; <i>-by Lydia M. Child</i> 
+ 2.  "If you don't run your own life, somebody else will." <br> &emsp;&emsp;&emsp; <i>-by John Atkinson</i> 
 
- 3.  "Blessed are they who heal you of self-despisings. Of all services which can be done to man, I know of none more precious." <br> &emsp;&emsp;&emsp; <i>-by William Hale White</i> 
+ 3.  "If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches." <br> &emsp;&emsp;&emsp; <i>-by Rainer Maria Rilke</i> 
 
- 4.  "Follow your inclinations with due regard to the policeman round the corner." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "You ask me why I do not write something....I think one's feelings waste themselves in words, they ought all to be distilled into actions and into actions which bring results." <br> &emsp;&emsp;&emsp; <i>-by Florence Nightingale</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
