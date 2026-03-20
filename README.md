@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have made plenty of enemies in my lifetime, but none has ever done me as much injury as I do myself." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 1.  "I am going to concentrate on what's important in life. I'm going to strive everyday to be a kind and generous and loving person. I'm going to keep death right here, so that anytime I even think about getting angry at you or anybody else, I'll see death and I'll remember." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 2.  "The man who is swimming against the stream knows the strength of it." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 2.  "The dead cannot cry out for justice; it is a duty of the living to do so for them." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "Drink nothing without seeing it; sign nothing without reading it." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "Praise the bridge that carried you over." <br> &emsp;&emsp;&emsp; <i>-by George Colman</i> 
+ 4.  "Tell me what you eat, and I will tell you what you are." <br> &emsp;&emsp;&emsp; <i>-by Anthelme Brillat-Savarin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
