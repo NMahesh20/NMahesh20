@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I am going to concentrate on what's important in life. I'm going to strive everyday to be a kind and generous and loving person. I'm going to keep death right here, so that anytime I even think about getting angry at you or anybody else, I'll see death and I'll remember." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 1.  "We certainly do not forget you as soon as you forget us. It is, perhaps, our fate rather than our merit. We cannot help ourselves. We live at home, quiet, confined, and our feelings prey upon us. You are forced on exertion. You have always a profession, pursuits, business of some sort or other, to take you back into the world immediately, and continual occupation and change soon weaken impressions. All the privilege I claim for my own sex (it is not a very enviable one; you need not covet it), is that of loving longest, when existence or when hope is gone." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "The dead cannot cry out for justice; it is a duty of the living to do so for them." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "The things you own end up owning you." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "Drink nothing without seeing it; sign nothing without reading it." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "How beautiful maleness is, if it finds its right expression." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
 
- 4.  "Tell me what you eat, and I will tell you what you are." <br> &emsp;&emsp;&emsp; <i>-by Anthelme Brillat-Savarin</i> 
+ 4.  "Every human is an artist. The dream of your life is to make beautiful art." <br> &emsp;&emsp;&emsp; <i>-by don Miguel Ruiz</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
