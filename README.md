@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't change what you've done, so you might as well just take pride in it." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "On a lazy Saturday morning when you're lying in bed, drifting in and out of sleep, there is a space where fantasy and reality become one. Are you awake, or are you dreaming? You see people and things; some are familiar; some are strange. You talk, you feel, but you move without walking; you fly without wings. Your mind and your body exist, but on separate planes. Time stands still. For me, this is the feeling I have when ideas come." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 2.  "In Ethiopia during the famine, I saw stuff there that reorganized how I saw the world. I didn't quite know what to do about it. At a certain point, I felt God is not looking for alms. God is looking for action." <br> &emsp;&emsp;&emsp; <i>-by Bono</i> 
+ 2.  "Never seem more learned than the people you are with. Wear your learning like a pocket watch and keep it hidden. Do not pull it out to count the hours, but give the time when you are asked." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 3.  "If your success is not on your own terms, if it looks good to the world but does not feel good in your heart, it is not success at all." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 3.  "If people only knew how hard I work to gain my mastery, it wouldn't seem so wonderful at all." <br> &emsp;&emsp;&emsp; <i>-by Michelangelo Buonarroti</i> 
 
- 4.  "Go after a man's weakness, and never, ever, threaten unless you're going to follow through, because if you don't, the next time you won't be taken seriously." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Cohn</i> 
+ 4.  "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." <br> &emsp;&emsp;&emsp; <i>-by John Quincy Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
