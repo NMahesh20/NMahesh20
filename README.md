@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "On a lazy Saturday morning when you're lying in bed, drifting in and out of sleep, there is a space where fantasy and reality become one. Are you awake, or are you dreaming? You see people and things; some are familiar; some are strange. You talk, you feel, but you move without walking; you fly without wings. Your mind and your body exist, but on separate planes. Time stands still. For me, this is the feeling I have when ideas come." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 1.  "It's very easy to feel someone's pain when you love them." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
 
- 2.  "Never seem more learned than the people you are with. Wear your learning like a pocket watch and keep it hidden. Do not pull it out to count the hours, but give the time when you are asked." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 2.  "Why comes temptation, but for man to meet and master and crouch beneath his foot, and so be pedestaled in triumph?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
 
- 3.  "If people only knew how hard I work to gain my mastery, it wouldn't seem so wonderful at all." <br> &emsp;&emsp;&emsp; <i>-by Michelangelo Buonarroti</i> 
+ 3.  "Don't take the bull by the horns, take him by the tail; then you can let go when you want to." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 4.  "Courage and perseverance have a magical talisman, before which difficulties disappear and obstacles vanish into air." <br> &emsp;&emsp;&emsp; <i>-by John Quincy Adams</i> 
+ 4.  "Total absence of humor renders life impossible." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
