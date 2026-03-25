@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's very easy to feel someone's pain when you love them." <br> &emsp;&emsp;&emsp; <i>-by Salma Hayek</i> 
+ 1.  "You can approach the act of writing with nervousness, excitement, hopefulness, or even despairâ€“the sense that you can never completely put on the page whatâ€™s in your mind and heart. You can come to the act with your fists clenched and your eyes narrowed, ready to kick ass and take down names. You can come to it because you want a girl to marry you or because you want to change the world. Come to it any way but lightly. Let me say it again: you must not come lightly to the blank page." <br> &emsp;&emsp;&emsp; <i>-by Stephen King</i> 
 
- 2.  "Why comes temptation, but for man to meet and master and crouch beneath his foot, and so be pedestaled in triumph?" <br> &emsp;&emsp;&emsp; <i>-by Robert Browning</i> 
+ 2.  "Never compare your inside with somebody else's outside." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Don't take the bull by the horns, take him by the tail; then you can let go when you want to." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 3.  "The power of illustrative anecdotes often lies not in how well they present reality, but in how well they reflect the core beliefs of their audience." <br> &emsp;&emsp;&emsp; <i>-by David P. Mikkelson</i> 
 
- 4.  "Total absence of humor renders life impossible." <br> &emsp;&emsp;&emsp; <i>-by Colette</i> 
+ 4.  "Fear of a name increases fear of the thing itself." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
