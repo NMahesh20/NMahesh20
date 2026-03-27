@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When a problem can’t be solved, an attitude of acceptance makes room in your mind and heart for solutions to the problems that do need to be solved." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "We al have family disfunction. It's why we're successful, to fill that hole." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
 
- 2.  "The moments that we have with friends and family, the chances that we have to make a big difference in the world or even to make a small difference to the ones we love, all those wonderful chances that life gives us, life also takes away. It can happen fast and a whole lot sooner than you think." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 2.  "To do anything truly worth doing, I must not stand back shivering and thinking of the cold and danger, but jump in with gusto and scramble through as well as I can." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Nothing is particularly hard if you divide it into small jobs." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
+ 3.  "God loved the birds and invented trees. Man loved the birds and invented cages." <br> &emsp;&emsp;&emsp; <i>-by Jacques Deval</i> 
 
- 4.  "Every minute you are thinking of evil, you might have been thinking of good instead. Refuse to pander to a morbid interest in your own misdeeds. Pick yourself up, be sorry, shake yourself, and go on again." <br> &emsp;&emsp;&emsp; <i>-by Evelyn Underhill</i> 
+ 4.  "Truth is generally the best vindication against slander." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
