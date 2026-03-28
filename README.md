@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We al have family disfunction. It's why we're successful, to fill that hole." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
+ 1.  "There is no silver bullet and frankly you probably don’t need one. It is far more important to be able to find the right kind of gun, be able to load the gun … and perhaps most importantly, be able to figure out where the werewolf is." <br> &emsp;&emsp;&emsp; <i>-by Matthew Oliphant</i> 
 
- 2.  "To do anything truly worth doing, I must not stand back shivering and thinking of the cold and danger, but jump in with gusto and scramble through as well as I can." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "Doubting God's existence is okay and perfectly acceptable within Christianity as long as the person doubting remains obedient and committed to the Christian path." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "God loved the birds and invented trees. Man loved the birds and invented cages." <br> &emsp;&emsp;&emsp; <i>-by Jacques Deval</i> 
+ 3.  "I believe that [everyone] is the keeper of a dream - and by tuning into one another's secret hopes, we can become better friends, better partners, better parents, and better lovers." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "Truth is generally the best vindication against slander." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "Nature is just enough; but men and women must comprehend and accept her suggestions." <br> &emsp;&emsp;&emsp; <i>-by Antoinette Brown Blackwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
