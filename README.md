@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is no silver bullet and frankly you probably don’t need one. It is far more important to be able to find the right kind of gun, be able to load the gun … and perhaps most importantly, be able to figure out where the werewolf is." <br> &emsp;&emsp;&emsp; <i>-by Matthew Oliphant</i> 
+ 1.  "There is some comfort in dying surrounded by one's children." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "Doubting God's existence is okay and perfectly acceptable within Christianity as long as the person doubting remains obedient and committed to the Christian path." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
 
- 3.  "I believe that [everyone] is the keeper of a dream - and by tuning into one another's secret hopes, we can become better friends, better partners, better parents, and better lovers." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "Learn as much by writing as by reading." <br> &emsp;&emsp;&emsp; <i>-by Lord Acton</i> 
 
- 4.  "Nature is just enough; but men and women must comprehend and accept her suggestions." <br> &emsp;&emsp;&emsp; <i>-by Antoinette Brown Blackwell</i> 
+ 4.  "What you do speaks so loud that I cannot hear what you say." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
