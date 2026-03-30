@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is some comfort in dying surrounded by one's children." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "Time has a wonderful way of showing us what really matters." <br> &emsp;&emsp;&emsp; <i>-by Margaret Peters</i> 
 
- 2.  "If you can attain repose and calm, believe that you have seized happiness." <br> &emsp;&emsp;&emsp; <i>-by Julie-Jeanne-Eleonore de Lespinasse</i> 
+ 2.  "If you can solve your problem, then what is the need of worrying? If you cannot solve it, then what is the use of worrying?" <br> &emsp;&emsp;&emsp; <i>-by Shantideva</i> 
 
- 3.  "Learn as much by writing as by reading." <br> &emsp;&emsp;&emsp; <i>-by Lord Acton</i> 
+ 3.  "Never continue in a job you don't enjoy. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined." <br> &emsp;&emsp;&emsp; <i>-by Johnny Carson</i> 
 
- 4.  "What you do speaks so loud that I cannot hear what you say." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
