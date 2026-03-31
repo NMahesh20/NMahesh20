@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Time has a wonderful way of showing us what really matters." <br> &emsp;&emsp;&emsp; <i>-by Margaret Peters</i> 
+ 1.  "The one thing a creator can bring to the table when everybody else has all the money and power is centeredness and the ability to walk away. Never sit at a table you can't walk away from." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "If you can solve your problem, then what is the need of worrying? If you cannot solve it, then what is the use of worrying?" <br> &emsp;&emsp;&emsp; <i>-by Shantideva</i> 
+ 2.  "The really potent part of love is that it allows you to carry around beliefs about yourself that make you feel special, desirable, precious, innately good. Your lover couldn't have seen [these qualities] in you, even temporarily, if they weren't part of your essential being." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
 
- 3.  "Never continue in a job you don't enjoy. If you're happy in what you're doing, you'll like yourself, you'll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined." <br> &emsp;&emsp;&emsp; <i>-by Johnny Carson</i> 
+ 3.  "The best way to escape from a problem is to solve it." <br> &emsp;&emsp;&emsp; <i>-by Alan Saporta</i> 
 
- 4.  "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 4.  "Discretion in speech is more than eloquence." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
