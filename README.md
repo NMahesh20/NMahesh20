@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The one thing a creator can bring to the table when everybody else has all the money and power is centeredness and the ability to walk away. Never sit at a table you can't walk away from." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "To imagine the unimaginable is the highest use of the imagination." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
 
- 2.  "The really potent part of love is that it allows you to carry around beliefs about yourself that make you feel special, desirable, precious, innately good. Your lover couldn't have seen [these qualities] in you, even temporarily, if they weren't part of your essential being." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 2.  "It's never too late to be who you might have been." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 
- 3.  "The best way to escape from a problem is to solve it." <br> &emsp;&emsp;&emsp; <i>-by Alan Saporta</i> 
+ 3.  "We all need to have a creative outlet - a window, a space - so we don't lose track of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Norman Fischer</i> 
 
- 4.  "Discretion in speech is more than eloquence." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "Intimate relationships cannot substitute for a life plan. But to have any meaning or viability at all, a life plan must include intimate relationships." <br> &emsp;&emsp;&emsp; <i>-by Harriet Lerner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
