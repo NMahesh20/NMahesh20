@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To imagine the unimaginable is the highest use of the imagination." <br> &emsp;&emsp;&emsp; <i>-by Cynthia Ozick</i> 
+ 1.  "It's not what you want in this life, it's what you get that you have to do with." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "It's never too late to be who you might have been." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 2.  "Everyone has a doctor in him or her; we just have to help it in its work. The natural healing force within each one of us is the greatest force in getting well. Our food should be our medicine. Our medicine should be our food. But to eat when you are sick, is to feed your sickness." <br> &emsp;&emsp;&emsp; <i>-by Hippocrates</i> 
 
- 3.  "We all need to have a creative outlet - a window, a space - so we don't lose track of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Norman Fischer</i> 
+ 3.  "It is necessary to try to surpass oneself always; this occupation ought to last as long as life." <br> &emsp;&emsp;&emsp; <i>-by Queen Christina</i> 
 
- 4.  "Intimate relationships cannot substitute for a life plan. But to have any meaning or viability at all, a life plan must include intimate relationships." <br> &emsp;&emsp;&emsp; <i>-by Harriet Lerner</i> 
+ 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
