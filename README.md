@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's not what you want in this life, it's what you get that you have to do with." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "The ability to simplify means to eliminate the unnecessary so that the necessary may speak." <br> &emsp;&emsp;&emsp; <i>-by Hans Hoffman</i> 
 
- 2.  "Everyone has a doctor in him or her; we just have to help it in its work. The natural healing force within each one of us is the greatest force in getting well. Our food should be our medicine. Our medicine should be our food. But to eat when you are sick, is to feed your sickness." <br> &emsp;&emsp;&emsp; <i>-by Hippocrates</i> 
+ 2.  "Be life long or short, its completeness depends on what it was lived for." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
 
- 3.  "It is necessary to try to surpass oneself always; this occupation ought to last as long as life." <br> &emsp;&emsp;&emsp; <i>-by Queen Christina</i> 
+ 3.  "Self-reliance is the only road to true freedom, and being one's own person is its ultimate reward." <br> &emsp;&emsp;&emsp; <i>-by Patricia Sampson</i> 
 
- 4.  "Secret thoughts and open countenance will go safely over the whole world." <br> &emsp;&emsp;&emsp; <i>-by Scipione Alberti</i> 
+ 4.  "My object all sublime I shall achieve in time..." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
