@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The ability to simplify means to eliminate the unnecessary so that the necessary may speak." <br> &emsp;&emsp;&emsp; <i>-by Hans Hoffman</i> 
+ 1.  "If everyone had a dad like mine, no one would have sex tapes." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
 
- 2.  "Be life long or short, its completeness depends on what it was lived for." <br> &emsp;&emsp;&emsp; <i>-by David Starr Jordan</i> 
+ 2.  "If men saw that a term was set to their troubles, they would find strength in some way to withstand the hocus-pocus and intimidations of the prophets." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
 
- 3.  "Self-reliance is the only road to true freedom, and being one's own person is its ultimate reward." <br> &emsp;&emsp;&emsp; <i>-by Patricia Sampson</i> 
+ 3.  "Acquire inner peace and a multitude will find their salvation near you." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck Doherty</i> 
 
- 4.  "My object all sublime I shall achieve in time..." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
+ 4.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
