@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If everyone had a dad like mine, no one would have sex tapes." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
+ 1.  "When there's snow on the ground, I like to pretend I'm walking on clouds." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "If men saw that a term was set to their troubles, they would find strength in some way to withstand the hocus-pocus and intimidations of the prophets." <br> &emsp;&emsp;&emsp; <i>-by Lucretius</i> 
+ 2.  "Even on the most exalted throne in the world we are only sitting on our own bottom." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 3.  "Acquire inner peace and a multitude will find their salvation near you." <br> &emsp;&emsp;&emsp; <i>-by Catherine de Hueck Doherty</i> 
+ 3.  "Do not pray for easy lives. Pray to be stronger men. Do not pray for tasks equal to your powers. Pray for powers equal to your tasks. Then the doing of your work shall be no miracle, but you shall be the miracle." <br> &emsp;&emsp;&emsp; <i>-by Phillips Brooks</i> 
 
- 4.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 4.  "Always listen to experts. They'll tell you what can't be done and why. Then do it." <br> &emsp;&emsp;&emsp; <i>-by Robert Heinlein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
