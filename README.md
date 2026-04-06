@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When there's snow on the ground, I like to pretend I'm walking on clouds." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "The best way to get people to like you is not to like them too much." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Even on the most exalted throne in the world we are only sitting on our own bottom." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 2.  "So, let us not be blind to our differences - but let us also direct attention to our common interests and to the means by which those differences can be resolved." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 3.  "Do not pray for easy lives. Pray to be stronger men. Do not pray for tasks equal to your powers. Pray for powers equal to your tasks. Then the doing of your work shall be no miracle, but you shall be the miracle." <br> &emsp;&emsp;&emsp; <i>-by Phillips Brooks</i> 
+ 3.  "Let no man imagine that he has no influence. Whoever he may be, and wherever he may be placed, the man who thinks becomes a light and a power." <br> &emsp;&emsp;&emsp; <i>-by Henry George</i> 
 
- 4.  "Always listen to experts. They'll tell you what can't be done and why. Then do it." <br> &emsp;&emsp;&emsp; <i>-by Robert Heinlein</i> 
+ 4.  "It is better to know some of the questions than all of the answers." <br> &emsp;&emsp;&emsp; <i>-by James Thurber</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
