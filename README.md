@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best way to get people to like you is not to like them too much." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "Human beings have an inalienable right to invent themselves." <br> &emsp;&emsp;&emsp; <i>-by Germaine Greer</i> 
 
- 2.  "So, let us not be blind to our differences - but let us also direct attention to our common interests and to the means by which those differences can be resolved." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 2.  "When you win, say nothing. When you lose, say less." <br> &emsp;&emsp;&emsp; <i>-by Paul Brown</i> 
 
- 3.  "Let no man imagine that he has no influence. Whoever he may be, and wherever he may be placed, the man who thinks becomes a light and a power." <br> &emsp;&emsp;&emsp; <i>-by Henry George</i> 
+ 3.  "Abuse a man unjustly, and you will make friends for him." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
 
- 4.  "It is better to know some of the questions than all of the answers." <br> &emsp;&emsp;&emsp; <i>-by James Thurber</i> 
+ 4.  "Better shun the bait, than struggle in the snare." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
