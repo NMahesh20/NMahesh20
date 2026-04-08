@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Human beings have an inalienable right to invent themselves." <br> &emsp;&emsp;&emsp; <i>-by Germaine Greer</i> 
+ 1.  "All the arts we practice are apprenticeship. The big art is our life." <br> &emsp;&emsp;&emsp; <i>-by M. C. Richards</i> 
 
- 2.  "When you win, say nothing. When you lose, say less." <br> &emsp;&emsp;&emsp; <i>-by Paul Brown</i> 
+ 2.  "Beware of dissipating your powers; strive constantly to concentrate them. Genius thinks it can do whatever it sees others doing, but is sure to repent of every ill-judged outlay." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 3.  "Abuse a man unjustly, and you will make friends for him." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
+ 3.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
 
- 4.  "Better shun the bait, than struggle in the snare." <br> &emsp;&emsp;&emsp; <i>-by John Dryden</i> 
+ 4.  "Indolence is a delightful but distressing state; we must be doing something to be happy." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
