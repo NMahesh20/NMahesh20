@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All the arts we practice are apprenticeship. The big art is our life." <br> &emsp;&emsp;&emsp; <i>-by M. C. Richards</i> 
+ 1.  "When yu' can't have why you choose, yu' just choose what you have." <br> &emsp;&emsp;&emsp; <i>-by Owen Wister</i> 
 
- 2.  "Beware of dissipating your powers; strive constantly to concentrate them. Genius thinks it can do whatever it sees others doing, but is sure to repent of every ill-judged outlay." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 2.  "Genius is one percent inspiration, ninety-nine percent perspiration." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 
- 3.  "Be not ashamed of thy virtues; honor's a good brooch to wear in a man's hat at all times." <br> &emsp;&emsp;&emsp; <i>-by Ben Jonson</i> 
+ 3.  "Incompetents invariably make trouble for people other than themselves." <br> &emsp;&emsp;&emsp; <i>-by Larry McMurtry</i> 
 
- 4.  "Indolence is a delightful but distressing state; we must be doing something to be happy." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "Without friends no one would choose to live, though he had all other goods." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
