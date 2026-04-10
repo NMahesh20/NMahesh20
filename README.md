@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When yu' can't have why you choose, yu' just choose what you have." <br> &emsp;&emsp;&emsp; <i>-by Owen Wister</i> 
+ 1.  "It is within the families themselves where peace can begin." <br> &emsp;&emsp;&emsp; <i>-by Susan Partnow</i> 
 
- 2.  "Genius is one percent inspiration, ninety-nine percent perspiration." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 2.  "I dwell in possibility..." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
 
- 3.  "Incompetents invariably make trouble for people other than themselves." <br> &emsp;&emsp;&emsp; <i>-by Larry McMurtry</i> 
+ 3.  "Magnificent promises are always to be suspected." <br> &emsp;&emsp;&emsp; <i>-by Theodore Parker</i> 
 
- 4.  "Without friends no one would choose to live, though he had all other goods." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "I really do believe I can accomplish a great deal with a big grin, I know some people find that disconcerting, but that doesn't matter." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
