@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is within the families themselves where peace can begin." <br> &emsp;&emsp;&emsp; <i>-by Susan Partnow</i> 
+ 1.  "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "I dwell in possibility..." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 2.  "You miss 100 percent of the shots you never take." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
 
- 3.  "Magnificent promises are always to be suspected." <br> &emsp;&emsp;&emsp; <i>-by Theodore Parker</i> 
+ 3.  "Be brief, for no discourse can please when too long." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
 
- 4.  "I really do believe I can accomplish a great deal with a big grin, I know some people find that disconcerting, but that doesn't matter." <br> &emsp;&emsp;&emsp; <i>-by Beverly Sills</i> 
+ 4.  "Please give me some good advice in your next letter. I promise not to follow it." <br> &emsp;&emsp;&emsp; <i>-by Edna St. Vincent Millay</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
