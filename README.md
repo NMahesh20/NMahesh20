@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "I don't know how to have casual conversation. You think you're talking about one thing, and either you are and it's incredibly boring, or you're not because it's subtext and you need a decoder ring." <br> &emsp;&emsp;&emsp; <i>-by Sara B. Cooper</i> 
 
- 2.  "You miss 100 percent of the shots you never take." <br> &emsp;&emsp;&emsp; <i>-by Wayne Gretzky</i> 
+ 2.  "Mountains inspire awe in any human person who has a soul. They remind us of our frailty, our unimportance, of the briefness of our span upon this earth. They touch the heavens, and sail serenely at an altitude beyond even the imaginings of a mere mortal." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Be brief, for no discourse can please when too long." <br> &emsp;&emsp;&emsp; <i>-by Miguel de Cervantes</i> 
+ 3.  "A discovery is said to be an accident meeting a prepared mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
 
- 4.  "Please give me some good advice in your next letter. I promise not to follow it." <br> &emsp;&emsp;&emsp; <i>-by Edna St. Vincent Millay</i> 
+ 4.  "It is better wither to be silent, or to say things of more value than silence. Sooner throw a pearl at hazard than an idle or useless word; and do not say a little in many words, but a great deal in a few." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
