@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I don't know how to have casual conversation. You think you're talking about one thing, and either you are and it's incredibly boring, or you're not because it's subtext and you need a decoder ring." <br> &emsp;&emsp;&emsp; <i>-by Sara B. Cooper</i> 
+ 1.  "Most of you have been where I am tonight. The crash site of unrequited love. You ask yourself, How did I get here? What was it about? Was it her smile? Was it the way she crossed her legs, the turn of her ankle, the poignant vulnerability of her slender wrists? What are these elusive and ephemeral things that ignite passion in the human heart? That's an age-old question. It's perfect food for thought on a bright midsummer's night." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
 
- 2.  "Mountains inspire awe in any human person who has a soul. They remind us of our frailty, our unimportance, of the briefness of our span upon this earth. They touch the heavens, and sail serenely at an altitude beyond even the imaginings of a mere mortal." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "It is our choices...that show what we truly are, far more than our abilities." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "A discovery is said to be an accident meeting a prepared mind." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
+ 3.  "I don't confuse greatness with perfection. To be great anyhow is…the higher achievement." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "It is better wither to be silent, or to say things of more value than silence. Sooner throw a pearl at hazard than an idle or useless word; and do not say a little in many words, but a great deal in a few." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 4.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
