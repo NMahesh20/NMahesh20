@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Most of you have been where I am tonight. The crash site of unrequited love. You ask yourself, How did I get here? What was it about? Was it her smile? Was it the way she crossed her legs, the turn of her ankle, the poignant vulnerability of her slender wrists? What are these elusive and ephemeral things that ignite passion in the human heart? That's an age-old question. It's perfect food for thought on a bright midsummer's night." <br> &emsp;&emsp;&emsp; <i>-by Martin Sage and Sybil Adelman</i> 
+ 1.  "Kneeling over a trickling mountain stream and pumping every ounce of water you use though a filter can really change your perception of turning on a faucet." <br> &emsp;&emsp;&emsp; <i>-by Eric Voorhis</i> 
 
- 2.  "It is our choices...that show what we truly are, far more than our abilities." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "Employment is the surest antidote to sorrow." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "I don't confuse greatness with perfection. To be great anyhow is…the higher achievement." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "We would accomplish many more things if we did not think of them as impossible." <br> &emsp;&emsp;&emsp; <i>-by Vince Lombardi</i> 
 
- 4.  "It is never too late to give up our prejudices." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 4.  "Make yourself necessary to somebody. Do not make life hard to any." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
