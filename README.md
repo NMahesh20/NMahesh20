@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm of the mind that even people who have limitations, if they have a curiosity, they will find a way to explore it." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 1.  "Well, spring sprang. We've had our state of grace and our little gift of sanctioned madness, courtesy of Mother Nature. Thanks, Gaia. Much obliged. I guess it's time to get back to that daily routine of living we like to call normal." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
 
- 2.  "Life is like a game of cards. The hand that is dealt you is determinism; the way you play it is free will." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 2.  "Broadly speaking, the short words are the best, and the old words best of all." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 3.  "I have made my world and it is a much better world than I ever saw outside." <br> &emsp;&emsp;&emsp; <i>-by Louise Nevelson</i> 
+ 3.  "To look backward for a while is to refresh the eye, to restore it, and to render it the more fit for its prime function of looking forward." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fairless Barber</i> 
 
- 4.  "Keep five yards from a carriage, ten yards from a horse, and a hundred yards from an elephant; but the distance one should keep from a wicked man cannot be measured." <br> &emsp;&emsp;&emsp; <i>-by Indian Proverb</i> 
+ 4.  "Houses are built to live in, not to look on; therefore, let use be preferred before uniformity, except where both may be had." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
