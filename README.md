@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Well, spring sprang. We've had our state of grace and our little gift of sanctioned madness, courtesy of Mother Nature. Thanks, Gaia. Much obliged. I guess it's time to get back to that daily routine of living we like to call normal." <br> &emsp;&emsp;&emsp; <i>-by David Assael</i> 
+ 1.  "Self-regulation will always be a challenge, but if somebody's going to be in charge, it might as well be me." <br> &emsp;&emsp;&emsp; <i>-by Daniel Akst</i> 
 
- 2.  "Broadly speaking, the short words are the best, and the old words best of all." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 2.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
 
- 3.  "To look backward for a while is to refresh the eye, to restore it, and to render it the more fit for its prime function of looking forward." <br> &emsp;&emsp;&emsp; <i>-by Margaret Fairless Barber</i> 
+ 3.  "You have succeeded in life when all you really want is only what you really need." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
 
- 4.  "Houses are built to live in, not to look on; therefore, let use be preferred before uniformity, except where both may be had." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "I can resist anything but temptation." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
