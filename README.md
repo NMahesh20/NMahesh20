@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Self-regulation will always be a challenge, but if somebody's going to be in charge, it might as well be me." <br> &emsp;&emsp;&emsp; <i>-by Daniel Akst</i> 
+ 1.  "If you have accomplished all that you planned for yourself, you have not planned enough." <br> &emsp;&emsp;&emsp; <i>-by Edward Everett Hale</i> 
 
- 2.  "Complaining is good for you as long as you're not complaining to the person you're complaining about." <br> &emsp;&emsp;&emsp; <i>-by Lynn Johnston</i> 
+ 2.  "Abnormal is so common, it's practically normal." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
 
- 3.  "You have succeeded in life when all you really want is only what you really need." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
+ 3.  "I show up. I listen. I try to laugh." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 4.  "I can resist anything but temptation." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 4.  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
