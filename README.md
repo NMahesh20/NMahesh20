@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you have accomplished all that you planned for yourself, you have not planned enough." <br> &emsp;&emsp;&emsp; <i>-by Edward Everett Hale</i> 
+ 1.  "Friends are born, not made." <br> &emsp;&emsp;&emsp; <i>-by Henry Adams</i> 
 
- 2.  "Abnormal is so common, it's practically normal." <br> &emsp;&emsp;&emsp; <i>-by Cory Doctorow</i> 
+ 2.  "Go not for every grief to the physician, nor for every quarrel to the lawyer, nor for every thirst to the pot." <br> &emsp;&emsp;&emsp; <i>-by George Herbert</i> 
 
- 3.  "I show up. I listen. I try to laugh." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 3.  "A great preservative against angry and mutinous thoughts, and all impatience and quarreling, is to have some great business and interest in your mind, which, like a sponge shall suck up your attention and keep you from brooding over what displeases you." <br> &emsp;&emsp;&emsp; <i>-by Joseph Rickaby</i> 
 
- 4.  "To accomplish great things, we must not only act, but also dream; not only plan, but also believe." <br> &emsp;&emsp;&emsp; <i>-by Anatole France</i> 
+ 4.  "Make the best use of what is in your power, and take the rest as it happens." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
