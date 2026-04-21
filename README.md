@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's just a ride and we can change it any time we want. It's only a choice. No effort, no work, no job, no savings and money, a choice, right now, between fear and love. The eyes of fear want you to put bigger locks on your door, buy guns, close yourself off. The eyes of love instead see all of us as one." <br> &emsp;&emsp;&emsp; <i>-by Bill Hicks</i> 
+ 1.  "I once read cooking is something you do for your family. But when you’re alone you sometimes have to treat yourself like family. And now that my apartment’s redolent with the smell of food it feels more like a home than a box where I hang my hat." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "As long as we respond predictably to what feels good and what feels bad, it is easy for others to exploit our preferences for their own ends." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "Don't be sweet, lest you be eaten up; don't be bitter, lest you be spewed out." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 
- 3.  "I used to think of all the billions of people in the world, and of all those people, how was I going to meet the right ones? The right ones to be my friends, the right one to be my husband. Now I just believe you meet the people you're supposed to meet." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 3.  "We all have the extraordinary coded within us, waiting to be released." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
 
- 4.  "It is only in adventure that some people succeed in knowing themselves - in finding themselves." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 4.  "If I knew what I was so anxious about, I wouldn't be so anxious." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
