@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I once read cooking is something you do for your family. But when you’re alone you sometimes have to treat yourself like family. And now that my apartment’s redolent with the smell of food it feels more like a home than a box where I hang my hat." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "It is the caring and sharing that count—love is not prevented by the things and the time that you haven’t shared." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
 
- 2.  "Don't be sweet, lest you be eaten up; don't be bitter, lest you be spewed out." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 2.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
 
- 3.  "We all have the extraordinary coded within us, waiting to be released." <br> &emsp;&emsp;&emsp; <i>-by Jean Houston</i> 
+ 3.  "Be kind, for everyone you meet is fighting a hard battle." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 
- 4.  "If I knew what I was so anxious about, I wouldn't be so anxious." <br> &emsp;&emsp;&emsp; <i>-by Mignon McLaughlin</i> 
+ 4.  "Enjoy when you can, and endure when you must." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
