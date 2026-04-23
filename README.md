@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is the caring and sharing that count—love is not prevented by the things and the time that you haven’t shared." <br> &emsp;&emsp;&emsp; <i>-by Claudia Jewett Jarrett</i> 
+ 1.  "It is only necessary to make war with five things; with the maladies of the body, the ignorances of the mind, with the passions of the body, with the seditions of the city and the discords of families." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
 
- 2.  "I have no faith in human perfectability. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago." <br> &emsp;&emsp;&emsp; <i>-by Edgar Allan Poe</i> 
+ 2.  "When all is said and done, the weather and love are the two elements about which one can never be sure." <br> &emsp;&emsp;&emsp; <i>-by Alice Hoffman</i> 
 
- 3.  "Be kind, for everyone you meet is fighting a hard battle." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 3.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
 
- 4.  "Enjoy when you can, and endure when you must." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "The moment we begin to fear the opinions of others and hesitate to tell the truth that is in us, and from motives of policy are silent when we should speak, the divine floods of light and life no longer flow into our souls." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
