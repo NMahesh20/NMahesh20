@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is only necessary to make war with five things; with the maladies of the body, the ignorances of the mind, with the passions of the body, with the seditions of the city and the discords of families." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 1.  "If you forgo your plan, you also have to forgo fear." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "When all is said and done, the weather and love are the two elements about which one can never be sure." <br> &emsp;&emsp;&emsp; <i>-by Alice Hoffman</i> 
+ 2.  "The thing women have yet to learn is nobody gives you power. You just take it." <br> &emsp;&emsp;&emsp; <i>-by Roseanne Barr</i> 
 
- 3.  "To find fulfillment...don't exist with life - embrace it." <br> &emsp;&emsp;&emsp; <i>-by Jim Beggs</i> 
+ 3.  "I can think of nothing less pleasurable than a life devoted to pleasure." <br> &emsp;&emsp;&emsp; <i>-by John D. Rockefeller</i> 
 
- 4.  "The moment we begin to fear the opinions of others and hesitate to tell the truth that is in us, and from motives of policy are silent when we should speak, the divine floods of light and life no longer flow into our souls." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 4.  "We are what we repeatedly do. Excellence then, is not an act, but a habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
