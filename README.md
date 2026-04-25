@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you forgo your plan, you also have to forgo fear." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "The body says what words cannot." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
 
- 2.  "The thing women have yet to learn is nobody gives you power. You just take it." <br> &emsp;&emsp;&emsp; <i>-by Roseanne Barr</i> 
+ 2.  "I myself do nothing. The Holy Spirit accomplishes all through me." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
 
- 3.  "I can think of nothing less pleasurable than a life devoted to pleasure." <br> &emsp;&emsp;&emsp; <i>-by John D. Rockefeller</i> 
+ 3.  "Do not wait for extraordinary circumstances to do good; try to use ordinary situations." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
 
- 4.  "We are what we repeatedly do. Excellence then, is not an act, but a habit." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "I don't know the key to success, but the key to failure is trying to please everybody." <br> &emsp;&emsp;&emsp; <i>-by Bill Cosby</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
