@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The body says what words cannot." <br> &emsp;&emsp;&emsp; <i>-by Martha Graham</i> 
+ 1.  "A man who doesn't trust himself can never truly trust anyone else." <br> &emsp;&emsp;&emsp; <i>-by Cardinal de Retz</i> 
 
- 2.  "I myself do nothing. The Holy Spirit accomplishes all through me." <br> &emsp;&emsp;&emsp; <i>-by William Blake</i> 
+ 2.  "Since you are like no other being ever created since the beginning of time, you are incomparable." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
 
- 3.  "Do not wait for extraordinary circumstances to do good; try to use ordinary situations." <br> &emsp;&emsp;&emsp; <i>-by Jean Paul Richter</i> 
+ 3.  "Real, constructive mental power lies in the creative thought that shapes your destiny, and your hour-by-hour mental conduct produces power for change in your life. Develop a train of thought on which to ride. The nobility of your life as well as your happiness depends upon the direction in which that train of thought is going." <br> &emsp;&emsp;&emsp; <i>-by Laurence J. Peter</i> 
 
- 4.  "I don't know the key to success, but the key to failure is trying to please everybody." <br> &emsp;&emsp;&emsp; <i>-by Bill Cosby</i> 
+ 4.  "The charity that hastens to proclaim its good deeds, ceases to be charity, and is only pride and ostentation." <br> &emsp;&emsp;&emsp; <i>-by William Hutton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
