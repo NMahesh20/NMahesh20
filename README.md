@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A man who doesn't trust himself can never truly trust anyone else." <br> &emsp;&emsp;&emsp; <i>-by Cardinal de Retz</i> 
+ 1.  "Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
 
- 2.  "Since you are like no other being ever created since the beginning of time, you are incomparable." <br> &emsp;&emsp;&emsp; <i>-by Brenda Ueland</i> 
+ 2.  "Use, do not abuse; neither abstinence nor excess ever renders man happy." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 
- 3.  "Real, constructive mental power lies in the creative thought that shapes your destiny, and your hour-by-hour mental conduct produces power for change in your life. Develop a train of thought on which to ride. The nobility of your life as well as your happiness depends upon the direction in which that train of thought is going." <br> &emsp;&emsp;&emsp; <i>-by Laurence J. Peter</i> 
+ 3.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 
- 4.  "The charity that hastens to proclaim its good deeds, ceases to be charity, and is only pride and ostentation." <br> &emsp;&emsp;&emsp; <i>-by William Hutton</i> 
+ 4.  "Wear the old coat and buy the new book." <br> &emsp;&emsp;&emsp; <i>-by Austin Phelps</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
