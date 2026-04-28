@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul." <br> &emsp;&emsp;&emsp; <i>-by Rebecca West</i> 
+ 1.  "Anger repressed can poison a relationship as surely as the cruelest words." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
 
- 2.  "Use, do not abuse; neither abstinence nor excess ever renders man happy." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 2.  "Life is too complicated not to be orderly." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
 
- 3.  "Forsake not an old friend; for the new is not comparable to him: a new friend is as new wine; when it is old, thou shalt drink it with pleasure." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 3.  "Do not accustom yourself to use big words for little matters." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
 
- 4.  "Wear the old coat and buy the new book." <br> &emsp;&emsp;&emsp; <i>-by Austin Phelps</i> 
+ 4.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
