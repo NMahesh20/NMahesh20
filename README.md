@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Anger repressed can poison a relationship as surely as the cruelest words." <br> &emsp;&emsp;&emsp; <i>-by Dr. Joyce Brothers</i> 
+ 1.  "The key to non-anxious sermon-writing is that it’s not about me. It’s about the congregation. I honor the fact that the listeners bring more to the sermon than I do. I remind myself of the hundreds of times someone says, 'I loved how you said…' and then tell me things that they heard that were nowhere in my text and that I never said. But they heard what they needed to hear." <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
 
- 2.  "Life is too complicated not to be orderly." <br> &emsp;&emsp;&emsp; <i>-by Martha Stewart</i> 
+ 2.  "I think we're having fun. I think our customers really like our products. And we're always trying to do better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "Do not accustom yourself to use big words for little matters." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 3.  "I would feel more optimistic about a bright future for man if he spent less time proving that he can outwit Nature and more time tasting her sweetness and respecting her seniority." <br> &emsp;&emsp;&emsp; <i>-by E. B. White</i> 
 
- 4.  "I might repeat to myself slowly and soothingly, a list of quotations beautiful from minds profound - if I can remember any of the damn things." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Parker</i> 
+ 4.  "In love, one and one are one." <br> &emsp;&emsp;&emsp; <i>-by Jean-Paul Sartre</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
