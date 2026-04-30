@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The key to non-anxious sermon-writing is that it’s not about me. It’s about the congregation. I honor the fact that the listeners bring more to the sermon than I do. I remind myself of the hundreds of times someone says, 'I loved how you said…' and then tell me things that they heard that were nowhere in my text and that I never said. But they heard what they needed to hear." <br> &emsp;&emsp;&emsp; <i>-by Reverend Sean Parker Dennison</i> 
+ 1.  "Art suffers the moment other people start paying for it. The more you need the money, the more people will tell you what to do. The less control you will have. The more bullshit you will have to swallow. The less joy it will bring. Know this and plan accordingly." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "I think we're having fun. I think our customers really like our products. And we're always trying to do better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "And this our life, exempt from public haunt,/ Finds tongues in trees, books in running brooks,/ Sermons in stones, and good in everything." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 3.  "I would feel more optimistic about a bright future for man if he spent less time proving that he can outwit Nature and more time tasting her sweetness and respecting her seniority." <br> &emsp;&emsp;&emsp; <i>-by E. B. White</i> 
+ 3.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
 
- 4.  "In love, one and one are one." <br> &emsp;&emsp;&emsp; <i>-by Jean-Paul Sartre</i> 
+ 4.  "When things are at their worst I find something always happens." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
