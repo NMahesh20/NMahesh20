@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Art suffers the moment other people start paying for it. The more you need the money, the more people will tell you what to do. The less control you will have. The more bullshit you will have to swallow. The less joy it will bring. Know this and plan accordingly." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "Dreams alone aren't enough to make your belly full." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "And this our life, exempt from public haunt,/ Finds tongues in trees, books in running brooks,/ Sermons in stones, and good in everything." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 2.  "A person who forgoes the use of his symbolic skills is never really free." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "The art of living easily as to money is to pitch your scale of living one degree below your means." <br> &emsp;&emsp;&emsp; <i>-by Sir Henry Taylor</i> 
+ 3.  "I am an old man, but in many senses a very young man. And this is what I want you to be, young, young all your life." <br> &emsp;&emsp;&emsp; <i>-by Pablo Casals</i> 
 
- 4.  "When things are at their worst I find something always happens." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Shallow men believe in luck. Strong men believe in cause and effect." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
