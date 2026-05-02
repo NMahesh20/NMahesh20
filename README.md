@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Dreams alone aren't enough to make your belly full." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "The quantity of civilization is measured by the quality of imagination." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 2.  "A person who forgoes the use of his symbolic skills is never really free." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
 
- 3.  "I am an old man, but in many senses a very young man. And this is what I want you to be, young, young all your life." <br> &emsp;&emsp;&emsp; <i>-by Pablo Casals</i> 
+ 3.  "Our obligations to our country never cease but with our lives." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 4.  "Shallow men believe in luck. Strong men believe in cause and effect." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "If you wish success in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother and hope your guardian genius." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
