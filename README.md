@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The quantity of civilization is measured by the quality of imagination." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 1.  "I lived what most people call the good life. I was happy, but deep inside I always felt that, with the short amount of time we are given to live and love in this world, we spend too much time loving things instead of people." <br> &emsp;&emsp;&emsp; <i>-by Antonia Brenner</i> 
 
- 2.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
+ 2.  "Carry the battle to them. Don't let them bring it to you. Put them on the defensive. And don't ever apologize for anything." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
 
- 3.  "Our obligations to our country never cease but with our lives." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 3.  "Self-respect is the cornerstone of all virtue." <br> &emsp;&emsp;&emsp; <i>-by John Herschel</i> 
 
- 4.  "If you wish success in life, make perseverance your bosom friend, experience your wise counselor, caution your elder brother and hope your guardian genius." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 4.  "A man cannot be comfortable without his own approval." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
