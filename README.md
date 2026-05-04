@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I lived what most people call the good life. I was happy, but deep inside I always felt that, with the short amount of time we are given to live and love in this world, we spend too much time loving things instead of people." <br> &emsp;&emsp;&emsp; <i>-by Antonia Brenner</i> 
+ 1.  "Love flies, runs, and rejoices; it is free and nothing can hold it back." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
 
- 2.  "Carry the battle to them. Don't let them bring it to you. Put them on the defensive. And don't ever apologize for anything." <br> &emsp;&emsp;&emsp; <i>-by Harry S Truman</i> 
+ 2.  "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 3.  "Self-respect is the cornerstone of all virtue." <br> &emsp;&emsp;&emsp; <i>-by John Herschel</i> 
+ 3.  "We may lay in a stock of pleasures, as we would lay in a stock of wine; but if we defer tasting them too long, we shall find that both are soured by age." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 
- 4.  "A man cannot be comfortable without his own approval." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "The only man who is really free is the one who can turn down an invitation to dinner without giving an excuse." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
