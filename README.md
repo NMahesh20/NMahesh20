@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Love flies, runs, and rejoices; it is free and nothing can hold it back." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 1.  "One's life is not as fixed as one believes. Surprises may lie in store for you, the unexpected often tends to happen, sometimes bringing in its train the most delightful change in one's life or circumstances." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 2.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "We may lay in a stock of pleasures, as we would lay in a stock of wine; but if we defer tasting them too long, we shall find that both are soured by age." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 3.  "We did not change as we grew older; we just became more clearly ourselves." <br> &emsp;&emsp;&emsp; <i>-by Lynn Hall</i> 
 
- 4.  "The only man who is really free is the one who can turn down an invitation to dinner without giving an excuse." <br> &emsp;&emsp;&emsp; <i>-by Jules Renard</i> 
+ 4.  "Hold a picture of yourself long and steadily enough in your mind's eye, and you will be drawn toward it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
