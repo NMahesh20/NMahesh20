@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One's life is not as fixed as one believes. Surprises may lie in store for you, the unexpected often tends to happen, sometimes bringing in its train the most delightful change in one's life or circumstances." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "People only worry about the uncanny for about a week; that's the end of their attention span. After that, suspicions turn into shtick." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "I’m searching through all that has ever been hoped, in praise of what can never be known." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "We did not change as we grew older; we just became more clearly ourselves." <br> &emsp;&emsp;&emsp; <i>-by Lynn Hall</i> 
+ 3.  "Only the curious will learn and only the resolute overcome the obstacles to learning. The quest quotient has always excited me more than the intelligence quotient." <br> &emsp;&emsp;&emsp; <i>-by Eugene S. Wilson</i> 
 
- 4.  "Hold a picture of yourself long and steadily enough in your mind's eye, and you will be drawn toward it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
+ 4.  "Depend not on another, but lean instead on thyself...True happiness is born of self-reliance." <br> &emsp;&emsp;&emsp; <i>-by The laws of Manu</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
