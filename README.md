@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "People only worry about the uncanny for about a week; that's the end of their attention span. After that, suspicions turn into shtick." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 1.  "In the field of observation, chance favors only the prepared mind. " <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
 
- 2.  "I’m searching through all that has ever been hoped, in praise of what can never be known." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "The strongest is never strong enough to be always the master, unless he transforms strength into right, and obedience into duty." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
 
- 3.  "Only the curious will learn and only the resolute overcome the obstacles to learning. The quest quotient has always excited me more than the intelligence quotient." <br> &emsp;&emsp;&emsp; <i>-by Eugene S. Wilson</i> 
+ 3.  "Take hold lightly; let go lightly. This is one of the great secrets of felicity in love." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 
- 4.  "Depend not on another, but lean instead on thyself...True happiness is born of self-reliance." <br> &emsp;&emsp;&emsp; <i>-by The laws of Manu</i> 
+ 4.  "Without discipline, there's no life at all." <br> &emsp;&emsp;&emsp; <i>-by Katharine Hepburn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
