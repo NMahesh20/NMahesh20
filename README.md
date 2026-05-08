@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "In the field of observation, chance favors only the prepared mind. " <br> &emsp;&emsp;&emsp; <i>-by Louis Pasteur</i> 
+ 1.  "I am not an adventurer by choice but by fate." <br> &emsp;&emsp;&emsp; <i>-by Vincent van Gogh</i> 
 
- 2.  "The strongest is never strong enough to be always the master, unless he transforms strength into right, and obedience into duty." <br> &emsp;&emsp;&emsp; <i>-by Jean Jacques Rousseau</i> 
+ 2.  "Age to me means nothing. I can't get old; I'm working. I was old when I was twenty-one and out of work. As long as you're working, you stay young. When I'm in front of an audience, all that love and vitality sweeps over me and I forget my age." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
 
- 3.  "Take hold lightly; let go lightly. This is one of the great secrets of felicity in love." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 3.  "The minute you settle for less than you deserve, you get even less than you settled for." <br> &emsp;&emsp;&emsp; <i>-by Maureen Dowd</i> 
 
- 4.  "Without discipline, there's no life at all." <br> &emsp;&emsp;&emsp; <i>-by Katharine Hepburn</i> 
+ 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
