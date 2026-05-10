@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everybody has their taste in noises as well as in other matters; and sounds are quite innoxious, or most distressing, by their sort rather than their quantity." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 2.  "If you would be wealthy, think of saving as well as getting." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 2.  "Oh for a book and a shady nook..." <br> &emsp;&emsp;&emsp; <i>-by John Wilson</i> 
 
- 3.  "When we are planning for posterity, we ought to remember that virtue is not hereditary." <br> &emsp;&emsp;&emsp; <i>-by Thomas Paine</i> 
+ 3.  "Do not spoil what you have by desiring what you have not; but remember that what you now have was once among the things you only hoped for." <br> &emsp;&emsp;&emsp; <i>-by Epicurus</i> 
 
- 4.  "Doubt 'til thou canst doubt no more...doubt is thought and thought is life. Systems which end doubt are devices for drugging thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Guerard</i> 
+ 4.  "This became a credo of mine...attempt the impossible in order to improve your work." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
