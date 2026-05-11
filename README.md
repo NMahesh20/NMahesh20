@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 1.  "A vigorous five-mile walk will do more good for an unhappy but otherwise healthy adult than all the medicine and psychology in the world." <br> &emsp;&emsp;&emsp; <i>-by Paul Dudley White</i> 
 
- 2.  "Oh for a book and a shady nook..." <br> &emsp;&emsp;&emsp; <i>-by John Wilson</i> 
+ 2.  "Life is like getting dropped off in the middle of the woods, and then year by year, gradually walking home." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
 
- 3.  "Do not spoil what you have by desiring what you have not; but remember that what you now have was once among the things you only hoped for." <br> &emsp;&emsp;&emsp; <i>-by Epicurus</i> 
+ 3.  "Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
 
- 4.  "This became a credo of mine...attempt the impossible in order to improve your work." <br> &emsp;&emsp;&emsp; <i>-by Bette Davis</i> 
+ 4.  "Flattery is like cologne water, to be smelt of, not swallowed." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
