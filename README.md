@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A vigorous five-mile walk will do more good for an unhappy but otherwise healthy adult than all the medicine and psychology in the world." <br> &emsp;&emsp;&emsp; <i>-by Paul Dudley White</i> 
+ 1.  "The best way is not to fight it, just go. Don't be trying all the time to fix things. What you run from only stays with you longer. When you fight something, you only make it stronger." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "Life is like getting dropped off in the middle of the woods, and then year by year, gradually walking home." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
+ 2.  "The shortest verse in the Bible is 'Jesus wept.' The only thing wrong with it is the past tense." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
 
- 3.  "Tomorrow is the most important thing in life. Comes into us at midnight very clean. It's perfect when it arrives and it puts itself in our hands. It hopes we've learned something from yesterday." <br> &emsp;&emsp;&emsp; <i>-by John Wayne</i> 
+ 3.  "Life is consciousness." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
 
- 4.  "Flattery is like cologne water, to be smelt of, not swallowed." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
+ 4.  "Never criticize a man until you've walked a mile in his moccasins." <br> &emsp;&emsp;&emsp; <i>-by Native American Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
