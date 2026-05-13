@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The best way is not to fight it, just go. Don't be trying all the time to fix things. What you run from only stays with you longer. When you fight something, you only make it stronger." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "I'm the world's least happy atheist. I miss having religious faith, but trying to have it seems like trying to be in love with someone that you're not in love with." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
 
- 2.  "The shortest verse in the Bible is 'Jesus wept.' The only thing wrong with it is the past tense." <br> &emsp;&emsp;&emsp; <i>-by Randy K. Milholland</i> 
+ 2.  "No matter what I do, no matter how predictable I try to make my life, it will not be any more predictable than the rest of the world. Which is chaotic." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
 
- 3.  "Life is consciousness." <br> &emsp;&emsp;&emsp; <i>-by Emmet Fox</i> 
+ 3.  "You've got to make a conscious choice every day to shed the old - whatever 'the old' means for you." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
 
- 4.  "Never criticize a man until you've walked a mile in his moccasins." <br> &emsp;&emsp;&emsp; <i>-by Native American Proverb</i> 
+ 4.  "Getting fired is nature's way to telling you that you had the wrong job in the first place." <br> &emsp;&emsp;&emsp; <i>-by Hal Lancaster</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
