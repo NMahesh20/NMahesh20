@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I'm the world's least happy atheist. I miss having religious faith, but trying to have it seems like trying to be in love with someone that you're not in love with." <br> &emsp;&emsp;&emsp; <i>-by Lisa Williams</i> 
+ 1.  "Forget about the fast lane. If you really want to fly, harness your power to your passion. Honor your calling. Everybody has one. Trust your heart, and success will come to you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "No matter what I do, no matter how predictable I try to make my life, it will not be any more predictable than the rest of the world. Which is chaotic." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Moon</i> 
+ 2.  "Man's main task in life is to give birth to himself, to become what he potentially is." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
 
- 3.  "You've got to make a conscious choice every day to shed the old - whatever 'the old' means for you." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
+ 3.  "It's easier to put on slippers than to carpet the whole world." <br> &emsp;&emsp;&emsp; <i>-by Al Franken</i> 
 
- 4.  "Getting fired is nature's way to telling you that you had the wrong job in the first place." <br> &emsp;&emsp;&emsp; <i>-by Hal Lancaster</i> 
+ 4.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
