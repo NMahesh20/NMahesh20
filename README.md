@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Forget about the fast lane. If you really want to fly, harness your power to your passion. Honor your calling. Everybody has one. Trust your heart, and success will come to you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "The public does not like you to mislead or represent yourself to be something you're not. And the other thing that the public really does like is the self-examination to say, you know, I'm not perfect. I'm just like you. They don't ask their public officials to be perfect. They just ask them to be smart, truthful, honest, and show a modicum of good sense." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
 
- 2.  "Man's main task in life is to give birth to himself, to become what he potentially is." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
+ 2.  "God gives every bird its food, but He does not throw it into its nest." <br> &emsp;&emsp;&emsp; <i>-by J. G. Holland</i> 
 
- 3.  "It's easier to put on slippers than to carpet the whole world." <br> &emsp;&emsp;&emsp; <i>-by Al Franken</i> 
+ 3.  "The good neighbor looks beyond the external accidents and discerns those inner qualities that make all men human and, therefore, brothers." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 4.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 4.  "Every man is the architect of his own fortune." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
