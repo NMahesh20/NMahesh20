@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The public does not like you to mislead or represent yourself to be something you're not. And the other thing that the public really does like is the self-examination to say, you know, I'm not perfect. I'm just like you. They don't ask their public officials to be perfect. They just ask them to be smart, truthful, honest, and show a modicum of good sense." <br> &emsp;&emsp;&emsp; <i>-by Ann Richards</i> 
+ 1.  "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "God gives every bird its food, but He does not throw it into its nest." <br> &emsp;&emsp;&emsp; <i>-by J. G. Holland</i> 
+ 2.  "No man who ever held the office of president would congratulate a friend on obtaining it." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
 
- 3.  "The good neighbor looks beyond the external accidents and discerns those inner qualities that make all men human and, therefore, brothers." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
+ 3.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 4.  "Every man is the architect of his own fortune." <br> &emsp;&emsp;&emsp; <i>-by Sallust</i> 
+ 4.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
