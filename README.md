@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Beauty and seduction is nature's tool for survival, because we will protect what we love." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
 
- 2.  "No man who ever held the office of president would congratulate a friend on obtaining it." <br> &emsp;&emsp;&emsp; <i>-by John Adams</i> 
+ 2.  "Happiness is essentially a state of going somewhere, wholeheartedly, one-directionally, without regret or reservation." <br> &emsp;&emsp;&emsp; <i>-by William H. Sheldon</i> 
 
- 3.  "The only good is knowledge and the only evil is ignorance." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 3.  "Your most unhappy customers are your greatest source of learning." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
 
- 4.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
+ 4.  "One reason I don't drink is that I want to know when I am having a good time." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
