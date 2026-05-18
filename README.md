@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beauty and seduction is nature's tool for survival, because we will protect what we love." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
+ 1.  "I think it's absolutely a blessing when you just know what your purpose is and your destiny. I don't think it's a curse at all." <br> &emsp;&emsp;&emsp; <i>-by Lady Gaga</i> 
 
- 2.  "Happiness is essentially a state of going somewhere, wholeheartedly, one-directionally, without regret or reservation." <br> &emsp;&emsp;&emsp; <i>-by William H. Sheldon</i> 
+ 2.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Your most unhappy customers are your greatest source of learning." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
+ 3.  "Education is when you read the fine print. Experience is what you get if you don't." <br> &emsp;&emsp;&emsp; <i>-by Pete Seeger</i> 
 
- 4.  "One reason I don't drink is that I want to know when I am having a good time." <br> &emsp;&emsp;&emsp; <i>-by Nancy Astor</i> 
+ 4.  "Man is only miserable so far as he thinks himself so." <br> &emsp;&emsp;&emsp; <i>-by Jacopo Sannazaro</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
