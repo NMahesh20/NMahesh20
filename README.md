@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think it's absolutely a blessing when you just know what your purpose is and your destiny. I don't think it's a curse at all." <br> &emsp;&emsp;&emsp; <i>-by Lady Gaga</i> 
+ 1.  "That's the thing about being a former fat camp champ: when asked if I'd change my past if I could, I always answer no. The pain of being an overweight kid, the humiliation, make you think twice before ever cutting anyone else down." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 2.  "No one forgives with more grace and love than a child." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "I like coincidences. They make me wonder about destiny, and whether free will is an illusion or just a matter of perspective. They let me speculate on the idea of some master plan that, from time to time, we're allowed to see out of the corner of our eye." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
 
- 3.  "Education is when you read the fine print. Experience is what you get if you don't." <br> &emsp;&emsp;&emsp; <i>-by Pete Seeger</i> 
+ 3.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 4.  "Man is only miserable so far as he thinks himself so." <br> &emsp;&emsp;&emsp; <i>-by Jacopo Sannazaro</i> 
+ 4.  "He who boasts of his ancestry is praising the deeds of another." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
