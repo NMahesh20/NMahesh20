@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That's the thing about being a former fat camp champ: when asked if I'd change my past if I could, I always answer no. The pain of being an overweight kid, the humiliation, make you think twice before ever cutting anyone else down." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 1.  "The camera doesn't make a bit of difference. All of them can record what you are seeing. But, you have to SEE." <br> &emsp;&emsp;&emsp; <i>-by Ernst Haas</i> 
 
- 2.  "I like coincidences. They make me wonder about destiny, and whether free will is an illusion or just a matter of perspective. They let me speculate on the idea of some master plan that, from time to time, we're allowed to see out of the corner of our eye." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
+ 2.  "Never deprive someone of hope; it might be all they have." <br> &emsp;&emsp;&emsp; <i>-by H. Jackson Brown Jr.</i> 
 
- 3.  "If you don't risk anything you risk even more." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 3.  "You must give some time to your fellow men. Even if it's a little thing, do something for others - something for which you get no pay but the privilege of doing it." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
 
- 4.  "He who boasts of his ancestry is praising the deeds of another." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "If a writer wrote merely for his time, I would have to break my pen and throw it away." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
