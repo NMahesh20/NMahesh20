@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We only know of one duty, and that is to love." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "No matter how slow the film, Spirit always stands still long enough for the photographer It has chosen." <br> &emsp;&emsp;&emsp; <i>-by Minor White</i> 
+ 2.  "When I step into this library, I cannot understand why I ever step out of it." <br> &emsp;&emsp;&emsp; <i>-by Marie de Sevigne</i> 
 
- 3.  "Better be wise by the misfortunes of others than by your own." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
+ 3.  "It's a sign of mediocrity when you demonstrate gratitude with moderation." <br> &emsp;&emsp;&emsp; <i>-by Roberto Benigni</i> 
 
- 4.  "Above all things, reverence yourself." <br> &emsp;&emsp;&emsp; <i>-by Pythagoras</i> 
+ 4.  "To avoid criticism do nothing, say nothing, be nothing." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
