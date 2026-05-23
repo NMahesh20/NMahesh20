@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just as I had to go through a transition period, I guess [my friends and family] did, too." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "I can’t talk about our love story, so I will talk about math. I am not a mathematician, but I know this: There are infinite numbers between 0 and 1. There’s .1 and .12 and .112 and an infinite collection of others. Of course, there is a bigger infinite set of numbers between 0 and 2, or between 0 and a million. Some infinities are bigger than other infinities. A writer we used to like taught us that. There are days, many of them, when I resent the size of my unbounded set. I want more numbers than I’m likely to get. But, my love, I cannot tell you how thankful I am for our little infinity. I wouldn’t trade it for the world. You gave me a forever within the numbered days, and I’m grateful." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "When I step into this library, I cannot understand why I ever step out of it." <br> &emsp;&emsp;&emsp; <i>-by Marie de Sevigne</i> 
+ 2.  "If you have a talent, use it in every which way possible. Don't hoard it. Don't dole it out like a miser. Spend it lavishly like a millionaire intent on going broke." <br> &emsp;&emsp;&emsp; <i>-by Brendan Francis</i> 
 
- 3.  "It's a sign of mediocrity when you demonstrate gratitude with moderation." <br> &emsp;&emsp;&emsp; <i>-by Roberto Benigni</i> 
+ 3.  "At my age the bones are water in the morning until food is given them." <br> &emsp;&emsp;&emsp; <i>-by Pearl Buck</i> 
 
- 4.  "To avoid criticism do nothing, say nothing, be nothing." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 4.  "The rain fell alike upon the just and upon the unjust, and for nothing was there a why and a wherefore." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
