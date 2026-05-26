@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness arises in a state of peace, not of tumult." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "We've always been here and we'll always be here. We are a specific arrangement of particles and this instant is infinite. Did we luck out, or didn't we? The odds against this sentence having ever being typed, much less the odds against you reading it were inconceivable. Smile, because the fact that you're able to is almost impossible to comprehend." <br> &emsp;&emsp;&emsp; <i>-by Jeffrey Rowland</i> 
 
- 2.  "My mission is to create a world where we can live in harmony with nature." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 2.  "Don't join the book burners. Don't think you're going to conceal faults by concealing evidence that they ever existed. Don't be afraid to go in your library and read every book..." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 3.  "I've come to believe that each of us has a personal calling that's as unique as a fingerprint - and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "About the only thing that comes to us without effort is old age." <br> &emsp;&emsp;&emsp; <i>-by Gloria Pitzer</i> 
 
- 4.  "There are more tears shed over answered prayers than over unanswered prayers." <br> &emsp;&emsp;&emsp; <i>-by Saint Theresa of Jesus</i> 
+ 4.  "I am never afraid of what I know." <br> &emsp;&emsp;&emsp; <i>-by Anna Sewell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
