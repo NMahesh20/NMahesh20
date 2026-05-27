@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We've always been here and we'll always be here. We are a specific arrangement of particles and this instant is infinite. Did we luck out, or didn't we? The odds against this sentence having ever being typed, much less the odds against you reading it were inconceivable. Smile, because the fact that you're able to is almost impossible to comprehend." <br> &emsp;&emsp;&emsp; <i>-by Jeffrey Rowland</i> 
+ 1.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
 
- 2.  "Don't join the book burners. Don't think you're going to conceal faults by concealing evidence that they ever existed. Don't be afraid to go in your library and read every book..." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 2.  "The freedom of all is essential to my freedom." <br> &emsp;&emsp;&emsp; <i>-by Mikhail Bakunin</i> 
 
- 3.  "About the only thing that comes to us without effort is old age." <br> &emsp;&emsp;&emsp; <i>-by Gloria Pitzer</i> 
+ 3.  "When you play, play hard; when you work, don't play at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 4.  "I am never afraid of what I know." <br> &emsp;&emsp;&emsp; <i>-by Anna Sewell</i> 
+ 4.  "Turn your midlife crisis to your own advantage by making it a time for renewal of your body and mind, rather than stand by helplessly and watch them decline." <br> &emsp;&emsp;&emsp; <i>-by Jane E. Brody</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
