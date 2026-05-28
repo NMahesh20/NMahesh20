@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I suppose no matter what I'm drawing, there will always be some sort of question in my mind about it. A work of art (even cartoon art)is never really finished; it is abandoned." <br> &emsp;&emsp;&emsp; <i>-by Brooke McEldowney</i> 
+ 1.  "Worry is a misuse of imagination." <br> &emsp;&emsp;&emsp; <i>-by Dan Zadra</i> 
 
- 2.  "The freedom of all is essential to my freedom." <br> &emsp;&emsp;&emsp; <i>-by Mikhail Bakunin</i> 
+ 2.  "Travel is only glamorous in retrospect." <br> &emsp;&emsp;&emsp; <i>-by Paul Theroux</i> 
 
- 3.  "When you play, play hard; when you work, don't play at all." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 3.  "Many people think that if they were only in some other place, or had some other job, they would be happy. Well, that is doubtful. So get as much happiness out of what you are doing as you can and don't put off being happy until some future date." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 4.  "Turn your midlife crisis to your own advantage by making it a time for renewal of your body and mind, rather than stand by helplessly and watch them decline." <br> &emsp;&emsp;&emsp; <i>-by Jane E. Brody</i> 
+ 4.  "The secret of greatness is simple: do better work than any other man in your field - and keep on doing it." <br> &emsp;&emsp;&emsp; <i>-by Wilfred A. Peterson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
