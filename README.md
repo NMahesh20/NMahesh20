@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Worry is a misuse of imagination." <br> &emsp;&emsp;&emsp; <i>-by Dan Zadra</i> 
+ 1.  "Success is meaningless if you can't sleep at night because of harsh things said, petty secrets sharpened against hard and stony regret, just waiting to be plunged into the soft underbelly of a 'friendship.'" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "Travel is only glamorous in retrospect." <br> &emsp;&emsp;&emsp; <i>-by Paul Theroux</i> 
+ 2.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "Many people think that if they were only in some other place, or had some other job, they would be happy. Well, that is doubtful. So get as much happiness out of what you are doing as you can and don't put off being happy until some future date." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 3.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
 
- 4.  "The secret of greatness is simple: do better work than any other man in your field - and keep on doing it." <br> &emsp;&emsp;&emsp; <i>-by Wilfred A. Peterson</i> 
+ 4.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
