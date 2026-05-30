@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Success is meaningless if you can't sleep at night because of harsh things said, petty secrets sharpened against hard and stony regret, just waiting to be plunged into the soft underbelly of a 'friendship.'" <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "You ought to expect better of people. It encourages you to be a better person yourself." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 2.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "The price of greatness is responsibility." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 3.  "What is important is to keep learning, to enjoy challenge, and to tolerate ambiguity. In the end there are no certain answers." <br> &emsp;&emsp;&emsp; <i>-by Martina Horner</i> 
+ 3.  "Success is not the result of spontaneous combustion. You must set yourself on fire." <br> &emsp;&emsp;&emsp; <i>-by Reggie Leach</i> 
 
- 4.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "To be able to fill leisure intelligently is the last product of civilization." <br> &emsp;&emsp;&emsp; <i>-by Arnold Toynbee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
