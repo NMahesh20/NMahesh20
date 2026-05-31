@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You ought to expect better of people. It encourages you to be a better person yourself." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 1.  "Keep your broken arm inside your sleeve." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 2.  "The price of greatness is responsibility." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 2.  "He will always be a slave who does not know how to live upon a little." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 
- 3.  "Success is not the result of spontaneous combustion. You must set yourself on fire." <br> &emsp;&emsp;&emsp; <i>-by Reggie Leach</i> 
+ 3.  "Friendship make prosperity more shining and lessens adversity by dividing and sharing it." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
 
- 4.  "To be able to fill leisure intelligently is the last product of civilization." <br> &emsp;&emsp;&emsp; <i>-by Arnold Toynbee</i> 
+ 4.  "There's folks 'ud stand on their heads and then say the fault was i' their boots." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
