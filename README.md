@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep your broken arm inside your sleeve." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 1.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 2.  "He will always be a slave who does not know how to live upon a little." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 2.  "Beware of the man who won't be bothered with details." <br> &emsp;&emsp;&emsp; <i>-by William Feather</i> 
 
- 3.  "Friendship make prosperity more shining and lessens adversity by dividing and sharing it." <br> &emsp;&emsp;&emsp; <i>-by Cicero</i> 
+ 3.  "The strongest man in the world is he who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
 
- 4.  "There's folks 'ud stand on their heads and then say the fault was i' their boots." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything." <br> &emsp;&emsp;&emsp; <i>-by George Lois</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
