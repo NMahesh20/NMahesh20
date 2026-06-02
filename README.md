@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sound character provides the power with which a person may ride the emergencies of life instead of being overwhelmed by them. Failure is... the highway to success." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 1.  "I don’t know what the future of my career holds, but I know that whatever is over the horizon, the road I’ve traveled to get here is like those Interstates in Texas: everything can look the same, and it can feel like you’re not going anywhere, until you suddenly get where you’re going and realize that you’ve been traveling for a long time." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
 
- 2.  "Beware of the man who won't be bothered with details." <br> &emsp;&emsp;&emsp; <i>-by William Feather</i> 
+ 2.  "I admit it's tempting to wish for the perfect boss, or the perfect parent, or the perfect outfit, but maybe the best any of us can do is not quit. Play the hand we've been given and accessorize the outfit we've got." <br> &emsp;&emsp;&emsp; <i>-by Allan Heinberg</i> 
 
- 3.  "The strongest man in the world is he who stands alone." <br> &emsp;&emsp;&emsp; <i>-by Henrik Ibsen</i> 
+ 3.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
 
- 4.  "Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything." <br> &emsp;&emsp;&emsp; <i>-by George Lois</i> 
+ 4.  "Family isn't about whose blood you have. It's about who you care about." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
