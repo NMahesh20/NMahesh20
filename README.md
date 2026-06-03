@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I don’t know what the future of my career holds, but I know that whatever is over the horizon, the road I’ve traveled to get here is like those Interstates in Texas: everything can look the same, and it can feel like you’re not going anywhere, until you suddenly get where you’re going and realize that you’ve been traveling for a long time." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "I could not conceive that [fans] actually wanted me to sign something. It took a long time for me to figure out (a) just say 'Thank you' and sign the thing, and (b) smile in the picture, because if you try to just half-smile you're going to look constipated." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "I admit it's tempting to wish for the perfect boss, or the perfect parent, or the perfect outfit, but maybe the best any of us can do is not quit. Play the hand we've been given and accessorize the outfit we've got." <br> &emsp;&emsp;&emsp; <i>-by Allan Heinberg</i> 
+ 2.  "Success is really about being ready for the good opportunities that come before you. It's not to have a detailed plan of everything that you're going to do. You can't plan innovation or inspiration, but you can be ready for it, and when you see it, you can jump on it." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 3.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
+ 3.  "Cats regard people as warmblooded furniture." <br> &emsp;&emsp;&emsp; <i>-by Jacquelyn Mitchard</i> 
 
- 4.  "Family isn't about whose blood you have. It's about who you care about." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 4.  "Guard well within yourself that treasure, kindness. Know how to give without hesitation, how to lose without regret, how to acquire without meanness." <br> &emsp;&emsp;&emsp; <i>-by George Sand</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
