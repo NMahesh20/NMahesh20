@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I could not conceive that [fans] actually wanted me to sign something. It took a long time for me to figure out (a) just say 'Thank you' and sign the thing, and (b) smile in the picture, because if you try to just half-smile you're going to look constipated." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "My idea of good company is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Success is really about being ready for the good opportunities that come before you. It's not to have a detailed plan of everything that you're going to do. You can't plan innovation or inspiration, but you can be ready for it, and when you see it, you can jump on it." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 2.  "I think the best evenings are when we have messages, things that make us think, but we can also laugh and enjoy each other's company." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 3.  "Cats regard people as warmblooded furniture." <br> &emsp;&emsp;&emsp; <i>-by Jacquelyn Mitchard</i> 
+ 3.  "The secret of happiness in not in what one likes to do, but in what one has to do." <br> &emsp;&emsp;&emsp; <i>-by James M. Barrie</i> 
 
- 4.  "Guard well within yourself that treasure, kindness. Know how to give without hesitation, how to lose without regret, how to acquire without meanness." <br> &emsp;&emsp;&emsp; <i>-by George Sand</i> 
+ 4.  "It is not enough to have a good mind. The main thing is to use it well." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
