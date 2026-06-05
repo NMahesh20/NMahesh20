@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My idea of good company is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Abraham Lincoln and Millard Fillmore had the same title. They were both presidents of the United States, but their tenure in office and their legacy could not be more different." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "I think the best evenings are when we have messages, things that make us think, but we can also laugh and enjoy each other's company." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 2.  "I always like a good math solution to any love problem." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
 
- 3.  "The secret of happiness in not in what one likes to do, but in what one has to do." <br> &emsp;&emsp;&emsp; <i>-by James M. Barrie</i> 
+ 3.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
 
- 4.  "It is not enough to have a good mind. The main thing is to use it well." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 4.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
