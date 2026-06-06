@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Abraham Lincoln and Millard Fillmore had the same title. They were both presidents of the United States, but their tenure in office and their legacy could not be more different." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "There's something fundamental you have to understand about yourself before you can change your life for good." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "I always like a good math solution to any love problem." <br> &emsp;&emsp;&emsp; <i>-by Michael Patrick King</i> 
+ 2.  "When I see somebody 'suffering for their art', it%uFFFDs usually a case of them not knowing where that red line is, not knowing where the sovereignty lies." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "Give to every other human being every right that you claim for yourself." <br> &emsp;&emsp;&emsp; <i>-by Robert Ingersoll</i> 
+ 3.  "The bitterest tears shed over graves are for words left unsaid and deeds left undone." <br> &emsp;&emsp;&emsp; <i>-by Harriet Beecher Stowe</i> 
 
- 4.  "The truth that many people never understand, until it is too late, is that the more you try to avoid suffering the more you suffer because smaller and more insignificant things begin to torture you in proportion to your fear of being hurt." <br> &emsp;&emsp;&emsp; <i>-by Thomas Merton</i> 
+ 4.  "If you would win a man to your cause, first convince him that you are his sincere friend." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
