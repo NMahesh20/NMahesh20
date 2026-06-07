@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's something fundamental you have to understand about yourself before you can change your life for good." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
 
- 2.  "When I see somebody 'suffering for their art', it%uFFFDs usually a case of them not knowing where that red line is, not knowing where the sovereignty lies." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "More often than not, a hero’s most epic battle is the one you never see; it’s the battle that goes on within him or herself." <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
 
- 3.  "The bitterest tears shed over graves are for words left unsaid and deeds left undone." <br> &emsp;&emsp;&emsp; <i>-by Harriet Beecher Stowe</i> 
+ 3.  "It is better to be hated for what you are than to be loved for what you are not." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 
- 4.  "If you would win a man to your cause, first convince him that you are his sincere friend." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "Who begins too much accomplishes little." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
