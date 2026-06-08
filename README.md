@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Existence is random. Has no pattern save what we imagine after staring at it for too long. No meaning save what we choose to impose." <br> &emsp;&emsp;&emsp; <i>-by Alan Moore</i> 
+ 1.  "What children take from us, they give…We become people who feel more deeply, question more deeply, hurt more deeply, and love more deeply." <br> &emsp;&emsp;&emsp; <i>-by Sonia Taitz</i> 
 
- 2.  "More often than not, a hero’s most epic battle is the one you never see; it’s the battle that goes on within him or herself." <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
+ 2.  "He had learned over the years that poor people did not feel so poor when allowed to give occasionally." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "It is better to be hated for what you are than to be loved for what you are not." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 3.  "The highest proof of virtue is to possess boundless power without abusing it." <br> &emsp;&emsp;&emsp; <i>-by Lord Macaulay</i> 
 
- 4.  "Who begins too much accomplishes little." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
+ 4.  "Never esteem anything as of advantage to you that will make you break your word or lose your self-respect." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
