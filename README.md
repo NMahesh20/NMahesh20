@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "What children take from us, they give…We become people who feel more deeply, question more deeply, hurt more deeply, and love more deeply." <br> &emsp;&emsp;&emsp; <i>-by Sonia Taitz</i> 
+ 1.  "We don't beat the Grim Reaper by living longer, we beat the Reaper by living well and living fully, for the Reaper will come for all of us. The question is what do we do between the time we are born and the time he shows up. It's too late to do all the things that you're gonna kinda get around to." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
 
- 2.  "He had learned over the years that poor people did not feel so poor when allowed to give occasionally." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "On a long enough timeline. The survival rate for everyone drops to zero." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "The highest proof of virtue is to possess boundless power without abusing it." <br> &emsp;&emsp;&emsp; <i>-by Lord Macaulay</i> 
+ 3.  "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 4.  "Never esteem anything as of advantage to you that will make you break your word or lose your self-respect." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 4.  "Maybe the greatest challenge now is to find a way to keep independence while also committing ourselves to the ties that bind people, families, and ultimately societies together." <br> &emsp;&emsp;&emsp; <i>-by Jane O'Reilly</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
