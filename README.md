@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We don't beat the Grim Reaper by living longer, we beat the Reaper by living well and living fully, for the Reaper will come for all of us. The question is what do we do between the time we are born and the time he shows up. It's too late to do all the things that you're gonna kinda get around to." <br> &emsp;&emsp;&emsp; <i>-by Randy Pausch</i> 
+ 1.  "Being a celebrity has taught me to hide, but being an actor has opened my soul." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "On a long enough timeline. The survival rate for everyone drops to zero." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "The easiest thing in the world to be is you. The most difficult thing to be is what other people want you to be. Don't let them put you in that position." <br> &emsp;&emsp;&emsp; <i>-by Leo Buscaglia</i> 
 
- 3.  "It comes from saying no to 1,000 things to make sure we don't get on the wrong track or try to do too much." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 3.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
 
- 4.  "Maybe the greatest challenge now is to find a way to keep independence while also committing ourselves to the ties that bind people, families, and ultimately societies together." <br> &emsp;&emsp;&emsp; <i>-by Jane O'Reilly</i> 
+ 4.  "Adapt or perish, now as ever, is nature's inexorable imperative." <br> &emsp;&emsp;&emsp; <i>-by H. G. Wells</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
