@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Being a celebrity has taught me to hide, but being an actor has opened my soul." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 1.  "How his death hung over that house. It’s part of what I know to be true—your absence is greater than your presence." <br> &emsp;&emsp;&emsp; <i>-by Michael Hainey</i> 
 
- 2.  "The easiest thing in the world to be is you. The most difficult thing to be is what other people want you to be. Don't let them put you in that position." <br> &emsp;&emsp;&emsp; <i>-by Leo Buscaglia</i> 
+ 2.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "Believe nothing against another but on good authority; and never report what may hurt another, unless it be a greater hurt to some other to conceal it." <br> &emsp;&emsp;&emsp; <i>-by William Penn</i> 
+ 3.  "That's the secret of entertaining. You make your guests feel welcome and at home. If you do that honestly, the rest takes care of itself." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 4.  "Adapt or perish, now as ever, is nature's inexorable imperative." <br> &emsp;&emsp;&emsp; <i>-by H. G. Wells</i> 
+ 4.  "It is a fine thing to establish one's own religion in one's heart, not to be dependent on tradition and second-hand ideals. Life will seem to you, later, not a lesser, but a greater thing." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
