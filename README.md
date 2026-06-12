@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "How his death hung over that house. It’s part of what I know to be true—your absence is greater than your presence." <br> &emsp;&emsp;&emsp; <i>-by Michael Hainey</i> 
+ 1.  "Different and new is just the same old if you keep doing it over and over." <br> &emsp;&emsp;&emsp; <i>-by Kyran Pittman</i> 
 
- 2.  "The world is full of women blindsided by the unceasing demands of motherhood, still flabbergasted by how a job can be terrific and torturous." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "Desire is the most important factor in the success of any athlete." <br> &emsp;&emsp;&emsp; <i>-by Willie Shoemaker</i> 
 
- 3.  "That's the secret of entertaining. You make your guests feel welcome and at home. If you do that honestly, the rest takes care of itself." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 3.  "Intimacy is what makes a marriage, not a ceremony, not a piece of paper from the state." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
 
- 4.  "It is a fine thing to establish one's own religion in one's heart, not to be dependent on tradition and second-hand ideals. Life will seem to you, later, not a lesser, but a greater thing." <br> &emsp;&emsp;&emsp; <i>-by D. H. Lawrence</i> 
+ 4.  "You have to recognize when the right place and the right time fuse and take advantage of that opportunity. There are plenty of opportunities out there. You can't sit back and wait." <br> &emsp;&emsp;&emsp; <i>-by Ellen Metcalf</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
