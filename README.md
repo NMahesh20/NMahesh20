@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Different and new is just the same old if you keep doing it over and over." <br> &emsp;&emsp;&emsp; <i>-by Kyran Pittman</i> 
+ 1.  "I never feel that I have comprehended an emotion, or fully lived even the smallest events, until I have reflected upon it in my journal; my pen is my truest confidant, holding in check the passions and disappointments that I dare not share even with my beloved." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
 
- 2.  "Desire is the most important factor in the success of any athlete." <br> &emsp;&emsp;&emsp; <i>-by Willie Shoemaker</i> 
+ 2.  "People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us can come to being happy." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "Intimacy is what makes a marriage, not a ceremony, not a piece of paper from the state." <br> &emsp;&emsp;&emsp; <i>-by Kathleen Norris</i> 
+ 3.  "Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself." <br> &emsp;&emsp;&emsp; <i>-by William Faulkner</i> 
 
- 4.  "You have to recognize when the right place and the right time fuse and take advantage of that opportunity. There are plenty of opportunities out there. You can't sit back and wait." <br> &emsp;&emsp;&emsp; <i>-by Ellen Metcalf</i> 
+ 4.  "Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise." <br> &emsp;&emsp;&emsp; <i>-by Margaret Atwood</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
