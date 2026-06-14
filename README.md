@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I never feel that I have comprehended an emotion, or fully lived even the smallest events, until I have reflected upon it in my journal; my pen is my truest confidant, holding in check the passions and disappointments that I dare not share even with my beloved." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Barron</i> 
+ 1.  "I want to believe in intelligent design, and hence I am suspicious of anything that seems to confirm my desire to believe." <br> &emsp;&emsp;&emsp; <i>-by James Lileks</i> 
 
- 2.  "People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us can come to being happy." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 
- 3.  "Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself." <br> &emsp;&emsp;&emsp; <i>-by William Faulkner</i> 
+ 3.  "Perfect as the wing of a bird may be, it will never enable the bird to fly if unsupported by the air. Facts are the air of science. Without them a man of science can never rise." <br> &emsp;&emsp;&emsp; <i>-by Ivan Pavlov</i> 
 
- 4.  "Another belief of mine: that everyone else my age is an adult, whereas I am merely in disguise." <br> &emsp;&emsp;&emsp; <i>-by Margaret Atwood</i> 
+ 4.  "Know how to ask. There is nothing more difficult for some people, nor for others, easier." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
