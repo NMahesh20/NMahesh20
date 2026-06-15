@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I want to believe in intelligent design, and hence I am suspicious of anything that seems to confirm my desire to believe." <br> &emsp;&emsp;&emsp; <i>-by James Lileks</i> 
+ 1.  "Nature has invented reproduction as a mechanism for life to move forward. As a life force that passes right through us and makes us a link in the evolution of life." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
 
- 2.  "I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private. This is my teaching, and if this is the doctrine which corrupts the youth, I am a mischievous person." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 2.  "The need of man to wholly realize himself is the only fixed star." <br> &emsp;&emsp;&emsp; <i>-by Arthur Miller</i> 
 
- 3.  "Perfect as the wing of a bird may be, it will never enable the bird to fly if unsupported by the air. Facts are the air of science. Without them a man of science can never rise." <br> &emsp;&emsp;&emsp; <i>-by Ivan Pavlov</i> 
+ 3.  "Labor to keep alive in your breast that little spark of celestial fire called conscience." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
 
- 4.  "Know how to ask. There is nothing more difficult for some people, nor for others, easier." <br> &emsp;&emsp;&emsp; <i>-by Baltasar Gracian</i> 
+ 4.  "Among those whom I like or admire, I can find no common denominator, but among those whom I love, I can: all of them make me laugh." <br> &emsp;&emsp;&emsp; <i>-by W. H. Auden</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
