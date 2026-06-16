@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nature has invented reproduction as a mechanism for life to move forward. As a life force that passes right through us and makes us a link in the evolution of life." <br> &emsp;&emsp;&emsp; <i>-by Louis Schwartzberg</i> 
+ 1.  "Naming one thing after another cannot, logically, increase the chances of the new thing turning out like the old thing." <br> &emsp;&emsp;&emsp; <i>-by Ned Beauman</i> 
 
- 2.  "The need of man to wholly realize himself is the only fixed star." <br> &emsp;&emsp;&emsp; <i>-by Arthur Miller</i> 
+ 2.  "I will never forget who this victory truly belongs to. It belongs to you. It belongs to you. I was never the likeliest candidate for this office. We didn't start with much money or many endorsements. Our campaign was not hatched in the halls of Washington. It began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston. It was built by working men and women who dug into what little savings they had to give $5 and $10 and $20 to the cause." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 3.  "Labor to keep alive in your breast that little spark of celestial fire called conscience." <br> &emsp;&emsp;&emsp; <i>-by George Washington</i> 
+ 3.  "Frankly, I’m suspicious of anyone who has a strong opinion on a complicated issue." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
 
- 4.  "Among those whom I like or admire, I can find no common denominator, but among those whom I love, I can: all of them make me laugh." <br> &emsp;&emsp;&emsp; <i>-by W. H. Auden</i> 
+ 4.  "Sometimes love will pick you up by the short hairs...and jerk the heck out of you." <br> &emsp;&emsp;&emsp; <i>-by Denise Dobbs</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
