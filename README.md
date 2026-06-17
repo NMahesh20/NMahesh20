@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Naming one thing after another cannot, logically, increase the chances of the new thing turning out like the old thing." <br> &emsp;&emsp;&emsp; <i>-by Ned Beauman</i> 
+ 1.  "You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
 
- 2.  "I will never forget who this victory truly belongs to. It belongs to you. It belongs to you. I was never the likeliest candidate for this office. We didn't start with much money or many endorsements. Our campaign was not hatched in the halls of Washington. It began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston. It was built by working men and women who dug into what little savings they had to give $5 and $10 and $20 to the cause." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "Sometimes the clearest mirrors come from those who are outside looking in." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
 
- 3.  "Frankly, I’m suspicious of anyone who has a strong opinion on a complicated issue." <br> &emsp;&emsp;&emsp; <i>-by Scott Adams</i> 
+ 3.  "There shall be eternal summer in the grateful heart." <br> &emsp;&emsp;&emsp; <i>-by Celia Thaxter</i> 
 
- 4.  "Sometimes love will pick you up by the short hairs...and jerk the heck out of you." <br> &emsp;&emsp;&emsp; <i>-by Denise Dobbs</i> 
+ 4.  "It's asking a great deal that things should appeal to your reason as well as your sense of the aesthetic." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
