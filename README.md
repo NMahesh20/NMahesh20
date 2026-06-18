@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it." <br> &emsp;&emsp;&emsp; <i>-by Larry Page</i> 
+ 1.  "Only solitary men know the full joys of frienship. Others have their family; but to a solitary and an exile, his friends are everything." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
 
- 2.  "Sometimes the clearest mirrors come from those who are outside looking in." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Neal</i> 
+ 2.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 3.  "There shall be eternal summer in the grateful heart." <br> &emsp;&emsp;&emsp; <i>-by Celia Thaxter</i> 
+ 3.  "Sometimes, if you stand on the bottom rail of a bridge and lean over to watch the river slipping slowly away beneath you, you will suddenly know everything there is to be known." <br> &emsp;&emsp;&emsp; <i>-by Pooh's Little Instruction Book</i> 
 
- 4.  "It's asking a great deal that things should appeal to your reason as well as your sense of the aesthetic." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Praise youth and it will prosper." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
