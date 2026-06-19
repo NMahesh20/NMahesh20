@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only solitary men know the full joys of frienship. Others have their family; but to a solitary and an exile, his friends are everything." <br> &emsp;&emsp;&emsp; <i>-by Willa Cather</i> 
+ 1.  "We have to have the money to do the work we want to do, as well as to keep a roof over our heads and food on the table. Fat commissions are good, but not always easy to come by, and each new painting takes its time. So we need to find every way possible to earn extra income from our work." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 2.  "If you don't accept responsibility for your own actions, then you are forever chained to a position of defense." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
+ 2.  "No fear. No distractions. The ability to let that which does not matter truly slide." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 3.  "Sometimes, if you stand on the bottom rail of a bridge and lean over to watch the river slipping slowly away beneath you, you will suddenly know everything there is to be known." <br> &emsp;&emsp;&emsp; <i>-by Pooh's Little Instruction Book</i> 
+ 3.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
 
- 4.  "Praise youth and it will prosper." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
+ 4.  "If you scatter thorns, don't go barefoot." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
