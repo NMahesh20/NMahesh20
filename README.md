@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have to have the money to do the work we want to do, as well as to keep a roof over our heads and food on the table. Fat commissions are good, but not always easy to come by, and each new painting takes its time. So we need to find every way possible to earn extra income from our work." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 1.  "Put your whole self into it, and you will find your true voice. Hold back and you won't. It's that simple." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "No fear. No distractions. The ability to let that which does not matter truly slide." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 2.  "Many people weigh the guilt they will feel against the pleasure of the forbidden action they want to take." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 3.  "One must not lose desires. They are mighty stimulants to creativeness, to love, and to long life." <br> &emsp;&emsp;&emsp; <i>-by Alexander A. Bogomoletz</i> 
+ 3.  "I believe in an open mind, but not so open that your brains fall out." <br> &emsp;&emsp;&emsp; <i>-by Arthur Hays Sulzberger</i> 
 
- 4.  "If you scatter thorns, don't go barefoot." <br> &emsp;&emsp;&emsp; <i>-by Italian Proverb</i> 
+ 4.  "Be wiser than other people, if you can, but do not tell them so." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
