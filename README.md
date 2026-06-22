@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The idea of a mass audience was really an invention of the Industrial Revolution." <br> &emsp;&emsp;&emsp; <i>-by David Cronenberg</i> 
+ 1.  "Maybe I wanted to hear it so badly that my ears betrayed my mind in order to secure my heart." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 2.  "You have to learn that if you start making sure you feel good, everything will be okay." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 2.  "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome." <br> &emsp;&emsp;&emsp; <i>-by Booker T. Washington</i> 
 
- 3.  "Purchase not friends by gifts; when thou ceasest to give, such will cease to love." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 3.  "The only cure for grief is action." <br> &emsp;&emsp;&emsp; <i>-by George Henry Lewes</i> 
 
- 4.  "True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked." <br> &emsp;&emsp;&emsp; <i>-by Erich Segal</i> 
+ 4.  "Anger as soon as fed is dead- / 'Tis starving makes it fat." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
