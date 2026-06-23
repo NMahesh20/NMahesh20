@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Maybe I wanted to hear it so badly that my ears betrayed my mind in order to secure my heart." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 1.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome." <br> &emsp;&emsp;&emsp; <i>-by Booker T. Washington</i> 
+ 2.  "Man is born a predestined idealist, for he is born to act. To act is to affirm the worth of an end, and to persist in affirming the worth of an end is to make an ideal." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 3.  "The only cure for grief is action." <br> &emsp;&emsp;&emsp; <i>-by George Henry Lewes</i> 
+ 3.  "When love and skill work together, expect a masterpiece." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 
- 4.  "Anger as soon as fed is dead- / 'Tis starving makes it fat." <br> &emsp;&emsp;&emsp; <i>-by Emily Dickinson</i> 
+ 4.  "Anyone who has gumption knows what it is, and anyone who hasn't can never know what it is. So there is no need of defining it." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
