@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Deal with the consequences of your actions, 'cause life ain't no video game." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Opportunity is rare, and a wise man will never let it go by him." <br> &emsp;&emsp;&emsp; <i>-by Bayard Taylor</i> 
 
- 2.  "Man is born a predestined idealist, for he is born to act. To act is to affirm the worth of an end, and to persist in affirming the worth of an end is to make an ideal." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 2.  "Learning to live in the present moment is part of the path of joy." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
 
- 3.  "When love and skill work together, expect a masterpiece." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 3.  "Discovery consists of seeing what everybody has seen and thinking what nobody has thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
 
- 4.  "Anyone who has gumption knows what it is, and anyone who hasn't can never know what it is. So there is no need of defining it." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 4.  "Tears may be dried up, but the heart - never." <br> &emsp;&emsp;&emsp; <i>-by Marguerite de Valois</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
