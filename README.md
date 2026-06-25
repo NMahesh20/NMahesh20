@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Opportunity is rare, and a wise man will never let it go by him." <br> &emsp;&emsp;&emsp; <i>-by Bayard Taylor</i> 
+ 1.  "When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other's ultimate comfort." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Learning to live in the present moment is part of the path of joy." <br> &emsp;&emsp;&emsp; <i>-by Sarah Ban Breathnach</i> 
+ 2.  "Don't give advice. It will come back and bite you in the [butt]. Don't take anyone's advice. So, my advice to you is to be true to yourself and everything will be fine." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 3.  "Discovery consists of seeing what everybody has seen and thinking what nobody has thought." <br> &emsp;&emsp;&emsp; <i>-by Albert Szent-Gyorgyi</i> 
+ 3.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 4.  "Tears may be dried up, but the heart - never." <br> &emsp;&emsp;&emsp; <i>-by Marguerite de Valois</i> 
+ 4.  "You cannot depend on your eyes when your imagination is out of focus." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
