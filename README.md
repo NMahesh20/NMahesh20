@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other's ultimate comfort." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 2.  "Don't give advice. It will come back and bite you in the [butt]. Don't take anyone's advice. So, my advice to you is to be true to yourself and everything will be fine." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 2.  "When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 3.  "Let no one ever come to you without leaving better and happier." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 3.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 4.  "You cannot depend on your eyes when your imagination is out of focus." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 4.  "If you refuse to be made straight when you are green, you will not be made straight when you are dry." <br> &emsp;&emsp;&emsp; <i>-by African Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
