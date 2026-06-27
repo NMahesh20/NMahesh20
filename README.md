@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "America is not a mere body of traders; it is a body of free men. Our greatness-built upon freedom-is moral, not material. we have a great ardor for gain; but we have a deep passion for the rights of man." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 1.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
 
- 2.  "When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 2.  "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
 
- 3.  "One's destination is never a place but rather a new way of looking at things." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
 
- 4.  "If you refuse to be made straight when you are green, you will not be made straight when you are dry." <br> &emsp;&emsp;&emsp; <i>-by African Proverb</i> 
+ 4.  "There are some defeats more triumphant than victories." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
