@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Person to person, moment to moment, as we love, we change the world." <br> &emsp;&emsp;&emsp; <i>-by Samahria Lyte Kaufman</i> 
+ 1.  "Who would have guessed it possible that waiting is sustainable. A place with its own harvest." <br> &emsp;&emsp;&emsp; <i>-by Kay Ryan</i> 
 
- 2.  "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has." <br> &emsp;&emsp;&emsp; <i>-by Margaret Mead</i> 
+ 2.  "To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best." <br> &emsp;&emsp;&emsp; <i>-by Margaret Thatcher</i> 
 
- 3.  "It is not giving children more that spoils them; it is giving them more to avoid confrontation." <br> &emsp;&emsp;&emsp; <i>-by John Gray</i> 
+ 3.  "Search others for their virtues, thyself for thy vices." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 
- 4.  "There are some defeats more triumphant than victories." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 4.  "The truth is that all of us attain the greatest success and happiness possible in this life whenever we use our native capacities to their greatest extent." <br> &emsp;&emsp;&emsp; <i>-by Dr. Smiley Blanton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
