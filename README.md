@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Who would have guessed it possible that waiting is sustainable. A place with its own harvest." <br> &emsp;&emsp;&emsp; <i>-by Kay Ryan</i> 
+ 1.  "We are each responsible for our own life - no other person is or even can be." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best." <br> &emsp;&emsp;&emsp; <i>-by Margaret Thatcher</i> 
+ 2.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 3.  "Search others for their virtues, thyself for thy vices." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 3.  "Dive into the sea of thought, and find there pearls beyond price." <br> &emsp;&emsp;&emsp; <i>-by Moses Ibn Ezra</i> 
 
- 4.  "The truth is that all of us attain the greatest success and happiness possible in this life whenever we use our native capacities to their greatest extent." <br> &emsp;&emsp;&emsp; <i>-by Dr. Smiley Blanton</i> 
+ 4.  "Do definite good; first of all to yourself, then to definite persons." <br> &emsp;&emsp;&emsp; <i>-by John Lancaster Spalding</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
