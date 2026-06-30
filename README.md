@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are each responsible for our own life - no other person is or even can be." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "I guess what I'm trying to say is, I don't think you can measure life in terms of years. I think longevity doesn't necessarily have anything to do with happiness. I mean happiness comes from facing challenges and going out on a limb and taking risks. If you're not willing to take a risk for something you really care about, you might as well be dead." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 2.  "People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 2.  "To accomplish our destiny it is not enough to merely guard prudently against road accidents. We must also cover before nightfall the distance assigned to each of us." <br> &emsp;&emsp;&emsp; <i>-by Alexis Carrel</i> 
 
- 3.  "Dive into the sea of thought, and find there pearls beyond price." <br> &emsp;&emsp;&emsp; <i>-by Moses Ibn Ezra</i> 
+ 3.  "If suffer we must, let's suffer on the heights." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "Do definite good; first of all to yourself, then to definite persons." <br> &emsp;&emsp;&emsp; <i>-by John Lancaster Spalding</i> 
+ 4.  "Tradition is a guide and not a jailer." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
