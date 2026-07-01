@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I guess what I'm trying to say is, I don't think you can measure life in terms of years. I think longevity doesn't necessarily have anything to do with happiness. I mean happiness comes from facing challenges and going out on a limb and taking risks. If you're not willing to take a risk for something you really care about, you might as well be dead." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 1.  "It's always been about the experience of life and of not being passive. If something so excites my curiosty, I want to go there, be a part of whatever it is that's either pushing me or pulling me toward it. That desire for experience has made me very rich in life experience." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
 
- 2.  "To accomplish our destiny it is not enough to merely guard prudently against road accidents. We must also cover before nightfall the distance assigned to each of us." <br> &emsp;&emsp;&emsp; <i>-by Alexis Carrel</i> 
+ 2.  "Feet, why do I need them if I have wings to fly?" <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
 
- 3.  "If suffer we must, let's suffer on the heights." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "One thing is clear to me. You can't know everything you'd like to know. You can't do everything you'd like to do. You can't read everything you'd like to read. You must hold onto some things and let go of others. Learning to make that choice is one of the big lessons of this life." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "Tradition is a guide and not a jailer." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "Every artist was first an amateur." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
