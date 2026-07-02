@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's always been about the experience of life and of not being passive. If something so excites my curiosty, I want to go there, be a part of whatever it is that's either pushing me or pulling me toward it. That desire for experience has made me very rich in life experience." <br> &emsp;&emsp;&emsp; <i>-by Tish Grier</i> 
+ 1.  "To achieve great things we must live as though we were never going to die." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
 
- 2.  "Feet, why do I need them if I have wings to fly?" <br> &emsp;&emsp;&emsp; <i>-by Frida Kahlo</i> 
+ 2.  "Truth is the only safe ground to stand upon." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
 
- 3.  "One thing is clear to me. You can't know everything you'd like to know. You can't do everything you'd like to do. You can't read everything you'd like to read. You must hold onto some things and let go of others. Learning to make that choice is one of the big lessons of this life." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "If you bow at all, bow low." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Every artist was first an amateur." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Water is the most neglected nutrient in your diet but one of the most vital." <br> &emsp;&emsp;&emsp; <i>-by Kelly Barton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
