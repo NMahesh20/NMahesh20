@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To achieve great things we must live as though we were never going to die." <br> &emsp;&emsp;&emsp; <i>-by Marquis de Vauvenargues</i> 
+ 1.  "Some cupid kills with arrows, some with traps." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 2.  "Truth is the only safe ground to stand upon." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Cady Stanton</i> 
+ 2.  "Even writers need relief from words." <br> &emsp;&emsp;&emsp; <i>-by Sarah Vowell</i> 
 
- 3.  "If you bow at all, bow low." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "You must dare to disassociate yourself from those who would delay your journey... Leave, depart, if not physically, then mentally. Go your own way, quietly, undramatically, and venture toward trueness at last." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
 
- 4.  "Water is the most neglected nutrient in your diet but one of the most vital." <br> &emsp;&emsp;&emsp; <i>-by Kelly Barton</i> 
+ 4.  "It is your work in life that is the ultimate seduction." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
