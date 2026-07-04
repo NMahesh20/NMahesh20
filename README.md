@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Some cupid kills with arrows, some with traps." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 1.  "You can't be angry with God and not believe in him at the same time." <br> &emsp;&emsp;&emsp; <i>-by Sara B. Cooper</i> 
 
- 2.  "Even writers need relief from words." <br> &emsp;&emsp;&emsp; <i>-by Sarah Vowell</i> 
+ 2.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
 
- 3.  "You must dare to disassociate yourself from those who would delay your journey... Leave, depart, if not physically, then mentally. Go your own way, quietly, undramatically, and venture toward trueness at last." <br> &emsp;&emsp;&emsp; <i>-by Vernon Howard</i> 
+ 3.  "If you want to see what children can do, you must stop giving them things." <br> &emsp;&emsp;&emsp; <i>-by Norman Douglas</i> 
 
- 4.  "It is your work in life that is the ultimate seduction." <br> &emsp;&emsp;&emsp; <i>-by Pablo Picasso</i> 
+ 4.  "Food is the most primitive form of comfort." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
