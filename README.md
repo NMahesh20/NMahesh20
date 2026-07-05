@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can't be angry with God and not believe in him at the same time." <br> &emsp;&emsp;&emsp; <i>-by Sara B. Cooper</i> 
+ 1.  "It's not the will to win that matters...everyone has that. It's the will to prepare to win that matters." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
 
- 2.  "My momma always said life was like a box of chocolates. You never know what you're gonna get." <br> &emsp;&emsp;&emsp; <i>-by Winston Groom</i> 
+ 2.  "Love isn't a decision. It's a feeling. If we could decide who we loved, it would be much simpler, but much less magical." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 3.  "If you want to see what children can do, you must stop giving them things." <br> &emsp;&emsp;&emsp; <i>-by Norman Douglas</i> 
+ 3.  "How much easier it is to be critical than to be correct." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 4.  "Food is the most primitive form of comfort." <br> &emsp;&emsp;&emsp; <i>-by Sheila Graham</i> 
+ 4.  "He who postpones the hour of living rightly is like the rustic who waits for the river to run out before he crosses." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
