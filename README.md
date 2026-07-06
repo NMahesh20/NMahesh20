@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's not the will to win that matters...everyone has that. It's the will to prepare to win that matters." <br> &emsp;&emsp;&emsp; <i>-by Paul "Bear" Bryant</i> 
+ 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Love isn't a decision. It's a feeling. If we could decide who we loved, it would be much simpler, but much less magical." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 2.  "Desire, ask, believe, receive." <br> &emsp;&emsp;&emsp; <i>-by Stella Terrill Mann</i> 
 
- 3.  "How much easier it is to be critical than to be correct." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
+ 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
 
- 4.  "He who postpones the hour of living rightly is like the rustic who waits for the river to run out before he crosses." <br> &emsp;&emsp;&emsp; <i>-by Horace</i> 
+ 4.  "The great thing about a computer notebook is that no matter how much you stuff into it, it doesn't get bigger or heavier." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
