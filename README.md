@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We all flow from one fountain Soul. All are expressions of one Love. God does not appear, and flow out, only from narrow chinks and round bored wells here and there in favored races and places, but He flows in grand undivided currents, shoreless and boundless over creeds and forms and all kinds of civilizations and peoples and beasts, saturating all and fountainizing all." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "When I was in college, I remember fearing that the dreary grind of adulthood would feature infinitely more existential dread than frat parties had, but the opposite has been true for me. I'm much less likely to feel that gnawing fear of aimlessness and nihilism than I used to be and that's partly because education gave me job opportunities, but it's mostly because education gave me perspective and context." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Desire, ask, believe, receive." <br> &emsp;&emsp;&emsp; <i>-by Stella Terrill Mann</i> 
+ 2.  "We read frequently if unknowingly, in quest of a mind more original than our own." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
 
- 3.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
+ 3.  "Generosity with strings is not generosity; It is a deal." <br> &emsp;&emsp;&emsp; <i>-by Marya Mannes</i> 
 
- 4.  "The great thing about a computer notebook is that no matter how much you stuff into it, it doesn't get bigger or heavier." <br> &emsp;&emsp;&emsp; <i>-by Bill Gates</i> 
+ 4.  "Doubt whom you will, but never yourself." <br> &emsp;&emsp;&emsp; <i>-by Christine Bovee</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
