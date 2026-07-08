@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When I was in college, I remember fearing that the dreary grind of adulthood would feature infinitely more existential dread than frat parties had, but the opposite has been true for me. I'm much less likely to feel that gnawing fear of aimlessness and nihilism than I used to be and that's partly because education gave me job opportunities, but it's mostly because education gave me perspective and context." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "You've got to find what you love and that is as true for work as it is for lovers. Your work is going to fill a large part of your life and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you've found it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "We read frequently if unknowingly, in quest of a mind more original than our own." <br> &emsp;&emsp;&emsp; <i>-by Harold Bloom</i> 
+ 2.  "Those who seek consolation in existing churches often pay for their peace of mind with a tacit agreement to ignore a great deal of what is known about the way the world works." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
 
- 3.  "Generosity with strings is not generosity; It is a deal." <br> &emsp;&emsp;&emsp; <i>-by Marya Mannes</i> 
+ 3.  "To grow mature is to separate more distinctly, to connect more closely." <br> &emsp;&emsp;&emsp; <i>-by Hugo Von Hofmannsthal</i> 
 
- 4.  "Doubt whom you will, but never yourself." <br> &emsp;&emsp;&emsp; <i>-by Christine Bovee</i> 
+ 4.  "I have a right to my anger, and I don't want anybody telling me I shouldn't be, that it's not nice to be, and that something's wrong with me because I get angry." <br> &emsp;&emsp;&emsp; <i>-by Maxine Waters</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
