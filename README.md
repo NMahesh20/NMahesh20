@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You've got to find what you love and that is as true for work as it is for lovers. Your work is going to fill a large part of your life and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what what you do. If you haven't found it yet, keep looking and don't settle. As with all matters of the heart, you'll know when you've found it." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "There is nothing like the razor sharp tongue of a good friend to cut through the lies we tell ourselves." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 2.  "Those who seek consolation in existing churches often pay for their peace of mind with a tacit agreement to ignore a great deal of what is known about the way the world works." <br> &emsp;&emsp;&emsp; <i>-by Mihaly Csikszentmihalyi</i> 
+ 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
 
- 3.  "To grow mature is to separate more distinctly, to connect more closely." <br> &emsp;&emsp;&emsp; <i>-by Hugo Von Hofmannsthal</i> 
+ 3.  "There's no easy way out. If there were, I would have bought it. And believe me, it would be one of my favorite things!" <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "I have a right to my anger, and I don't want anybody telling me I shouldn't be, that it's not nice to be, and that something's wrong with me because I get angry." <br> &emsp;&emsp;&emsp; <i>-by Maxine Waters</i> 
+ 4.  "Calendars are for careful people, not passionate ones." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
