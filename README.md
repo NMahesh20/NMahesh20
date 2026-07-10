@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is nothing like the razor sharp tongue of a good friend to cut through the lies we tell ourselves." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 1.  "If we all did the things we are capable of doing, we would literally astound ourselves." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 
- 2.  "My grandfather once told me that there were two kinds of people: those who do the work and those who take the credit. He told me to try to be in the first group; there was much less competition." <br> &emsp;&emsp;&emsp; <i>-by Indira Gandhi</i> 
+ 2.  "Character is the basis of happiness and happiness the sanction of character." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
 
- 3.  "There's no easy way out. If there were, I would have bought it. And believe me, it would be one of my favorite things!" <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "The courage to be is the courage to accept oneself, in spite of being unacceptable." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
 
- 4.  "Calendars are for careful people, not passionate ones." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
+ 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
