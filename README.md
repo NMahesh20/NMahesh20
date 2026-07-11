@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If we all did the things we are capable of doing, we would literally astound ourselves." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 1.  "It is impossible to live without failing at something, unless you live so cautiously that you might as well not lived at all. In which case, you've failed by default." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "Character is the basis of happiness and happiness the sanction of character." <br> &emsp;&emsp;&emsp; <i>-by George Santayana</i> 
+ 2.  "You can go a long way with bad legs and a good head." <br> &emsp;&emsp;&emsp; <i>-by Gavin McDonald</i> 
 
- 3.  "The courage to be is the courage to accept oneself, in spite of being unacceptable." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
+ 3.  "You are going to let the fear of poverty govern your life and your reward will be that you will eat, but you will not live." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 4.  "[Long hair] is considered bohemian, which may be why I grew it, but I keep it long because I love the way it feels, part cloak, part fan, part mane, part security blanket." <br> &emsp;&emsp;&emsp; <i>-by Marge Piercy</i> 
+ 4.  "There was an immeasurable distance between the quick and the dead: they did not seem to belong to the same species; and it was strange to think that but a little while before they had spoken and moved and eaten and laughed." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
