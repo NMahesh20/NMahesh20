@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is impossible to live without failing at something, unless you live so cautiously that you might as well not lived at all. In which case, you've failed by default." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "The refreshing pleasure from the first view of nature, after the pain of illness, and the confinement of a sick-chamber, is above the conceptions, as well as the descriptions, of those in health." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "You can go a long way with bad legs and a good head." <br> &emsp;&emsp;&emsp; <i>-by Gavin McDonald</i> 
+ 2.  "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "You are going to let the fear of poverty govern your life and your reward will be that you will eat, but you will not live." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 3.  "Always render more and better service than is expected of you, no matter what your task may be." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 4.  "There was an immeasurable distance between the quick and the dead: they did not seem to belong to the same species; and it was strange to think that but a little while before they had spoken and moved and eaten and laughed." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 4.  "A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
