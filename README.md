@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The refreshing pleasure from the first view of nature, after the pain of illness, and the confinement of a sick-chamber, is above the conceptions, as well as the descriptions, of those in health." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "See, that's all you're thinking about, is winning. You're confirming your sense of self- worth through outward reward instead of through inner appreciation." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
 
- 2.  "For what do we live, but to make sport for our neighbours, and laugh at them in our turn?" <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Live always in the best company when you read." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
 
- 3.  "Always render more and better service than is expected of you, no matter what your task may be." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 3.  "Do not speak of your happiness to one less fortunate than yourself." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 
- 4.  "A person has three choices in life. You can swim against the tide and get exhausted, or you can tread water and let the tide sweep you away, or you can swim with the tide, and let it take you where it wants you to go." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 4.  "So if it seems that some of what I'll have to say in the pages to come doesn't reflect the mellowing of age, that's only because I've never found that life and memories respond to time the way that tobacco does." <br> &emsp;&emsp;&emsp; <i>-by Caleb Carr</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
