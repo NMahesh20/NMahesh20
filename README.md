@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "See, that's all you're thinking about, is winning. You're confirming your sense of self- worth through outward reward instead of through inner appreciation." <br> &emsp;&emsp;&emsp; <i>-by Barbara Hall</i> 
+ 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Live always in the best company when you read." <br> &emsp;&emsp;&emsp; <i>-by Sydney Smith</i> 
+ 2.  "Perseverance does not equal worthiness." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Kaplow</i> 
 
- 3.  "Do not speak of your happiness to one less fortunate than yourself." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 3.  "I take it as a man's duty to restrain himself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 4.  "So if it seems that some of what I'll have to say in the pages to come doesn't reflect the mellowing of age, that's only because I've never found that life and memories respond to time the way that tobacco does." <br> &emsp;&emsp;&emsp; <i>-by Caleb Carr</i> 
+ 4.  "You can't help someone get up a hill without getting closer to the top yourself." <br> &emsp;&emsp;&emsp; <i>-by H. Norman Schwarzkopf</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
