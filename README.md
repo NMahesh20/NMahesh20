@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Doesn't matter what a person's name is as long as he behaves himself." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "If we are to learn to improve the quality of the decisions we make, we need to accept the mysterious nature of our snap judgments." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
 
- 2.  "Perseverance does not equal worthiness." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Kaplow</i> 
+ 2.  "Waste no more time talking about great souls and how they should be. Become one yourself!" <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 3.  "I take it as a man's duty to restrain himself." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "Our own physical body possesses a wisdom which we who inhabit the body lack." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 4.  "You can't help someone get up a hill without getting closer to the top yourself." <br> &emsp;&emsp;&emsp; <i>-by H. Norman Schwarzkopf</i> 
+ 4.  "The reward of one duty is the power to fulfill another." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
