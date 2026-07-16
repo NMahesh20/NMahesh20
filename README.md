@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If we are to learn to improve the quality of the decisions we make, we need to accept the mysterious nature of our snap judgments." <br> &emsp;&emsp;&emsp; <i>-by Malcolm Gladwell</i> 
+ 1.  "While I am overwhelmingly proud of work that I, believe me, did not do on my own, I can assure you that awards have very little bearing on my own personal happiness, my own sense of well-being and purpose in the world." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 2.  "Waste no more time talking about great souls and how they should be. Become one yourself!" <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 2.  "Fresh clean sheets are one of life's small joys." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "Our own physical body possesses a wisdom which we who inhabit the body lack." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 3.  "A book burrows into your life in a very profound way because the experience of reading is not passive." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 4.  "The reward of one duty is the power to fulfill another." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "Our patience will achieve more than our force." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
