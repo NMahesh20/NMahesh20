@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We judge ourselves by what we feel capable of doing, while others judge us by what we have already done." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 1.  "Your child can’t hurt you if you don’t accept the hurt. Let it go." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "To play it safe is not to play." <br> &emsp;&emsp;&emsp; <i>-by Robert Altman</i> 
+ 2.  "The guy who takes a chance, who walks the line between the known and unknown, who is unafraid of failure, will succeed." <br> &emsp;&emsp;&emsp; <i>-by Gordon Parks</i> 
 
- 3.  "Thus, in a real sense, I am constantly writing autobiography, but I have to turn it into fiction in order to give it credibility." <br> &emsp;&emsp;&emsp; <i>-by Katherine Paterson</i> 
+ 3.  "One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
 
- 4.  "Things are seldom what they seem, skim milk masquerades as cream." <br> &emsp;&emsp;&emsp; <i>-by W. S. Gilbert</i> 
+ 4.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
