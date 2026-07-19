@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Your child can’t hurt you if you don’t accept the hurt. Let it go." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "If you really want something, and really work hard, and take advantage of opportunities, and never give up, you will find a way." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "The guy who takes a chance, who walks the line between the known and unknown, who is unafraid of failure, will succeed." <br> &emsp;&emsp;&emsp; <i>-by Gordon Parks</i> 
+ 2.  "Never do today what you can put off till tomorrow. Delay may give clearer light as to what is best to be done." <br> &emsp;&emsp;&emsp; <i>-by Aaron Burr</i> 
 
- 3.  "One cannot conceive anything so strange and so implausible that it has not already been said by one philosopher or another." <br> &emsp;&emsp;&emsp; <i>-by Rene Descartes</i> 
+ 3.  "I reached for sleep and drew it round me like a blanket muffling pain and thought together in the merciful dark." <br> &emsp;&emsp;&emsp; <i>-by Mary Stewart</i> 
 
- 4.  "Never grow a wishbone, daughter, where your backbone ought to be." <br> &emsp;&emsp;&emsp; <i>-by Clementine Paddleford</i> 
+ 4.  "You don't have to cook fancy or complicated masterpieces - just good food from fresh ingredients." <br> &emsp;&emsp;&emsp; <i>-by Julia Child</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
