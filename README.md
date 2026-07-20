@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If you really want something, and really work hard, and take advantage of opportunities, and never give up, you will find a way." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
+ 1.  "Nobody in life gets exactly what they thought they were going to get. But if you work really hard and you’re kind, amazing things will happen." <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
 
- 2.  "Never do today what you can put off till tomorrow. Delay may give clearer light as to what is best to be done." <br> &emsp;&emsp;&emsp; <i>-by Aaron Burr</i> 
+ 2.  "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change." <br> &emsp;&emsp;&emsp; <i>-by Charles Darwin</i> 
 
- 3.  "I reached for sleep and drew it round me like a blanket muffling pain and thought together in the merciful dark." <br> &emsp;&emsp;&emsp; <i>-by Mary Stewart</i> 
+ 3.  "Before you agree to do anything that might add even the smallest amount of stress to your life, ask yourself: What is my truest intention? Give yourself time to let a yes resound within you. When it's right, I guarantee that your entire body will feel it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 4.  "You don't have to cook fancy or complicated masterpieces - just good food from fresh ingredients." <br> &emsp;&emsp;&emsp; <i>-by Julia Child</i> 
+ 4.  "We stand for freedom. That is our conviction for ourselves; that is our only commitment to others." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
