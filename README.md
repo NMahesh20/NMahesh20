@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nobody in life gets exactly what they thought they were going to get. But if you work really hard and you’re kind, amazing things will happen." <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
+ 1.  "The meek shall inherit the earth? Well... I don't think so. If by meek you mean friendly and introverted, okay maybe, but if by meek you mean unwilling to take a chance, then never. If I was a betting man and I had to wager on who I thought would inherit the earth, my money would be on the curious." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
 
- 2.  "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change." <br> &emsp;&emsp;&emsp; <i>-by Charles Darwin</i> 
+ 2.  "The art of dining well is no slight art, the pleasure not a slight pleasure." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 
- 3.  "Before you agree to do anything that might add even the smallest amount of stress to your life, ask yourself: What is my truest intention? Give yourself time to let a yes resound within you. When it's right, I guarantee that your entire body will feel it." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 3.  "To keep the heart unwrinkled, to be hopeful, kindly, cheerful, reverent - that is to triumph over old age." <br> &emsp;&emsp;&emsp; <i>-by Thomas Bailey Aldrich</i> 
 
- 4.  "We stand for freedom. That is our conviction for ourselves; that is our only commitment to others." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 4.  "The married are those who have taken the terrible risk of intimacy and, having taken it, know life without intimacy to be impossible." <br> &emsp;&emsp;&emsp; <i>-by Carolyn Heilbrun</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
