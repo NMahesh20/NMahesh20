@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The meek shall inherit the earth? Well... I don't think so. If by meek you mean friendly and introverted, okay maybe, but if by meek you mean unwilling to take a chance, then never. If I was a betting man and I had to wager on who I thought would inherit the earth, my money would be on the curious." <br> &emsp;&emsp;&emsp; <i>-by Jim Coudal</i> 
+ 1.  "One of the most sublime experiences we can ever have is to wake up feeling healthy after we have been sick." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Harold Kushner</i> 
 
- 2.  "The art of dining well is no slight art, the pleasure not a slight pleasure." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 2.  "Vigorous let us be in attaining our ends, and mild in our method of attainment." <br> &emsp;&emsp;&emsp; <i>-by Lord Newborough</i> 
 
- 3.  "To keep the heart unwrinkled, to be hopeful, kindly, cheerful, reverent - that is to triumph over old age." <br> &emsp;&emsp;&emsp; <i>-by Thomas Bailey Aldrich</i> 
+ 3.  "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
 
- 4.  "The married are those who have taken the terrible risk of intimacy and, having taken it, know life without intimacy to be impossible." <br> &emsp;&emsp;&emsp; <i>-by Carolyn Heilbrun</i> 
+ 4.  "Anger makes dull men witty, but it keeps them poor." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
