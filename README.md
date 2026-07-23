@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One of the most sublime experiences we can ever have is to wake up feeling healthy after we have been sick." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Harold Kushner</i> 
+ 1.  "When weight loss becomes a goal in your life, eating right and exercising are just two pieces of the puzzle. Figuring out why you've put on the extra weight is the hardest part." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
 
- 2.  "Vigorous let us be in attaining our ends, and mild in our method of attainment." <br> &emsp;&emsp;&emsp; <i>-by Lord Newborough</i> 
+ 2.  "The best cure for worry, depression, melancholy, brooding, is to go deliberately forth and try to lift with one's sympathy the gloom of somebody else." <br> &emsp;&emsp;&emsp; <i>-by Arnold Bennett</i> 
 
- 3.  "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them." <br> &emsp;&emsp;&emsp; <i>-by Charles Caleb Colton</i> 
+ 3.  "He who would leap high must take a long run." <br> &emsp;&emsp;&emsp; <i>-by Danish Proverb</i> 
 
- 4.  "Anger makes dull men witty, but it keeps them poor." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
+ 4.  "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and if it were possible, to speak a few reasonable words." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
