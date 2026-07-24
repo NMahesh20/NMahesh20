@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When weight loss becomes a goal in your life, eating right and exercising are just two pieces of the puzzle. Figuring out why you've put on the extra weight is the hardest part." <br> &emsp;&emsp;&emsp; <i>-by Ali Vincent</i> 
+ 1.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
 
- 2.  "The best cure for worry, depression, melancholy, brooding, is to go deliberately forth and try to lift with one's sympathy the gloom of somebody else." <br> &emsp;&emsp;&emsp; <i>-by Arnold Bennett</i> 
+ 2.  "My whole career can be summed up with 'Ignorance is bliss.' When you do not know better, you do not really worry about failing." <br> &emsp;&emsp;&emsp; <i>-by Jeff Foxworthy</i> 
 
- 3.  "He who would leap high must take a long run." <br> &emsp;&emsp;&emsp; <i>-by Danish Proverb</i> 
+ 3.  "Confidence is the sexiest thing a woman can have. It's much sexier than any body part." <br> &emsp;&emsp;&emsp; <i>-by Aimee Mullins</i> 
 
- 4.  "One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and if it were possible, to speak a few reasonable words." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "Honest differences are often a healthy sign of progress." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
