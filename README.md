@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is easier to live through someone else than to become complete yourself." <br> &emsp;&emsp;&emsp; <i>-by Betty Friedan</i> 
+ 1.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 2.  "My whole career can be summed up with 'Ignorance is bliss.' When you do not know better, you do not really worry about failing." <br> &emsp;&emsp;&emsp; <i>-by Jeff Foxworthy</i> 
+ 2.  "You can be confident and secure and know that you do a good job at what you do. But you don't know to be arrogant about it." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
 
- 3.  "Confidence is the sexiest thing a woman can have. It's much sexier than any body part." <br> &emsp;&emsp;&emsp; <i>-by Aimee Mullins</i> 
+ 3.  "You can discover more about a person in an hour of play than in a year of conversation." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 
- 4.  "Honest differences are often a healthy sign of progress." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
