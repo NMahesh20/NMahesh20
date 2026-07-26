@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "He who is drowned is not troubled by the rain." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
 
- 2.  "You can be confident and secure and know that you do a good job at what you do. But you don't know to be arrogant about it." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 2.  "A way to a man's heart is through his stomach, that shit true as gold. You put some love in your food and a fool can taste it." <br> &emsp;&emsp;&emsp; <i>-by Raelle Tucker</i> 
 
- 3.  "You can discover more about a person in an hour of play than in a year of conversation." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 3.  "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 4.  "When the habitually even-tempered suddenly fly into a passion, that explosion is apt to be more impressive than the outburst of the most violent amongst us." <br> &emsp;&emsp;&emsp; <i>-by Margery Allingham</i> 
+ 4.  "Our envy of others devours us most of all." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
