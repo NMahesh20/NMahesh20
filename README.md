@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We have an opportunity for everyone in the world to have access to all the world's information. This has never before been possible. Why is ubiquitous information so profound? It's a tremendous equalizer. Information is power." <br> &emsp;&emsp;&emsp; <i>-by Eric Schmidt</i> 
+ 1.  "But in the end one needs more courage to live than to kill himself." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 2.  "A way to a man's heart is through his stomach, that shit true as gold. You put some love in your food and a fool can taste it." <br> &emsp;&emsp;&emsp; <i>-by Raelle Tucker</i> 
+ 2.  "Get happiness out of your work or you may never know what happiness is." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
 
- 3.  "The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 3.  "When you have a number of disagreeable duties to perform, always do the most disagreeable first." <br> &emsp;&emsp;&emsp; <i>-by Josiah Quincy</i> 
 
- 4.  "Our envy of others devours us most of all." <br> &emsp;&emsp;&emsp; <i>-by Alexander Solzhenitsyn</i> 
+ 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
