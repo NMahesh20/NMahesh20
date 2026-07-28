@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "But in the end one needs more courage to live than to kill himself." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 1.  "There's no correlation between creativity and equipment ownership. None. Zilch. Nada. Actually, as the artist gets more into his thing, and as he gets more successful, his number of tools tends to go down. He knows what works for him. Expending mental energy on stuff wastes time." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "Get happiness out of your work or you may never know what happiness is." <br> &emsp;&emsp;&emsp; <i>-by Elbert Hubbard</i> 
+ 2.  "The more you chase money, the harder it is to catch it." <br> &emsp;&emsp;&emsp; <i>-by Mike Tatum</i> 
 
- 3.  "When you have a number of disagreeable duties to perform, always do the most disagreeable first." <br> &emsp;&emsp;&emsp; <i>-by Josiah Quincy</i> 
+ 3.  "Character - the willingness to accept responsibility for one's own life - is the source from which self respect springs." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
 
- 4.  "I would rather have a mind opened by wonder than one closed by belief." <br> &emsp;&emsp;&emsp; <i>-by Gerry Spence</i> 
+ 4.  "What you don't see with your eyes, don't invent with your mouth." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
