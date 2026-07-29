@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's no correlation between creativity and equipment ownership. None. Zilch. Nada. Actually, as the artist gets more into his thing, and as he gets more successful, his number of tools tends to go down. He knows what works for him. Expending mental energy on stuff wastes time." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "To be claimed as a good, though in an improper style, is at least better than being rejected as no good at all." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "The more you chase money, the harder it is to catch it." <br> &emsp;&emsp;&emsp; <i>-by Mike Tatum</i> 
+ 2.  "It seems the misfortune of one can plow a deeper furrow in the heart than the misfortune of millions." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
 
- 3.  "Character - the willingness to accept responsibility for one's own life - is the source from which self respect springs." <br> &emsp;&emsp;&emsp; <i>-by Joan Didion</i> 
+ 3.  "Your best shot at happiness, self-worth and personal satisfaction - the things that constitute real success - is not in earning as much as you can but in performing as well as you can something that you consider worthwhile." <br> &emsp;&emsp;&emsp; <i>-by William Raspberry</i> 
 
- 4.  "What you don't see with your eyes, don't invent with your mouth." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "Enjoyment is not a goal, it is a feeling that accompanies important ongoing activity." <br> &emsp;&emsp;&emsp; <i>-by Paul Goodman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
