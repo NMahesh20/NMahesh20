@@ -8,7 +8,13 @@ My persona falls under INFJ-A, or as per the <a href="https://bigfive-test.com/r
 
 ### 📫 Wanna reach me
 You can ping me at any of the socials that you find at this page. I am not super active, but I will reply when I see it.
-<div align="center"><a href="https://discord.gg"><img src="./Assets/Papirus-Team-Papirus-Apps-Discord.svg" height="50" width="50"></a>&nbsp;&nbsp;<a href="https://instagram.com"><img src="./Assets/Papirus-Team-Papirus-Apps-Instagram.svg" height="50" width="50"></a>&nbsp;&nbsp;<a href="https://twitter.com"><img src="./Assets/Papirus-Team-Papirus-Apps-Twitter.svg" height="50" width="50"></a>&nbsp;&nbsp;<a href="https://linkedin.com"><img src="./Assets/in.png" height="50" width="50"></a></div>
+
+<div align="center">
+
+| <a href="https://discord.gg"><img src="./Assets/Papirus-Team-Papirus-Apps-Discord.svg" height="50" width="50"></a> | <a href="https://instagram.com"><img src="./Assets/Papirus-Team-Papirus-Apps-Instagram.svg" height="50" width="50"></a> | <a href="https://twitter.com"><img src="./Assets/Papirus-Team-Papirus-Apps-Twitter.svg" height="50" width="50"></a> | <a href="https://linkedin.com"><img src="./Assets/in.png" height="50" width="50"></a> |
+| :---: | :---: | :---: | :---: |
+
+</div>
 
 
 
