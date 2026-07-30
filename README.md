@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To be claimed as a good, though in an improper style, is at least better than being rejected as no good at all." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "It's noble to want to confess, but if the results are just damage and pain, that's not noble. It's selfish." <br> &emsp;&emsp;&emsp; <i>-by Carol Green</i> 
 
- 2.  "It seems the misfortune of one can plow a deeper furrow in the heart than the misfortune of millions." <br> &emsp;&emsp;&emsp; <i>-by Kirby Larson</i> 
+ 2.  "Never regret something that once made you smile." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
 
- 3.  "Your best shot at happiness, self-worth and personal satisfaction - the things that constitute real success - is not in earning as much as you can but in performing as well as you can something that you consider worthwhile." <br> &emsp;&emsp;&emsp; <i>-by William Raspberry</i> 
+ 3.  "Once you can laugh at your own weaknesses, you can move forward. Comedy breaks down walls. It opens up people. If you're good, you can fill up those openings with something positive. Maybe... combat some of the ugliness in the world." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
 
- 4.  "Enjoyment is not a goal, it is a feeling that accompanies important ongoing activity." <br> &emsp;&emsp;&emsp; <i>-by Paul Goodman</i> 
+ 4.  "The longest journey is the journey inward." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
