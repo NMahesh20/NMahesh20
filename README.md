@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's noble to want to confess, but if the results are just damage and pain, that's not noble. It's selfish." <br> &emsp;&emsp;&emsp; <i>-by Carol Green</i> 
+ 1.  "You don’t have to specialize - do everything that you love and then, at some time, the future will come together for you in some form." <br> &emsp;&emsp;&emsp; <i>-by Francis Ford Coppola</i> 
 
- 2.  "Never regret something that once made you smile." <br> &emsp;&emsp;&emsp; <i>-by Amber Deckers</i> 
+ 2.  "If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency." <br> &emsp;&emsp;&emsp; <i>-by Sir Joshua Reynolds</i> 
 
- 3.  "Once you can laugh at your own weaknesses, you can move forward. Comedy breaks down walls. It opens up people. If you're good, you can fill up those openings with something positive. Maybe... combat some of the ugliness in the world." <br> &emsp;&emsp;&emsp; <i>-by Goldie Hawn</i> 
+ 3.  "Just to be is a blessing. Just to live is holy." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Abraham Heschel</i> 
 
- 4.  "The longest journey is the journey inward." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
+ 4.  "When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
