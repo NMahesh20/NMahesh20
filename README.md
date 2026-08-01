@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You don’t have to specialize - do everything that you love and then, at some time, the future will come together for you in some form." <br> &emsp;&emsp;&emsp; <i>-by Francis Ford Coppola</i> 
+ 1.  "That is the American story. People, just like you, following their passions, determined to meet the times on their own terms. They weren't doing it for the money. Their titles weren't fancy. But they changed the course of history and so can you." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "If you have great talents, industry will improve them; if you have but moderate abilities, industry will supply their deficiency." <br> &emsp;&emsp;&emsp; <i>-by Sir Joshua Reynolds</i> 
+ 2.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
 
- 3.  "Just to be is a blessing. Just to live is holy." <br> &emsp;&emsp;&emsp; <i>-by Rabbi Abraham Heschel</i> 
+ 3.  "One thing life has taught me: if you are interested, you never have to look for new interests. They come to you. When you are genuinely interested in one thing, it will always lead to something else." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 
- 4.  "When you have got an elephant by the hind leg, and he is trying to run away, it's best to let him run." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 4.  "I have a problem about being nearly sixty: I keep waking up in the morning and thinking I'm thirty-one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
