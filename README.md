@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "That is the American story. People, just like you, following their passions, determined to meet the times on their own terms. They weren't doing it for the money. Their titles weren't fancy. But they changed the course of history and so can you." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "Confidence is 10% hard work and 90% delusion." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
 
- 2.  "The most important thing in life is to learn how to give out love, and to let it come in." <br> &emsp;&emsp;&emsp; <i>-by Morrie Schwartz</i> 
+ 2.  "Everyone in the world was programmed by the place they were born, hemmed in by their beliefs, but you had to at least try to grow your own brain" <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 3.  "One thing life has taught me: if you are interested, you never have to look for new interests. They come to you. When you are genuinely interested in one thing, it will always lead to something else." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 3.  "A gift in season is a double favor to the needy." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 
- 4.  "I have a problem about being nearly sixty: I keep waking up in the morning and thinking I'm thirty-one." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Janeway</i> 
+ 4.  "Stoop and you'll be stepped on; stand tall and you'll be shot at." <br> &emsp;&emsp;&emsp; <i>-by Carlos A. Urbizo</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
