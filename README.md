@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Confidence is 10% hard work and 90% delusion." <br> &emsp;&emsp;&emsp; <i>-by Tina Fey</i> 
+ 1.  "A man who thinks he has a higher purpose can do terrible things, even to those he professes to love." <br> &emsp;&emsp;&emsp; <i>-by Denise Mina</i> 
 
- 2.  "Everyone in the world was programmed by the place they were born, hemmed in by their beliefs, but you had to at least try to grow your own brain" <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
+ 2.  "Women and men have to fight together to change society - and both will benefit... Partnership, not dependence, is the real romance in marriage." <br> &emsp;&emsp;&emsp; <i>-by Muriel Fox</i> 
 
- 3.  "A gift in season is a double favor to the needy." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 3.  "Through all the world there goes one long cry from the heart of the artist: Give me leave to do my utmost." <br> &emsp;&emsp;&emsp; <i>-by Isak Dineson</i> 
 
- 4.  "Stoop and you'll be stepped on; stand tall and you'll be shot at." <br> &emsp;&emsp;&emsp; <i>-by Carlos A. Urbizo</i> 
+ 4.  "There's nothing that keeps its youth,/ So far as I know, but a tree and truth." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
