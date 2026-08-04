@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A man who thinks he has a higher purpose can do terrible things, even to those he professes to love." <br> &emsp;&emsp;&emsp; <i>-by Denise Mina</i> 
+ 1.  "Knowledge is the only instrument of production that is not subject to diminishing returns." <br> &emsp;&emsp;&emsp; <i>-by John Clarke</i> 
 
- 2.  "Women and men have to fight together to change society - and both will benefit... Partnership, not dependence, is the real romance in marriage." <br> &emsp;&emsp;&emsp; <i>-by Muriel Fox</i> 
+ 2.  "You can either hold yourself up to the unrealistic standards of others, or ignore them and concentrate on being happy with yourself as you are." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
 
- 3.  "Through all the world there goes one long cry from the heart of the artist: Give me leave to do my utmost." <br> &emsp;&emsp;&emsp; <i>-by Isak Dineson</i> 
+ 3.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
 
- 4.  "There's nothing that keeps its youth,/ So far as I know, but a tree and truth." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 4.  "Humor is a rubber sword - it allows you to make a point without drawing blood." <br> &emsp;&emsp;&emsp; <i>-by Mary Hirsch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
