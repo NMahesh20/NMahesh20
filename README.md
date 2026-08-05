@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Knowledge is the only instrument of production that is not subject to diminishing returns." <br> &emsp;&emsp;&emsp; <i>-by John Clarke</i> 
+ 1.  "The talent should speak for itself." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "You can either hold yourself up to the unrealistic standards of others, or ignore them and concentrate on being happy with yourself as you are." <br> &emsp;&emsp;&emsp; <i>-by Jeph Jacques</i> 
+ 2.  "There's this big pie in show business, and you physically can't eat the whole pie. If you give everybody a slice of pie, you will still have more than enough. The real trick is not to try to get the whole pie, but to keep the biggest slice." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
 
- 3.  "Getting ahead in a difficult profession requires avid faith in yourself. That is why some people with mediocre talent, but with great inner drive, go much further than people with vastly superior talent." <br> &emsp;&emsp;&emsp; <i>-by Sophia Loren</i> 
+ 3.  "Maps encourage boldness. They're like cryptic love letters. They make anything seem possible." <br> &emsp;&emsp;&emsp; <i>-by Mark Jenkins</i> 
 
- 4.  "Humor is a rubber sword - it allows you to make a point without drawing blood." <br> &emsp;&emsp;&emsp; <i>-by Mary Hirsch</i> 
+ 4.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
