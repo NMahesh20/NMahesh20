@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The talent should speak for itself." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "I love stuff as much as the next guy, but I’ve come to understand that, regardless of the cost of acquiring it, the price of having it is freedom." <br> &emsp;&emsp;&emsp; <i>-by Colleen Wainwright</i> 
 
- 2.  "There's this big pie in show business, and you physically can't eat the whole pie. If you give everybody a slice of pie, you will still have more than enough. The real trick is not to try to get the whole pie, but to keep the biggest slice." <br> &emsp;&emsp;&emsp; <i>-by Jay Leno</i> 
+ 2.  "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 
- 3.  "Maps encourage boldness. They're like cryptic love letters. They make anything seem possible." <br> &emsp;&emsp;&emsp; <i>-by Mark Jenkins</i> 
+ 3.  "When your work speaks for itself, don't interrupt." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
 
- 4.  "You are young, my son, and, as the years go by, time will change and even reverse many of your present opinions. Refrain therefore awhile from setting yourself up as a judge of the highest matters." <br> &emsp;&emsp;&emsp; <i>-by Plato</i> 
+ 4.  "Now I see the secret of the making of the best persons. It is to grow in the open air and to eat and sleep with the earth." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
