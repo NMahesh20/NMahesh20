@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I love stuff as much as the next guy, but I’ve come to understand that, regardless of the cost of acquiring it, the price of having it is freedom." <br> &emsp;&emsp;&emsp; <i>-by Colleen Wainwright</i> 
+ 1.  "My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic. And we’ll change the world." <br> &emsp;&emsp;&emsp; <i>-by Jack Layton</i> 
 
- 2.  "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
+ 2.  "The way to final freedom is within thy self." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Golden Precepts</i> 
 
- 3.  "When your work speaks for itself, don't interrupt." <br> &emsp;&emsp;&emsp; <i>-by Henry J. Kaiser</i> 
+ 3.  "The most important thing is to be whatever you are without shame." <br> &emsp;&emsp;&emsp; <i>-by Rod Steiger</i> 
 
- 4.  "Now I see the secret of the making of the best persons. It is to grow in the open air and to eat and sleep with the earth." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "Never hold discussions with the monkey when the organ grinder is in the room." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
