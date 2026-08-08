@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My friends, love is better than anger. Hope is better than fear. Optimism is better than despair. So let us be loving, hopeful and optimistic. And we’ll change the world." <br> &emsp;&emsp;&emsp; <i>-by Jack Layton</i> 
+ 1.  "Dude, marriage is the 'get out of loneliness free' card in the Monopoly game of life." <br> &emsp;&emsp;&emsp; <i>-by Veronica Pare and Ferrett Steinmetz</i> 
 
- 2.  "The way to final freedom is within thy self." <br> &emsp;&emsp;&emsp; <i>-by The Book of the Golden Precepts</i> 
+ 2.  "You have to be careful who you let define your good." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "The most important thing is to be whatever you are without shame." <br> &emsp;&emsp;&emsp; <i>-by Rod Steiger</i> 
+ 3.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
 
- 4.  "Never hold discussions with the monkey when the organ grinder is in the room." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 4.  "Nothing ever goes away." <br> &emsp;&emsp;&emsp; <i>-by Barry Commoner</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
