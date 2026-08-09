@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Dude, marriage is the 'get out of loneliness free' card in the Monopoly game of life." <br> &emsp;&emsp;&emsp; <i>-by Veronica Pare and Ferrett Steinmetz</i> 
+ 1.  "There is some magic in wealth, which can thus make persons pay their court to it, when it does not even benefit themselves. How strange it is, that a fool or knave, with riches, should be treated with more respect by the world, than a good man, or a wise man in poverty!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "You have to be careful who you let define your good." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "One of the things about equality is not just that you be treated equally to a man, but that you treat yourself equally to the way you treat a man." <br> &emsp;&emsp;&emsp; <i>-by Marlo Thomas</i> 
 
- 3.  "History never looks like history when you are living through it." <br> &emsp;&emsp;&emsp; <i>-by John W. Gardner</i> 
+ 3.  "But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her. Something must and will happen to throw a hero in her way." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "Nothing ever goes away." <br> &emsp;&emsp;&emsp; <i>-by Barry Commoner</i> 
+ 4.  "The true mystery of the world is the visible, not the invisible." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
