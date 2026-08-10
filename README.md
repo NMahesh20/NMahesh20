@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is some magic in wealth, which can thus make persons pay their court to it, when it does not even benefit themselves. How strange it is, that a fool or knave, with riches, should be treated with more respect by the world, than a good man, or a wise man in poverty!" <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "The act of nutrition is not a purely physiological event... The family meal is a formality that cultivates in us... a capacity for sharing, generosity, thoughtfulness, a talent for civilized conversation." <br> &emsp;&emsp;&emsp; <i>-by Francine Du Plessix Gray</i> 
 
- 2.  "One of the things about equality is not just that you be treated equally to a man, but that you treat yourself equally to the way you treat a man." <br> &emsp;&emsp;&emsp; <i>-by Marlo Thomas</i> 
+ 2.  "There is no wisdom without love." <br> &emsp;&emsp;&emsp; <i>-by N. Sri Ram</i> 
 
- 3.  "But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her. Something must and will happen to throw a hero in her way." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "Winning is important to me, but what brings me real joy is the experience of being fully engaged in whatever I'm doing." <br> &emsp;&emsp;&emsp; <i>-by Phil Jackson</i> 
 
- 4.  "The true mystery of the world is the visible, not the invisible." <br> &emsp;&emsp;&emsp; <i>-by Oscar Wilde</i> 
+ 4.  "Toughness doesn't have to come in a pinstriped suit." <br> &emsp;&emsp;&emsp; <i>-by Senator Dianne Feinstein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
