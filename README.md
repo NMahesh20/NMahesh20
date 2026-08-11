@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The act of nutrition is not a purely physiological event... The family meal is a formality that cultivates in us... a capacity for sharing, generosity, thoughtfulness, a talent for civilized conversation." <br> &emsp;&emsp;&emsp; <i>-by Francine Du Plessix Gray</i> 
+ 1.  "To the soul, there is hardly anything more healing than friendship." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
 
- 2.  "There is no wisdom without love." <br> &emsp;&emsp;&emsp; <i>-by N. Sri Ram</i> 
+ 2.  "Patterning your life around other's opinions is nothing more than slavery." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "Winning is important to me, but what brings me real joy is the experience of being fully engaged in whatever I'm doing." <br> &emsp;&emsp;&emsp; <i>-by Phil Jackson</i> 
+ 3.  "The better part of valor is discretion, in the which better part I have saved my life." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "Toughness doesn't have to come in a pinstriped suit." <br> &emsp;&emsp;&emsp; <i>-by Senator Dianne Feinstein</i> 
+ 4.  "We could never learn to be brave and patient, if there were only joy in the world." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
