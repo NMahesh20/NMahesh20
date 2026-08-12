@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To the soul, there is hardly anything more healing than friendship." <br> &emsp;&emsp;&emsp; <i>-by Thomas Moore</i> 
+ 1.  "Ever tried? Ever failed? No Matter, try again, fail again, Fail better." <br> &emsp;&emsp;&emsp; <i>-by Samuel Beckett</i> 
 
- 2.  "Patterning your life around other's opinions is nothing more than slavery." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "Love is everything it's cracked up to be…It really is worth fighting for, being brave for, risking everything for." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
 
- 3.  "The better part of valor is discretion, in the which better part I have saved my life." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "How little a thing can make us happy when we feel that we have earned it." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 4.  "We could never learn to be brave and patient, if there were only joy in the world." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "Everything should be made as simple as possible, but not one bit simpler." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
