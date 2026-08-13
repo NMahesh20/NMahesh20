@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Ever tried? Ever failed? No Matter, try again, fail again, Fail better." <br> &emsp;&emsp;&emsp; <i>-by Samuel Beckett</i> 
+ 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Love is everything it's cracked up to be…It really is worth fighting for, being brave for, risking everything for." <br> &emsp;&emsp;&emsp; <i>-by Erica Jong</i> 
+ 2.  "You don’t need to win every medal to be successful." <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
 
- 3.  "How little a thing can make us happy when we feel that we have earned it." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 3.  "The universe is not hostile, nor yet is it friendly. It is simply indifferent." <br> &emsp;&emsp;&emsp; <i>-by J. H. Holmes</i> 
 
- 4.  "Everything should be made as simple as possible, but not one bit simpler." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 4.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
