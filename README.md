@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "One can dream so much better in a room where there are pretty things." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Love is the ability and willingness to allow those that you care for to be what they choose for themselves without any insistence that they satisfy you." <br> &emsp;&emsp;&emsp; <i>-by Wayne Dyer</i> 
 
- 2.  "You don’t need to win every medal to be successful." <br> &emsp;&emsp;&emsp; <i>-by Jason Fried</i> 
+ 2.  "A good home must be made, not bought." <br> &emsp;&emsp;&emsp; <i>-by Joyce Maynard</i> 
 
- 3.  "The universe is not hostile, nor yet is it friendly. It is simply indifferent." <br> &emsp;&emsp;&emsp; <i>-by J. H. Holmes</i> 
+ 3.  "You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet." <br> &emsp;&emsp;&emsp; <i>-by Franz Kafka</i> 
 
- 4.  "In the business world, the rearview mirror is always clearer than the windshield." <br> &emsp;&emsp;&emsp; <i>-by Warren Buffett</i> 
+ 4.  "Put more trust in nobility of character than in an oath." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
