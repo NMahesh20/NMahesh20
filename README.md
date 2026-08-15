@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Love is the ability and willingness to allow those that you care for to be what they choose for themselves without any insistence that they satisfy you." <br> &emsp;&emsp;&emsp; <i>-by Wayne Dyer</i> 
+ 1.  "Children will adapt to nearly any rule or routine as long as it is consistently enforced within that particular household." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "A good home must be made, not bought." <br> &emsp;&emsp;&emsp; <i>-by Joyce Maynard</i> 
+ 2.  "Nobody will believe in you unless you believe in yourself." <br> &emsp;&emsp;&emsp; <i>-by Liberace</i> 
 
- 3.  "You do not need to leave your room. Remain sitting at your table and listen. Do not even listen, simply wait, be quiet, still and solitary. The world will freely offer itself to you to be unmasked, it has no choice, it will roll in ecstasy at your feet." <br> &emsp;&emsp;&emsp; <i>-by Franz Kafka</i> 
+ 3.  "The reward of a thing well done is to have done it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "Put more trust in nobility of character than in an oath." <br> &emsp;&emsp;&emsp; <i>-by Solon</i> 
+ 4.  "I have enjoyed greatly the second blooming that comes when you finish the life of the emotions and of personal relations; and suddenly find - at the age of fifty, say - that a whole new life has opened before you, filled with things you can think about, study, or read about...It is as if a fresh sap of ideas and thoughts was rising in you." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
