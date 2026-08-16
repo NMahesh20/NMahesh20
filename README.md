@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Children will adapt to nearly any rule or routine as long as it is consistently enforced within that particular household." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "Everything we do really is just a little marker on the long road to death. And sometimes that's overwhelmingly depressing to me, and sometimes it makes me feel kinship and forgiveness. We've all got the same ending to the story. The way we make that story more elaborate, I got to respect." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Nobody will believe in you unless you believe in yourself." <br> &emsp;&emsp;&emsp; <i>-by Liberace</i> 
+ 2.  "The hardest thing when you think about focusing. You think focusing is about saying "Yes." No. Focusing is about saying "No." And when you say "No," you piss off people." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "The reward of a thing well done is to have done it." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 4.  "I have enjoyed greatly the second blooming that comes when you finish the life of the emotions and of personal relations; and suddenly find - at the age of fifty, say - that a whole new life has opened before you, filled with things you can think about, study, or read about...It is as if a fresh sap of ideas and thoughts was rising in you." <br> &emsp;&emsp;&emsp; <i>-by Agatha Christie</i> 
+ 4.  "One doesn't discover new lands without consenting to lose sight of the shore for a very long time." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
