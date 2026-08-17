@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything we do really is just a little marker on the long road to death. And sometimes that's overwhelmingly depressing to me, and sometimes it makes me feel kinship and forgiveness. We've all got the same ending to the story. The way we make that story more elaborate, I got to respect." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "If our early lessons of acceptance were as successful as our early lessons of anger, how much happier we would all be." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
 
- 2.  "The hardest thing when you think about focusing. You think focusing is about saying "Yes." No. Focusing is about saying "No." And when you say "No," you piss off people." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "Life only demands from you the strength you possess. Only one feat is possible - not to have run away." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 
- 3.  "Sometimes when we are generous in small, barely detectable ways it can change someone else's life forever." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 3.  "When the eagles are silent, the parrots begin to jabber." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 4.  "One doesn't discover new lands without consenting to lose sight of the shore for a very long time." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
+ 4.  "Under all speech that is good for anything there lies a silence that is better. Silence is deep as Eternity; speech is shallow as Time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
