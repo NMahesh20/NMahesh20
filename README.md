@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If our early lessons of acceptance were as successful as our early lessons of anger, how much happier we would all be." <br> &emsp;&emsp;&emsp; <i>-by Peter McWilliams</i> 
+ 1.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
 
- 2.  "Life only demands from you the strength you possess. Only one feat is possible - not to have run away." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
+ 2.  "Say not, when I have leisure I will study; you may not have leisure." <br> &emsp;&emsp;&emsp; <i>-by The Mishnah</i> 
 
- 3.  "When the eagles are silent, the parrots begin to jabber." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 3.  "It is an interesting question how far men would retain their relative rank if they were divested of their clothes." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "Under all speech that is good for anything there lies a silence that is better. Silence is deep as Eternity; speech is shallow as Time." <br> &emsp;&emsp;&emsp; <i>-by Thomas Carlyle</i> 
+ 4.  "Half the money I spend on advertising is wasted; the trouble is I don't know which half." <br> &emsp;&emsp;&emsp; <i>-by John Wanamaker</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
