@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is surely a piece of divinity in us, something that was before the elements, and owes no homage unto the sun." <br> &emsp;&emsp;&emsp; <i>-by Sir Thomas Browne</i> 
+ 1.  "We all have such a finite time to leave the world better than we found it." <br> &emsp;&emsp;&emsp; <i>-by Dave Kellett</i> 
 
- 2.  "Say not, when I have leisure I will study; you may not have leisure." <br> &emsp;&emsp;&emsp; <i>-by The Mishnah</i> 
+ 2.  "We can only learn to love by loving." <br> &emsp;&emsp;&emsp; <i>-by Iris Murdoch</i> 
 
- 3.  "It is an interesting question how far men would retain their relative rank if they were divested of their clothes." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "Learn as much by writing as by reading." <br> &emsp;&emsp;&emsp; <i>-by Lord Acton</i> 
 
- 4.  "Half the money I spend on advertising is wasted; the trouble is I don't know which half." <br> &emsp;&emsp;&emsp; <i>-by John Wanamaker</i> 
+ 4.  "Poor is the man whose pleasures depend on the permission of another." <br> &emsp;&emsp;&emsp; <i>-by Madonna</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
