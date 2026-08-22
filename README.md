@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I really feel as if the things we create together are not things we devised, but things we discovered, as if, in some sense, they were always there in us, waiting to be revealed, like the figure of Mercury waiting in a rough lump of marble." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
+ 1.  "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul alike." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "If it doesn't feel right, don't do it. That's the lesson. That lesson alone, will save you a lot of grief. Even doubt means don't." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
 
- 3.  "Perhaps the most important use of money - It saves time. Life is so short, and there's so much to do, one can't afford to waste a minute; and just think how much you waste, for instance, in walking from place to place instead of going by bus and in going by bus instead of by taxi." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 3.  "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
 
- 4.  "Civilization is the art of living in towns of such size the everyone does not know everyone else." <br> &emsp;&emsp;&emsp; <i>-by Julian Jaynes</i> 
+ 4.  "Whatever is reasonable is true, and whatever is true is reasonable." <br> &emsp;&emsp;&emsp; <i>-by Georg W. Hegel</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
