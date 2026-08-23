@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everybody needs beauty as well as bread, places to play in and pray in, where nature may heal and give strength to body and soul alike." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "As I get older, I've learned to listen to people rather than accuse them of things." <br> &emsp;&emsp;&emsp; <i>-by Po Bronson</i> 
 
- 2.  "Every English poet should master the rules of grammar before he attempts to bend or break them." <br> &emsp;&emsp;&emsp; <i>-by Robert Graves</i> 
+ 2.  "Diplomacy is the art of knowing what not to say." <br> &emsp;&emsp;&emsp; <i>-by Matthew Trump</i> 
 
- 3.  "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man." <br> &emsp;&emsp;&emsp; <i>-by George Bernard Shaw</i> 
+ 3.  "It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
 
- 4.  "Whatever is reasonable is true, and whatever is true is reasonable." <br> &emsp;&emsp;&emsp; <i>-by Georg W. Hegel</i> 
+ 4.  "Go after a man's weakness, and never, ever, threaten unless you're going to follow through, because if you don't, the next time you won't be taken seriously." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Cohn</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
