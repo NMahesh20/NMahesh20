@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "As I get older, I've learned to listen to people rather than accuse them of things." <br> &emsp;&emsp;&emsp; <i>-by Po Bronson</i> 
+ 1.  "My Father taught me how to be a man – and not by instilling in me a sense of machismo or an agenda of dominance. He taught me that a real man doesn’t take, he gives; he doesn’t use force, he uses logic; doesn’t play the role of trouble-maker, but rather, trouble-shooter; and most importantly, a real man is defined by what’s in his heart, not his pants." <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
 
- 2.  "Diplomacy is the art of knowing what not to say." <br> &emsp;&emsp;&emsp; <i>-by Matthew Trump</i> 
+ 2.  "This isn't good or bad. It's just the way of things. Nothing stays the same." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err." <br> &emsp;&emsp;&emsp; <i>-by Mahatma Gandhi</i> 
+ 3.  "Each handicap is like a hurdle in a steeplechase, and when you ride up to it, if you throw your heart over, the horse will go along, too." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Bixby</i> 
 
- 4.  "Go after a man's weakness, and never, ever, threaten unless you're going to follow through, because if you don't, the next time you won't be taken seriously." <br> &emsp;&emsp;&emsp; <i>-by Roy M. Cohn</i> 
+ 4.  "The strongest principle of growth lies in human choice." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
