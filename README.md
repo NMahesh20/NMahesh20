@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "My Father taught me how to be a man – and not by instilling in me a sense of machismo or an agenda of dominance. He taught me that a real man doesn’t take, he gives; he doesn’t use force, he uses logic; doesn’t play the role of trouble-maker, but rather, trouble-shooter; and most importantly, a real man is defined by what’s in his heart, not his pants." <br> &emsp;&emsp;&emsp; <i>-by Kevin Smith</i> 
+ 1.  "One can't stay sad very long in such an interesting world, can one?" <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "This isn't good or bad. It's just the way of things. Nothing stays the same." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "Grief is Newark. It's there. Can't avoid it. The idea is to hold your nose, hope the traffic's not too bad and get on to Manhattan as quickly as possible." <br> &emsp;&emsp;&emsp; <i>-by Eli Attie</i> 
 
- 3.  "Each handicap is like a hurdle in a steeplechase, and when you ride up to it, if you throw your heart over, the horse will go along, too." <br> &emsp;&emsp;&emsp; <i>-by Lawrence Bixby</i> 
+ 3.  "In terms of being late or not starting at all, then it's never too late." <br> &emsp;&emsp;&emsp; <i>-by Alison Headley</i> 
 
- 4.  "The strongest principle of growth lies in human choice." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 4.  "The person who knows one thing and does it better than anyone else, even if it only be the art of raising lentils, receives the crown he merits. If he raises all his energy to that end, he is a benefactor of mankind and its rewarded as such." <br> &emsp;&emsp;&emsp; <i>-by Og Mandino</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
