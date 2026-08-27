@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I think there's a god and I know it's not me." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 1.  "Only some people get what they want. Those are the people who show up to get it." <br> &emsp;&emsp;&emsp; <i>-by Dianne Houston</i> 
 
- 2.  "A well-informed mind is the best security against the contagion of folly and of vice. The vacant mind is ever on the watch for relief, and ready to plunge into error, to escape from the languor of idleness." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "Life is an escalator: You can move forward or backward; you can not remain still." <br> &emsp;&emsp;&emsp; <i>-by Patricia Russell-McCloud</i> 
 
- 3.  "He has achieved success who has lived well, laughed often, and loved much." <br> &emsp;&emsp;&emsp; <i>-by Bessie A. Stanley</i> 
+ 3.  "The moment we choose to love we begin to move towards freedom..." <br> &emsp;&emsp;&emsp; <i>-by Bell Hooks</i> 
 
- 4.  "Hate no one; hate their vices, not themselves." <br> &emsp;&emsp;&emsp; <i>-by J. G. C. Brainard</i> 
+ 4.  "Poetry often enters through the window of irrelevance." <br> &emsp;&emsp;&emsp; <i>-by M. C. Richards</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
