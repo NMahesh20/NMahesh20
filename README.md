@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Only some people get what they want. Those are the people who show up to get it." <br> &emsp;&emsp;&emsp; <i>-by Dianne Houston</i> 
+ 1.  "This life gets bitterly cold. Sometimes you just need to cling to the person that you can claw your way out of the dark with." <br> &emsp;&emsp;&emsp; <i>-by Chris Dingess</i> 
 
- 2.  "Life is an escalator: You can move forward or backward; you can not remain still." <br> &emsp;&emsp;&emsp; <i>-by Patricia Russell-McCloud</i> 
+ 2.  "When the heart speaks, the mind finds it indecent to object." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
 
- 3.  "The moment we choose to love we begin to move towards freedom..." <br> &emsp;&emsp;&emsp; <i>-by Bell Hooks</i> 
+ 3.  "Never expose yourself unnecessarily to danger; a miracle may not save you...and if it does, it will be deducted from your share of luck or merit." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
 
- 4.  "Poetry often enters through the window of irrelevance." <br> &emsp;&emsp;&emsp; <i>-by M. C. Richards</i> 
+ 4.  "The self is not something ready-made, but something in continuous formation through choice of action." <br> &emsp;&emsp;&emsp; <i>-by John Dewey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
