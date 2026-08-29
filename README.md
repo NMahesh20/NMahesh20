@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "This life gets bitterly cold. Sometimes you just need to cling to the person that you can claw your way out of the dark with." <br> &emsp;&emsp;&emsp; <i>-by Chris Dingess</i> 
+ 1.  "Exercise is medicine. Literally. Just like a pill, it reliably changes brain function by altering the activity of key brain chemicals and hormones." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
 
- 2.  "When the heart speaks, the mind finds it indecent to object." <br> &emsp;&emsp;&emsp; <i>-by Milan Kundera</i> 
+ 2.  "I don't think it's good that we're perceived as different I think it's important we're perceived as MUCH BETTER. If being different is essential to doing that, then we have to do that, but if we could be much better without being different, that'd be fine with me. I want to be much better! I don't care about being different, but we'll have to be different in some ways to be much better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "Never expose yourself unnecessarily to danger; a miracle may not save you...and if it does, it will be deducted from your share of luck or merit." <br> &emsp;&emsp;&emsp; <i>-by The Talmud</i> 
+ 3.  "I once read cooking is something you do for your family. But when you’re alone you sometimes have to treat yourself like family. And now that my apartment’s redolent with the smell of food it feels more like a home than a box where I hang my hat." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 4.  "The self is not something ready-made, but something in continuous formation through choice of action." <br> &emsp;&emsp;&emsp; <i>-by John Dewey</i> 
+ 4.  "If you would cure anger, do not feed it. Say to yourself: 'I used to be angry every day; then every other day; now only every third or fourth day.' When you reach thirty days offer a sacrifice of thanksgiving to the gods." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
