@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Exercise is medicine. Literally. Just like a pill, it reliably changes brain function by altering the activity of key brain chemicals and hormones." <br> &emsp;&emsp;&emsp; <i>-by Stephen S. Ilardi PhD</i> 
+ 1.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
 
- 2.  "I don't think it's good that we're perceived as different I think it's important we're perceived as MUCH BETTER. If being different is essential to doing that, then we have to do that, but if we could be much better without being different, that'd be fine with me. I want to be much better! I don't care about being different, but we'll have to be different in some ways to be much better." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 2.  "I was brought up to believe that how I saw myself was more important than how others saw me." <br> &emsp;&emsp;&emsp; <i>-by Anwar el-Sadat</i> 
 
- 3.  "I once read cooking is something you do for your family. But when you’re alone you sometimes have to treat yourself like family. And now that my apartment’s redolent with the smell of food it feels more like a home than a box where I hang my hat." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 3.  "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 
- 4.  "If you would cure anger, do not feed it. Say to yourself: 'I used to be angry every day; then every other day; now only every third or fourth day.' When you reach thirty days offer a sacrifice of thanksgiving to the gods." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 4.  "A man can do all things if he but wills them." <br> &emsp;&emsp;&emsp; <i>-by Leon Battista Alberti</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
