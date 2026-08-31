@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one is ready for a thing until he believes he can acquire it." <br> &emsp;&emsp;&emsp; <i>-by Napoleon Hill</i> 
+ 1.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
 
- 2.  "I was brought up to believe that how I saw myself was more important than how others saw me." <br> &emsp;&emsp;&emsp; <i>-by Anwar el-Sadat</i> 
+ 2.  "The first rule of life is to reveal nothing, to be exceptionally cautious in what you say, in whatever company you may find yourself. If you have a secret, you have only to whisper it to your dearest friend with the strictest injunction that it will go no further, and within half a day the story is all over town, and when you do make what would seem to be a perfectly sensible remark, you will find it reported in the most grotesque form, thus incurring no end of criticism to rebound upon you." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 3.  "Love is union with somebody, or something, outside oneself, under the condition of retaining the separateness and integrity of one's own self." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
 
- 4.  "A man can do all things if he but wills them." <br> &emsp;&emsp;&emsp; <i>-by Leon Battista Alberti</i> 
+ 4.  "Can I ever know you Or you know me?" <br> &emsp;&emsp;&emsp; <i>-by Sara Teasdale</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
