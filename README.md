@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Beauty often seduces us on the road to truth." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "Being manipulative is dishonest and immature. We often end up having to make up more lies to cover for inconsistencies in our original manipulation. In addition, it sets a terrible example for our children. While it may solve your initial problem, the tangled web that grows from such dishonesty is more trouble than it’s worth." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "The first rule of life is to reveal nothing, to be exceptionally cautious in what you say, in whatever company you may find yourself. If you have a secret, you have only to whisper it to your dearest friend with the strictest injunction that it will go no further, and within half a day the story is all over town, and when you do make what would seem to be a perfectly sensible remark, you will find it reported in the most grotesque form, thus incurring no end of criticism to rebound upon you." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "Any government is potentially the worst client in the world you could ever possibly want to have." <br> &emsp;&emsp;&emsp; <i>-by Thomas Heatherwick</i> 
 
- 3.  "Love is union with somebody, or something, outside oneself, under the condition of retaining the separateness and integrity of one's own self." <br> &emsp;&emsp;&emsp; <i>-by Erich Fromm</i> 
+ 3.  "The ancient Greek definition of happiness was the full use of your powers along lines of excellence." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
 
- 4.  "Can I ever know you Or you know me?" <br> &emsp;&emsp;&emsp; <i>-by Sara Teasdale</i> 
+ 4.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
