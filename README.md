@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Being manipulative is dishonest and immature. We often end up having to make up more lies to cover for inconsistencies in our original manipulation. In addition, it sets a terrible example for our children. While it may solve your initial problem, the tangled web that grows from such dishonesty is more trouble than it’s worth." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "She felt that she could so much more depend upon the sincerity of those who sometimes looked or said a careless or a hasty thing, than of those whose presence of mind never varied, whose tongue never slipped." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "Any government is potentially the worst client in the world you could ever possibly want to have." <br> &emsp;&emsp;&emsp; <i>-by Thomas Heatherwick</i> 
+ 2.  "I began to have an idea of my life, not as the slow shaping of achievement to fit my preconceived purposes, but as the gradual discovery and growth of a purpose which I did not know." <br> &emsp;&emsp;&emsp; <i>-by Joanna Field</i> 
 
- 3.  "The ancient Greek definition of happiness was the full use of your powers along lines of excellence." <br> &emsp;&emsp;&emsp; <i>-by John F. Kennedy</i> 
+ 3.  "Genuine goodness is threatening to those at the opposite end of the moral spectrum." <br> &emsp;&emsp;&emsp; <i>-by Charles Spencer</i> 
 
- 4.  "I just never let anything bother me, man. I know myself really well. Nobody's opinion of me can shake my opinion of myself." <br> &emsp;&emsp;&emsp; <i>-by Ruben Studdard</i> 
+ 4.  "You should not live one way in private, another in public." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
