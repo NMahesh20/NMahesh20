@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "She felt that she could so much more depend upon the sincerity of those who sometimes looked or said a careless or a hasty thing, than of those whose presence of mind never varied, whose tongue never slipped." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Unfortunately sometimes one can't do what one thinks is right without making someone else unhappy." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "I began to have an idea of my life, not as the slow shaping of achievement to fit my preconceived purposes, but as the gradual discovery and growth of a purpose which I did not know." <br> &emsp;&emsp;&emsp; <i>-by Joanna Field</i> 
+ 2.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
 
- 3.  "Genuine goodness is threatening to those at the opposite end of the moral spectrum." <br> &emsp;&emsp;&emsp; <i>-by Charles Spencer</i> 
+ 3.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
 
- 4.  "You should not live one way in private, another in public." <br> &emsp;&emsp;&emsp; <i>-by Publilius Syrus</i> 
+ 4.  "I grow more intense as I age." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
