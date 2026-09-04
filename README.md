@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Unfortunately sometimes one can't do what one thinks is right without making someone else unhappy." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "The worst sin - perhaps the only sin - passion can commit, is to be joyless." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
 
- 2.  "A kiss is a lovely trick, designed by nature, to stop words when speech becomes unnecessary." <br> &emsp;&emsp;&emsp; <i>-by Ingrid Bergman</i> 
+ 2.  "In summer, the song sings itself." <br> &emsp;&emsp;&emsp; <i>-by William Carlos Williams</i> 
 
- 3.  "Could we change our attitude, we should not only see life differently, but life itself would come to be different. Life would undergo a change of appearance because we ourselves had undergone a change in attitude." <br> &emsp;&emsp;&emsp; <i>-by Katherine Mansfield</i> 
+ 3.  "What I am actually saying is that we need to be willing to let our intuition guide us, and then be willing to follow that guidance directly and fearlessly." <br> &emsp;&emsp;&emsp; <i>-by Shakti Gawain</i> 
 
- 4.  "I grow more intense as I age." <br> &emsp;&emsp;&emsp; <i>-by Florida Scott-Maxwell</i> 
+ 4.  "Mistakes are the portals of discovery." <br> &emsp;&emsp;&emsp; <i>-by James Joyce</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
