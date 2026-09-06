@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Keep playing games. Make time to play games with your friends and family, because it's surprisingly heartbreaking to wipe a thin layer of dust off a game you love, before you put it back on the shelf because the real world is calling you." <br> &emsp;&emsp;&emsp; <i>-by Wil Wheaton</i> 
+ 1.  "There are an awful lot of scientists today who believe that before very long we shall have unraveled all the secrets of the universe. There will be no puzzles anymore. To me it'd be really, really tragic because I think one of the most exciting things is this feeling of mystery, feeling of awe, the feeling of looking at a little live thing and being amazed by it and how its emerged through these hundreds of years of evolution and there it is and it is perfect and why." <br> &emsp;&emsp;&emsp; <i>-by Jane Goodall</i> 
 
- 2.  "I am more and more convinced that our happiness or unhappiness depends more on the way we meet the events of life than on the nature of those events themselves." <br> &emsp;&emsp;&emsp; <i>-by Alexander Humboldt</i> 
+ 2.  "It is the duty of every citizen according to his best capacities to give validity to his convictions in political affairs." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 3.  "Deeds, not stones, are the true monuments of the great." <br> &emsp;&emsp;&emsp; <i>-by John L. Motley</i> 
+ 3.  "We must learn to live together as brothers or perish together as fools." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther King Jr.</i> 
 
- 4.  "Love is an act of endless forgiveness, a tender look which becomes a habit." <br> &emsp;&emsp;&emsp; <i>-by Peter Ustinov</i> 
+ 4.  "A bone to the dog is not charity. Charity is the bone shared with the dog, when you are just as hungry as the dog." <br> &emsp;&emsp;&emsp; <i>-by Jack London</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
