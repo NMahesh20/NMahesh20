@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I have seen a peaceful expression turn to anger as fast as a whip cracks, and so the look on the face might mean less than what it seems to be." <br> &emsp;&emsp;&emsp; <i>-by Erica Eisdorfer</i> 
+ 1.  "Sometimes you can't see yourself clearly until you see yourself through the eyes of others." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
 
- 2.  "I have not yet met with a sorrow that could not be borne, nor with one who's passing did not leave me stronger." <br> &emsp;&emsp;&emsp; <i>-by Kathryn L. Nelson</i> 
+ 2.  "Shared laughter creates a bond of friendships. When people laugh together, they cease to be young and old, teacher and pupils, worker and boss. They become a single group of human beings." <br> &emsp;&emsp;&emsp; <i>-by W. Lee Grant</i> 
 
- 3.  "Many people despise wealth, but few know how to give it away." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 3.  "Choose your pleasures for yourself, and do not let them be imposed upon you." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
 
- 4.  "Mid pleasures and palaces though we may roam, / Be it ever so humble, there's no place like home." <br> &emsp;&emsp;&emsp; <i>-by John Howard Payne</i> 
+ 4.  "If you want to make peace, you don't talk to your friends. You talk to your enemies." <br> &emsp;&emsp;&emsp; <i>-by Moshe Dayan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
