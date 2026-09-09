@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Sometimes you can't see yourself clearly until you see yourself through the eyes of others." <br> &emsp;&emsp;&emsp; <i>-by Ellen DeGeneres</i> 
+ 1.  "They say dreams are the windows of the soul--take a peek and you can see the inner workings, the nuts and bolts." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 2.  "Shared laughter creates a bond of friendships. When people laugh together, they cease to be young and old, teacher and pupils, worker and boss. They become a single group of human beings." <br> &emsp;&emsp;&emsp; <i>-by W. Lee Grant</i> 
+ 2.  "It's not foresight or hindsight we need. We need sight, plain and simple. We need to see what is right in front of us." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 3.  "Choose your pleasures for yourself, and do not let them be imposed upon you." <br> &emsp;&emsp;&emsp; <i>-by Lord Chesterfield</i> 
+ 3.  "The reward for conformity was that everyone liked you except yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
 
- 4.  "If you want to make peace, you don't talk to your friends. You talk to your enemies." <br> &emsp;&emsp;&emsp; <i>-by Moshe Dayan</i> 
+ 4.  "Hold a picture of yourself long and steadily enough in your mind's eye, and you will be drawn toward it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
