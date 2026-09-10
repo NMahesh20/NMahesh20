@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "They say dreams are the windows of the soul--take a peek and you can see the inner workings, the nuts and bolts." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 1.  "When you don't know what to do, get still. Get very still until you do know what to do." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "It's not foresight or hindsight we need. We need sight, plain and simple. We need to see what is right in front of us." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 2.  "The only place where success comes before work is a dictionary." <br> &emsp;&emsp;&emsp; <i>-by Vidal Sassoon</i> 
 
- 3.  "The reward for conformity was that everyone liked you except yourself." <br> &emsp;&emsp;&emsp; <i>-by Rita Mae Brown</i> 
+ 3.  "An invasion of armies can be resisted, but not an idea whose time has come." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "Hold a picture of yourself long and steadily enough in your mind's eye, and you will be drawn toward it." <br> &emsp;&emsp;&emsp; <i>-by Harry Emerson Fosdick</i> 
+ 4.  "You are not here merely to make a living. You are here to enable the world to live more amply, with greater vision, and with a finer spirit of hope and achievement. You are here to enrich the world. You impoverish yourself if you forget this errand." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
