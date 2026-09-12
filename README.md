@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When you own or take responsibility for your feelings, you place yourself in a position of power and control." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "People only worry about the uncanny for about a week; that's the end of their attention span. After that, suspicions turn into shtick." <br> &emsp;&emsp;&emsp; <i>-by Scott Westerfeld</i> 
 
- 2.  "The moment a man stops dreaming is the moment he petrifies inside..." <br> &emsp;&emsp;&emsp; <i>-by Roger Ebert</i> 
+ 2.  "Our bodies are our gardens to which our wills are gardeners." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 3.  "Love flies, runs, and rejoices; it is free and nothing can hold it back." <br> &emsp;&emsp;&emsp; <i>-by Thomas a Kempis</i> 
+ 3.  "It's never too late to be who you might have been." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 
- 4.  "The power to bring me out of solitude - or to push me back into it - had never belonged to another person. It was mine and only mine." <br> &emsp;&emsp;&emsp; <i>-by Martha Beck</i> 
+ 4.  "A man without ambition is dead. A man with ambition but no love is dead. A man with ambition and love for his blessings here on earth is ever so alive. Having been alive, it won't be so hard in the end to lie down and rest." <br> &emsp;&emsp;&emsp; <i>-by Pearl Bailey</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
