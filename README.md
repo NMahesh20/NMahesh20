@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is always so much talk about the sins of the fathers, but it is the sins of the mothers that are the most difficult to avoid repeating." <br> &emsp;&emsp;&emsp; <i>-by Melanie Benjamin</i> 
+ 1.  "A person's abilities are tested best when defending rather than attacking." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "A God that can be understood is no God. Who can explain the Infinite in words?" <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 2.  "The older I get, the greater power I seem to have to help the world; I am like a snowball - the further I am rolled, the more I gain." <br> &emsp;&emsp;&emsp; <i>-by Susan B. Anthony</i> 
 
- 3.  "Life is not measured by the number of breaths we take, but by the moments that take our breath away." <br> &emsp;&emsp;&emsp; <i>-by Anonymous</i> 
+ 3.  "A bird does not sing because it has an answer. It sings because it has a song." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 4.  "Keep cool and you command everybody." <br> &emsp;&emsp;&emsp; <i>-by Louis de Saint-Just</i> 
+ 4.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
