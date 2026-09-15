@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A person's abilities are tested best when defending rather than attacking." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "Employment is the surest antidote to sorrow." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 2.  "The older I get, the greater power I seem to have to help the world; I am like a snowball - the further I am rolled, the more I gain." <br> &emsp;&emsp;&emsp; <i>-by Susan B. Anthony</i> 
+ 2.  "Every day you may make progress. Every step may be fruitful. Yet there will stretch out before you an ever-lengthening, ever-ascending, ever-improving path. You know you will never get to the end of the journey. But this, so far from discouraging, only adds to the joy and glory of the climb." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 3.  "A bird does not sing because it has an answer. It sings because it has a song." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 3.  "Be aware that a halo has to fall only a few inches to be a noose." <br> &emsp;&emsp;&emsp; <i>-by Dan McKinnon</i> 
 
- 4.  "Young people have an almost biological destiny to be hopeful." <br> &emsp;&emsp;&emsp; <i>-by Marshall Ganz</i> 
+ 4.  "The undertaking of a new action brings new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
