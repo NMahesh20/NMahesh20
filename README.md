@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Employment is the surest antidote to sorrow." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 1.  "Good ideas alter the power balance in relationships, that is why good ideas are always initially resisted. Good ideas come with a heavy burden. Which is why so few people have them. So few people can handle it." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "Every day you may make progress. Every step may be fruitful. Yet there will stretch out before you an ever-lengthening, ever-ascending, ever-improving path. You know you will never get to the end of the journey. But this, so far from discouraging, only adds to the joy and glory of the climb." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
+ 2.  "Beautiful young people are accidents of nature, but beautiful old people are works of art." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
 
- 3.  "Be aware that a halo has to fall only a few inches to be a noose." <br> &emsp;&emsp;&emsp; <i>-by Dan McKinnon</i> 
+ 3.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
 
- 4.  "The undertaking of a new action brings new strength." <br> &emsp;&emsp;&emsp; <i>-by Evenius</i> 
+ 4.  "Say all you have to say in the fewest possible words, or your reader will be sure to skip them; and in the plainest possible words or he will certainly misunderstand them." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
