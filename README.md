@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good ideas alter the power balance in relationships, that is why good ideas are always initially resisted. Good ideas come with a heavy burden. Which is why so few people have them. So few people can handle it." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "All my possessions for a moment of time." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
 
- 2.  "Beautiful young people are accidents of nature, but beautiful old people are works of art." <br> &emsp;&emsp;&emsp; <i>-by Eleanor Roosevelt</i> 
+ 2.  "True happiness... arises, in the first place, from the enjoyment of one's self." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 
- 3.  "Intimacy is being seen and known as the person you truly are." <br> &emsp;&emsp;&emsp; <i>-by Amy Bloom</i> 
+ 3.  "Develop interest in life as you see it; in people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls and interesting people. Forget yourself." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
 
- 4.  "Say all you have to say in the fewest possible words, or your reader will be sure to skip them; and in the plainest possible words or he will certainly misunderstand them." <br> &emsp;&emsp;&emsp; <i>-by John Ruskin</i> 
+ 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
