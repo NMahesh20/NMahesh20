@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All my possessions for a moment of time." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth I</i> 
+ 1.  "Nothing of me is original. I am the combined effort of everybody I've ever known." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "True happiness... arises, in the first place, from the enjoyment of one's self." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 2.  "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "Develop interest in life as you see it; in people, things, literature, music - the world is so rich, simply throbbing with rich treasures, beautiful souls and interesting people. Forget yourself." <br> &emsp;&emsp;&emsp; <i>-by Henry Miller</i> 
+ 3.  "Be a good listener. Your ears will never get you in trouble." <br> &emsp;&emsp;&emsp; <i>-by Frank Tyger</i> 
 
- 4.  "Let not thy will roar, when thy power can but whisper." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Fuller</i> 
+ 4.  "Without friends no one would choose to live, though he had all other goods." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
