@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Nothing of me is original. I am the combined effort of everybody I've ever known." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "Good habits, which bring our lower passions and appetites under automatic control, leave our natures free to explore the larger experiences of life." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
 
- 2.  "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "It is amazing how much crisper the general experience of life becomes when your body is given a chance to develop a little strength." <br> &emsp;&emsp;&emsp; <i>-by Frank Duff</i> 
 
- 3.  "Be a good listener. Your ears will never get you in trouble." <br> &emsp;&emsp;&emsp; <i>-by Frank Tyger</i> 
+ 3.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
 
- 4.  "Without friends no one would choose to live, though he had all other goods." <br> &emsp;&emsp;&emsp; <i>-by Aristotle</i> 
+ 4.  "An honest man can feel no pleasure in the exercise of power over his fellow citizens." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
