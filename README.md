@@ -6,6 +6,13 @@ My persona falls under INFJ-A, or as per the <a href="https://bigfive-test.com/r
 - 😄 Pronouns: He would be fine.
 - ⚡ Fun fact: The QWERTY keyboard layout was designed to slow you down.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/github-contribution-grid-snake-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/github-contribution-grid-snake-light.gif">
+  <img alt="GitHub Contribution Snake" src="Assets/github-contribution-grid-snake-light.gif">
+</picture>
+
+
 ### 📫 Wanna reach me
 You can ping me at any of the socials that you find at this page. I am not super active, but I will reply when I see it.
 
