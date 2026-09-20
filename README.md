@@ -22,13 +22,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Good habits, which bring our lower passions and appetites under automatic control, leave our natures free to explore the larger experiences of life." <br> &emsp;&emsp;&emsp; <i>-by Ralph W. Sockman</i> 
+ 1.  "Isn't it good just to be alive on a day like this? I pity the people who aren't born yet for missing it." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "It is amazing how much crisper the general experience of life becomes when your body is given a chance to develop a little strength." <br> &emsp;&emsp;&emsp; <i>-by Frank Duff</i> 
+ 2.  "I'd rather be a failure at something I love than a success at something I hate." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
 
- 3.  "If a man insisted always on being serious, and never allowed himself a bit of fun and relaxation, he would go mad or become unstable without knowing it." <br> &emsp;&emsp;&emsp; <i>-by Herodotus</i> 
+ 3.  "Oh! Do not attack me with your watch. A watch is always too fast or too slow. I cannot be dictated to by a watch." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "An honest man can feel no pleasure in the exercise of power over his fellow citizens." <br> &emsp;&emsp;&emsp; <i>-by Thomas Jefferson</i> 
+ 4.  "Many of life's failures are people who did not realize how close they were to success when they gave up." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
