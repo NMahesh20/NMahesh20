@@ -11,13 +11,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Update contrib graph
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: nmahesh20
           outputs: |
             Assets/github-contribution-grid-snake-light.gif?palette=github-light
             Assets/github-contribution-grid-snake-dark.gif?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: main        # Tells the action to target your main branch
+          build_dir: Assets
+          keep_history: true         
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch Quotes
         uses: gautamkrishnar/blog-post-workflow@master
