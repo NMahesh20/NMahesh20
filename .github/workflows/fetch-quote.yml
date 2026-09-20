@@ -3,6 +3,8 @@ on:
   schedule: # Run workflow automatically
     - cron: "0 0 * * *" 
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -24,8 +26,8 @@ jobs:
           target_branch: main        # Tells the action to target your main branch
           build_dir: Assets
           keep_history: true         
-        # env:
-        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch Quotes
         uses: gautamkrishnar/blog-post-workflow@master
