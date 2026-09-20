@@ -3,6 +3,7 @@ on:
   schedule: # Run workflow automatically
     - cron: "0 0 * * *" 
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
 permissions:
   contents: write
 
@@ -13,6 +14,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Update contrib graph
         uses: Platane/snk@v3
         id: snake-gif
@@ -21,13 +23,11 @@ jobs:
           outputs: |
             Assets/github-contribution-grid-snake-light.gif?palette=github-light
             Assets/github-contribution-grid-snake-dark.gif?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+          
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          target_branch: main        # Tells the action to target your main branch
-          build_dir: Assets
-          keep_history: true         
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: update contribution snake animations"
+          file_pattern: 'Assets/*'
 
       - name: Fetch Quotes
         uses: gautamkrishnar/blog-post-workflow@master
