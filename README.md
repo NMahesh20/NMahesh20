@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Isn't it good just to be alive on a day like this? I pity the people who aren't born yet for missing it." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet, death is the destination we all share. No one has ever escaped it, and that is how it should be, because death is very likely the single best invention of life. It's life's change agent. It clears out the old to make way for the new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 2.  "I'd rather be a failure at something I love than a success at something I hate." <br> &emsp;&emsp;&emsp; <i>-by George Burns</i> 
+ 2.  "I would not waste my life in friction when it could be turned into momentum." <br> &emsp;&emsp;&emsp; <i>-by Frances Willard</i> 
 
- 3.  "Oh! Do not attack me with your watch. A watch is always too fast or too slow. I cannot be dictated to by a watch." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "Let us hope that we are all preceded in this world by a love story." <br> &emsp;&emsp;&emsp; <i>-by Don Snyder</i> 
 
- 4.  "Many of life's failures are people who did not realize how close they were to success when they gave up." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 4.  "Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
