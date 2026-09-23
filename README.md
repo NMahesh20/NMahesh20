@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet, death is the destination we all share. No one has ever escaped it, and that is how it should be, because death is very likely the single best invention of life. It's life's change agent. It clears out the old to make way for the new." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
+ 1.  "There is nothing sadder in this world than the waste of human potential. The purpose of evolution is to raise us out of the mud, not have us grovelling in it." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
 
- 2.  "I would not waste my life in friction when it could be turned into momentum." <br> &emsp;&emsp;&emsp; <i>-by Frances Willard</i> 
+ 2.  "I've grown to realize the joy that comes from little victories is preferable to the fun that comes from ease and the pursuit of pleasure." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 3.  "Let us hope that we are all preceded in this world by a love story." <br> &emsp;&emsp;&emsp; <i>-by Don Snyder</i> 
+ 3.  "Winter is on my head, but eternal spring is in my heart." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 4.  "Nothing contributes so much to tranquilizing the mind as a steady purpose - a point on which the soul may fix its intellectual eye." <br> &emsp;&emsp;&emsp; <i>-by Mary Wollstonecraft Shelley</i> 
+ 4.  "Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Dooley</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
