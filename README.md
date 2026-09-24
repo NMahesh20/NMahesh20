@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is nothing sadder in this world than the waste of human potential. The purpose of evolution is to raise us out of the mud, not have us grovelling in it." <br> &emsp;&emsp;&emsp; <i>-by Diane Frolov and Andrew Schneider</i> 
+ 1.  "Security is a kind of death." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
 
- 2.  "I've grown to realize the joy that comes from little victories is preferable to the fun that comes from ease and the pursuit of pleasure." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 2.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
 
- 3.  "Winter is on my head, but eternal spring is in my heart." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 3.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
 
- 4.  "Dedicate some of your life to others. Your dedication will not be a sacrifice. It will be an exhilarating experience because it is an intense effort applied toward a meaningful end." <br> &emsp;&emsp;&emsp; <i>-by Dr. Thomas Dooley</i> 
+ 4.  "To find a fault is easy; to do better may be difficult." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
