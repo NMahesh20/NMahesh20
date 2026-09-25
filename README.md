@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Security is a kind of death." <br> &emsp;&emsp;&emsp; <i>-by Tennessee Williams</i> 
+ 1.  "You can see into the future if you have a basic understanding of how people are likely to act." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Never trust the advice of a man in difficulties." <br> &emsp;&emsp;&emsp; <i>-by Aesop</i> 
+ 2.  "Live up to your potential instead of imitating someone else's." <br> &emsp;&emsp;&emsp; <i>-by Martha Burgess</i> 
 
- 3.  "You've got to do your own growing, no matter how tall your grandfather was." <br> &emsp;&emsp;&emsp; <i>-by Irish Proverb</i> 
+ 3.  "If you can find a path with no obstacles, it probably doesn't lead anywhere." <br> &emsp;&emsp;&emsp; <i>-by Frank A. Clark</i> 
 
- 4.  "To find a fault is easy; to do better may be difficult." <br> &emsp;&emsp;&emsp; <i>-by Plutarch</i> 
+ 4.  "Pray that your loneliness may spur you into finding something to live for, great enough to die for." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
