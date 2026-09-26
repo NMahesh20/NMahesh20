@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You can see into the future if you have a basic understanding of how people are likely to act." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "When we try to pick out anything by itself, we find it hitched to everything else in the Universe." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
 
- 2.  "Live up to your potential instead of imitating someone else's." <br> &emsp;&emsp;&emsp; <i>-by Martha Burgess</i> 
+ 2.  "Women are better at acting then men. Why? Because we have to be. If successfully convincing someone bigger than you are of something he doesn't want to know is a survival skill, this is how women have survived through the millennia." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 3.  "If you can find a path with no obstacles, it probably doesn't lead anywhere." <br> &emsp;&emsp;&emsp; <i>-by Frank A. Clark</i> 
+ 3.  "If the only prayer you ever say in your whole life is "thank you," that would suffice." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
 
- 4.  "Pray that your loneliness may spur you into finding something to live for, great enough to die for." <br> &emsp;&emsp;&emsp; <i>-by Dag Hammarskjold</i> 
+ 4.  "If any man wish to write in a clear style, let him be first clear in his thoughts; and if any would write in a noble style, let him first possess a noble soul." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
