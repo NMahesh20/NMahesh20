@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we try to pick out anything by itself, we find it hitched to everything else in the Universe." <br> &emsp;&emsp;&emsp; <i>-by John Muir</i> 
+ 1.  "God doesn't require us to succeed; he only requires that you try." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
 
- 2.  "Women are better at acting then men. Why? Because we have to be. If successfully convincing someone bigger than you are of something he doesn't want to know is a survival skill, this is how women have survived through the millennia." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 2.  "Each body has its art..." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
 
- 3.  "If the only prayer you ever say in your whole life is "thank you," that would suffice." <br> &emsp;&emsp;&emsp; <i>-by Meister Eckhart</i> 
+ 3.  "When you go to buy, use your eyes, not your ears." <br> &emsp;&emsp;&emsp; <i>-by Czech Proverb</i> 
 
- 4.  "If any man wish to write in a clear style, let him be first clear in his thoughts; and if any would write in a noble style, let him first possess a noble soul." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
