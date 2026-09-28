@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "God doesn't require us to succeed; he only requires that you try." <br> &emsp;&emsp;&emsp; <i>-by Mother Teresa</i> 
+ 1.  "Buy the ticket take the Ride" <br> &emsp;&emsp;&emsp; <i>-by Hunter S. Thompson</i> 
 
- 2.  "Each body has its art..." <br> &emsp;&emsp;&emsp; <i>-by Gwendolyn Brooks</i> 
+ 2.  "The bars of West Hollywood and New York are awash with people throwing their lives away in the desperate hope of finding a shortcut, any shortcut. And a lot of them aren't even young anymore; their B-plans having been washed away by Vodka & Tonics years ago./ Meanwhile their competition is at home, working their asses off." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "When you go to buy, use your eyes, not your ears." <br> &emsp;&emsp;&emsp; <i>-by Czech Proverb</i> 
+ 3.  "It is difficult to make a man miserable while he feels worthy of himself and claims kindred to the great God who made him." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Consult your friend on all things, especially on those which respect yourself. His counsel may then be useful where your own self-love might impair your judgment." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 4.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
