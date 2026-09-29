@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Buy the ticket take the Ride" <br> &emsp;&emsp;&emsp; <i>-by Hunter S. Thompson</i> 
+ 1.  "Peace of mind is that mental condition in which you have accepted the worst." <br> &emsp;&emsp;&emsp; <i>-by Lin Yutang</i> 
 
- 2.  "The bars of West Hollywood and New York are awash with people throwing their lives away in the desperate hope of finding a shortcut, any shortcut. And a lot of them aren't even young anymore; their B-plans having been washed away by Vodka & Tonics years ago./ Meanwhile their competition is at home, working their asses off." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "How beggarly appear arguments before a defiant deed!" <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 
- 3.  "It is difficult to make a man miserable while he feels worthy of himself and claims kindred to the great God who made him." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "Be wary of the man who urges an action in which he himself incurs no risk." <br> &emsp;&emsp;&emsp; <i>-by Joaquin Setanti</i> 
 
- 4.  "You have to allow a certain amount of time in which you are doing nothing in order to have things occur to you, to let your mind think." <br> &emsp;&emsp;&emsp; <i>-by Mortimer Adler</i> 
+ 4.  "Nothing is so good for an ignorant man as silence; and if he was sensible of this he would not be ignorant." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
