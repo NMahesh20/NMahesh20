@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Peace of mind is that mental condition in which you have accepted the worst." <br> &emsp;&emsp;&emsp; <i>-by Lin Yutang</i> 
+ 1.  "I guess we'd be living in a boring, perfect world if everybody wished everybody else well." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
 
- 2.  "How beggarly appear arguments before a defiant deed!" <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 2.  "[T]here's no bad day that can't be overcome by listening to a barbershop quartet; this is just truth, plain and simple." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
 
- 3.  "Be wary of the man who urges an action in which he himself incurs no risk." <br> &emsp;&emsp;&emsp; <i>-by Joaquin Setanti</i> 
+ 3.  "No man is justified in doing evil on the ground of expediency." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
 
- 4.  "Nothing is so good for an ignorant man as silence; and if he was sensible of this he would not be ignorant." <br> &emsp;&emsp;&emsp; <i>-by Saadi</i> 
+ 4.  "When we hear news we should always wait for the sacrament of confirmation." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
