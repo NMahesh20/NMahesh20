@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I guess we'd be living in a boring, perfect world if everybody wished everybody else well." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Aniston</i> 
+ 1.  "It's takin' whatever comes your way, the good AND the bad, that give life flavor. It's all the stuff rolled together that makes life worth livin'." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 2.  "[T]here's no bad day that can't be overcome by listening to a barbershop quartet; this is just truth, plain and simple." <br> &emsp;&emsp;&emsp; <i>-by Chuck Sigars</i> 
+ 2.  "The radical of one century is the conservative of the next. The radical invents the views. When he has worn them out the conservative adopts them." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
 
- 3.  "No man is justified in doing evil on the ground of expediency." <br> &emsp;&emsp;&emsp; <i>-by Theodore Roosevelt</i> 
+ 3.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
 
- 4.  "When we hear news we should always wait for the sacrament of confirmation." <br> &emsp;&emsp;&emsp; <i>-by Voltaire</i> 
+ 4.  "A ship in port is safe, but that's not what ships are built for." <br> &emsp;&emsp;&emsp; <i>-by Grace Murray Hopper</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
