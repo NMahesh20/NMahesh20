@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's takin' whatever comes your way, the good AND the bad, that give life flavor. It's all the stuff rolled together that makes life worth livin'." <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 1.  "If I have learnt anything, it is that life forms no logical patterns. It is haphazard and full of beauties which I try to catch as they fly by, for who knows whether any of them will ever return?" <br> &emsp;&emsp;&emsp; <i>-by Margot Fonteyn</i> 
 
- 2.  "The radical of one century is the conservative of the next. The radical invents the views. When he has worn them out the conservative adopts them." <br> &emsp;&emsp;&emsp; <i>-by Mark Twain</i> 
+ 2.  "One's dignity may be assaulted, vandalized and cruelly mocked, but cannot be taken away unless it is surrendered." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
 
- 3.  "When defeat is inevitable, it is wisest to yield." <br> &emsp;&emsp;&emsp; <i>-by Quintilian</i> 
+ 3.  "Avoid destructive thinking. Improper negative thoughts sink people. A ship can sail around the world many, many times, but just let enough water get into the ship and it will sink. Just so with the human mind. Let enough negative thoughts or improper thoughts get into the human mind and the person sinks just like a ship." <br> &emsp;&emsp;&emsp; <i>-by Alfred A. Montapert</i> 
 
- 4.  "A ship in port is safe, but that's not what ships are built for." <br> &emsp;&emsp;&emsp; <i>-by Grace Murray Hopper</i> 
+ 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
