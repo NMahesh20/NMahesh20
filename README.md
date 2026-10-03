@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If I have learnt anything, it is that life forms no logical patterns. It is haphazard and full of beauties which I try to catch as they fly by, for who knows whether any of them will ever return?" <br> &emsp;&emsp;&emsp; <i>-by Margot Fonteyn</i> 
+ 1.  "To flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 2.  "One's dignity may be assaulted, vandalized and cruelly mocked, but cannot be taken away unless it is surrendered." <br> &emsp;&emsp;&emsp; <i>-by Michael J. Fox</i> 
+ 2.  "The chief lesson I have learned in a long life is that the only way to make a man trustworthy is to trust him; and the surest way to make him untrustworthy is to distrust him and show your distrust." <br> &emsp;&emsp;&emsp; <i>-by Henry L. Stimson</i> 
 
- 3.  "Avoid destructive thinking. Improper negative thoughts sink people. A ship can sail around the world many, many times, but just let enough water get into the ship and it will sink. Just so with the human mind. Let enough negative thoughts or improper thoughts get into the human mind and the person sinks just like a ship." <br> &emsp;&emsp;&emsp; <i>-by Alfred A. Montapert</i> 
+ 3.  "The only way to have a friend is to be one." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 
- 4.  "A raise is like a martini: it elevates the spirit, but only temporarily." <br> &emsp;&emsp;&emsp; <i>-by Dan Seligman</i> 
+ 4.  "I think wholeness comes from living your life consciously during the day and then exploring your inner life or unconscious at night." <br> &emsp;&emsp;&emsp; <i>-by Margery Cuyler</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
