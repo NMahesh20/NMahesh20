@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "To flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 1.  "Time has a wonderful way of showing us what really matters." <br> &emsp;&emsp;&emsp; <i>-by Margaret Peters</i> 
 
- 2.  "The chief lesson I have learned in a long life is that the only way to make a man trustworthy is to trust him; and the surest way to make him untrustworthy is to distrust him and show your distrust." <br> &emsp;&emsp;&emsp; <i>-by Henry L. Stimson</i> 
+ 2.  "I love you the more that I believe you have liked me for my own sake and for nothing else." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
 
- 3.  "The only way to have a friend is to be one." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 3.  "Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
 
- 4.  "I think wholeness comes from living your life consciously during the day and then exploring your inner life or unconscious at night." <br> &emsp;&emsp;&emsp; <i>-by Margery Cuyler</i> 
+ 4.  "Give what you have. To someone, it may be better than you dare to think." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
