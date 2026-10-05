@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Time has a wonderful way of showing us what really matters." <br> &emsp;&emsp;&emsp; <i>-by Margaret Peters</i> 
+ 1.  "The idea of perfect closes your mind to new standards. When you drive hard toward one ideal, you miss opportunities and paths, not to mention hurting your confidence. Believe in your potential and then go out and explore it; don't limit it." <br> &emsp;&emsp;&emsp; <i>-by John Eliot, Ph.D.</i> 
 
- 2.  "I love you the more that I believe you have liked me for my own sake and for nothing else." <br> &emsp;&emsp;&emsp; <i>-by John Keats</i> 
+ 2.  "For what I have received, may the Lord make me truly thankful. And more truly for what I have not received." <br> &emsp;&emsp;&emsp; <i>-by Storm Jameson</i> 
 
- 3.  "Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable." <br> &emsp;&emsp;&emsp; <i>-by Sidney J. Harris</i> 
+ 3.  "Style is knowing who you are, what you want to say and not giving a damn." <br> &emsp;&emsp;&emsp; <i>-by Gore Vidal</i> 
 
- 4.  "Give what you have. To someone, it may be better than you dare to think." <br> &emsp;&emsp;&emsp; <i>-by Henry Wadsworth Longfellow</i> 
+ 4.  "I have always felt that the moment when first you wake up in the morning is the most wonderful of the twenty-four hours." <br> &emsp;&emsp;&emsp; <i>-by Monica Baldwin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
