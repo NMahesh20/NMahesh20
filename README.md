@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The idea of perfect closes your mind to new standards. When you drive hard toward one ideal, you miss opportunities and paths, not to mention hurting your confidence. Believe in your potential and then go out and explore it; don't limit it." <br> &emsp;&emsp;&emsp; <i>-by John Eliot, Ph.D.</i> 
+ 1.  "Before we get too depressed about the state of our politics, let's remember our history. The great debates of the past, all stirred great passions. They all made somebody angry, and at least once led to a terrible war. What is amazing, is that despite all the conflict, our experiment in democracy has worked better than any form of government on earth." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "For what I have received, may the Lord make me truly thankful. And more truly for what I have not received." <br> &emsp;&emsp;&emsp; <i>-by Storm Jameson</i> 
+ 2.  "Many people think that if they were only in some other place, or had some other job, they would be happy. Well, that is doubtful. So get as much happiness out of what you are doing as you can and don't put off being happy until some future date." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
 
- 3.  "Style is knowing who you are, what you want to say and not giving a damn." <br> &emsp;&emsp;&emsp; <i>-by Gore Vidal</i> 
+ 3.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
 
- 4.  "I have always felt that the moment when first you wake up in the morning is the most wonderful of the twenty-four hours." <br> &emsp;&emsp;&emsp; <i>-by Monica Baldwin</i> 
+ 4.  "Ask about your neighbors, then buy the house." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
