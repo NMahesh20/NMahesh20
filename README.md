@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Before we get too depressed about the state of our politics, let's remember our history. The great debates of the past, all stirred great passions. They all made somebody angry, and at least once led to a terrible war. What is amazing, is that despite all the conflict, our experiment in democracy has worked better than any form of government on earth." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "The less serious your job, the more seriously you must take it." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Many people think that if they were only in some other place, or had some other job, they would be happy. Well, that is doubtful. So get as much happiness out of what you are doing as you can and don't put off being happy until some future date." <br> &emsp;&emsp;&emsp; <i>-by Dale Carnegie</i> 
+ 2.  "All the arts we practice are apprenticeship. The big art is our life." <br> &emsp;&emsp;&emsp; <i>-by M. C. Richards</i> 
 
- 3.  "The reason most people never reach their goals is that they don't define them, or ever seriously consider them as believable or achievable. Winners can tell you where they are going, what they plan to do along the way, and who will be sharing the adventure with them." <br> &emsp;&emsp;&emsp; <i>-by Denis Watley</i> 
+ 3.  "I would rather try to persuade a man to go along, because once I have persuaded him he will stick. If I scare him, he will stay just as long as he is scared, and then he is gone." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
 
- 4.  "Ask about your neighbors, then buy the house." <br> &emsp;&emsp;&emsp; <i>-by Jewish Proverb</i> 
+ 4.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
