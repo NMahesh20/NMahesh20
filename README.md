@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The less serious your job, the more seriously you must take it." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
+ 1.  "There's an old saying that if you come back to the place where you became a man, you will remember all those things you need to be happy... That saying never made sense to me, but I thought it was worth a try." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 2.  "All the arts we practice are apprenticeship. The big art is our life." <br> &emsp;&emsp;&emsp; <i>-by M. C. Richards</i> 
+ 2.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
 
- 3.  "I would rather try to persuade a man to go along, because once I have persuaded him he will stick. If I scare him, he will stay just as long as he is scared, and then he is gone." <br> &emsp;&emsp;&emsp; <i>-by Dwight D. Eisenhower</i> 
+ 3.  "If we attend continually and promptly to the little that we can do, we shall ere long be surprised to find how little remains that we cannot do." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
 
- 4.  "Seek ye first the good things of the mind, and the rest will either be supplied or its loss will not be felt." <br> &emsp;&emsp;&emsp; <i>-by Sir Francis Bacon</i> 
+ 4.  "If I have ever made any valuable discoveries, it has been owing more to patient attention, than to any other talent." <br> &emsp;&emsp;&emsp; <i>-by Isaac Newton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
