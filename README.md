@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There's an old saying that if you come back to the place where you became a man, you will remember all those things you need to be happy... That saying never made sense to me, but I thought it was worth a try." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 1.  "I go to movies expecting to have a whole experience. If I want a movie that doesn't end, I'll go to a French movie. A movie has to be complete within itself; it can't just build off the first one or play variations." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
 
- 2.  "Write something to suit yourself and many people will like it; write something to suit everybody and scarcely anyone will care for it." <br> &emsp;&emsp;&emsp; <i>-by Jesse Stuart</i> 
+ 2.  "Better to look weak and be strong than to look strong and be weak." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
 
- 3.  "If we attend continually and promptly to the little that we can do, we shall ere long be surprised to find how little remains that we cannot do." <br> &emsp;&emsp;&emsp; <i>-by Samuel Butler</i> 
+ 3.  "Every day we do things, we are things that have to do with peace. If we are aware of our life..., our way of looking at things, we will know how to make peace right in the moment, we are alive." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
 
- 4.  "If I have ever made any valuable discoveries, it has been owing more to patient attention, than to any other talent." <br> &emsp;&emsp;&emsp; <i>-by Isaac Newton</i> 
+ 4.  "Look well into thyself; there is a source of strength which will always spring up if thou wilt always look there." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
