@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I go to movies expecting to have a whole experience. If I want a movie that doesn't end, I'll go to a French movie. A movie has to be complete within itself; it can't just build off the first one or play variations." <br> &emsp;&emsp;&emsp; <i>-by Joss Whedon</i> 
+ 1.  "One is not struck by the truth until prompted quite accidentally by some external event." <br> &emsp;&emsp;&emsp; <i>-by Kazuo Ishiguro</i> 
 
- 2.  "Better to look weak and be strong than to look strong and be weak." <br> &emsp;&emsp;&emsp; <i>-by Laura Moncur</i> 
+ 2.  "I need no warrant for being, and no word of sanction upon my being. I am the warrant and the sanction." <br> &emsp;&emsp;&emsp; <i>-by Ayn Rand</i> 
 
- 3.  "Every day we do things, we are things that have to do with peace. If we are aware of our life..., our way of looking at things, we will know how to make peace right in the moment, we are alive." <br> &emsp;&emsp;&emsp; <i>-by Thich Nhat Hanh</i> 
+ 3.  "Promises that you make to yourself are often like the Japanese plum tree - they bear no fruit." <br> &emsp;&emsp;&emsp; <i>-by Francis Marion</i> 
 
- 4.  "Look well into thyself; there is a source of strength which will always spring up if thou wilt always look there." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 4.  "It's odd that you can get so anesthetized by your own pain or your own problem that you don't quite fully share the hell of someone close to you." <br> &emsp;&emsp;&emsp; <i>-by Lady Bird Johnson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
