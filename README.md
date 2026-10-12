@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Running cross country is the closest man will ever get to flying." <br> &emsp;&emsp;&emsp; <i>-by Joseph Vanderstel</i> 
+ 1.  "I started concentrating so hard on my vision that I lost sight." <br> &emsp;&emsp;&emsp; <i>-by Robin Green</i> 
 
- 2.  "You never can see into someone else's marriage." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 2.  "Though I am grateful for the blessings of wealth, it hasn't changed who I am. My feet are still on the ground. I'm just wearing better shoes." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Do it now. It is not safe to leave a generous feeling to the cooling influences of the world." <br> &emsp;&emsp;&emsp; <i>-by Thomas Guthrie</i> 
+ 3.  "Nothing in the world can take the place of Persistence.  Talent will not; nothing is more common than unsuccessful men with talent.  Genius will not; unrewarded genius is almost a proverb.  Education will not; the world is full of educated derelicts.  Persistence and determination alone are omnipotent. The slogan 'Press On' has solved and always will solve the problems of the human race." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
 
- 4.  "In your clothes avoid too much gaudiness; do not value yourself upon an embroidered gown; and remember that a reasonable word, or an obliging look, will gain you more respect than all your fine trappings." <br> &emsp;&emsp;&emsp; <i>-by Sir George Savile</i> 
+ 4.  "One of the best rules in conversation is, never to say a thing which any of the company can reasonably wish had been left unsaid." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
