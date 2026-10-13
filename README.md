@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I started concentrating so hard on my vision that I lost sight." <br> &emsp;&emsp;&emsp; <i>-by Robin Green</i> 
+ 1.  "Hysteria is only possible with an audience." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
 
- 2.  "Though I am grateful for the blessings of wealth, it hasn't changed who I am. My feet are still on the ground. I'm just wearing better shoes." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "Life is like getting dropped off in the middle of the woods, and then year by year, gradually walking home." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
 
- 3.  "Nothing in the world can take the place of Persistence.  Talent will not; nothing is more common than unsuccessful men with talent.  Genius will not; unrewarded genius is almost a proverb.  Education will not; the world is full of educated derelicts.  Persistence and determination alone are omnipotent. The slogan 'Press On' has solved and always will solve the problems of the human race." <br> &emsp;&emsp;&emsp; <i>-by Calvin Coolidge</i> 
+ 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "One of the best rules in conversation is, never to say a thing which any of the company can reasonably wish had been left unsaid." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 4.  "Think not those faithful who praise all thy words and actions; but those who kindly reprove thy faults." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
