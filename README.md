@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Hysteria is only possible with an audience." <br> &emsp;&emsp;&emsp; <i>-by Chuck Palahniuk</i> 
+ 1.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
 
- 2.  "Life is like getting dropped off in the middle of the woods, and then year by year, gradually walking home." <br> &emsp;&emsp;&emsp; <i>-by April Foiles</i> 
+ 2.  "In the depth of winter, I finally learned that within me there lay an invincible summer." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
 
- 3.  "Things won are done; joy's soul lies in the doing." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "You can't choose the ways in which you'll be tested." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
 
- 4.  "Think not those faithful who praise all thy words and actions; but those who kindly reprove thy faults." <br> &emsp;&emsp;&emsp; <i>-by Socrates</i> 
+ 4.  "Nothing is particularly hard if you divide it into small jobs." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
