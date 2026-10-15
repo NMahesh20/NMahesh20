@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Men are afraid to rock the boat in which they hope to drift safely through life's currents, when, actually, the boat is stuck on a sandbar. They would be better off to rock the boat and try to shake it loose." <br> &emsp;&emsp;&emsp; <i>-by Thomas Szasz</i> 
+ 1.  "There’s something wonderful about entertaining people on vacation. Everyone is there to have a good time." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "In the depth of winter, I finally learned that within me there lay an invincible summer." <br> &emsp;&emsp;&emsp; <i>-by Albert Camus</i> 
+ 2.  "One cannot fix one's eyes on the commonest natural production without finding food for a rambling fancy." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 3.  "You can't choose the ways in which you'll be tested." <br> &emsp;&emsp;&emsp; <i>-by Robert J. Sawyer</i> 
+ 3.  "One's first step in wisdom is to question everything - and one's last is to come to terms with everything." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
 
- 4.  "Nothing is particularly hard if you divide it into small jobs." <br> &emsp;&emsp;&emsp; <i>-by Henry Ford</i> 
+ 4.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
