@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There’s something wonderful about entertaining people on vacation. Everyone is there to have a good time." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "I said to myself, I have things in my head that are not like what anyone has taught me - shapes and ideas so near to me - so natural to my way of being and thinking that it hasn't occurred to me to put them down. I decided to start anew, to strip away what I had been taught." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
 
- 2.  "One cannot fix one's eyes on the commonest natural production without finding food for a rambling fancy." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 2.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
 
- 3.  "One's first step in wisdom is to question everything - and one's last is to come to terms with everything." <br> &emsp;&emsp;&emsp; <i>-by Georg Christoph Lichtenberg</i> 
+ 3.  "If you don't learn to laugh at trouble, you won't have anything to laugh at when you're old." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
 
- 4.  "Don't limit a child to your own learning, for he was born in another time." <br> &emsp;&emsp;&emsp; <i>-by Rabbinical Saying</i> 
+ 4.  "Never despair; but if you do, work on in despair." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
