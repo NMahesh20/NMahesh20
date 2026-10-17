@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I said to myself, I have things in my head that are not like what anyone has taught me - shapes and ideas so near to me - so natural to my way of being and thinking that it hasn't occurred to me to put them down. I decided to start anew, to strip away what I had been taught." <br> &emsp;&emsp;&emsp; <i>-by Georgia O'Keeffe</i> 
+ 1.  "Please do not be cynical. I hate cynicism. For the record, it’s my least favorite quality. It doesn’t lead anywhere." <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
 
- 2.  "Anger makes you smaller, while forgiveness forces you to grow beyond what you were." <br> &emsp;&emsp;&emsp; <i>-by Cherie Carter-Scott</i> 
+ 2.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
 
- 3.  "If you don't learn to laugh at trouble, you won't have anything to laugh at when you're old." <br> &emsp;&emsp;&emsp; <i>-by Edgar Watson Howe</i> 
+ 3.  "We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
 
- 4.  "Never despair; but if you do, work on in despair." <br> &emsp;&emsp;&emsp; <i>-by Edmund Burke</i> 
+ 4.  "Although the world is full of suffering, it is full also of the overcoming of it." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
