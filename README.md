@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Please do not be cynical. I hate cynicism. For the record, it’s my least favorite quality. It doesn’t lead anywhere." <br> &emsp;&emsp;&emsp; <i>-by Conan O'Brien</i> 
+ 1.  "Knowing that there is worse pain doesn't make present pain hurt any less." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 2.  "I am where I am because I believe in all possibilities." <br> &emsp;&emsp;&emsp; <i>-by Whoopi Goldberg</i> 
+ 2.  "I have learned not to worry about love; but to honor its coming with all my heart." <br> &emsp;&emsp;&emsp; <i>-by Alice Walker</i> 
 
- 3.  "We must be willing to get rid of the life we've planned, so as to have the life that is waiting for us." <br> &emsp;&emsp;&emsp; <i>-by Joseph Campbell</i> 
+ 3.  "As scarce as truth is, the supply has always been in excess of the demand." <br> &emsp;&emsp;&emsp; <i>-by Josh Billings</i> 
 
- 4.  "Although the world is full of suffering, it is full also of the overcoming of it." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 4.  "Work and struggle and never accept an evil that you can change." <br> &emsp;&emsp;&emsp; <i>-by Andre Gide</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
