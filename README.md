@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Experience is a good teacher, but she sends in terrific bills." <br> &emsp;&emsp;&emsp; <i>-by Minna Thomas Antrim</i> 
+ 1.  "Get on stage. A lot. Try stuff. Make your best stab and keep stabbing. If it's there in your heart, it will eventually find its way out. Or you will give up and have a prudent, contented life doing something else." <br> &emsp;&emsp;&emsp; <i>-by Raymond Joseph Teller</i> 
 
- 2.  "It is better to suffer wrong than to do it, and happier to be sometimes cheated than not to trust." <br> &emsp;&emsp;&emsp; <i>-by Samuel Johnson</i> 
+ 2.  "Sometimes life is going to hit you in the head with a brick. Don't lose faith." <br> &emsp;&emsp;&emsp; <i>-by Steve Jobs</i> 
 
- 3.  "If you make it plain you like people, it's hard for them to resist liking you back." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 3.  "In a progressive country change is constant; ...change... is inevitable." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Disraeli</i> 
 
- 4.  "He who every morning plans the transaction of the day and follows out that plan, carries a thread that will guide him through the maze of the most busy life. But where no plan is laid, where the disposal of time is surrendered merely to the chance of incidence, chaos will soon reign." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 4.  "Einstein said God doesn't play dice with the universe, but I don't know--maybe not as a whole, but I think he gets a pretty big kick out of messing in peoples' back yards." <br> &emsp;&emsp;&emsp; <i>-by Dennis Koenig and Jordan Budde</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
