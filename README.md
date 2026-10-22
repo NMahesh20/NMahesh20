@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "If we were to care about every person suffering on this planet, life would shut down." <br> &emsp;&emsp;&emsp; <i>-by David Shore</i> 
+ 1.  "Every man is the builder of a temple called his body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 2.  "Greatness is more than potential. It is the execution of that potential. Beyond the raw talent. You need the appropriate training. You need the discipline. You need the inspiration. You need the drive." <br> &emsp;&emsp;&emsp; <i>-by Eric A. Burns</i> 
+ 2.  "We all carry around so much pain in our hearts. Love and pain and beauty. They all seem to go together like one little tidy confusing package. It's a messy business, life. It's hard to figure--full of surprises. Some good. Some bad." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 3.  "Wonder is what sets us apart from other life forms. No other species wonders about the meaning of existence or the complexity of the universe or themselves." <br> &emsp;&emsp;&emsp; <i>-by Herbert W. Boyer</i> 
+ 3.  "The only alternative to coexistence is codestruction." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
 
- 4.  "Of all the self-fulfilling prophecies in our culture, the assumption that aging means decline and poor health is probably the deadliest." <br> &emsp;&emsp;&emsp; <i>-by Marilyn Ferguson</i> 
+ 4.  "The habit of giving only enhances the desire to give." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
