@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every man is the builder of a temple called his body." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 1.  "Charm and nothing but charm at last grows a little tiresome. It's a relief then to deal with a man who isn't quite so delightful but a little more sincere." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
 
- 2.  "We all carry around so much pain in our hearts. Love and pain and beauty. They all seem to go together like one little tidy confusing package. It's a messy business, life. It's hard to figure--full of surprises. Some good. Some bad." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 2.  "Maybe it's what's inside that counts, but being told you look good feels good!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
 
- 3.  "The only alternative to coexistence is codestruction." <br> &emsp;&emsp;&emsp; <i>-by Jawaharlal Nehru</i> 
+ 3.  "Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself." <br> &emsp;&emsp;&emsp; <i>-by William Faulkner</i> 
 
- 4.  "The habit of giving only enhances the desire to give." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "The only gift is a portion of thyself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
