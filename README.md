@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Charm and nothing but charm at last grows a little tiresome. It's a relief then to deal with a man who isn't quite so delightful but a little more sincere." <br> &emsp;&emsp;&emsp; <i>-by W. Somerset Maugham</i> 
+ 1.  "Happiness often sneaks in through a door you didn't know you left open." <br> &emsp;&emsp;&emsp; <i>-by John Barrymore</i> 
 
- 2.  "Maybe it's what's inside that counts, but being told you look good feels good!" <br> &emsp;&emsp;&emsp; <i>-by Takayuki Ikkaku, Arisa Hosaka and Toshihiro Kawabata</i> 
+ 2.  "Perfectionism is simply putting a limit on your future. When you have an idea of perfect in your mind, you open the door to constantly comparing what you have now with what you want. That type of self criticism is significantly deterring." <br> &emsp;&emsp;&emsp; <i>-by John Eliot, Ph.D.</i> 
 
- 3.  "Don't bother just to be better than your contemporaries or predecessors. Try to be better than yourself." <br> &emsp;&emsp;&emsp; <i>-by William Faulkner</i> 
+ 3.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
 
- 4.  "The only gift is a portion of thyself." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "Cheese - milk's leap toward immortality." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
