@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Happiness often sneaks in through a door you didn't know you left open." <br> &emsp;&emsp;&emsp; <i>-by John Barrymore</i> 
+ 1.  "All existing business models are wrong. Find a new one." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 2.  "Perfectionism is simply putting a limit on your future. When you have an idea of perfect in your mind, you open the door to constantly comparing what you have now with what you want. That type of self criticism is significantly deterring." <br> &emsp;&emsp;&emsp; <i>-by John Eliot, Ph.D.</i> 
+ 2.  "Indifference and neglect often do much more damage than outright dislike." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 3.  "A human being must have occupation if he or she is not to become a nuisance to the world." <br> &emsp;&emsp;&emsp; <i>-by Dorothy L. Sayers</i> 
+ 3.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
 
- 4.  "Cheese - milk's leap toward immortality." <br> &emsp;&emsp;&emsp; <i>-by Clifton Fadiman</i> 
+ 4.  "He who is not very strong in memory should not meddle with lying." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
