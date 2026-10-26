@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "All existing business models are wrong. Find a new one." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 1.  "We feel in one world, we think and name in another. Between the two we can set up a system of references, but we cannot fill in the gap." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
 
- 2.  "Indifference and neglect often do much more damage than outright dislike." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 2.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
 
- 3.  "Remember, no matter where you go, there you are." <br> &emsp;&emsp;&emsp; <i>-by Earl Mac Rauch</i> 
+ 3.  "Be courteous, be obliging, but don't give yourself over to be melted down for the benefit of the tallow trade." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
 
- 4.  "He who is not very strong in memory should not meddle with lying." <br> &emsp;&emsp;&emsp; <i>-by Michel de Montaigne</i> 
+ 4.  "Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don't turn up at all." <br> &emsp;&emsp;&emsp; <i>-by Sam Ewing</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
