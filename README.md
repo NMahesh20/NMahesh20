@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We feel in one world, we think and name in another. Between the two we can set up a system of references, but we cannot fill in the gap." <br> &emsp;&emsp;&emsp; <i>-by Marcel Proust</i> 
+ 1.  "Fear plays an interesting role in our lives. How dare we let it motivate us? How dare we let it into our decision making; into our livelihoods; into our relationships? It's funny isn't it? We take a day a year to dress up, in costume and celebrate fear." <br> &emsp;&emsp;&emsp; <i>-by Greg Daniels, Carrie Kemper, Ricky Gervais, Stephen Merchant</i> 
 
- 2.  "One should count each day a separate life." <br> &emsp;&emsp;&emsp; <i>-by Seneca</i> 
+ 2.  "You really haven't changed, you've just become more of yourself. That is really what were all trying to do: become more of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 3.  "Be courteous, be obliging, but don't give yourself over to be melted down for the benefit of the tallow trade." <br> &emsp;&emsp;&emsp; <i>-by George Eliot</i> 
+ 3.  "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
 
- 4.  "Hard work spotlights the character of people: some turn up their sleeves, some turn up their noses, and some don't turn up at all." <br> &emsp;&emsp;&emsp; <i>-by Sam Ewing</i> 
+ 4.  "Be sincere; be brief; be seated." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
