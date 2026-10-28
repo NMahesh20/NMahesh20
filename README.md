@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Fear plays an interesting role in our lives. How dare we let it motivate us? How dare we let it into our decision making; into our livelihoods; into our relationships? It's funny isn't it? We take a day a year to dress up, in costume and celebrate fear." <br> &emsp;&emsp;&emsp; <i>-by Greg Daniels, Carrie Kemper, Ricky Gervais, Stephen Merchant</i> 
+ 1.  "Life is not so important as the duties of life." <br> &emsp;&emsp;&emsp; <i>-by John Randolph</i> 
 
- 2.  "You really haven't changed, you've just become more of yourself. That is really what were all trying to do: become more of ourselves." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 2.  "If someone offers you a gift, and you decline to accept it, the other person still owns that gift. The same is true of insults and verbal attacks." <br> &emsp;&emsp;&emsp; <i>-by Steve Pavlina</i> 
 
- 3.  "Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving." <br> &emsp;&emsp;&emsp; <i>-by Albert Einstein</i> 
+ 3.  "Friendship is certainly the finest balm for the pangs of disappointed love." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
 
- 4.  "Be sincere; be brief; be seated." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 4.  "A misery is not to be measured from the nature of the evil, but from the temper of the sufferer." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
