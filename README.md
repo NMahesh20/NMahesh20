@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Life is not so important as the duties of life." <br> &emsp;&emsp;&emsp; <i>-by John Randolph</i> 
+ 1.  "We are told that people stay in love because of chemistry or because they remain intrigued with each other, because of many kindnesses, because of luck... But part of it has got to be forgiveness and gratefulness." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
 
- 2.  "If someone offers you a gift, and you decline to accept it, the other person still owns that gift. The same is true of insults and verbal attacks." <br> &emsp;&emsp;&emsp; <i>-by Steve Pavlina</i> 
+ 2.  "Living is a form of not being sure, not knowing what next or how…We guess. We may be wrong, but we take leap after leap in the dark." <br> &emsp;&emsp;&emsp; <i>-by Agnes de Mille</i> 
 
- 3.  "Friendship is certainly the finest balm for the pangs of disappointed love." <br> &emsp;&emsp;&emsp; <i>-by Jane Austen</i> 
+ 3.  "If you want creative workers, give them enough time to play." <br> &emsp;&emsp;&emsp; <i>-by John Cleese</i> 
 
- 4.  "A misery is not to be measured from the nature of the evil, but from the temper of the sufferer." <br> &emsp;&emsp;&emsp; <i>-by Joseph Addison</i> 
+ 4.  "If you wouldst live long, live well, for folly and wickedness shorten life." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
