@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "We are told that people stay in love because of chemistry or because they remain intrigued with each other, because of many kindnesses, because of luck... But part of it has got to be forgiveness and gratefulness." <br> &emsp;&emsp;&emsp; <i>-by Ellen Goodman</i> 
+ 1.  "The bitterest tears shed over graves are for words left unsaid and deeds left undone." <br> &emsp;&emsp;&emsp; <i>-by Harriet Beecher Stowe</i> 
 
- 2.  "Living is a form of not being sure, not knowing what next or how…We guess. We may be wrong, but we take leap after leap in the dark." <br> &emsp;&emsp;&emsp; <i>-by Agnes de Mille</i> 
+ 2.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
 
- 3.  "If you want creative workers, give them enough time to play." <br> &emsp;&emsp;&emsp; <i>-by John Cleese</i> 
+ 3.  "Get pleasure out of life...as much as you can. Nobody ever died from pleasure." <br> &emsp;&emsp;&emsp; <i>-by Sol Hurok</i> 
 
- 4.  "If you wouldst live long, live well, for folly and wickedness shorten life." <br> &emsp;&emsp;&emsp; <i>-by Benjamin Franklin</i> 
+ 4.  "Real success is finding your lifework in the work that you love." <br> &emsp;&emsp;&emsp; <i>-by David McCullough</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
