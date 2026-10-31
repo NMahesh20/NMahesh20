@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The bitterest tears shed over graves are for words left unsaid and deeds left undone." <br> &emsp;&emsp;&emsp; <i>-by Harriet Beecher Stowe</i> 
+ 1.  "Every patient carries her or his own doctor inside." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
 
- 2.  "An honor is not diminished for being shared." <br> &emsp;&emsp;&emsp; <i>-by Lois McMaster Bujold</i> 
+ 2.  "Comedy is nothing more than tragedy deferred." <br> &emsp;&emsp;&emsp; <i>-by Pico Iyer</i> 
 
- 3.  "Get pleasure out of life...as much as you can. Nobody ever died from pleasure." <br> &emsp;&emsp;&emsp; <i>-by Sol Hurok</i> 
+ 3.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
 
- 4.  "Real success is finding your lifework in the work that you love." <br> &emsp;&emsp;&emsp; <i>-by David McCullough</i> 
+ 4.  "Genius is one percent inspiration, ninety-nine percent perspiration." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
