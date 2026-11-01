@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
       - name: Update contrib graph
         uses: Platane/snk@v3
@@ -23,14 +23,30 @@ jobs:
           outputs: |
             Assets/github-contribution-grid-snake-light.gif?palette=github-light
             Assets/github-contribution-grid-snake-dark.gif?palette=github-dark
-          
-      - uses: stefanzweifel/git-auto-commit-action@v7
+      - uses: yalongwastaken/git-koi@v1
         with:
-          commit_message: "chore: update contribution snake animations"
-          file_pattern: 'Assets/*'
+          body: white
+          output-dir: Assets
+      - name: Commit the koi if it changed
+        shell: bash
+        run: |
+          git add Assets/
+          if git diff --cached --quiet; then
+            echo "The contrib grid is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "chore: draw the day's animations"
+          git push --quiet
+          
+      # - uses: stefanzweifel/git-auto-commit-action@v7
+      #   with:
+      #     commit_message: "chore: update contribution snake animations"
+      #     file_pattern: 'Assets/*'
 
       - name: Fetch Quotes
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "http://www.quotationspage.com/data/mqotd.rss"
           max_post_count: 4
