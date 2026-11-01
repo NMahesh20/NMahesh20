@@ -29,13 +29,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Every patient carries her or his own doctor inside." <br> &emsp;&emsp;&emsp; <i>-by Albert Schweitzer</i> 
+ 1.  "The urge to make art or contemplate philosophy does not go away when you are sick. Those urges just become transfigured by illness." <br> &emsp;&emsp;&emsp; <i>-by John Green</i> 
 
- 2.  "Comedy is nothing more than tragedy deferred." <br> &emsp;&emsp;&emsp; <i>-by Pico Iyer</i> 
+ 2.  "You have to keep plugging away. We are all growing. There is no shortcut. You have to put time into it to build an audience" <br> &emsp;&emsp;&emsp; <i>-by John Gruber</i> 
 
- 3.  "Be not extravagantly high in expression of thy commendations of men thou likest, it may make the hearer's stomach rise." <br> &emsp;&emsp;&emsp; <i>-by Thomas Fuller</i> 
+ 3.  "I would rather be right and die than be wrong and kill." <br> &emsp;&emsp;&emsp; <i>-by Holly Lisle</i> 
 
- 4.  "Genius is one percent inspiration, ninety-nine percent perspiration." <br> &emsp;&emsp;&emsp; <i>-by Thomas A. Edison</i> 
+ 4.  "How many a man has dated a new era in his life from the reading of a book." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://www.quotationspage.com/data/mqotd.rss"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://www.quotationspage.com/data/mqotd.rss " and the github action used was gautamkrishnar/blog-post-workflow@master -->
