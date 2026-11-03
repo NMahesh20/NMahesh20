@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Having been here before and lost, to be here and win, I've got to tell you, winning is really a lot better than losing. Really a lot better." <br> &emsp;&emsp;&emsp; <i>-by Kate Winslet</i> 
+ 1.  "Compassion isn’t being nice, she would say. It’s fighting like hell for the people who would get trampled otherwise." <br> &emsp;&emsp;&emsp; <i>-by Susan Kaye Quinn</i> 
 
- 2.  "The world ridicules a passion which it seldom feels; its scenes, and its interests, distract the mind, deprave the taste, corrupt the heart, and love cannot exist in a heart that has lost the meek dignity of innocence." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
 
- 3.  "Art has never been made while thinking of art." <br> &emsp;&emsp;&emsp; <i>-by Niko Stumpo</i> 
+ 3.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
 
- 4.  "Slight not what's near, while aiming at what's far." <br> &emsp;&emsp;&emsp; <i>-by Euripides</i> 
+ 4.  "Sometimes we do a thing in order to find out the reason for it. Sometimes our actions are questions not answers." <br> &emsp;&emsp;&emsp; <i>-by John Le Carre</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
