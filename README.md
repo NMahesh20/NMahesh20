@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Compassion isn’t being nice, she would say. It’s fighting like hell for the people who would get trampled otherwise." <br> &emsp;&emsp;&emsp; <i>-by Susan Kaye Quinn</i> 
+ 1.  "Ruminating about the past is like trying to drive backward to undo a car accident." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
 
- 2.  "A true friend knows your weaknesses but shows you your strengths; feels your fears but fortifies your faith; sees your anxieties but frees your spirit; recognizes your disabilities but emphasizes your possibilities." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 2.  "No matter how nice the company one might be with, however, it is never pleasant to have a rifle pointed at one's back." <br> &emsp;&emsp;&emsp; <i>-by Meg Cabot</i> 
 
- 3.  "I have always regarded myself as the pillar of my life." <br> &emsp;&emsp;&emsp; <i>-by Meryl Streep</i> 
+ 3.  "Every creator painfully experiences the chasm between his inner vision and its ultimate expression." <br> &emsp;&emsp;&emsp; <i>-by Isaac Bashevis Singer</i> 
 
- 4.  "Sometimes we do a thing in order to find out the reason for it. Sometimes our actions are questions not answers." <br> &emsp;&emsp;&emsp; <i>-by John Le Carre</i> 
+ 4.  "The truth is that all of us attain the greatest success and happiness possible in this life whenever we use our native capacities to their greatest extent." <br> &emsp;&emsp;&emsp; <i>-by Dr. Smiley Blanton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
