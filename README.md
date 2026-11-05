@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Ruminating about the past is like trying to drive backward to undo a car accident." <br> &emsp;&emsp;&emsp; <i>-by Julie A., M.A. Ross and Judy Corcoran</i> 
+ 1.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
 
- 2.  "No matter how nice the company one might be with, however, it is never pleasant to have a rifle pointed at one's back." <br> &emsp;&emsp;&emsp; <i>-by Meg Cabot</i> 
+ 2.  "Nor do not saw the air too much with your hand, thus, but use all gently. For in the very torrent, tempest, and as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 3.  "Every creator painfully experiences the chasm between his inner vision and its ultimate expression." <br> &emsp;&emsp;&emsp; <i>-by Isaac Bashevis Singer</i> 
+ 3.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
 
- 4.  "The truth is that all of us attain the greatest success and happiness possible in this life whenever we use our native capacities to their greatest extent." <br> &emsp;&emsp;&emsp; <i>-by Dr. Smiley Blanton</i> 
+ 4.  "I begin to think, that a calm is not desirable in any situation in life....Man was made for action and for bustle too, I believe." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
