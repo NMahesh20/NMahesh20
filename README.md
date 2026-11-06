@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "When we die, no one remembers us for what we weighed. Our weight isn't etched into our headstones." <br> &emsp;&emsp;&emsp; <i>-by Stephanie Klein</i> 
+ 1.  "Just because this isn't in your life plan doesn't mean this isn't exactly where you're supposed to be." <br> &emsp;&emsp;&emsp; <i>-by Nahnatchka Khan</i> 
 
- 2.  "Nor do not saw the air too much with your hand, thus, but use all gently. For in the very torrent, tempest, and as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 2.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 3.  "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment." <br> &emsp;&emsp;&emsp; <i>-by Marcus Aurelius Antoninus</i> 
+ 3.  "I love life...Yeah, I'm sad, but at the same time, I'm really happy that something could make me feel that sad. It's like...It makes me feel alive, you know. It makes me feel human. The only way I could feel this sad now is if I felt something really good before. So I have to take the bad with the good. So I guess what I'm feeling is like a beautiful sadness." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
 
- 4.  "I begin to think, that a calm is not desirable in any situation in life....Man was made for action and for bustle too, I believe." <br> &emsp;&emsp;&emsp; <i>-by Abigail Adams</i> 
+ 4.  "To see what is right, and not to do it, is want of courage or of principle." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
