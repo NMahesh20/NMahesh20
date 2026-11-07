@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Just because this isn't in your life plan doesn't mean this isn't exactly where you're supposed to be." <br> &emsp;&emsp;&emsp; <i>-by Nahnatchka Khan</i> 
+ 1.  "Eating is really one of your indoor sports. You play three times a day, and it's well worth while to make the game as pleasant as possible." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Draper</i> 
 
- 2.  "Happiness lies not in the mere possession of money. It lies in the joy of achievement, in the thrill of creative effort." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 2.  "People who are 'ready' give off a different vibe than people who aren't. Animals can smell fear; maybe that's it./ The minute you become ready is the the minute you stop dreaming. Suddenly it's no longer about 'becoming'. Suddenly it's about 'doing'." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
 
- 3.  "I love life...Yeah, I'm sad, but at the same time, I'm really happy that something could make me feel that sad. It's like...It makes me feel alive, you know. It makes me feel human. The only way I could feel this sad now is if I felt something really good before. So I have to take the bad with the good. So I guess what I'm feeling is like a beautiful sadness." <br> &emsp;&emsp;&emsp; <i>-by Trey Parker and Matt Stone</i> 
+ 3.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
 
- 4.  "To see what is right, and not to do it, is want of courage or of principle." <br> &emsp;&emsp;&emsp; <i>-by Confucius</i> 
+ 4.  "The present is a rope stretched over the past. The secret to walking it is, you never look down." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
