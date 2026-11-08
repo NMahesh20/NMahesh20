@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Eating is really one of your indoor sports. You play three times a day, and it's well worth while to make the game as pleasant as possible." <br> &emsp;&emsp;&emsp; <i>-by Dorothy Draper</i> 
+ 1.  "There is one person in charge of every office in America and that person is Charles Darwin." <br> &emsp;&emsp;&emsp; <i>-by Charlie Grandy</i> 
 
- 2.  "People who are 'ready' give off a different vibe than people who aren't. Animals can smell fear; maybe that's it./ The minute you become ready is the the minute you stop dreaming. Suddenly it's no longer about 'becoming'. Suddenly it's about 'doing'." <br> &emsp;&emsp;&emsp; <i>-by Hugh Macleod</i> 
+ 2.  "I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
 
- 3.  "The way we distinguish ourselves is by showing our individuality." <br> &emsp;&emsp;&emsp; <i>-by Elisa Camahort</i> 
+ 3.  "A true man never frets about his place in the world, but just slides into it by the gravitation of his nature, and swings there as easily as a star." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
 
- 4.  "The present is a rope stretched over the past. The secret to walking it is, you never look down." <br> &emsp;&emsp;&emsp; <i>-by Sean Stewart</i> 
+ 4.  "Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go... And a time to prepare to pick up the pieces when it's all over." <br> &emsp;&emsp;&emsp; <i>-by Gloria Naylor</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
