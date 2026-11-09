@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "There is one person in charge of every office in America and that person is Charles Darwin." <br> &emsp;&emsp;&emsp; <i>-by Charlie Grandy</i> 
+ 1.  "The leaders we revere and the businesses that last are generally not the result of a narrow pursuit of popularity or personal advancement, but of devotion to some bigger purpose. That's the hallmark of real success. The other trapping of success might be the by product of this larger mission, but it can't be the central thing." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 2.  "I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble. The world is moved along, not only by the mighty shoves of its heroes, but also by the aggregate of the tiny pushes of each honest worker." <br> &emsp;&emsp;&emsp; <i>-by Helen Keller</i> 
+ 2.  "Unless I accept my faults, I will most certainly doubt my virtues." <br> &emsp;&emsp;&emsp; <i>-by Hugh Prather</i> 
 
- 3.  "A true man never frets about his place in the world, but just slides into it by the gravitation of his nature, and swings there as easily as a star." <br> &emsp;&emsp;&emsp; <i>-by Edward Chapin</i> 
+ 3.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
 
- 4.  "Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go... And a time to prepare to pick up the pieces when it's all over." <br> &emsp;&emsp;&emsp; <i>-by Gloria Naylor</i> 
+ 4.  "Never advise anyone to go to war or to marry." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
