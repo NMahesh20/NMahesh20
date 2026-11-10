@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The leaders we revere and the businesses that last are generally not the result of a narrow pursuit of popularity or personal advancement, but of devotion to some bigger purpose. That's the hallmark of real success. The other trapping of success might be the by product of this larger mission, but it can't be the central thing." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 1.  "The quantity of civilization is measured by the quality of imagination." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
 
- 2.  "Unless I accept my faults, I will most certainly doubt my virtues." <br> &emsp;&emsp;&emsp; <i>-by Hugh Prather</i> 
+ 2.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
 
- 3.  "One must have a good memory to be able to keep the promises one makes." <br> &emsp;&emsp;&emsp; <i>-by Friedrich Nietzsche</i> 
+ 3.  "Forgiveness does not always lead to a healed relationship. Some people are not capable of love, and it might be wise to let them go along with your anger. Wish them well, and let them go their way." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
 
- 4.  "Never advise anyone to go to war or to marry." <br> &emsp;&emsp;&emsp; <i>-by Spanish Proverb</i> 
+ 4.  "This is my answer to the gap between ideas and action - I will write it out." <br> &emsp;&emsp;&emsp; <i>-by Hortense Calisher</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
