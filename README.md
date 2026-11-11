@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "The quantity of civilization is measured by the quality of imagination." <br> &emsp;&emsp;&emsp; <i>-by Victor Hugo</i> 
+ 1.  "You cannot just work out and then eat poorly and expect to lose weight. It doesn’t work that way." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
 
- 2.  "All of us want to do well. But if we do not do good, too, then doing well will never be enough." <br> &emsp;&emsp;&emsp; <i>-by Anna Quindlen</i> 
+ 2.  "Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now!" <br> &emsp;&emsp;&emsp; <i>-by Michael Landon</i> 
 
- 3.  "Forgiveness does not always lead to a healed relationship. Some people are not capable of love, and it might be wise to let them go along with your anger. Wish them well, and let them go their way." <br> &emsp;&emsp;&emsp; <i>-by Gordon Atkinson</i> 
+ 3.  "Know, first, who you are; and then adorn yourself accordingly." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
 
- 4.  "This is my answer to the gap between ideas and action - I will write it out." <br> &emsp;&emsp;&emsp; <i>-by Hortense Calisher</i> 
+ 4.  "For the sense of smell, almost more than any other, has the power to recall memories and it is a pity that you use it so little." <br> &emsp;&emsp;&emsp; <i>-by Rachel Carson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
