@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "You cannot just work out and then eat poorly and expect to lose weight. It doesn’t work that way." <br> &emsp;&emsp;&emsp; <i>-by Jennifer Hudson</i> 
+ 1.  "Whatever you fear most has no power - it is your fear that has the power." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
 
- 2.  "Somebody should tell us, right at the start of our lives, that we are dying. Then we might live life to the limit, every minute of every day. Do it! I say. Whatever you want to do, do it now!" <br> &emsp;&emsp;&emsp; <i>-by Michael Landon</i> 
+ 2.  "Generosity with strings is not generosity; It is a deal." <br> &emsp;&emsp;&emsp; <i>-by Marya Mannes</i> 
 
- 3.  "Know, first, who you are; and then adorn yourself accordingly." <br> &emsp;&emsp;&emsp; <i>-by Epictetus</i> 
+ 3.  "Once in a while you have to take a break and visit yourself." <br> &emsp;&emsp;&emsp; <i>-by Audrey Giorgi</i> 
 
- 4.  "For the sense of smell, almost more than any other, has the power to recall memories and it is a pity that you use it so little." <br> &emsp;&emsp;&emsp; <i>-by Rachel Carson</i> 
+ 4.  "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite." <br> &emsp;&emsp;&emsp; <i>-by G. K. Chesterton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
