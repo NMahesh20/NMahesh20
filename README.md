@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Whatever you fear most has no power - it is your fear that has the power." <br> &emsp;&emsp;&emsp; <i>-by Oprah Winfrey</i> 
+ 1.  "I row after health like a waterman..." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
 
- 2.  "Generosity with strings is not generosity; It is a deal." <br> &emsp;&emsp;&emsp; <i>-by Marya Mannes</i> 
+ 2.  "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." <br> &emsp;&emsp;&emsp; <i>-by Henri-Frédéric Amiel</i> 
 
- 3.  "Once in a while you have to take a break and visit yourself." <br> &emsp;&emsp;&emsp; <i>-by Audrey Giorgi</i> 
+ 3.  "Our houses are such unwieldy property that we are often imprisoned rather than housed in them." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
 
- 4.  "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite." <br> &emsp;&emsp;&emsp; <i>-by G. K. Chesterton</i> 
+ 4.  "She had learned the self-deprecating ways of the woman who does not want to be thought hard and grasping, but her artifices could not always cover the nakedness of her need to excel." <br> &emsp;&emsp;&emsp; <i>-by Faith Sullivan</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
