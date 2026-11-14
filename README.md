@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "I row after health like a waterman..." <br> &emsp;&emsp;&emsp; <i>-by Jonathan Swift</i> 
+ 1.  "It is the loving, not the loved, woman who feels loveable." <br> &emsp;&emsp;&emsp; <i>-by Jessamyn West</i> 
 
- 2.  "You desire to know the art of living, my friend? It is contained in one phrase: make use of suffering." <br> &emsp;&emsp;&emsp; <i>-by Henri-Frédéric Amiel</i> 
+ 2.  "The gem cannot be polished without friction, nor man perfected without trials." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
 
- 3.  "Our houses are such unwieldy property that we are often imprisoned rather than housed in them." <br> &emsp;&emsp;&emsp; <i>-by Henry David Thoreau</i> 
+ 3.  "It is just the little touches after the average man would quit that make the master's fame." <br> &emsp;&emsp;&emsp; <i>-by Orison Swett Marden</i> 
 
- 4.  "She had learned the self-deprecating ways of the woman who does not want to be thought hard and grasping, but her artifices could not always cover the nakedness of her need to excel." <br> &emsp;&emsp;&emsp; <i>-by Faith Sullivan</i> 
+ 4.  "Water is the most neglected nutrient in your diet but one of the most vital." <br> &emsp;&emsp;&emsp; <i>-by Kelly Barton</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
