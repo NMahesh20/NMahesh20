@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It is the loving, not the loved, woman who feels loveable." <br> &emsp;&emsp;&emsp; <i>-by Jessamyn West</i> 
+ 1.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
 
- 2.  "The gem cannot be polished without friction, nor man perfected without trials." <br> &emsp;&emsp;&emsp; <i>-by Chinese Proverb</i> 
+ 2.  "Dive into the sea of thought, and find there pearls beyond price." <br> &emsp;&emsp;&emsp; <i>-by Moses Ibn Ezra</i> 
 
- 3.  "It is just the little touches after the average man would quit that make the master's fame." <br> &emsp;&emsp;&emsp; <i>-by Orison Swett Marden</i> 
+ 3.  "Force is all-conquering, but its victories are short-lived." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
 
- 4.  "Water is the most neglected nutrient in your diet but one of the most vital." <br> &emsp;&emsp;&emsp; <i>-by Kelly Barton</i> 
+ 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
