@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "It's important to begin a search on a full stomach." <br> &emsp;&emsp;&emsp; <i>-by Henry Bromel</i> 
+ 1.  "Next to trying and winning, the best thing is trying and failing." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
 
- 2.  "Dive into the sea of thought, and find there pearls beyond price." <br> &emsp;&emsp;&emsp; <i>-by Moses Ibn Ezra</i> 
+ 2.  "It is a sadness of growing older that we lose our ardent appreciation of what is new and different and difficult." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
 
- 3.  "Force is all-conquering, but its victories are short-lived." <br> &emsp;&emsp;&emsp; <i>-by Abraham Lincoln</i> 
+ 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
 
- 4.  "The poet judges not as a judge judges but as the sun falling around a helpless thing." <br> &emsp;&emsp;&emsp; <i>-by Walt Whitman</i> 
+ 4.  "Man is asked to make of himself what he is supposed to become to fulfill his destiny." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
