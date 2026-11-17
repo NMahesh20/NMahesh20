@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Next to trying and winning, the best thing is trying and failing." <br> &emsp;&emsp;&emsp; <i>-by L. M. Montgomery</i> 
+ 1.  "Cocooned inside our private dramas we often don’t realize life is rolling by us like it should." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
 
- 2.  "It is a sadness of growing older that we lose our ardent appreciation of what is new and different and difficult." <br> &emsp;&emsp;&emsp; <i>-by Elizabeth Aston</i> 
+ 2.  "The human brain is unique in that it is the only container of which it can be said that the more you put into it, the more it will hold." <br> &emsp;&emsp;&emsp; <i>-by Glenn Doman</i> 
 
- 3.  "Ask yourself: Have you been kind today? Make kindness your daily modus operandi and change your world." <br> &emsp;&emsp;&emsp; <i>-by Annie Lennox</i> 
+ 3.  "We find no real satisfaction or happiness in life without obstacles to conquer and goals to achieve." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Maltz</i> 
 
- 4.  "Man is asked to make of himself what he is supposed to become to fulfill his destiny." <br> &emsp;&emsp;&emsp; <i>-by Paul Tillich</i> 
+ 4.  "I have a right to my anger, and I don't want anybody telling me I shouldn't be, that it's not nice to be, and that something's wrong with me because I get angry." <br> &emsp;&emsp;&emsp; <i>-by Maxine Waters</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
