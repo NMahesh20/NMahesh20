@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Cocooned inside our private dramas we often don’t realize life is rolling by us like it should." <br> &emsp;&emsp;&emsp; <i>-by Waiter Rant</i> 
+ 1.  "Desire is the most important factor in the success of any athlete." <br> &emsp;&emsp;&emsp; <i>-by Willie Shoemaker</i> 
 
- 2.  "The human brain is unique in that it is the only container of which it can be said that the more you put into it, the more it will hold." <br> &emsp;&emsp;&emsp; <i>-by Glenn Doman</i> 
+ 2.  "Man is born a predestined idealist, for he is born to act. To act is to affirm the worth of an end, and to persist in affirming the worth of an end is to make an ideal." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
 
- 3.  "We find no real satisfaction or happiness in life without obstacles to conquer and goals to achieve." <br> &emsp;&emsp;&emsp; <i>-by Maxwell Maltz</i> 
+ 3.  "The incognito of lower class employment is an effective cloak for any dagger one might wish to hide." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
 
- 4.  "I have a right to my anger, and I don't want anybody telling me I shouldn't be, that it's not nice to be, and that something's wrong with me because I get angry." <br> &emsp;&emsp;&emsp; <i>-by Maxine Waters</i> 
+ 4.  "Love doesn't just sit there, like a stone; it has to be made, like bread, remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Ursula K. LeGuin</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
