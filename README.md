@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Desire is the most important factor in the success of any athlete." <br> &emsp;&emsp;&emsp; <i>-by Willie Shoemaker</i> 
+ 1.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
 
- 2.  "Man is born a predestined idealist, for he is born to act. To act is to affirm the worth of an end, and to persist in affirming the worth of an end is to make an ideal." <br> &emsp;&emsp;&emsp; <i>-by Oliver Wendell Holmes</i> 
+ 2.  "Anyone can revolt. It is more difficult silently to obey our own inner promptings, and to spend our lives finding sincere and fitting means of expression for our temperament and our gifts." <br> &emsp;&emsp;&emsp; <i>-by Georges Rouault</i> 
 
- 3.  "The incognito of lower class employment is an effective cloak for any dagger one might wish to hide." <br> &emsp;&emsp;&emsp; <i>-by Margaret Cho</i> 
+ 3.  "Let no man imagine that he has no influence. Whoever he may be, and wherever he may be placed, the man who thinks becomes a light and a power." <br> &emsp;&emsp;&emsp; <i>-by Henry George</i> 
 
- 4.  "Love doesn't just sit there, like a stone; it has to be made, like bread, remade all the time, made new." <br> &emsp;&emsp;&emsp; <i>-by Ursula K. LeGuin</i> 
+ 4.  "Be ashamed to die until you have won some victory for humanity." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
