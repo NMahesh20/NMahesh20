@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A great marriage is not when the 'perfect couple' comes together. It is when an imperfect couple learns to enjoy their differences." <br> &emsp;&emsp;&emsp; <i>-by Dave Meurer</i> 
+ 1.  "A fresh start was only fresh if one embraced the changes that came with it." <br> &emsp;&emsp;&emsp; <i>-by Hester Fox</i> 
 
- 2.  "Anyone can revolt. It is more difficult silently to obey our own inner promptings, and to spend our lives finding sincere and fitting means of expression for our temperament and our gifts." <br> &emsp;&emsp;&emsp; <i>-by Georges Rouault</i> 
+ 2.  "If there is anyone out there who still doubts that America is a place where all things are possible, who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
 
- 3.  "Let no man imagine that he has no influence. Whoever he may be, and wherever he may be placed, the man who thinks becomes a light and a power." <br> &emsp;&emsp;&emsp; <i>-by Henry George</i> 
+ 3.  "If there was strife and contention in the home, very little else in life could compensate for it." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
 
- 4.  "Be ashamed to die until you have won some victory for humanity." <br> &emsp;&emsp;&emsp; <i>-by Horace Mann</i> 
+ 4.  "Art is the desire of a man to express himself, to record the reactions of his personality to the world he lives in." <br> &emsp;&emsp;&emsp; <i>-by Amy Lowell</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
