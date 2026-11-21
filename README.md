@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "A fresh start was only fresh if one embraced the changes that came with it." <br> &emsp;&emsp;&emsp; <i>-by Hester Fox</i> 
+ 1.  "True friends are those who really know you but love you anyway." <br> &emsp;&emsp;&emsp; <i>-by Edna Buchanan</i> 
 
- 2.  "If there is anyone out there who still doubts that America is a place where all things are possible, who still wonders if the dream of our founders is alive in our time, who still questions the power of our democracy, tonight is your answer." <br> &emsp;&emsp;&emsp; <i>-by Barack Obama</i> 
+ 2.  "Men show their characters in nothing more clearly than in what they think laughable." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
 
- 3.  "If there was strife and contention in the home, very little else in life could compensate for it." <br> &emsp;&emsp;&emsp; <i>-by Lawana Blackwell</i> 
+ 3.  "To gain that which is worth having, it may be necessary to lose everything else." <br> &emsp;&emsp;&emsp; <i>-by Burnadette Devlin</i> 
 
- 4.  "Art is the desire of a man to express himself, to record the reactions of his personality to the world he lives in." <br> &emsp;&emsp;&emsp; <i>-by Amy Lowell</i> 
+ 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
