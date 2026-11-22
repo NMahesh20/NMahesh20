@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "True friends are those who really know you but love you anyway." <br> &emsp;&emsp;&emsp; <i>-by Edna Buchanan</i> 
+ 1.  "Everything you do in life, every choice you make, has a consequence. When you do things without thinkin', then you ain't makin' the choice. The choice is makin' you." <br> &emsp;&emsp;&emsp; <i>-by Mark Steven Johnson</i> 
 
- 2.  "Men show their characters in nothing more clearly than in what they think laughable." <br> &emsp;&emsp;&emsp; <i>-by Johann Wolfgang von Goethe</i> 
+ 2.  "You only live once - but if you work it right, once is enough." <br> &emsp;&emsp;&emsp; <i>-by Joe E. Lewis</i> 
 
- 3.  "To gain that which is worth having, it may be necessary to lose everything else." <br> &emsp;&emsp;&emsp; <i>-by Burnadette Devlin</i> 
+ 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
 
- 4.  "[The television is] an invention that permits you to be entertained in your living room by people you wouldn't have in your home." <br> &emsp;&emsp;&emsp; <i>-by David Frost</i> 
+ 4.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
