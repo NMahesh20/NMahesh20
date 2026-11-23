@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everything you do in life, every choice you make, has a consequence. When you do things without thinkin', then you ain't makin' the choice. The choice is makin' you." <br> &emsp;&emsp;&emsp; <i>-by Mark Steven Johnson</i> 
+ 1.  "Hope was the only sensible response to the reality that the future was unwritten. And everyone had a hand in writing it." <br> &emsp;&emsp;&emsp; <i>-by Susan Kaye Quinn</i> 
 
- 2.  "You only live once - but if you work it right, once is enough." <br> &emsp;&emsp;&emsp; <i>-by Joe E. Lewis</i> 
+ 2.  "Now I understand what exhaustion is. It’s not just a code word for heroin addiction. People don’t teach you how to handle the workload that comes from a little bit of success, and it’s something I’d never had to handle, because I’d been rejected for so long." <br> &emsp;&emsp;&emsp; <i>-by Felicia Day</i> 
 
- 3.  "If all the year were playing holidays, /To sport would be as tedious as to work." <br> &emsp;&emsp;&emsp; <i>-by William Shakespeare</i> 
+ 3.  "Adversity causes some men to break; others to break records." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
 
- 4.  "Prove all things; hold fast that which is good." <br> &emsp;&emsp;&emsp; <i>-by Bible</i> 
+ 4.  "Genuine beginnings begin within us, even when they are brought to our attention by external opportunities." <br> &emsp;&emsp;&emsp; <i>-by William Bridges</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
