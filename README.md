@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Hope was the only sensible response to the reality that the future was unwritten. And everyone had a hand in writing it." <br> &emsp;&emsp;&emsp; <i>-by Susan Kaye Quinn</i> 
+ 1.  "Everybody is an outsider, if you go deep enough. The trick is reassuring people that you’re their kind of outsider." <br> &emsp;&emsp;&emsp; <i>-by Annalee Newitz</i> 
 
- 2.  "Now I understand what exhaustion is. It’s not just a code word for heroin addiction. People don’t teach you how to handle the workload that comes from a little bit of success, and it’s something I’d never had to handle, because I’d been rejected for so long." <br> &emsp;&emsp;&emsp; <i>-by Felicia Day</i> 
+ 2.  "Poverty cannot deprive us of many consolations. It cannot rob us of the affection we have for each other, or degrade us in our own opinion, of in that of any person, whose opinion we ought to value." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
 
- 3.  "Adversity causes some men to break; others to break records." <br> &emsp;&emsp;&emsp; <i>-by William Arthur Ward</i> 
+ 3.  "If you treat people right they will treat you right - ninety percent of the time." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
 
- 4.  "Genuine beginnings begin within us, even when they are brought to our attention by external opportunities." <br> &emsp;&emsp;&emsp; <i>-by William Bridges</i> 
+ 4.  "Nothing is more pleasing and engaging than the sense of having conferred benefits. Not even the gratification of receiving them." <br> &emsp;&emsp;&emsp; <i>-by Ellis Peters</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
