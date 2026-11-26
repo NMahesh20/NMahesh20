@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Everybody is an outsider, if you go deep enough. The trick is reassuring people that you’re their kind of outsider." <br> &emsp;&emsp;&emsp; <i>-by Annalee Newitz</i> 
+ 1.  "His priority did not seem to be to teach them what he knew, but rather to impress upon them that nothing, not even... knowledge, was foolproof." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
 
- 2.  "Poverty cannot deprive us of many consolations. It cannot rob us of the affection we have for each other, or degrade us in our own opinion, of in that of any person, whose opinion we ought to value." <br> &emsp;&emsp;&emsp; <i>-by Ann Radcliffe</i> 
+ 2.  "The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in this business. You've got to keep on working that talent. Someday I'll reach for it and it won't be there." <br> &emsp;&emsp;&emsp; <i>-by Irving Berlin</i> 
 
- 3.  "If you treat people right they will treat you right - ninety percent of the time." <br> &emsp;&emsp;&emsp; <i>-by Franklin D. Roosevelt</i> 
+ 3.  "Never give advice unless asked." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
 
- 4.  "Nothing is more pleasing and engaging than the sense of having conferred benefits. Not even the gratification of receiving them." <br> &emsp;&emsp;&emsp; <i>-by Ellis Peters</i> 
+ 4.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
