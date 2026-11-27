@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "His priority did not seem to be to teach them what he knew, but rather to impress upon them that nothing, not even... knowledge, was foolproof." <br> &emsp;&emsp;&emsp; <i>-by J. K. Rowling</i> 
+ 1.  "Power consists in one's capacity to link his will with the purpose of others, to lead by reason and a gift of cooperation." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
 
- 2.  "The toughest thing about success is that you've got to keep on being a success. Talent is only a starting point in this business. You've got to keep on working that talent. Someday I'll reach for it and it won't be there." <br> &emsp;&emsp;&emsp; <i>-by Irving Berlin</i> 
+ 2.  "We should manage our fortunes as we do our health - enjoy it when good, be patient when it is bad, and never apply violent remedies except in an extreme necessity." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
 
- 3.  "Never give advice unless asked." <br> &emsp;&emsp;&emsp; <i>-by German Proverb</i> 
+ 3.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
 
- 4.  "The safest way to double your money is to fold it over and put it in your pocket." <br> &emsp;&emsp;&emsp; <i>-by Kin Hubbard</i> 
+ 4.  "A hero is no braver than an ordinary man, but he is braver five minutes longer." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
