@@ -42,13 +42,13 @@ You can ping me at any of the socials that you find at this page. I am not super
 *It changes every day*
 
 <!-- BLOG-POST-LIST:START -->
- 1.  "Power consists in one's capacity to link his will with the purpose of others, to lead by reason and a gift of cooperation." <br> &emsp;&emsp;&emsp; <i>-by Woodrow Wilson</i> 
+ 1.  "Journalism is just a gun. It's only got one bullet in it, but if you aim right, that's all you need. Aim it right and you can blow a kneecap off the world." <br> &emsp;&emsp;&emsp; <i>-by Warren Ellis</i> 
 
- 2.  "We should manage our fortunes as we do our health - enjoy it when good, be patient when it is bad, and never apply violent remedies except in an extreme necessity." <br> &emsp;&emsp;&emsp; <i>-by Francois de La Rochefoucauld</i> 
+ 2.  "However beautiful the strategy, you should occasionally look at the results." <br> &emsp;&emsp;&emsp; <i>-by Sir Winston Churchill</i> 
 
- 3.  "Perhaps the most valuable result of all education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not; it is the first lesson that ought to be learned; and however early a man's training begins, it is probably the last lesson that he learns thoroughly." <br> &emsp;&emsp;&emsp; <i>-by Thomas H. Huxley</i> 
+ 3.  "To sway an audience, you must watch them as you speak." <br> &emsp;&emsp;&emsp; <i>-by C. Kent Wright</i> 
 
- 4.  "A hero is no braver than an ordinary man, but he is braver five minutes longer." <br> &emsp;&emsp;&emsp; <i>-by Ralph Waldo Emerson</i> 
+ 4.  "My heart, which is so full to overflowing, has often been solaced and refreshed by music when sick and weary." <br> &emsp;&emsp;&emsp; <i>-by Martin Luther</i> 
 <!-- BLOG-POST-LIST:END -->
 Fetched from <a href="http://quotationspage.com"> The Quotations Page</a>.
 <!-- The above quotes are fetched from " http://quotationspage.com " and the github action used was gautamkrishnar/blog-post-workflow@master -->
